@@ -1,0 +1,2142 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "wang_qi_xiang_bei",
+      "word": "望其项背",
+      "pinyin": "wàng qí xiàng bèi",
+      "frequency": 5,
+      "coreMeaning": "能够望见别人的脖颈和后背，表示赶得上或相距不远，多用于否定句。",
+      "morphemeHint": {
+        "keyChar": "望",
+        "explanation": "能望见对方的背影意味着差距不算太远；因此常用“难以望其项背”“不能望其项背”表远不如。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "实力对比",
+        "技术水平",
+        "学术成就"
+      ],
+      "collocations": [
+        "难以望其项背",
+        "不能望其项背"
+      ],
+      "commonMistake": "常在肯定句中误用为“只能远远看着背影、根本赶不上”，实际上肯定句表示“追得上”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "近年来国产高端光刻机在精密光学镜头领域取得了长足进步，某些细分指标已令昔日垄断巨头难以____。",
+          "highlightClues": [
+            "长足进步",
+            "细分指标",
+            "难以"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "并驾齐驱",
+        "相提并论",
+        "望尘莫及"
+      ]
+    },
+    {
+      "id": "xiong_wu_cheng_fu",
+      "word": "胸无城府",
+      "pinyin": "xiōng wú chéng fǔ",
+      "frequency": 5,
+      "coreMeaning": "形容人坦率真诚、待人接物没有隐藏的心机，属于褒义词。",
+      "morphemeHint": {
+        "keyChar": "城府",
+        "explanation": "“城府”原指城市与官府，比喻深藏不露的心机；“无城府”即毫无算计、坦荡直爽。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "性格",
+        "待人接物",
+        "学者风范"
+      ],
+      "collocations": [
+        "为人胸无城府",
+        "性格向来胸无城府"
+      ],
+      "commonMistake": "极易望文生义曲解为贬义的“胸无点墨、头脑简单、不懂世故”，实则称赞人心胸坦荡。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这位老院士治学严谨却待人____，无论是学术泰斗还是初出茅庐的本科生，他都坦诚相待、倾囊相授。",
+          "highlightClues": [
+            "待人",
+            "坦诚相待、倾囊相授"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "胸无点墨",
+        "襟怀坦白",
+        "光明磊落"
+      ]
+    },
+    {
+      "id": "zhong_kou_shuo_jin",
+      "word": "众口铄金",
+      "pinyin": "zhòng kǒu shuò jīn",
+      "frequency": 5,
+      "coreMeaning": "众人异口同声的言论足以熔化金属，比喻舆论或流言的破坏力量极强。",
+      "morphemeHint": {
+        "keyChar": "铄",
+        "explanation": "“铄”意为熔化；众人议论纷纷甚至颠倒是非，其压力足以摧毁事实或个人清白。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "网络暴力",
+        "社会舆论",
+        "流言蜚语"
+      ],
+      "collocations": [
+        "警惕众口铄金",
+        "陷入众口铄金的境地"
+      ],
+      "commonMistake": "常被误用作褒义，去形容“人民群众齐心协力、万众一心克服困难”。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "在涉事企业尚未完成客观检测之前，部分自媒体便预设立场、煽动情绪，险些造成____的舆论误伤。",
+          "highlightClues": [
+            "尚未完成客观检测",
+            "煽动情绪",
+            "舆论误伤"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "三人成虎",
+        "人言可畏",
+        "众志成城"
+      ]
+    },
+    {
+      "id": "dao_lu_yi_mu",
+      "word": "道路以目",
+      "pinyin": "dào lù yǐ mù",
+      "frequency": 4,
+      "coreMeaning": "在路上遇见不敢交谈，只用眼神示意，形容高压统治下的恐怖沉默。",
+      "morphemeHint": {
+        "keyChar": "目",
+        "explanation": "出自《国语》周厉王止谤典故；百姓在路上只敢用眼睛交换怨愤，不敢开口说话。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "历史苛政",
+        "言论高压",
+        "社会氛围"
+      ],
+      "collocations": [
+        "致使国人道路以目",
+        "陷入道路以目的压抑"
+      ],
+      "commonMistake": "易被望文生义误解为“在路边注目行礼”或“路上行人都用羡慕的眼神看”。",
+      "tags": [
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "周厉王企图用高压手段堵住天下人之口，结果非但未能止谤，反而使国人____，最终引发国人暴动。",
+          "highlightClues": [
+            "高压手段堵住天下人之口",
+            "最终引发国人暴动"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "噤若寒蝉",
+        "侧目而视",
+        "拭目以待"
+      ]
+    },
+    {
+      "id": "jin_ruo_han_chan",
+      "word": "噤若寒蝉",
+      "pinyin": "jìn ruò hán chán",
+      "frequency": 5,
+      "coreMeaning": "像深秋的寒蝉那样一声不吭，形容因畏惧或受压制而不敢作声。",
+      "morphemeHint": {
+        "keyChar": "噤",
+        "explanation": "“噤”是闭口不言；秋蝉天冷后不再鸣叫，比喻人在压力或威慑下沉默不语。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "监督缺失",
+        "舆论压制",
+        "会议氛围"
+      ],
+      "collocations": [
+        "吓得噤若寒蝉",
+        "陷入噤若寒蝉的状态"
+      ],
+      "commonMistake": "常误用于形容“天气寒冷人们不爱说话”或“考场纪律严明、鸦雀无声”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "若内部审计与问责机制沦为打击报复的工具，知情者便会____，真正的问题反而被层层掩盖。",
+          "highlightClues": [
+            "打击报复",
+            "真正的问题反而被层层掩盖"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鸦雀无声",
+        "道路以目",
+        "三缄其口"
+      ]
+    },
+    {
+      "id": "ping_tou_lun_zu",
+      "word": "评头论足",
+      "pinyin": "píng tóu lùn zú",
+      "frequency": 5,
+      "coreMeaning": "原指轻浮地品评女子容貌，现多指在小节上过分挑剔或苛刻议论。",
+      "morphemeHint": {
+        "keyChar": "论足",
+        "explanation": "从头到脚挑剔品评，带有居高临下、苛责挑刺或轻浮议论的明显贬义。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "舆论苛责",
+        "挑剔旁观者",
+        "无端指责"
+      ],
+      "collocations": [
+        "随意评头论足",
+        "站在旁观者角度评头论足"
+      ],
+      "commonMistake": "常误用作中性词“进行客观评价、全面剖析”，去形容专家评审或学术研讨。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "对于扎根荒漠植树造林的治沙人，我们应当给予实实在在的支持，而非坐在空调房里对其成果____。",
+          "highlightClues": [
+            "应当给予实实在在的支持",
+            "而非",
+            "坐在空调房里"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "品头论足",
+        "指手画脚",
+        "说三道四"
+      ]
+    },
+    {
+      "id": "shi_xin_zi_yong",
+      "word": "师心自用",
+      "pinyin": "shī xīn zì yòng",
+      "frequency": 5,
+      "coreMeaning": "只凭自己的主观意图行事，固执己见，不肯听取别人意见。",
+      "morphemeHint": {
+        "keyChar": "师",
+        "explanation": "“师”是效法、以……为老师；只以自己的内心想法为老师，即刚愎自用，绝非“用心学习”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "决策者",
+        "学者",
+        "管理风格"
+      ],
+      "collocations": [
+        "切忌师心自用",
+        "性格师心自用"
+      ],
+      "commonMistake": "极易望文生义误当成褒义词“虚心学习、用心钻研”，实为严重贬义词。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "历史经验表明，任何重大工程决策一旦脱离科学论证与民主协商而陷入____，往往会付出沉重代价。",
+          "highlightClues": [
+            "脱离科学论证与民主协商",
+            "付出沉重代价"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "刚愎自用",
+        "自以为是",
+        "独断专行"
+      ]
+    },
+    {
+      "id": "shang_xing_xia_xiao",
+      "word": "上行下效",
+      "pinyin": "shàng xíng xià xiào",
+      "frequency": 5,
+      "coreMeaning": "上面的人怎么做，下面的人就跟着学，多指不好的风气自上而下蔓延。",
+      "morphemeHint": {
+        "keyChar": "效",
+        "explanation": "“效”是仿效；虽然字面似中性，但现代规范用法固定指向腐败、奢靡等不良风气效仿。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "不良政风",
+        "行业陋习",
+        "歪风邪气"
+      ],
+      "collocations": [
+        "形成上行下效的歪风",
+        "防止上行下效"
+      ],
+      "commonMistake": "常误用于赞扬领导以身作则带动群众做好事（正面引领应用“率先垂范”“上率下行”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "如果个别单位的“一把手”带头搞形式主义、铺张浪费，就极易造成____的恶劣生态。",
+          "highlightClues": [
+            "搞形式主义、铺张浪费",
+            "恶劣生态"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "率先垂范",
+        "以身作则",
+        "蔚然成风"
+      ]
+    },
+    {
+      "id": "tui_bo_zhu_lan",
+      "word": "推波助澜",
+      "pinyin": "tuī bō zhù lán",
+      "frequency": 5,
+      "coreMeaning": "比喻从旁鼓动、助长坏人坏事的声势，扩大不良影响。",
+      "morphemeHint": {
+        "keyChar": "助",
+        "explanation": "促使波澜更加汹涌；在现代行测语境中固定带有“助长恶势、加剧混乱”的贬义色彩。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "谣言扩散",
+        "投机炒作",
+        "矛盾激化"
+      ],
+      "collocations": [
+        "在背后推波助澜",
+        "起到推波助澜的作用"
+      ],
+      "commonMistake": "常被误用作中性或褒义，去形容政策扶持或媒体宣传推动科技发展、公益传播。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "部分网络水军在涉企舆情中恶意剪辑视频、制造对立情绪，起到了极坏的____作用。",
+          "highlightClues": [
+            "网络水军",
+            "恶意剪辑",
+            "制造对立情绪"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "火上浇油",
+        "顺水推舟",
+        "助力推动"
+      ]
+    },
+    {
+      "id": "yi_bu_yi_qu",
+      "word": "亦步亦趋",
+      "pinyin": "yì bù yì qū",
+      "frequency": 5,
+      "coreMeaning": "比喻没有主见，事事模仿或追随别人，含贬义。",
+      "morphemeHint": {
+        "keyChar": "趋",
+        "explanation": "原出自《庄子》颜回紧跟孔子，后演变为讽刺一味盲从他人、缺乏独立思考和创新精神。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研跟风",
+        "产业发展",
+        "盲从者"
+      ],
+      "collocations": [
+        "一味亦步亦趋",
+        "摆脱亦步亦趋的模仿"
+      ],
+      "commonMistake": "常误用于赞扬后辈虚心向榜样学习、紧跟时代步伐，忽略其“缺乏主见”的贬义。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "原始创新不能总是在国外技术路线后面____，必须敢于闯入无人区，构建自主可控的技术标准。",
+          "highlightClues": [
+            "原始创新",
+            "不能总是",
+            "敢于闯入无人区"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "人云亦云",
+        "循规蹈矩",
+        "紧随其后"
+      ]
+    },
+    {
+      "id": "kan_kan_er_tan",
+      "word": "侃侃而谈",
+      "pinyin": "kǎn kǎn ér tán",
+      "frequency": 5,
+      "coreMeaning": "形容理直气壮、从容不迫地说话，多含褒义。",
+      "morphemeHint": {
+        "keyChar": "侃侃",
+        "explanation": "“侃侃”意为刚直从容的样子；重在言之有物、自信大方，与“夸夸其谈”的空洞形成鲜明对比。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学者",
+        "代表发言",
+        "辩论者"
+      ],
+      "collocations": [
+        "在台上侃侃而谈",
+        "面对镜头侃侃而谈"
+      ],
+      "commonMistake": "易与贬义词“夸夸其谈”或中性微贬的“滔滔不绝”混淆，误用于讽刺胡吹乱侃的人。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在国际气候变化谈判桌上，中国代表团成员凭借详实的科研数据____，有力阐明了我国的减排立场。",
+          "highlightClues": [
+            "详实的科研数据",
+            "有力阐明"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "夸夸其谈",
+        "口若悬河",
+        "滔滔不绝"
+      ]
+    },
+    {
+      "id": "kua_kua_qi_tan",
+      "word": "夸夸其谈",
+      "pinyin": "kuā kuā qí tán",
+      "frequency": 5,
+      "coreMeaning": "形容说话浮夸、不切实际、空洞无物，含贬义。",
+      "morphemeHint": {
+        "keyChar": "夸",
+        "explanation": "“夸夸”指大话连篇、浮华不实；侧重于只有空话没有真才实学或实际行动。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "空头支票",
+        "浮夸作风",
+        "言过其实者"
+      ],
+      "collocations": [
+        "只会夸夸其谈",
+        "切忌夸夸其谈"
+      ],
+      "commonMistake": "常与褒义词“侃侃而谈”误换，若用于正面积极的演讲或汇报则属褒贬失当。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "基层工作考验的是解决实际难题的能力，容不得半点____的虚浮作风，必须把承诺落到实处。",
+          "highlightClues": [
+            "解决实际难题",
+            "容不得",
+            "虚浮作风"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "侃侃而谈",
+        "纸上谈兵",
+        "信口开河"
+      ]
+    },
+    {
+      "id": "zhen_zhen_you_ci",
+      "word": "振振有词",
+      "pinyin": "zhèn zhèn yǒu cí",
+      "frequency": 5,
+      "coreMeaning": "理直气壮的样子，现多指理由并不充分却强词夺理、喋喋不休地辩解。",
+      "morphemeHint": {
+        "keyChar": "词",
+        "explanation": "表面听起来话多且气势很足，但在现代汉语中多含讽刺意味，指强词夺理、自以为有理。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "强辩行为",
+        "推卸责任者",
+        "荒谬言论"
+      ],
+      "collocations": [
+        "竟然振振有词",
+        "振振有词地狡辩"
+      ],
+      "commonMistake": "极易望文生义用作褒义词“理直气壮、义正词严”，去夸赞正义凛然的辩护发言。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "某些商家明明存在缺斤短两的违规行为，面对消费者维权时却还____地以“行业惯例”推脱责任。",
+          "highlightClues": [
+            "缺斤短两",
+            "推脱责任"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "义正词严",
+        "理直气壮",
+        "强词夺理"
+      ]
+    },
+    {
+      "id": "yi_zheng_ci_yan",
+      "word": "义正词严",
+      "pinyin": "yì zhèng cí yán",
+      "frequency": 4,
+      "coreMeaning": "道理正当，措辞严肃，形容说话充满正义感且态度坚决。",
+      "morphemeHint": {
+        "keyChar": "义",
+        "explanation": "“义”是道义、正理，“严”是严厉果断；与“振振有词”相反，属于纯粹的正义褒扬。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "外交表态",
+        "驳斥谬论",
+        "正义发言"
+      ],
+      "collocations": [
+        "义正词严地驳斥",
+        "予以义正词严的回击"
+      ],
+      "commonMistake": "常与贬义词“振振有词”或“正言厉色”（侧重神态严肃）混淆使用场景。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "针对部分外媒歪曲事实的无端指责，新闻发言人援引详实史料与国际法理予以____的驳斥。",
+          "highlightClues": [
+            "歪曲事实",
+            "无端指责",
+            "驳斥"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "振振有词",
+        "理直气壮",
+        "严词拒绝"
+      ]
+    },
+    {
+      "id": "shi_mu_yi_dai",
+      "word": "拭目以待",
+      "pinyin": "shì mù yǐ dài",
+      "frequency": 5,
+      "coreMeaning": "擦亮眼睛等待着，形容殷切期望或密切关注事态将会发生怎样的结果。",
+      "morphemeHint": {
+        "keyChar": "拭",
+        "explanation": "“拭”是擦拭；表示对即将揭晓的改革成效、比赛或新品充满期待和关注。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革成效",
+        "赛事结果",
+        "未来发展"
+      ],
+      "collocations": [
+        "我们拭目以待",
+        "公众对此拭目以待"
+      ],
+      "commonMistake": "不可用于指对过去已经发生的事情“等待”，也不能与“翘首以盼”混同为纯粹祈盼（拭目含审视观察）。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "新版医保药品目录即将正式落地实施，这项惠民新政能否真正减轻慢性病患者的长期负担，全社会都在____。",
+          "highlightClues": [
+            "即将正式落地实施",
+            "能否真正减轻",
+            "全社会都在"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "翘首以盼",
+        "静观其变",
+        "刮目相看"
+      ]
+    },
+    {
+      "id": "ru_shu_jia_zhen",
+      "word": "如数家珍",
+      "pinyin": "rú shǔ jiā zhēn",
+      "frequency": 5,
+      "coreMeaning": "好像在数自己家里的珍宝一样，形容对所讲的事情非常熟悉。",
+      "morphemeHint": {
+        "keyChar": "如",
+        "explanation": "“如”是“好像”的意思；既然是“比喻像数自家珍宝”，那么陈述对象通常不是原本属于自己的东西。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "讲述历史典故",
+        "介绍他人成果",
+        "专业解说"
+      ],
+      "collocations": [
+        "讲解起来如数家珍",
+        "对当地风物如数家珍"
+      ],
+      "commonMistake": "传统规范用法中，若讲述的对象本来就是讲述者自己家的物品或自己写的文章，一般不用“如数家珍”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这位年逾七旬的博物馆志愿讲解员虽然并非考古科班出身，但讲起馆藏青铜器的断代与铭文却____。",
+          "highlightClues": [
+            "并非考古科班出身",
+            "讲起馆藏青铜器"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "了如指掌",
+        "滚瓜烂熟",
+        "历历在目"
+      ]
+    },
+    {
+      "id": "ren_jun_bu_jin",
+      "word": "忍俊不禁",
+      "pinyin": "rěn jùn bù jīn",
+      "frequency": 4,
+      "coreMeaning": "忍不住笑出来，本身已经包含“笑”的语义。",
+      "morphemeHint": {
+        "keyChar": "禁",
+        "explanation": "“忍俊”指含笑，“不禁”指忍不住；合起来就是“忍不住笑”，后面绝不可再加“笑起来”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "幽默桥段",
+        "趣闻轶事",
+        "读者反应"
+      ],
+      "collocations": [
+        "让人忍俊不禁",
+        "读来忍俊不禁"
+      ],
+      "commonMistake": "行测病句与填空高频陷阱：常误写成“忍俊不禁地笑了起来”，犯重复累赘错误。",
+      "tags": [
+        "省考高频",
+        "重复累赘",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "这本民俗随笔集用幽默诙谐的方言白描勾勒市井百态，读来既让人感到亲切温暖，又常常令人____。",
+          "highlightClues": [
+            "幽默诙谐",
+            "令人"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "捧腹大笑",
+        "啼笑皆非",
+        "哄堂大笑"
+      ]
+    },
+    {
+      "id": "zui_bu_rong_zhu",
+      "word": "罪不容诛",
+      "pinyin": "zuì bù róng zhū",
+      "frequency": 4,
+      "coreMeaning": "罪恶极大，即使处死也抵偿不了他的罪过，而非“不该杀”。",
+      "morphemeHint": {
+        "keyChar": "容",
+        "explanation": "“容”是容纳、抵偿，“诛”是杀戮；意思是“罪行之大，杀掉一次都容不下（不够抵罪）”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "历史罪人",
+        "穷凶极恶者",
+        "重大恶性犯罪"
+      ],
+      "collocations": [
+        "简直罪不容诛",
+        "实乃罪不容诛"
+      ],
+      "commonMistake": "极易望文生义理解为“罪行轻微、不至于被处死”，意思正好颠倒。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "历史上那些卖国求荣、出卖民族利益以换取个人高官厚禄的奸佞之徒，其行径可谓____，永世遭人唾弃。",
+          "highlightClues": [
+            "卖国求荣",
+            "奸佞之徒",
+            "永世遭人唾弃"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "死有余辜",
+        "罪大恶极",
+        "罪不至死"
+      ]
+    },
+    {
+      "id": "si_de_qi_suo",
+      "word": "死得其所",
+      "pinyin": "sǐ dé qí suǒ",
+      "frequency": 4,
+      "coreMeaning": "指死得有价值、有意义，是对献身正义事业者的高度赞誉。",
+      "morphemeHint": {
+        "keyChar": "所",
+        "explanation": "“所”指合适的地方或归宿；为国家、人民或崇高理想而牺牲，方可用此褒义词。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "革命先烈",
+        "救灾英雄",
+        "献身事业者"
+      ],
+      "collocations": [
+        "可谓死得其所",
+        "真正做到了死得其所"
+      ],
+      "commonMistake": "常误用于形容犯罪分子“恶贯满盈终于伏法”或一般人的意外亡故，忽略其崇高褒义。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这位戍边烈士用年轻的生命筑起界碑，他倒在了自己最热爱的边防线上，真正做到了____。",
+          "highlightClues": [
+            "戍边烈士",
+            "筑起界碑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "死有余辜",
+        "舍生取义",
+        "重于泰山"
+      ]
+    },
+    {
+      "id": "si_hui_fu_ran",
+      "word": "死灰复燃",
+      "pinyin": "sǐ huī fù rán",
+      "frequency": 5,
+      "coreMeaning": "熄灭的灰烬又重新燃烧起来，比喻已经停息的恶势力或坏现象重新抬头。",
+      "morphemeHint": {
+        "keyChar": "复燃",
+        "explanation": "在现代汉语中专用于负面事物（如黑恶势力、陈规陋习、腐败问题）的反弹回潮。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "黑恶势力",
+        "四风问题",
+        "非法传销",
+        "旧陋习"
+      ],
+      "collocations": [
+        "防止死灰复燃",
+        "谨防违法活动死灰复燃"
+      ],
+      "commonMistake": "常误用作褒义，去形容停滞的科研项目、老字号品牌或衰落的优秀传统文化“重新焕发生机”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "生态治理最怕“一阵风”式执法，只有建立常态化巡查机制，才能防止非法采砂等乱象____。",
+          "highlightClues": [
+            "最怕“一阵风”式执法",
+            "非法采砂等乱象"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "东山再起",
+        "卷土重来",
+        "重整旗鼓"
+      ]
+    },
+    {
+      "id": "dong_shan_zai_qi",
+      "word": "东山再起",
+      "pinyin": "dōng shān zài qǐ",
+      "frequency": 5,
+      "coreMeaning": "指退隐后再度出任要职，也比喻失势或失败后重新恢复地位与力量。",
+      "morphemeHint": {
+        "keyChar": "东山",
+        "explanation": "源于东晋名相谢安隐居东山后出山挽狂澜的历史典故，故多用于正面人物或褒义/中性语境。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "企业家",
+        "运动员",
+        "政治人物",
+        "老品牌"
+      ],
+      "collocations": [
+        "成功东山再起",
+        "凭实力东山再起"
+      ],
+      "commonMistake": "常与贬义色彩较强的“死灰复燃”“卷土重来”混用，误用于形容犯罪集团重新作案。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "经历过一次创业破产的低谷后，他没有一蹶不振，而是系统复盘教训、深耕硬科技，最终在新能源赛道____。",
+          "highlightClues": [
+            "没有一蹶不振",
+            "深耕硬科技",
+            "最终"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "卷土重来",
+        "死灰复燃",
+        "重振雄风"
+      ]
+    },
+    {
+      "id": "juan_tu_chong_lai",
+      "word": "卷土重来",
+      "pinyin": "juǎn tǔ chóng lái",
+      "frequency": 5,
+      "coreMeaning": "比喻失败之后重新恢复势力，再次出动或兴起。",
+      "morphemeHint": {
+        "keyChar": "重",
+        "explanation": "源自杜牧《题乌江亭》“江东子弟多才俊，卷土重来未可知”；现代多指敌对势力或负面现象，偶作中性。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "不良风气",
+        "疫情反复",
+        "市场投机",
+        "失败势力"
+      ],
+      "collocations": [
+        "警惕其卷土重来",
+        "改头换面卷土重来"
+      ],
+      "commonMistake": "行测语境中常带有警惕、贬斥意味（尤其与“改头换面”“变本加厉”连用），赞扬人物励志复出宜用“东山再起”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "一些被查处的“山寨社团”往往更换马甲、变更注册地后____，继续以评奖办会为名敛财。",
+          "highlightClues": [
+            "山寨社团",
+            "更换马甲",
+            "继续以评奖办会为名敛财"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "东山再起",
+        "死灰复燃",
+        "卷土重至"
+      ]
+    },
+    {
+      "id": "gong_bai_chui_cheng",
+      "word": "功败垂成",
+      "pinyin": "gōng bài chuí chéng",
+      "frequency": 5,
+      "coreMeaning": "事情在快要成功的时候遭到了失败，令人惋惜。",
+      "morphemeHint": {
+        "keyChar": "垂",
+        "explanation": "“垂”是“将近、快要”的意思（非“垂直”或“垂头丧气”）；强调功业临近成功却功亏一篑。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "改革",
+        "科研试验",
+        "体育赛事",
+        "历史变法"
+      ],
+      "collocations": [
+        "险些功败垂成",
+        "最终功败垂成"
+      ],
+      "commonMistake": "常误用作贬义的“一败涂地”，或忽略“已经非常接近成功”这一前置条件。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "在疫苗三期临床试验的最后收尾阶段，若忽视冷链质控细节，此前数年的研发投入便可能____。",
+          "highlightClues": [
+            "最后收尾阶段",
+            "此前数年的研发投入"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "功亏一篑",
+        "前功尽弃",
+        "一败涂地"
+      ]
+    },
+    {
+      "id": "bu_zan_yi_ci",
+      "word": "不赞一词",
+      "pinyin": "bù zàn yī cí",
+      "frequency": 5,
+      "coreMeaning": "原指文章写得好，别人不能再添一句话；现也指一言不发，不发表意见。",
+      "morphemeHint": {
+        "keyChar": "赞",
+        "explanation": "“赞”在此是“辅助、增补”的意思（源于司马迁“不能赞一辞”），绝不是“不夸赞一句话”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文章精妙",
+        "沉默不表态"
+      ],
+      "collocations": [
+        "令人不赞一词",
+        "对此始终不赞一词"
+      ],
+      "commonMistake": "极易望文生义理解为“批评得一无是处、半句好话都不肯说”，与本义相去甚远。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对媒体关于巨额研发费用去向的连番追问，该企业高管在发布会全程却____，始终回避核心问题。",
+          "highlightClues": [
+            "连番追问",
+            "始终回避核心问题"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一字不提",
+        "三缄其口",
+        "无懈可击"
+      ]
+    },
+    {
+      "id": "dan_jing_jie_lv",
+      "word": "殚精竭虑",
+      "pinyin": "dān jīng jié lǜ",
+      "frequency": 5,
+      "coreMeaning": "用尽精力、费尽心思去做好某件正当或艰巨的事情，含褒义。",
+      "morphemeHint": {
+        "keyChar": "殚",
+        "explanation": "“殚”是竭尽；形容为了事业、民生或学问耗尽心血，与贬义的“处心积虑”形成感情色彩对立。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科研攻关",
+        "治国理政",
+        "教学育人"
+      ],
+      "collocations": [
+        "为此殚精竭虑",
+        "殚精竭虑地攻关"
+      ],
+      "commonMistake": "常与贬义词“处心积虑”混淆，误用来形容反面人物费尽心机作恶。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "为了攻克高寒冻土区铁路施工的世界级难题，老一辈工程技术人员____，在雪域高原留下了无数科研手稿。",
+          "highlightClues": [
+            "攻克",
+            "世界级难题",
+            "老一辈工程技术人员"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "处心积虑",
+        "呕心沥血",
+        "煞费苦心"
+      ]
+    },
+    {
+      "id": "ou_xin_li_xue",
+      "word": "呕心沥血",
+      "pinyin": "ǒu xīn lì xuè",
+      "frequency": 5,
+      "coreMeaning": "比喻耗尽心血，形容在工作、科研或文艺创作上极其用心艰苦。",
+      "morphemeHint": {
+        "keyChar": "沥",
+        "explanation": "“沥”是滴下；形容像吐出心血一样苦思劳作，多用于赞美文学、科研及奉献精神。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "文艺创作",
+        "学术著述",
+        "教育事业",
+        "技术研发"
+      ],
+      "collocations": [
+        "呕心沥血之作",
+        "呕心沥血地培育"
+      ],
+      "commonMistake": "语义极重且专表褒义，不可用于普通小事或反派人物费尽心机干坏事。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "这部历时二十年编纂完成的《中国方言地图集》，凝聚了几代语言学家____的田野调查成果。",
+          "highlightClues": [
+            "历时二十年",
+            "几代语言学家",
+            "田野调查成果"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "殚精竭虑",
+        "处心积虑",
+        "苦心孤诣"
+      ]
+    },
+    {
+      "id": "sha_fei_ku_xin",
+      "word": "煞费苦心",
+      "pinyin": "shà fèi kǔ xīn",
+      "frequency": 5,
+      "coreMeaning": "形容费尽了心思去筹划安排，多用于褒义或中性，偶带调侃义。",
+      "morphemeHint": {
+        "keyChar": "煞",
+        "explanation": "“煞”读 shà，表示极、很；重在形容为了达成某个巧妙设想或周全安排而苦苦动脑筋。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "课程设计",
+        "宣传策划",
+        "良苦用心",
+        "巧妙伪装"
+      ],
+      "collocations": [
+        "可谓煞费苦心",
+        "在设计上煞费苦心"
+      ],
+      "commonMistake": "注意“煞”易误读为 shā，且用于极度罪恶的阴谋时不如“处心积虑”贴切。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "为了让晦涩难懂的量子力学概念走进青少年视野，科普团队在实验道具和动画脚本上可谓____。",
+          "highlightClues": [
+            "晦涩难懂",
+            "走进青少年视野",
+            "实验道具和动画脚本"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "殚精竭虑",
+        "处心积虑",
+        "苦心孤诣"
+      ]
+    },
+    {
+      "id": "bie_you_yong_xin",
+      "word": "别有用心",
+      "pinyin": "bié yǒu yòng xīn",
+      "frequency": 5,
+      "coreMeaning": "言论或行动中另有不可告人的坏企图，含强烈贬义。",
+      "morphemeHint": {
+        "keyChar": "别",
+        "explanation": "“别”是另外；表面上装作公正或善意，暗地里却藏着不良图谋，专用于否定评价。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "虚假宣传",
+        "恶意炒作",
+        "政治挑衅"
+      ],
+      "collocations": [
+        "别有用心的势力",
+        "显然别有用心"
+      ],
+      "commonMistake": "常被望文生义误当成“特别用心、非常认真”去表扬他人工作仔细，造成严重感情色彩错误。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "公众要提高信息辨别力，警惕那些打着“科普”旗号却____地兜售高价保健品的自媒体账号。",
+          "highlightClues": [
+            "打着“科普”旗号",
+            "兜售高价保健品"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "别出心裁",
+        "居心叵测",
+        "处心积虑"
+      ]
+    },
+    {
+      "id": "bie_chu_xin_cai",
+      "word": "别出心裁",
+      "pinyin": "bié chū xīn cái",
+      "frequency": 5,
+      "coreMeaning": "另有一种构思或设计，指想出的办法与众不同，含褒义。",
+      "morphemeHint": {
+        "keyChar": "裁",
+        "explanation": "“心裁”指心中的设计筹划；强调思路新颖独到，常与“别有用心”在选项中形成褒贬对比。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文创设计",
+        "教学方法",
+        "展览策划"
+      ],
+      "collocations": [
+        "设计别出心裁",
+        "构思别出心裁"
+      ],
+      "commonMistake": "易与贬义词“别有用心”混淆，也常与“独出心裁”辨析（两者近义，“别出”更突出与众不同）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这家省属博物馆____地将馆藏文物纹样转化为可互动的数字拼图游戏，极大激发了年轻人的参观热情。",
+          "highlightClues": [
+            "数字拼图游戏",
+            "激发了年轻人的参观热情"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "别有用心",
+        "独辟蹊径",
+        "匠心独运"
+      ]
+    },
+    {
+      "id": "qiao_duo_tian_gong",
+      "word": "巧夺天工",
+      "pinyin": "qiǎo duó tiān gōng",
+      "frequency": 5,
+      "coreMeaning": "人工的精巧胜过天然，形容人工技艺极其高超精妙。",
+      "morphemeHint": {
+        "keyChar": "夺",
+        "explanation": "“夺”是胜过，“天工”指自然造化；核心前提必须是“人工制品”，绝不可用于天然山水风景。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "玉雕",
+        "古建筑",
+        "手工艺品",
+        "精密器械"
+      ],
+      "collocations": [
+        "技艺巧夺天工",
+        "堪称巧夺天工之作"
+      ],
+      "commonMistake": "行测“对象易错”最高频词之一：常被误用来形容桂林山水、喀斯特溶洞等纯天然景观。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这件明代紫檀木透雕笔筒结构繁复却毫无斧凿痕迹，将江南木雕匠人的技艺展现得____。",
+          "highlightClues": [
+            "紫檀木透雕笔筒",
+            "江南木雕匠人的技艺"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鬼斧神工",
+        "美轮美奂",
+        "天衣无缝"
+      ]
+    },
+    {
+      "id": "gui_fu_shen_gong",
+      "word": "鬼斧神工",
+      "pinyin": "guǐ fǔ shén gōng",
+      "frequency": 5,
+      "coreMeaning": "形容建筑、雕塑等艺术技巧高超，或自然景观奇特仿佛非人力所能为。",
+      "morphemeHint": {
+        "keyChar": "神",
+        "explanation": "好像鬼神用斧凿造就一般；既可赞叹人工建筑雕塑之绝妙，也可形容奇特险峻的自然风光。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "自然奇观",
+        "石窟雕塑",
+        "古代建筑"
+      ],
+      "collocations": [
+        "大自然的鬼斧神工",
+        "雕刻可谓鬼斧神工"
+      ],
+      "commonMistake": "常与“巧夺天工”混淆：纯自然风景可用“鬼斧神工”，但绝对不能用“巧夺天工”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "经过千万年流水侵蚀与风化作用，张家界砂岩峰林呈现出千姿百态的奇峰绝壁，令人惊叹大自然的____。",
+          "highlightClues": [
+            "流水侵蚀与风化作用",
+            "砂岩峰林",
+            "大自然"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "巧夺天工",
+        "美轮美奂",
+        "浑然天成"
+      ]
+    },
+    {
+      "id": "ti_hu_guan_ding",
+      "word": "醍醐灌顶",
+      "pinyin": "tí hú guàn dǐng",
+      "frequency": 4,
+      "coreMeaning": "比喻听了高明的意见受到极大启发，顿时彻底醒悟。",
+      "morphemeHint": {
+        "keyChar": "醍醐",
+        "explanation": "“醍醐”是佛经中从牛奶精炼出的纯酥油；将其浇灌头顶喻指智慧顿开、豁然开朗。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "名师点拨",
+        "经典阅读",
+        "思想顿悟"
+      ],
+      "collocations": [
+        "令人醍醐灌顶",
+        "有醍醐灌顶之感"
+      ],
+      "commonMistake": "只可用于心理、思想上的茅塞顿开，不可望文生义用于形容真的被冷水或雨淋头。",
+      "tags": [
+        "省考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在学术迷茫期，导师用短短几句话点破了核心研究范式的局限，让他顿时有____、拨云见日之感。",
+          "highlightClues": [
+            "学术迷茫期",
+            "点破",
+            "拨云见日"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "茅塞顿开",
+        "豁然开朗",
+        "振聋发聩"
+      ]
+    },
+    {
+      "id": "wei_ran_cheng_feng",
+      "word": "蔚然成风",
+      "pinyin": "wèi rán chéng fēng",
+      "frequency": 5,
+      "coreMeaning": "形容一种美好的事物逐渐发展、盛行，形成良好的社会风气。",
+      "morphemeHint": {
+        "keyChar": "蔚然",
+        "explanation": "“蔚然”指草木茂盛、生机勃勃的样子；因此固定用于积极向上、值得倡导的新风尚。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文明习惯",
+        "阅读风尚",
+        "绿色出行",
+        "志愿服务"
+      ],
+      "collocations": [
+        "正在蔚然成风",
+        "让节能理念蔚然成风"
+      ],
+      "commonMistake": "常误用于形容不良社会风气（如攀比风、造假风、奢靡风）到处蔓延，犯褒贬误用错误。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "随着公共文化服务体系不断完善，周末走进图书馆、博物馆“充电”已在许多城市____。",
+          "highlightClues": [
+            "公共文化服务体系",
+            "走进图书馆、博物馆"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "大行其道",
+        "屡见不鲜",
+        "风靡一时"
+      ]
+    },
+    {
+      "id": "wei_wei_da_guan",
+      "word": "蔚为大观",
+      "pinyin": "wèi wéi dà guān",
+      "frequency": 4,
+      "coreMeaning": "丰富多彩，成为盛大的景象，多指文物、文献或文艺成就汇集之盛。",
+      "morphemeHint": {
+        "keyChar": "观",
+        "explanation": "“蔚”是聚集盛大，“大观”指壮观景象；常形容好作品、好成果种类繁多且气象宏大。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "文艺创作",
+        "典籍成果",
+        "产业集群"
+      ],
+      "collocations": [
+        "可谓蔚为大观",
+        "已然蔚为大观"
+      ],
+      "commonMistake": "常误用于形容负面现象数量庞大（如“假冒伪劣商品蔚为大观”），违背了褒义属性。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "近年来，围绕大运河文化带建设涌现出的地方戏曲、纪录片与非遗文创佳作频出，早已____。",
+          "highlightClues": [
+            "佳作频出",
+            "非遗文创"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "洋洋大观",
+        "琳琅满目",
+        "层出不穷"
+      ]
+    },
+    {
+      "id": "yu_hou_chun_sun",
+      "word": "雨后春笋",
+      "pinyin": "yǔ hòu chūn sǔn",
+      "frequency": 5,
+      "coreMeaning": "春雨过后竹笋纷纷长出，比喻新生美好事物大量涌现、蓬勃发展。",
+      "morphemeHint": {
+        "keyChar": "春笋",
+        "explanation": "春笋生机勃勃、破土而出，在行测中属于鲜明的褒义喻体，专指积极正向的新事物。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科创企业",
+        "新业态",
+        "文化场馆",
+        "青年人才"
+      ],
+      "collocations": [
+        "如雨后春笋般涌现",
+        "像雨后春笋般成长"
+      ],
+      "commonMistake": "常被误用作纯中性词，去形容“盗版网站、违规教培、诈骗手段如雨后春笋般冒出”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "受益于营商环境的持续优化和科研成果转化机制的破冰，一批专注细分领域的“专精特新”企业____般成长起来。",
+          "highlightClues": [
+            "营商环境的持续优化",
+            "“专精特新”企业",
+            "成长起来"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "层出不穷",
+        "方兴未艾",
+        "蓬勃发展"
+      ]
+    },
+    {
+      "id": "jiao_wang_guo_zheng",
+      "word": "矫枉过正",
+      "pinyin": "jiǎo wǎng guò zhèng",
+      "frequency": 5,
+      "coreMeaning": "把弯曲的东西掰正却超过了限度，比喻纠正错误过了头而走向另一极端。",
+      "morphemeHint": {
+        "keyChar": "矫",
+        "explanation": "“矫”是矫正，“枉”是弯曲；本意是为纠偏，却因尺度失衡而产生新的偏差或负作用。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策执行",
+        "舆论批判",
+        "监管尺度"
+      ],
+      "collocations": [
+        "避免矫枉过正",
+        "切忌矫枉过正"
+      ],
+      "commonMistake": "常与“过犹不及”混淆：过犹不及泛指做事过分，矫枉过正特指“在纠正错误的过程中过了头”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "整治平台经济无序扩张须坚持法治化、精准化原则，既要划定红线，也要防止“一刀切”式的____。",
+          "highlightClues": [
+            "既要划定红线",
+            "防止“一刀切”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "过犹不及",
+        "因噎废食",
+        "物极必反"
+      ]
+    },
+    {
+      "id": "hui_mo_ru_shen",
+      "word": "讳莫如深",
+      "pinyin": "huì mò rú shēn",
+      "frequency": 5,
+      "coreMeaning": "原指事件重大不便明说，现指把事情隐瞒得很严实，生怕别人知道。",
+      "morphemeHint": {
+        "keyChar": "讳",
+        "explanation": "“讳”是隐瞒、避忌，“莫如深”指没有比这更深的隐藏了；不是“深奥难懂”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "信息公开",
+        "核心缺陷",
+        "利益内幕"
+      ],
+      "collocations": [
+        "对此讳莫如深",
+        "一向讳莫如深"
+      ],
+      "commonMistake": "易望文生义理解为“道理高深莫测”或“因悲痛而深沉不语”，实指刻意隐瞒真相。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "在产品安全隐患曝光前，涉事厂商对核心零部件的故障率一直____，拒绝向第三方检测机构提供完整数据。",
+          "highlightClues": [
+            "安全隐患",
+            "拒绝向第三方检测机构提供完整数据"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "三缄其口",
+        "守口如瓶",
+        "秘而不宣"
+      ]
+    },
+    {
+      "id": "wang_zi_fei_bo",
+      "word": "妄自菲薄",
+      "pinyin": "wàng zì fěi bó",
+      "frequency": 5,
+      "coreMeaning": "过分看轻自己，形容缺乏自信、自暴自弃的心态。",
+      "morphemeHint": {
+        "keyChar": "菲薄",
+        "explanation": "出自诸葛亮《出师表》，“菲薄”在此作动词“轻视、看不起”；切忌误解为“微薄、谦虚”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文化自信",
+        "自我评价",
+        "青年心态"
+      ],
+      "collocations": [
+        "既不妄自菲薄，也不妄自尊大",
+        "切忌妄自菲薄"
+      ],
+      "commonMistake": "极易与“谦虚谨慎”混淆，甚至误用作谦词“自己才疏学浅、妄自菲薄”，实为贬义劝诫词。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "谦敬误用"
+      ],
+      "examples": [
+        {
+          "sentence": "回顾中华科技史的辉煌成就与近代以来的追赶历程，我们既不能盲目自大，也不必因一时差距而____。",
+          "highlightClues": [
+            "既不能盲目自大",
+            "也不必因一时差距而"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "妄自尊大",
+        "自惭形秽",
+        "自暴自弃"
+      ]
+    },
+    {
+      "id": "xiu_qi_yu_gong",
+      "word": "休戚与共",
+      "pinyin": "xiū qī yǔ gòng",
+      "frequency": 5,
+      "coreMeaning": "彼此之间共同承受幸福与灾祸，形容关系极为密切、利害完全一致。",
+      "morphemeHint": {
+        "keyChar": "休",
+        "explanation": "“休”指喜悦、福分，“戚”指忧愁、灾祸；而非“休息”。侧重深层次的命运与利害绑定。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "命运共同体",
+        "政企关系",
+        "鱼水军民情"
+      ],
+      "collocations": [
+        "命运休戚与共",
+        "休戚与共的共同体"
+      ],
+      "commonMistake": "常把“休”误解为“休息”或用于一般性合作关系，其程度远重于“息息相关”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在全球气候危机面前，没有任何国家能够独善其身，唯有树立____的命运共同体意识，方能共克时艰。",
+          "highlightClues": [
+            "没有任何国家能够独善其身",
+            "命运共同体意识"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "息息相关",
+        "荣辱与共",
+        "同甘共苦"
+      ]
+    },
+    {
+      "id": "shou_shu_liang_duan",
+      "word": "首鼠两端",
+      "pinyin": "shǒu shǔ liǎng duān",
+      "frequency": 5,
+      "coreMeaning": "像老鼠在洞口那样进退犹豫，形容迟疑不决或动摇不定，非两头讨好。",
+      "morphemeHint": {
+        "keyChar": "端",
+        "explanation": "“首鼠”是古代叠韵连绵词，意为迟疑；老鼠出洞前瞻后顾，表示拿不定主意，而非“两面派”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "决策态度",
+        "战略抉择",
+        "摇摆立场"
+      ],
+      "collocations": [
+        "切忌首鼠两端",
+        "态度首鼠两端"
+      ],
+      "commonMistake": "极易望文生义理解为“像两只老鼠一样狡猾、两头通吃或两面讨好”，实为“犹豫不决”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对绿色低碳转型的历史大势，传统高耗能企业若继续在观望与行动之间____，必将被新一轮产业洗牌淘汰。",
+          "highlightClues": [
+            "观望与行动之间",
+            "被新一轮产业洗牌淘汰"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "犹豫不决",
+        "左右逢源",
+        "举棋不定"
+      ]
+    },
+    {
+      "id": "zhuo_jin_jian_zhou",
+      "word": "捉襟见肘",
+      "pinyin": "zhuō jīn jiàn zhǒu",
+      "frequency": 5,
+      "coreMeaning": "拉一下衣襟就露出胳膊肘，比喻衣服破烂，现多比喻顾此失彼、处境窘迫。",
+      "morphemeHint": {
+        "keyChar": "肘",
+        "explanation": "原本形容贫穷衣衫破旧，现代政论中常指财政资金、人手或时间严重不足，应付不过来。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "财政预算",
+        "基层人力",
+        "资源配置"
+      ],
+      "collocations": [
+        "经费捉襟见肘",
+        "显得捉襟见肘"
+      ],
+      "commonMistake": "常误用于单纯形容“穿衣不整洁”或“工作马虎”，忽略其“资源匮乏、顾此失彼”的核心义。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "部分县级医院长期面临专业儿科医师外流问题，一到冬季呼吸道疾病高发期，诊疗力量便显得____。",
+          "highlightClues": [
+            "专业儿科医师外流问题",
+            "高发期",
+            "诊疗力量"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "左支右绌",
+        "顾此失彼",
+        "力不从心"
+      ]
+    },
+    {
+      "id": "da_fang_zhi_jia",
+      "word": "大方之家",
+      "pinyin": "dà fāng zhī jiā",
+      "frequency": 4,
+      "coreMeaning": "指深明大道的人，或精通某种学问、技艺的专家行家。",
+      "morphemeHint": {
+        "keyChar": "方",
+        "explanation": "出自《庄子·秋水》“见笑于大方之家”；“大方”指大道理、大学问，绝不是“花钱大方”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学界泰斗",
+        "艺术大师",
+        "专业行家"
+      ],
+      "collocations": [
+        "贻笑于大方之家",
+        "实乃大方之家"
+      ],
+      "commonMistake": "极易望文生义理解为“出手阔绰、性格豪爽、不拘小节的人家”。",
+      "tags": [
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "某些文化类综艺节目对历史典故进行低级戏说，不仅误导青少年，更免不了见笑于____。",
+          "highlightClues": [
+            "对历史典故进行低级戏说",
+            "见笑于"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "行家里手",
+        "博学鸿儒",
+        "慷慨解囊"
+      ]
+    },
+    {
+      "id": "fang_xing_wei_ai",
+      "word": "方兴未艾",
+      "pinyin": "fāng xīng wèi ài",
+      "frequency": 5,
+      "coreMeaning": "事物正在蓬勃兴起、发展，一时还不会停止，形容发展势头极猛。",
+      "morphemeHint": {
+        "keyChar": "艾",
+        "explanation": "“方”是正在，“艾”读 ài，是“停止、尽头”的意思；指新事物正处于上升期，尚未停止。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "数字经济",
+        "新能源产业",
+        "文化热潮"
+      ],
+      "collocations": [
+        "发展方兴未艾",
+        "浪潮方兴未艾"
+      ],
+      "commonMistake": "常把“艾”误读或误解为“方艾”，或误用于形容“已经日薄西山、即将衰退的事物”或“坏风气”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "如今，人工智能与生物医药深度融合的新药研发浪潮____，正不断缩短创新药从实验室走向临床的周期。",
+          "highlightClues": [
+            "深度融合",
+            "研发浪潮",
+            "不断缩短创新药从实验室走向临床的周期"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "蓬勃发展",
+        "如日中天",
+        "方生未死"
+      ]
+    },
+    {
+      "id": "bu_feng_zhuo_ying",
+      "word": "捕风捉影",
+      "pinyin": "bǔ fēng zhuō yǐng",
+      "frequency": 5,
+      "coreMeaning": "比喻说话或做事丝毫没有事实根据，纯属凭空猜测、无端生事。",
+      "morphemeHint": {
+        "keyChar": "影",
+        "explanation": "风与影子皆无法捕捉，形容言论或指控毫无实证支撑，常用于批评虚假舆论或臆测。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "网络谣言",
+        "主观臆断",
+        "不实报道"
+      ],
+      "collocations": [
+        "纯属捕风捉影",
+        "切忌捕风捉影"
+      ],
+      "commonMistake": "易与“空穴来风”混淆：前者表示“毫无事实根据”，后者在规范语中表示“事出有因”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "严肃的新闻调查必须建立在交叉印证的一手信源之上，绝不能靠几张模糊的截图就____、仓促定论。",
+          "highlightClues": [
+            "交叉印证的一手信源",
+            "绝不能靠几张模糊的截图",
+            "仓促定论"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "无中生有",
+        "空穴来风",
+        "道听途说"
+      ]
+    },
+    {
+      "id": "dao_ting_tu_shuo",
+      "word": "道听途说",
+      "pinyin": "dào tīng tú shuō",
+      "frequency": 5,
+      "coreMeaning": "泛指在路上听到又在路上传播的、没有可靠根据的传闻，含贬义。",
+      "morphemeHint": {
+        "keyChar": "途",
+        "explanation": "“道”与“途”都是路；路边听来的未经核实的只言片语，借指缺乏科学实证的传言。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "民间传闻",
+        "轻信谣言",
+        "非正式信息"
+      ],
+      "collocations": [
+        "轻信道听途说",
+        "并非道听途说"
+      ],
+      "commonMistake": "易与“耳闻目睹”（亲眼所见）混淆，也不可用作中性词去形容“田野口述史料收集”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "编写地方产业调研报告要坚持深入车间一线实地走访，绝不能把____的传闻当作决策依据。",
+          "highlightClues": [
+            "深入车间一线实地走访",
+            "绝不能把",
+            "传闻当作决策依据"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "捕风捉影",
+        "以讹传讹",
+        "耳闻目睹"
+      ]
+    },
+    {
+      "id": "mo_zhong_yi_shi",
+      "word": "莫衷一是",
+      "pinyin": "mò zhōng yī shì",
+      "frequency": 5,
+      "coreMeaning": "不能决定哪个是对的，形容大家意见分歧，无法得出一致结论。",
+      "morphemeHint": {
+        "keyChar": "衷",
+        "explanation": "“莫”是没有谁，“衷”是折中、断定，“一是”指统一的标准；重点在于“群体意见不统一”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学术争论",
+        "专家看法",
+        "舆论评价"
+      ],
+      "collocations": [
+        "学界至今莫衷一是",
+        "众人对此莫衷一是"
+      ],
+      "commonMistake": "常误用于主语是“某一个人”（如“他面对选择莫衷一是”），实际上它必须用于多方争论的群体。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "关于这处新石器时代遗址的祭祀功能，考古学界因出土器物解读角度不同而长期____，尚无定论。",
+          "highlightClues": [
+            "考古学界",
+            "解读角度不同",
+            "尚无定论"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "众说纷纭",
+        "各执一词",
+        "见仁见智"
+      ]
+    },
+    {
+      "id": "yi_mei_zhi_ci",
+      "word": "溢美之词",
+      "pinyin": "yì měi zhī cí",
+      "frequency": 5,
+      "coreMeaning": "过分夸赞、超出实际情况的赞美话，含有过度吹捧、不够客观的警惕义。",
+      "morphemeHint": {
+        "keyChar": "溢",
+        "explanation": "“溢”是水满流出，引申为过分、过头；与“实事求是”相对，并非单纯的褒奖好话。"
+      },
+      "sentiment": "negative",
+      "intensity": "light",
+      "applicableObjects": [
+        "评价体系",
+        "商业吹捧",
+        "成绩汇报"
+      ],
+      "collocations": [
+        "不乏溢美之词",
+        "拒绝溢美之词"
+      ],
+      "commonMistake": "极易望文生义当成纯粹褒义的“赞美之词”，常在“不吝溢美之词”等错句中误用。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "文艺评论应当坚持实事求是的学术标尺，少一些商业化吹捧的____，多一些直面创作短板的真诚剖析。",
+          "highlightClues": [
+            "实事求是",
+            "商业化吹捧",
+            "多一些直面创作短板"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "赞美之词",
+        "过誉之词",
+        "阿谀之词"
+      ]
+    },
+    {
+      "id": "mei_kuang_yu_xia",
+      "word": "每况愈下",
+      "pinyin": "měi kuàng yù xià",
+      "frequency": 5,
+      "coreMeaning": "情况越来越坏，形容局面、质量或身体状况不断恶化下降。",
+      "morphemeHint": {
+        "keyChar": "愈",
+        "explanation": "“况”指情况，“愈”是更加；源于《庄子》“每下愈况”，后定型为形容局势逐步衰败。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "生态状况",
+        "经营业绩",
+        "道德风气",
+        "健康状态"
+      ],
+      "collocations": [
+        "处境每况愈下",
+        "质量每况愈下"
+      ],
+      "commonMistake": "常误写作“每下愈况”或把“况”当作“狂”，且需注意它只能指“从坏变更坏”，不可用于形容下降幅度大。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "长期依赖低价贴牌代工的经营模式，使这家老牌制造企业在成本上升后利润率____，亟须转型升级。",
+          "highlightClues": [
+            "成本上升后",
+            "利润率",
+            "亟须转型升级"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "江河日下",
+        "日暮途穷",
+        "一落千丈"
+      ]
+    },
+    {
+      "id": "yi_wen_bu_ming",
+      "word": "一文不名",
+      "pinyin": "yī wén bù míng",
+      "frequency": 5,
+      "coreMeaning": "连一个钱也没有，形容极其贫穷困顿。",
+      "morphemeHint": {
+        "keyChar": "名",
+        "explanation": "“名”在此作动词“占有、拥有”解，非“名声”；“一文不名”即一文钱都不曾占有。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "贫困处境",
+        "落魄人物",
+        "破产境遇"
+      ],
+      "collocations": [
+        "落得一文不名",
+        "当时一文不名"
+      ],
+      "commonMistake": "极易与“一文不值”（毫无价值）、“默默无闻”（没有名气）混淆，误用来评价作品价值或知名度。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "尽管年轻时曾因投资失利而一度____，但他并未放弃对精密制造工艺的钻研，终于在十年后实现技术逆袭。",
+          "highlightClues": [
+            "投资失利",
+            "并未放弃",
+            "实现技术逆袭"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一文不值",
+        "一贫如洗",
+        "默默无闻"
+      ]
+    },
+    {
+      "id": "qi_qi_ai_ai",
+      "word": "期期艾艾",
+      "pinyin": "qī qī ài ài",
+      "frequency": 4,
+      "coreMeaning": "形容口吃，说话不流利，吐字重复断续。",
+      "morphemeHint": {
+        "keyChar": "艾",
+        "explanation": "源于西汉周昌与三国邓艾均有口吃（“期期”和“艾艾”都是口吃发声）的典故，与犹豫或含情无关。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "说话神态",
+        "表达能力"
+      ],
+      "collocations": [
+        "回答得期期艾艾",
+        "显得期期艾艾"
+      ],
+      "commonMistake": "常被望文生义曲解为“充满期待地看着”或“神情委屈、含情脉脉、迟疑等待”。",
+      "tags": [
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "平时在网络直播间里口若悬河的带货主播，面对市场监管人员对进货凭证的现场核查时却突然变得____。",
+          "highlightClues": [
+            "口若悬河",
+            "却突然变得",
+            "现场核查"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "支支吾吾",
+        "结结巴巴",
+        "吞吞吐吐"
+      ]
+    }
+  ]
+}

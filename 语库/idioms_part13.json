@@ -1,0 +1,2234 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "ran_mei_zhi_ji",
+      "word": "燃眉之急",
+      "pinyin": "rán méi zhī jí",
+      "frequency": 5,
+      "coreMeaning": "像火烧眉毛那样紧急的情况，多指迫切需要解决的眼前困难。",
+      "morphemeHint": {
+        "keyChar": "燃眉",
+        "explanation": "火已经烧到眉毛，必须立刻扑灭；为偏正结构名词性成语，指代“紧急的事务或困难”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "资金短缺",
+        "人才缺口",
+        "供给紧张",
+        "民生难题"
+      ],
+      "collocations": [
+        "解燃眉之急",
+        "缓解燃眉之急",
+        "解决燃眉之急"
+      ],
+      "commonMistake": "属于名词性成语，常作“解”“缓解”的宾语；不能直接说“形势燃眉之急”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语法功能"
+      ],
+      "examples": [
+        {
+          "sentence": "专项贴息贷款的快速落地，为正处于供应链资金断裂边缘的中小微制造企业解了____。",
+          "highlightClues": [
+            "资金断裂边缘",
+            "解了"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "迫在眉睫",
+        "当务之急",
+        "十万火急"
+      ]
+    },
+    {
+      "id": "qian_jun_yi_fa",
+      "word": "千钧一发",
+      "pinyin": "qiān jūn yī fà",
+      "frequency": 5,
+      "coreMeaning": "一根头发系着千钧重物，比喻万分危急或异常紧张的关键时刻。",
+      "morphemeHint": {
+        "keyChar": "发",
+        "explanation": "“钧”是古代重量单位（三十斤），“发”读 fà 指头发；极重之物悬于一发，形容极其危急。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "时刻",
+        "关头",
+        "局势",
+        "险情"
+      ],
+      "collocations": [
+        "千钧一发之际",
+        "千钧一发的时刻",
+        "处在千钧一发之时"
+      ],
+      "commonMistake": "多用于形容“时刻”“关头”的极其危急；注意“发”读 fà，不读 fā。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "字音易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在航天器姿态偏离预定轨道的____之际，地面测控团队凭借精确算法成功实施了紧急纠偏。",
+          "highlightClues": [
+            "偏离预定轨道",
+            "紧急纠偏"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "间不容发",
+        "危在旦夕",
+        "刻不容缓"
+      ]
+    },
+    {
+      "id": "jian_bu_rong_fa",
+      "word": "间不容发",
+      "pinyin": "jiān bù róng fà",
+      "frequency": 4,
+      "coreMeaning": "中间连一根头发都容不下，形容距离极近、情势危急或差距微小。",
+      "morphemeHint": {
+        "keyChar": "间",
+        "explanation": "“间”读 jiān 指空隙，“发”读 fà 指头发；空隙中容不下一根头发，比喻情势极其紧迫或严密。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "情势",
+        "时机",
+        "防线",
+        "间距"
+      ],
+      "collocations": [
+        "情势间不容发",
+        "间不容发之际",
+        "危机间不容发"
+      ],
+      "commonMistake": "不可误解为“时间上来不及出发”；兼有“形势危急”和“距离/差距极其微小”两层含义。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "自动驾驶系统在高速路况下面临突发障碍物时，感知与决策的响应时间必须控制在____的极限之内。",
+          "highlightClues": [
+            "突发障碍物",
+            "响应时间",
+            "极限之内"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "千钧一发",
+        "迫在眉睫",
+        "毫厘不差"
+      ]
+    },
+    {
+      "id": "ke_bu_rong_huan",
+      "word": "刻不容缓",
+      "pinyin": "kè bù róng huǎn",
+      "frequency": 5,
+      "coreMeaning": "片刻也不允许拖延，形容形势紧迫，必须立即采取行动。",
+      "morphemeHint": {
+        "keyChar": "缓",
+        "explanation": "“刻”指极短的时间，“缓”指拖延、延迟；连一刻也不能拖延，重在强调行动的紧迫性。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "治理",
+        "保护",
+        "整改",
+        "行动"
+      ],
+      "collocations": [
+        "整治刻不容缓",
+        "显得刻不容缓",
+        "刻不容缓地推进"
+      ],
+      "commonMistake": "侧重“不能拖延时间”，多作谓语或状语；不要与“当务之急”（名词性，指最紧要的事）混用。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语法功能"
+      ],
+      "examples": [
+        {
+          "sentence": "面对算法推荐带来的信息茧房效应与隐私泄露隐患，完善数据合规监管体系已____。",
+          "highlightClues": [
+            "隐私泄露隐患",
+            "完善数据合规监管体系"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "迫在眉睫",
+        "当务之急",
+        "十万火急"
+      ]
+    },
+    {
+      "id": "shi_wan_huo_ji",
+      "word": "十万火急",
+      "pinyin": "shí wàn huǒ jí",
+      "frequency": 3,
+      "coreMeaning": "形容事情非常紧急，一刻也不能耽搁，多用于公文、抢险或救急。",
+      "morphemeHint": {
+        "keyChar": "火急",
+        "explanation": "古代军情文书插羽毛并标“火急”传递，“十万”极言程度之深，突出应急状态的极端紧迫。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "军情",
+        "抢险",
+        "救援",
+        "公文指令"
+      ],
+      "collocations": [
+        "十万火急地驰援",
+        "情势十万火急",
+        "十万火急的指令"
+      ],
+      "commonMistake": "口语与应急抢险色彩较浓，在宏观战略规划或温和政论文中不如“迫在眉睫”“刻不容缓”恰当。",
+      "tags": [
+        "省考高频",
+        "语义轻重",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "上游水库发生管涌险情后，防汛指挥部发出____的抢险调度令，多支工程队连夜集结驰援。",
+          "highlightClues": [
+            "管涌险情",
+            "抢险调度令",
+            "连夜集结驰援"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "刻不容缓",
+        "迫在眉睫",
+        "燃眉之急"
+      ]
+    },
+    {
+      "id": "zhong_zhong_zhi_zhong",
+      "word": "重中之重",
+      "pinyin": "zhòng zhōng zhī zhòng",
+      "frequency": 5,
+      "coreMeaning": "重要事项之中最为重要的部分，突出核心地位与最高优先级。",
+      "morphemeHint": {
+        "keyChar": "重",
+        "explanation": "两个“重”均读 zhòng，指重要；强调在诸多重要工作里占据绝对核心位置。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "工作",
+        "任务",
+        "战略目标",
+        "安全领域"
+      ],
+      "collocations": [
+        "工作的重中之重",
+        "重中之重是",
+        "放在重中之重的位置"
+      ],
+      "commonMistake": "侧重“重要性最高”，而非“时间紧迫”；若语境强调时间迫近，应选“当务之急”或“迫在眉睫”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "保障粮食安全始终是治国理政的____，任何时候都不能因丰收而放松耕地保护红线。",
+          "highlightClues": [
+            "保障粮食安全",
+            "治国理政",
+            "不能",
+            "放松"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "当务之急",
+        "首当其冲",
+        "核心要务"
+      ]
+    },
+    {
+      "id": "feng_yu_piao_yao",
+      "word": "风雨飘摇",
+      "pinyin": "fēng yǔ piāo yáo",
+      "frequency": 4,
+      "coreMeaning": "在狂风暴雨中飘荡摇摆，比喻局势动荡不安，政局或事业很不稳定。",
+      "morphemeHint": {
+        "keyChar": "飘摇",
+        "explanation": "原指鸟巢在风雨中晃动，后多形容国家、政局、企业等在外部冲击下动荡不安。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "局势",
+        "年代",
+        "政局",
+        "行业格局"
+      ],
+      "collocations": [
+        "风雨飘摇的年代",
+        "局势风雨飘摇",
+        "在风雨飘摇中坚守"
+      ],
+      "commonMistake": "侧重“局势动荡不安”，通常受外部环境冲击所致；不宜用于形容个人情绪波动。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "百年前，面对____的时局，一批青年学者毅然投身实业与科学救国，奠定了近代科研的火种。",
+          "highlightClues": [
+            "百年前",
+            "时局",
+            "科学救国"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "摇摇欲坠",
+        "岌岌可危",
+        "内忧外患"
+      ]
+    },
+    {
+      "id": "nei_you_wai_huan",
+      "word": "内忧外患",
+      "pinyin": "nèi yōu wài huàn",
+      "frequency": 4,
+      "coreMeaning": "内部有乱子或隐患，外部有侵略或威胁，指来自内外部的双重危机。",
+      "morphemeHint": {
+        "keyChar": "内/外",
+        "explanation": "“忧”指内部祸患，“患”指外部威胁；强调整体系统同时遭遇内部矛盾与外部冲击。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "国家",
+        "政权",
+        "传统行业",
+        "大型企业"
+      ],
+      "collocations": [
+        "面临内忧外患",
+        "内忧外患之际",
+        "摆脱内忧外患"
+      ],
+      "commonMistake": "使用必须同时对应“内部问题”和“外部压力”两方面语境，缺一不可。",
+      "tags": [
+        "国考高频",
+        "语境匹配",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "传统实体书店既要应对房租高企与经营僵化的内部瓶颈，又面临线上折扣与短视频分流的冲击，可谓____。",
+          "highlightClues": [
+            "内部瓶颈",
+            "线上折扣与短视频分流",
+            "既要",
+            "又面临"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "腹背受敌",
+        "四面楚歌",
+        "雪上加霜"
+      ]
+    },
+    {
+      "id": "fu_bei_shou_di",
+      "word": "腹背受敌",
+      "pinyin": "fù bèi shòu dí",
+      "frequency": 4,
+      "coreMeaning": "前后都受到敌人的攻击，比喻在多个方向同时遭到夹击或陷入双重困局。",
+      "morphemeHint": {
+        "keyChar": "腹背",
+        "explanation": "“腹”指前面，“背”指后面；前后两端同时受攻，强调处于被夹击的被动险境。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "军队",
+        "企业",
+        "产业",
+        "改革推进者"
+      ],
+      "collocations": [
+        "陷入腹背受敌的境地",
+        "腹背受敌之势",
+        "面临腹背受敌"
+      ],
+      "commonMistake": "强调“前后/多方夹击”；若仅是单方阻力或自身缺乏办法，不宜使用。",
+      "tags": [
+        "省考高频",
+        "语境匹配",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "中端制造企业若未能及时完成技术升级，往往会在高端市场壁垒与低端成本竞争中____。",
+          "highlightClues": [
+            "高端市场壁垒",
+            "低端成本竞争"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "内忧外患",
+        "四面楚歌",
+        "进退维谷"
+      ]
+    },
+    {
+      "id": "si_mian_chu_ge",
+      "word": "四面楚歌",
+      "pinyin": "sì miàn chǔ gē",
+      "frequency": 4,
+      "coreMeaning": "比喻陷入四面受敌、孤立无援、众叛亲离的绝望境地。",
+      "morphemeHint": {
+        "keyChar": "四面",
+        "explanation": "典出垓下之战项羽听闻四面皆是楚歌声而军心溃散；重在“孤立无援、四面受困”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人",
+        "团队",
+        "企业",
+        "政权"
+      ],
+      "collocations": [
+        "陷入四面楚歌",
+        "四面楚歌的境地",
+        "处于四面楚歌之中"
+      ],
+      "commonMistake": "含“孤立无援、无路可退”之意，与单纯的“前后受敌”（腹背受敌）或“矛盾交织”侧重点不同。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "部分长期忽视消费者权益保护的平台，在舆论监督强化与监管重拳落地后，很快陷入了____的尴尬境地。",
+          "highlightClues": [
+            "舆论监督强化",
+            "监管重拳落地",
+            "陷入了"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "腹背受敌",
+        "走投无路",
+        "孤立无援"
+      ]
+    },
+    {
+      "id": "wei_ji_si_fu",
+      "word": "危机四伏",
+      "pinyin": "wēi jī sì fú",
+      "frequency": 5,
+      "coreMeaning": "到处潜伏着危险的祸根，形容表面之下隐藏着多方面严重的风险。",
+      "morphemeHint": {
+        "keyChar": "伏",
+        "explanation": "“伏”是潜伏、隐藏；“四伏”指四面八方都暗藏着一触即发的危机。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "金融市场",
+        "网络空间",
+        "国际局势",
+        "生态链"
+      ],
+      "collocations": [
+        "看似平静实则危机四伏",
+        "危机四伏的局势",
+        "危机四伏的行业"
+      ],
+      "commonMistake": "常与“看似繁荣/平静”构成转折关系，强调“潜伏、隐蔽”的危险，而非已经爆发的惨状。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "过度依赖高杠杆扩张的商业模式看似光鲜亮丽，实则____，一旦流动性收紧便极易引发连锁违约。",
+          "highlightClues": [
+            "看似光鲜亮丽",
+            "实则",
+            "连锁违约"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一触即发",
+        "危在旦夕",
+        "隐患重重"
+      ]
+    },
+    {
+      "id": "yi_chu_ji_fa",
+      "word": "一触即发",
+      "pinyin": "yī chù jí fā",
+      "frequency": 5,
+      "coreMeaning": "把箭搭在弦上，一碰就会射出，比喻事态紧张到了极点，随时可能爆发。",
+      "morphemeHint": {
+        "keyChar": "触/发",
+        "explanation": "“触”是碰触，“发”读 fā 指射出或爆发；强调矛盾、冲突或危机已达临界点。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "矛盾",
+        "冲突",
+        "战争",
+        "危机"
+      ],
+      "collocations": [
+        "冲突一触即发",
+        "大战一触即发",
+        "矛盾呈一触即发之势"
+      ],
+      "commonMistake": "只能用于尚未爆发但极其紧张的临界状态，不能用于形容事情已经发生了。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "时态逻辑"
+      ],
+      "examples": [
+        {
+          "sentence": "地缘政治博弈不断升级，地区能源通道的安全局势已呈____之势，各国呼吁通过对话降温。",
+          "highlightClues": [
+            "不断升级",
+            "安全局势",
+            "呼吁通过对话降温"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "剑拔弩张",
+        "千钧一发",
+        "危机四伏"
+      ]
+    },
+    {
+      "id": "shi_ru_shui_huo",
+      "word": "势如水火",
+      "pinyin": "shì rú shuǐ huǒ",
+      "frequency": 4,
+      "coreMeaning": "双方势态像水和火一样相互克制排斥，形容对立和冲突极其尖锐。",
+      "morphemeHint": {
+        "keyChar": "水火",
+        "explanation": "水和火性质截然相反、相克难存；重在形容两股势力或两派观点对立冲突的态势。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "双方关系",
+        "派系",
+        "利益诉求",
+        "观点阵营"
+      ],
+      "collocations": [
+        "两派势如水火",
+        "闹得势如水火",
+        "原本势如水火"
+      ],
+      "commonMistake": "常与“水火不容”混淆：“势如水火”偏形容对立斗争的激烈局势，“水火不容”偏强调两者本质绝不相容。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "过去在标准争夺战中____的两家科技巨头，如今在人工智能基础大模型领域竟意外选择了联合开源。",
+          "highlightClues": [
+            "争夺战中",
+            "竟意外选择了联合开源"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "水火不容",
+        "针锋相对",
+        "剑拔弩张"
+      ]
+    },
+    {
+      "id": "shui_huo_bu_rong",
+      "word": "水火不容",
+      "pinyin": "shuǐ huǒ bù róng",
+      "frequency": 4,
+      "coreMeaning": "像水和火一样不能共处一处，比喻双方对立极深，完全无法相容。",
+      "morphemeHint": {
+        "keyChar": "不容",
+        "explanation": "“容”指容纳、共存；水和火相遇必有一灭，强调事物性质或双方立场彻底排斥。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "立场",
+        "制度",
+        "利益",
+        "关系"
+      ],
+      "collocations": [
+        "二者水火不容",
+        "看似水火不容",
+        "并非水火不容"
+      ],
+      "commonMistake": "既可用于人际对立，也常用于政论中辩证分析两种看似对立的观念（如“效率与公平并非水火不容”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "在现代城市治理中，严格保护历史街区风貌与激活商业文旅活力并非____，关键在于找到有机更新的平衡点。",
+          "highlightClues": [
+            "并非",
+            "找到有机更新的平衡点"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "势如水火",
+        "冰炭不同器",
+        "针锋相对"
+      ]
+    },
+    {
+      "id": "zhen_feng_xiang_dui",
+      "word": "针锋相对",
+      "pinyin": "zhēn fēng xiāng duì",
+      "frequency": 5,
+      "coreMeaning": "针尖对针尖，比喻双方在策略、言论、行动上尖锐对立，互不相让。",
+      "morphemeHint": {
+        "keyChar": "针锋",
+        "explanation": "两根针的尖端正对着碰撞；多形容辩论、博弈、交涉中言辞或立场寸步不让。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "观点",
+        "辩论",
+        "立场",
+        "交锋"
+      ],
+      "collocations": [
+        "展开针锋相对的辩论",
+        "观点针锋相对",
+        "针锋相对地反驳"
+      ],
+      "commonMistake": "偏中性，可用于正当的学术争鸣或外交驳斥，未必都是贬义；不能用于单方面的攻击。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "围绕算法透明与商业秘密保护的边界，法学界与产业界在听证会上展开了____的激烈交锋。",
+          "highlightClues": [
+            "法学界与产业界",
+            "激烈交锋"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "剑拔弩张",
+        "分庭抗礼",
+        "水火不容"
+      ]
+    },
+    {
+      "id": "jian_ba_nu_zhang",
+      "word": "剑拔弩张",
+      "pinyin": "jiàn bá nǔ zhāng",
+      "frequency": 5,
+      "coreMeaning": "剑拔出鞘，弓拉满弦，形容形势紧张或双方气势咄咄逼人、一触即发。",
+      "morphemeHint": {
+        "keyChar": "拔/张",
+        "explanation": "“拔”指拔剑，“张”指拉满弓弩；原本形容书法笔势雄健，现多形容冲突双方剑气逼人、气氛剑紧。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "气氛",
+        "对峙双方",
+        "谈判现场",
+        "国际关系"
+      ],
+      "collocations": [
+        "气氛剑拔弩张",
+        "双方剑拔弩张",
+        "剑拔弩张的对峙"
+      ],
+      "commonMistake": "常考与“针锋相对”对比：“剑拔弩张”偏气氛紧张、带有武力或情绪对抗感，“针锋相对”偏观点言辞精准交锋。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "经过多轮专业调解，原本____的劳资双方终于放下戒备，坐回谈判桌前共同拟定补偿方案。",
+          "highlightClues": [
+            "多轮专业调解",
+            "放下戒备",
+            "坐回谈判桌前"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一触即发",
+        "针锋相对",
+        "势如水火"
+      ]
+    },
+    {
+      "id": "xue_shang_jia_shuang",
+      "word": "雪上加霜",
+      "pinyin": "xuě shàng jiā shuāng",
+      "frequency": 5,
+      "coreMeaning": "下雪之后又降严霜，比喻接连遭受灾难或打击，处境变得更加艰难。",
+      "morphemeHint": {
+        "keyChar": "加",
+        "explanation": "原本已经寒冷有“雪”，又加上了“霜”；强调客观困难或灾祸叠加使苦上加苦。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "困境",
+        "危机",
+        "经济形势",
+        "受灾群众"
+      ],
+      "collocations": [
+        "令局势雪上加霜",
+        "无疑是雪上加霜",
+        "让企业雪上加霜"
+      ],
+      "commonMistake": "侧重被动遭遇双重打击；若指人为恶意加重他人祸患，应用“落井下石”；若指人为加剧矛盾争端，常用“火上浇油”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "原材料价格大幅上涨叠加海外订单锐减，令本就利润微薄的代工企业经营状况____。",
+          "highlightClues": [
+            "叠加",
+            "本就利润微薄"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "火上浇油",
+        "落井下石",
+        "屋漏偏逢连夜雨"
+      ]
+    },
+    {
+      "id": "luo_jing_xia_shi",
+      "word": "落井下石",
+      "pinyin": "luò jǐng xià shí",
+      "frequency": 4,
+      "coreMeaning": "看见别人掉进井里不但不救，反而往下扔石头，比喻乘人危难加以陷害。",
+      "morphemeHint": {
+        "keyChar": "下石",
+        "explanation": "在别人“落井”时主动“下石”砸击；明确指向主观恶意的加害行为，贬义极强。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "竞争对手",
+        "小人行径",
+        "国际势力"
+      ],
+      "collocations": [
+        "趁机落井下石",
+        "绝不落井下石",
+        "落井下石之举"
+      ],
+      "commonMistake": "主语必须是施害方且带有明确的主观恶意，不能用来形容客观灾难叠加（如暴雨导致“落井下石”属于用词错误）。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "商业竞争固然残酷，但在合作伙伴遭遇突发危机时不仅不施以援手，反而散布谣言____，终将丧失行业信誉。",
+          "highlightClues": [
+            "遭遇突发危机",
+            "散布谣言",
+            "丧失行业信誉"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "趁火打劫",
+        "雪上加霜",
+        "火上浇油"
+      ]
+    },
+    {
+      "id": "chen_huo_da_jie",
+      "word": "趁火打劫",
+      "pinyin": "chèn huǒ dǎ jié",
+      "frequency": 4,
+      "coreMeaning": "趁着别人家里失火的机会前去抢劫，比喻乘人处于危机之中捞取不正当利益。",
+      "morphemeHint": {
+        "keyChar": "打劫",
+        "explanation": "“趁火”是利用他人危机，“打劫”是图谋私利；区别于单纯加害的“落井下石”，重在趁机牟利。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "不法商家",
+        "投机资本",
+        "投机行为"
+      ],
+      "collocations": [
+        "趁火打劫的行为",
+        "防止有人趁火打劫",
+        "囤积居奇趁火打劫"
+      ],
+      "commonMistake": "核心在于“趁危机捞取好处/牟利”，常见于灾情哄抬物价、恶意收购等语境。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "市场监管部门在汛期开展专项巡查，严厉打击借物资紧缺之机哄抬物价、____的违法经营行为。",
+          "highlightClues": [
+            "借物资紧缺之机",
+            "哄抬物价",
+            "违法经营行为"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "落井下石",
+        "趁人之危",
+        "火上浇油"
+      ]
+    },
+    {
+      "id": "huo_shang_jiao_you",
+      "word": "火上浇油",
+      "pinyin": "huǒ shàng jiāo yóu",
+      "frequency": 5,
+      "coreMeaning": "往燃烧的火上倒油，比喻采取错误言行使原本紧张的矛盾或恶劣事态更加激化。",
+      "morphemeHint": {
+        "keyChar": "浇油",
+        "explanation": "油遇火使火势猛烈扩大；重在人为或特定举动加剧冲突、愤怒或事态恶化。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "言论",
+        "举措",
+        "冲突",
+        "情绪"
+      ],
+      "collocations": [
+        "无异于火上浇油",
+        "给局势火上浇油",
+        "避免火上浇油"
+      ],
+      "commonMistake": "常与“雪上加霜”区分：“火上浇油”强调激化矛盾冲突、使态势更猛烈；“雪上加霜”强调灾难叠加使处境更惨。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "面对已经发酵的公共舆论风波，涉事企业若发布傲慢敷衍的声明，无异于____，只会引发更大的信任危机。",
+          "highlightClues": [
+            "已经发酵",
+            "傲慢敷衍",
+            "引发更大的信任危机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雪上加霜",
+        "推波助澜",
+        "抱薪救火"
+      ]
+    },
+    {
+      "id": "yi_chou_mo_zhan",
+      "word": "一筹莫展",
+      "pinyin": "yī chóu mò zhǎn",
+      "frequency": 5,
+      "coreMeaning": "一点计策也施展不出，形容面对困难或危机完全想不出办法。",
+      "morphemeHint": {
+        "keyChar": "筹",
+        "explanation": "“筹”指古代计数的筹码，引申为计策、办法；“莫展”是没有办法展开、施展。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "人",
+        "团队",
+        "管理者",
+        "研究者"
+      ],
+      "collocations": [
+        "对此一筹莫展",
+        "面对难题一筹莫展",
+        "一度一筹莫展"
+      ],
+      "commonMistake": "注意字形不要写成“一愁莫展”；侧重“苦思而无计可施”，常与“迎刃而解”“豁然开朗”构成对比。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易错字形"
+      ],
+      "examples": [
+        {
+          "sentence": "科研团队在超导材料稳定性测试上曾连续数月____，直到引入人工智能辅助筛选模型才找到突破口。",
+          "highlightClues": [
+            "连续数月",
+            "直到",
+            "才找到突破口"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "束手无策",
+        "无计可施",
+        "莫衷一是"
+      ]
+    },
+    {
+      "id": "shu_shou_wu_ce",
+      "word": "束手无策",
+      "pinyin": "shù shǒu wú cè",
+      "frequency": 5,
+      "coreMeaning": "好像双手被捆住一样，面对突发状况或难题毫无办法可以应对。",
+      "morphemeHint": {
+        "keyChar": "束手",
+        "explanation": "“束手”指捆住双手，“策”指对策；形象描写完全处于被动、毫无对策的状态。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人",
+        "机构",
+        "应急系统",
+        "执法部门"
+      ],
+      "collocations": [
+        "令人束手无策",
+        "在……面前束手无策",
+        "不至于束手无策"
+      ],
+      "commonMistake": "常与“无计可施”互为近义；“束手无策”多突出危机来临时的被动茫然感，“无计可施”直陈穷尽一切计谋。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "新型网络电信诈骗不断翻新话术与技术手段，若反诈机制不及时迭代，监管部门就容易在新骗局面前____。",
+          "highlightClues": [
+            "不断翻新",
+            "不及时迭代",
+            "新骗局面前"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一筹莫展",
+        "无计可施",
+        "手足无措"
+      ]
+    },
+    {
+      "id": "wu_ji_ke_shi",
+      "word": "无计可施",
+      "pinyin": "wú jì kě shī",
+      "frequency": 4,
+      "coreMeaning": "没有任何计谋或办法可以实施，形容陷入彻底没有对策的窘境。",
+      "morphemeHint": {
+        "keyChar": "施",
+        "explanation": "“计”是计策，“施”是施行；强调所有能想到的办法都已用尽或失效。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人",
+        "决策者",
+        "治疗方案",
+        "治理手段"
+      ],
+      "collocations": [
+        "感到无计可施",
+        "几近无计可施",
+        "并非无计可施"
+      ],
+      "commonMistake": "语义较重，强调彻底没有对策；不可在后面再接“的办法”，否则语义重复。",
+      "tags": [
+        "省考高频",
+        "重复累赘",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "对于城市内涝顽疾，单纯靠事后抽排往往____，必须依靠海绵城市理念重构地下管网与蓄水空间。",
+          "highlightClues": [
+            "顽疾",
+            "单纯靠事后抽排",
+            "重构"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "束手无策",
+        "一筹莫展",
+        "山穷水尽"
+      ]
+    },
+    {
+      "id": "zou_tou_wu_lu",
+      "word": "走投无路",
+      "pinyin": "zǒu tóu wú lù",
+      "frequency": 4,
+      "coreMeaning": "无路可走，也无处投奔，比喻陷入绝境，找不到任何出路。",
+      "morphemeHint": {
+        "keyChar": "投",
+        "explanation": "“投”指投奔、投靠；注意字形是“投”而非“头”，形容被逼入绝境。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人",
+        "犯罪分子",
+        "濒危行业",
+        "落后模式"
+      ],
+      "collocations": [
+        "逼得走投无路",
+        "陷入走投无路之境",
+        "绝非走投无路"
+      ],
+      "commonMistake": "切勿误写为“走头无路”；常指被外力或困境逼至绝境，语义极重。",
+      "tags": [
+        "省考高频",
+        "易错字形",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在全球绿色贸易壁垒日益严苛的趋势下，高耗能、高污染的粗放型产能已____，唯有低碳转型才能重获生机。",
+          "highlightClues": [
+            "日益严苛",
+            "粗放型产能",
+            "唯有低碳转型才能重获生机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "山穷水尽",
+        "进退维谷",
+        "四面楚歌"
+      ]
+    },
+    {
+      "id": "shan_qiong_shui_jin",
+      "word": "山穷水尽",
+      "pinyin": "shān qióng shuǐ jìn",
+      "frequency": 5,
+      "coreMeaning": "山和水都到了尽头，比喻陷入绝境，一切出路或资源似乎都已耗尽。",
+      "morphemeHint": {
+        "keyChar": "穷/尽",
+        "explanation": "“穷”和“尽”都是走到尽头的意思；常与“柳暗花明”对举，表现绝境与转机的戏剧性转化。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "局面",
+        "发展路径",
+        "资金链",
+        "探索过程"
+      ],
+      "collocations": [
+        "看似山穷水尽",
+        "到了山穷水尽的地步",
+        "山穷水尽之时"
+      ],
+      "commonMistake": "可用于抽象的“理论”“模式”“科研探索”遇到尽头，不必拘泥于山水实景。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "当传统硅基芯片的物理微缩逼近极限、摩尔定律看似____时，光计算与量子计算正开辟出全新的技术赛道。",
+          "highlightClues": [
+            "逼近极限",
+            "看似",
+            "开辟出全新的技术赛道"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "走投无路",
+        "柳暗花明",
+        "穷途末路"
+      ]
+    },
+    {
+      "id": "jin_tui_wei_gu",
+      "word": "进退维谷",
+      "pinyin": "jìn tuì wéi gǔ",
+      "frequency": 5,
+      "coreMeaning": "前进和后退都处于困境之中，形容处境极其尴尬艰难、难以抉择。",
+      "morphemeHint": {
+        "keyChar": "维谷",
+        "explanation": "“维”是语气助词（表“是”），“谷”指深谷、穷困；进退都是深谷，书面语色彩极浓。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "决策者",
+        "政策制定",
+        "企业处境",
+        "谈判局势"
+      ],
+      "collocations": [
+        "陷入进退维谷的境地",
+        "进退维谷之际",
+        "处于进退维谷之中"
+      ],
+      "commonMistake": "高频书面语词；“进退维谷”强调客观处境前后受阻，“左右为难”偏主观心态在两个选项间难以取舍。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "面对通胀居高不下与经济增速放缓并存的滞胀风险，多国央行在货币政策调控上陷入了____的两难境地。",
+          "highlightClues": [
+            "通胀居高不下",
+            "经济增速放缓",
+            "两难境地"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "进退两难",
+        "左右为难",
+        "骑虎难下"
+      ]
+    },
+    {
+      "id": "jin_tui_liang_nan",
+      "word": "进退两难",
+      "pinyin": "jìn tuì liǎng nán",
+      "frequency": 4,
+      "coreMeaning": "前进也有困难，后退也有困难，形容处境窘迫，难以作出决定。",
+      "morphemeHint": {
+        "keyChar": "两难",
+        "explanation": "前进和后退两条路都不好走；比“进退维谷”更通俗，语义程度略轻于“进退维谷”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "决策",
+        "处境",
+        "参与者",
+        "机构"
+      ],
+      "collocations": [
+        "处于进退两难的境地",
+        "令人进退两难",
+        "陷入进退两难"
+      ],
+      "commonMistake": "不要与后面的“境地”或“抉择”发生过于生硬的语义重复，若句末已有“的难局”，需注意搭配自然。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "由于前期调研不充分，该文旅项目建设过半便发现生态红线冲突，导致投资方陷入了____的困局。",
+          "highlightClues": [
+            "建设过半",
+            "生态红线冲突",
+            "困局"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "进退维谷",
+        "左右为难",
+        "骑虎难下"
+      ]
+    },
+    {
+      "id": "zuo_you_wei_nan",
+      "word": "左右为难",
+      "pinyin": "zuǒ yòu wéi nán",
+      "frequency": 4,
+      "coreMeaning": "左也不是，右也不是，形容在两种相互矛盾的要求或选择之间难以取舍。",
+      "morphemeHint": {
+        "keyChar": "左右",
+        "explanation": "“左”与“右”指代两个并列、相互掣肘的方面；侧重心理上或平衡各方诉求时的为难。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "人",
+        "协调者",
+        "监管部门",
+        "地方政府"
+      ],
+      "collocations": [
+        "让人左右为难",
+        "感到左右为难",
+        "处于左右为难的夹缝"
+      ],
+      "commonMistake": "偏重“兼顾两方、难以取舍”的心理或处境；若强调事情做到一半无法收场，应选“骑虎难下”。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "基层治理中若缺乏清晰的权责清单，执行人员在面对上级考核指标与群众实际诉求不一致时，往往会____。",
+          "highlightClues": [
+            "上级考核指标",
+            "群众实际诉求不一致"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "进退两难",
+        "进退维谷",
+        "顾此失彼"
+      ]
+    },
+    {
+      "id": "qi_hu_nan_xia",
+      "word": "骑虎难下",
+      "pinyin": "qí hǔ nán xià",
+      "frequency": 5,
+      "coreMeaning": "骑在老虎背上不能下来，比喻做某事中途遇到困难，但形势所迫又无法中止。",
+      "morphemeHint": {
+        "keyChar": "难下",
+        "explanation": "既然已经骑上了虎背，半途下来就会被虎咬伤；核心在于“已经开始、难以收场”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "项目",
+        "承诺",
+        "扩张举措",
+        "博弈各方"
+      ],
+      "collocations": [
+        "陷入骑虎难下的局面",
+        "颇感骑虎难下",
+        "骑虎难下之势"
+      ],
+      "commonMistake": "必须有“已经启动/涉足某事且中途欲罢不能”的前提；尚未开始做决定时不能用“骑虎难下”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "一些企业在缺乏核心盈利支撑的情况下盲目开启“烧钱换市场”补贴战，最终被高昂成本拖入____的被动局面。",
+          "highlightClues": [
+            "盲目开启",
+            "补贴战",
+            "高昂成本拖入"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "进退维谷",
+        "进退两难",
+        "欲罢不能"
+      ]
+    },
+    {
+      "id": "tou_shu_ji_qi",
+      "word": "投鼠忌器",
+      "pinyin": "tóu shǔ jì qì",
+      "frequency": 5,
+      "coreMeaning": "想打老鼠又怕打坏旁边的器物，比喻做事有所顾忌，不敢放手行动。",
+      "morphemeHint": {
+        "keyChar": "忌器",
+        "explanation": "“投”是掷击，“忌”是顾忌，“器”是贵重器皿；为了保护“器”而不敢痛击“鼠”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "治理者",
+        "改革者",
+        "执法者",
+        "调控政策"
+      ],
+      "collocations": [
+        "难免投鼠忌器",
+        "避免投鼠忌器",
+        "因利益牵绊而投鼠忌器"
+      ],
+      "commonMistake": "必须包含“因顾忌牵连到珍贵/重要事物而不敢采取果断措施”的逻辑；不能用来泛指一般的胆小怕事。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "治理盘根错节的“僵尸企业”既要果断出清落后产能，又不能因担心短期就业波动而____，延误结构优化良机。",
+          "highlightClues": [
+            "果断出清",
+            "担心短期就业波动",
+            "延误"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "瞻前顾后",
+        "畏首畏尾",
+        "顾此失彼"
+      ]
+    },
+    {
+      "id": "wei_shou_wei_wei",
+      "word": "畏首畏尾",
+      "pinyin": "wèi shǒu wèi wěi",
+      "frequency": 4,
+      "coreMeaning": "前也怕，后也怕，形容胆子小、疑虑重重，不敢放手去做。",
+      "morphemeHint": {
+        "keyChar": "畏",
+        "explanation": "“畏”指害怕、畏惧；从头到尾都在害怕，凸显面对风险或挑战时的胆怯心理。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "干部",
+        "创作者",
+        "科研人员",
+        "办事态度"
+      ],
+      "collocations": [
+        "做事畏首畏尾",
+        "绝不畏首畏尾",
+        "改变畏首畏尾的心态"
+      ],
+      "commonMistake": "强调“胆怯、害怕承担责任或失败”；不可将其当作“谨慎稳重”的褒义词来用。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "建立健全容错纠错机制，正是为了给敢闯敢试的基层干部撑腰鼓劲，消除他们在探索创新中____的思想顾虑。",
+          "highlightClues": [
+            "容错纠错机制",
+            "敢闯敢试",
+            "思想顾虑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "瞻前顾后",
+        "缩手缩脚",
+        "优柔寡断"
+      ]
+    },
+    {
+      "id": "zuo_zhi_you_chu",
+      "word": "左支右绌",
+      "pinyin": "zuǒ zhī yòu chù",
+      "frequency": 5,
+      "coreMeaning": "比喻力量不足，应付了这方面就顾不上那方面，十分吃力。",
+      "morphemeHint": {
+        "keyChar": "绌",
+        "explanation": "“支”是支撑，“绌”读 chù 指不足、短缺；强调多线应对时力量不够用、顾不过来。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "财政预算",
+        "管理机制",
+        "救援力量",
+        "市场主体"
+      ],
+      "collocations": [
+        "显得左支右绌",
+        "在应对中左支右绌",
+        "难免左支右绌"
+      ],
+      "commonMistake": "注意读音 chù；与“捉襟见肘”近义，但“左支右绌”更强调在多个方向应付时的局促吃力感。",
+      "tags": [
+        "国考高频",
+        "字音易错",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "当多起极端气象灾害在相近时段集中暴发时，单一地区的应急储备往往会____，亟须建立跨区域协同驰援机制。",
+          "highlightClues": [
+            "集中暴发",
+            "单一地区",
+            "跨区域协同驰援"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "捉襟见肘",
+        "顾此失彼",
+        "疲于奔命"
+      ]
+    },
+    {
+      "id": "pi_yu_ben_ming",
+      "word": "疲于奔命",
+      "pinyin": "pí yú bēn mìng",
+      "frequency": 5,
+      "coreMeaning": "因不断奔走应付紧急事务而精疲力竭，形容处于被动应付、无暇喘息的状态。",
+      "morphemeHint": {
+        "keyChar": "奔命",
+        "explanation": "原指在紧急军令下不断奔走；现多指在突发状况或繁杂事务中被动救火、极其劳累。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "基层人员",
+        "企业",
+        "应急团队",
+        "管理者"
+      ],
+      "collocations": [
+        "陷入疲于奔命",
+        "终日疲于奔命",
+        "免于疲于奔命"
+      ],
+      "commonMistake": "强调“被动应付、连轴转而精疲力竭”，常作为缺乏顶层设计或预防机制的负面后果出现。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "若安全治理只注重事故发生后的追责处置，而忽视源头风险排查，监管部门就会在层出不穷的隐患中____。",
+          "highlightClues": [
+            "只注重",
+            "忽视源头",
+            "层出不穷的隐患"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "左支右绌",
+        "捉襟见肘",
+        "焦头烂额"
+      ]
+    },
+    {
+      "id": "bao_xin_jiu_huo",
+      "word": "抱薪救火",
+      "pinyin": "bào xīn jiù huǒ",
+      "frequency": 5,
+      "coreMeaning": "抱着柴草去救火，比喻用错误的方法消除灾祸，结果反而使灾祸越来越大。",
+      "morphemeHint": {
+        "keyChar": "薪",
+        "explanation": "“薪”是柴火；柴火本身助燃，用它救火不但扑不灭，反而让火势愈演愈烈。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "错误对策",
+        "化解方式",
+        "危机干预"
+      ],
+      "collocations": [
+        "如同抱薪救火",
+        "无异于抱薪救火",
+        "抱薪救火之举"
+      ],
+      "commonMistake": "常与“扬汤止沸”对比：“抱薪救火”是方法完全错误导致灾祸扩大；“扬汤止沸”只是治标不治本、不能彻底解决。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "企图通过继续印发货币和加码债务来掩盖结构性金融泡沫，只会让系统性风险越积越高，实属____之举。",
+          "highlightClues": [
+            "加码债务",
+            "风险越积越高"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "扬汤止沸",
+        "火上浇油",
+        "饮鸩止渴"
+      ]
+    },
+    {
+      "id": "yang_tang_zhi_fei",
+      "word": "扬汤止沸",
+      "pinyin": "yáng tāng zhǐ fèi",
+      "frequency": 5,
+      "coreMeaning": "把开水舀起再倒回，比喻办法不彻底，只治标而不治本。",
+      "morphemeHint": {
+        "keyChar": "汤",
+        "explanation": "“汤”在古汉语中指开水、热水；不撤掉锅底柴火而只舀水降温，水很快还会沸腾。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "治理措施",
+        "应急方案",
+        "改革手段"
+      ],
+      "collocations": [
+        "只能扬汤止沸",
+        "扬汤止沸之策",
+        "不是扬汤止沸而是釜底抽薪"
+      ],
+      "commonMistake": "核心义项是“治标不治本、暂缓表象而不能根除”；常与“釜底抽薪”构成精准反义对举。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "遏制网络谣言传播不能仅靠事后删帖封号这种____的做法，更须从平台算法激励与违法成本源头重塑治理生态。",
+          "highlightClues": [
+            "仅靠事后删帖封号",
+            "更须从",
+            "源头重塑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "釜底抽薪",
+        "抱薪救火",
+        "治标不治本"
+      ]
+    },
+    {
+      "id": "yuan_mu_qiu_yu",
+      "word": "缘木求鱼",
+      "pinyin": "yuán mù qiú yú",
+      "frequency": 5,
+      "coreMeaning": "爬到树上去找鱼，比喻方向或方法完全不对，不可能达到目的。",
+      "morphemeHint": {
+        "keyChar": "缘木",
+        "explanation": "“缘”是沿着、攀爬，“木”是树；鱼不在树上而在水中，路径和方向错了就绝无可能成功。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "方法",
+        "思路",
+        "途径",
+        "政策路径"
+      ],
+      "collocations": [
+        "无异于缘木求鱼",
+        "如同缘木求鱼",
+        "岂非缘木求鱼"
+      ],
+      "commonMistake": "常与“南辕北辙”区分：“缘木求鱼”侧重找错了地方/用错了方法而绝不可能成功，“南辕北辙”侧重行动方向与目标正好相反。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "离开了真实消费场景与核心技术积累，指望单纯依靠流量炒作打造百年工业品牌，无异于____。",
+          "highlightClues": [
+            "离开了",
+            "单纯依靠流量炒作",
+            "打造百年工业品牌"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "南辕北辙",
+        "水中捞月",
+        "刻舟求剑"
+      ]
+    },
+    {
+      "id": "lin_ke_jue_jing",
+      "word": "临渴掘井",
+      "pinyin": "lín kě jué jǐng",
+      "frequency": 4,
+      "coreMeaning": "等到口渴了才动工挖井，比喻事先没有准备，事到临头才仓促想办法。",
+      "morphemeHint": {
+        "keyChar": "临渴",
+        "explanation": "平时不筑井备水，直到口渴才开挖；强调缺乏预案与前瞻性，与“未雨绸缪”形成鲜明反义。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "应急准备",
+        "人才储备",
+        "危机应对"
+      ],
+      "collocations": [
+        "切忌临渴掘井",
+        "不能临渴掘井",
+        "临渴掘井式的应对"
+      ],
+      "commonMistake": "专指“事前无准备、事到临头才仓促应对”，不要误用于形容已经及时采取了补救措施（亡羊补牢）。",
+      "tags": [
+        "国考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "防灾减灾重在平时织密预警网络和物资储备，倘若等到灾害袭来才____，往往会错失最佳救援窗口。",
+          "highlightClues": [
+            "重在平时",
+            "等到灾害袭来才",
+            "错失最佳救援窗口"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "未雨绸缪",
+        "亡羊补牢",
+        "临时抱佛脚"
+      ]
+    },
+    {
+      "id": "yin_ye_fei_shi",
+      "word": "因噎废食",
+      "pinyin": "yīn yē fèi shí",
+      "frequency": 5,
+      "coreMeaning": "比喻因害怕出现局部风险或小失误而放弃正常的必要行动。",
+      "morphemeHint": {
+        "keyChar": "噎/废",
+        "explanation": "“噎”是食物卡喉，“废”是放弃；因担心次要弊端或偶发问题而全盘否定、停止必要行动。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "技术创新",
+        "改革试点",
+        "行业监管",
+        "政策推行"
+      ],
+      "collocations": [
+        "不能因噎废食",
+        "切忌因噎废食",
+        "绝不可因噎废食"
+      ],
+      "commonMistake": "高频出现在辩证论述新技术或新业态风险的文段中，如“不能因为存在风险就彻底禁止”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "生成式人工智能在版权归属与数据安全方面尚存争议，但我们应通过完善规则引导其向善发展，绝不能____。",
+          "highlightClues": [
+            "尚存争议",
+            "引导其向善发展",
+            "绝不能"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "矫枉过正",
+        "一刀切",
+        "畏首畏尾"
+      ]
+    },
+    {
+      "id": "wang_er_que_bu",
+      "word": "望而却步",
+      "pinyin": "wàng ér què bù",
+      "frequency": 4,
+      "coreMeaning": "远远看见危险或困难就吓得向后退缩，形容在困难面前退缩不前。",
+      "morphemeHint": {
+        "keyChar": "却步",
+        "explanation": "“望”是看到，“却步”是向后退步；往往还没真正尝试，便被眼前的门槛或难度吓退。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研人员",
+        "投资者",
+        "学习者",
+        "创业者"
+      ],
+      "collocations": [
+        "令人望而却步",
+        "让投资者望而却步",
+        "绝不望而却步"
+      ],
+      "commonMistake": "常与“知难而退”区别：“望而却步”偏看到难度大就退缩不敢试，“知难而退”偏知道困难后理智撤退或畏难放弃。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "深海油气勘探设备研发周期长、沉没成本高，高昂的试错代价曾让不少民营资本____。",
+          "highlightClues": [
+            "研发周期长",
+            "高昂的试错代价"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "知难而退",
+        "畏缩不前",
+        "迎难而上"
+      ]
+    },
+    {
+      "id": "zhi_nan_er_tui",
+      "word": "知难而退",
+      "pinyin": "zhī nán ér tuì",
+      "frequency": 4,
+      "coreMeaning": "知道事情艰难就向后退缩，泛指遇到困难时选择回避或放弃。",
+      "morphemeHint": {
+        "keyChar": "退",
+        "explanation": "与“知难而进”“迎难而上”针锋相对；多含批评畏难情绪之意，偶用于褒义的审时度势撤退。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "团队",
+        "攻关者",
+        "改革者"
+      ],
+      "collocations": [
+        "不能知难而退",
+        "遇事知难而退",
+        "从不知难而退"
+      ],
+      "commonMistake": "感情色彩多为贬义，但在特定语境下也可指认清客观不可为后主动止损；解题时需看上下文态度倾向。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "面对基础学科研究中漫长的“冷板凳”期和屡次失败的实验数据，真正的科研工作者从不____。",
+          "highlightClues": [
+            "漫长的“冷板凳”期",
+            "屡次失败",
+            "从不"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "望而却步",
+        "半途而废",
+        "知难而进"
+      ]
+    },
+    {
+      "id": "gu_zhu_yi_zhi",
+      "word": "孤注一掷",
+      "pinyin": "gū zhù yī zhì",
+      "frequency": 5,
+      "coreMeaning": "比喻在危急时刻不计后果地把全部力量拿出来冒险一搏。",
+      "morphemeHint": {
+        "keyChar": "孤注",
+        "explanation": "原为赌博用语，“孤注”指最后仅存的全部本钱，“掷”是投掷骰子；含盲目冒险、不留余地之意。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "决策",
+        "投资",
+        "企业转型",
+        "军事赌博"
+      ],
+      "collocations": [
+        "孤注一掷地投入",
+        "不能孤注一掷",
+        "堪称孤注一掷"
+      ],
+      "commonMistake": "常考感情色彩辨析：行测中“孤注一掷”多带贬义或警示风险色彩，形容不顾后果地赌博式押注，褒义壮举宜用“破釜沉舟”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在尚未验证市场真实需求之前，就将全部现金流____式地砸向单一高风险赛道，极易导致企业资金链崩盘。",
+          "highlightClues": [
+            "尚未验证",
+            "全部现金流",
+            "资金链崩盘"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "破釜沉舟",
+        "铤而走险",
+        "背水一战"
+      ]
+    },
+    {
+      "id": "ting_er_zou_xian",
+      "word": "铤而走险",
+      "pinyin": "tǐng ér zǒu xiǎn",
+      "frequency": 5,
+      "coreMeaning": "在无路可走或私利驱使下不顾危险地采取极端非法行动。",
+      "morphemeHint": {
+        "keyChar": "铤",
+        "explanation": "“铤”读 tǐng 指快步奔跑的样子，“走险”指奔向险境；形容走投无路或贪欲驱使下的非法/高危冒险。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "不法分子",
+        "暴利驱使者",
+        "绝境中的人"
+      ],
+      "collocations": [
+        "迫使……铤而走险",
+        "切勿铤而走险",
+        "不惜铤而走险"
+      ],
+      "commonMistake": "注意字形是“铤”而非“挺”；贬义词，不可用于形容英雄或改革者勇敢探索未知领域。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易错字形"
+      ],
+      "examples": [
+        {
+          "sentence": "高额非法利润与滞后的惩罚力度，往往会诱导部分缺乏底线意识的从业者无视法律红线而____。",
+          "highlightClues": [
+            "高额非法利润",
+            "无视法律红线"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "孤注一掷",
+        "以身试法",
+        "破釜沉舟"
+      ]
+    },
+    {
+      "id": "wang_yang_bu_lao",
+      "word": "亡羊补牢",
+      "pinyin": "wáng yáng bǔ láo",
+      "frequency": 5,
+      "coreMeaning": "羊丢失了再去修补羊圈，比喻出了差错或损失之后及时采取补救措施以防再犯。",
+      "morphemeHint": {
+        "keyChar": "亡/牢",
+        "explanation": "“亡”是丢失、逃跑，“牢”是关牲口的圈；强调虽然已经受损，但只要及时整改仍然为时不晚。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "风险漏洞",
+        "事后整改",
+        "制度修补"
+      ],
+      "collocations": [
+        "亡羊补牢犹未为晚",
+        "属于亡羊补牢之举",
+        "亡羊补牢不如未雨绸缪"
+      ],
+      "commonMistake": "属于“事后补救”（偏积极认可及时止损，但不如“防患未然”主动）；不要把“亡”误解为死亡。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "重大数据泄露事件发生后，企业迅速封堵接口漏洞并全面加密存储虽然属于____，但若不重塑安全体系仍难消隐患。",
+          "highlightClues": [
+            "事件发生后",
+            "迅速封堵接口漏洞",
+            "虽然属于"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "未雨绸缪",
+        "防患未然",
+        "惩前毖后"
+      ]
+    },
+    {
+      "id": "ling_qi_lu_zao",
+      "word": "另起炉灶",
+      "pinyin": "lìng qǐ lú zào",
+      "frequency": 4,
+      "coreMeaning": "重新支起炉灶做饭，比喻抛开原有的框架、摊子或思路，完全重新做起。",
+      "morphemeHint": {
+        "keyChar": "另起",
+        "explanation": "不沿用旧炉旧灶，而是重新搭建一套新体系；中性词，在语境中既可褒也可贬（如否定重复建设）。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "制度体系",
+        "技术架构",
+        "商业模式",
+        "改革方案"
+      ],
+      "collocations": [
+        "干脆另起炉灶",
+        "并非另起炉灶",
+        "不必另起炉灶"
+      ],
+      "commonMistake": "需注意语境褒贬：有时肯定打破旧框架重塑格局，有时批评丢掉现有积累搞重复建设。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "城市老旧小区改造应当立足现有肌理进行微更新与功能织补，而不是大拆大建、推倒重来式地____。",
+          "highlightClues": [
+            "微更新与功能织补",
+            "推倒重来式地"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "推倒重来",
+        "别开生面",
+        "改弦更张"
+      ]
+    },
+    {
+      "id": "lin_wei_bu_ju",
+      "word": "临危不惧",
+      "pinyin": "lín wēi bù jù",
+      "frequency": 4,
+      "coreMeaning": "面对危险或生死考验时毫不畏惧，形容胆识过人、镇定勇敢。",
+      "morphemeHint": {
+        "keyChar": "不惧",
+        "explanation": "“临”是面对，“惧”是害怕；突出在危险面前展现出的心理定力与无畏勇气。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "救援人员",
+        "科研先锋",
+        "领导者",
+        "战士"
+      ],
+      "collocations": [
+        "表现得临危不惧",
+        "临危不惧的精神",
+        "在险境中临危不惧"
+      ],
+      "commonMistake": "常与“处变不惊”对比：“临危不惧”侧重面对具体人身或局势危险时的勇敢无畏，“处变不惊”侧重面对突发变故时的镇定从容。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "在地震余震不断、山体随时可能滑坡的救援现场，消防突击队员____，连续搜救出十余名被困群众。",
+          "highlightClues": [
+            "余震不断",
+            "随时可能滑坡",
+            "连续搜救"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "处变不惊",
+        "临危受命",
+        "大义凛然"
+      ]
+    },
+    {
+      "id": "chu_bian_bu_jing",
+      "word": "处变不惊",
+      "pinyin": "chǔ biàn bù jīng",
+      "frequency": 4,
+      "coreMeaning": "面对突发变故或异常情况时镇定自若，毫不慌乱。",
+      "morphemeHint": {
+        "keyChar": "处变",
+        "explanation": "“处”读 chǔ 指面对、应对，“变”指突发变故；形容心理素质极稳、富有定力。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "决策者",
+        "谈判代表",
+        "风控团队",
+        "组织心态"
+      ],
+      "collocations": [
+        "保持处变不惊的定力",
+        "处变不惊地应对",
+        "显得处变不惊"
+      ],
+      "commonMistake": "注意“处”读 chǔ，不读 chù；与“临危不惧”相比，更适用非暴力性的突发政策、市场或舆论变局。",
+      "tags": [
+        "国考高频",
+        "字音易错",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "面对外部市场环境的剧烈波动与供应链重构挑战，唯有保持____的战略定力，才能把准产业升级的主动权。",
+          "highlightClues": [
+            "剧烈波动",
+            "战略定力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "临危不惧",
+        "泰然自若",
+        "镇定自若"
+      ]
+    },
+    {
+      "id": "lin_wei_shou_ming",
+      "word": "临危受命",
+      "pinyin": "lín wēi shòu mìng",
+      "frequency": 4,
+      "coreMeaning": "在危急困难的关头接受重任，形容勇于担当、力图挽救危局。",
+      "morphemeHint": {
+        "keyChar": "受命",
+        "explanation": "“临危”指面临危急局势，“受命”指接受任命或重托；凸显困难时刻挺身而出的担当精神。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "将领",
+        "管理者",
+        "技术领军人",
+        "干部"
+      ],
+      "collocations": [
+        "临危受命出任",
+        "在关键时刻临危受命",
+        "临危受命接手"
+      ],
+      "commonMistake": "主语必须是“在危机时刻被委任并接下重担”的人，不能用于平顺时期的正常岗位调动。",
+      "tags": [
+        "省考高频",
+        "语境匹配",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在企业连续三年亏损、核心研发骨干大量流失之际，这位老工程师____，出任总设计师带领团队重整研发体系。",
+          "highlightClues": [
+            "连续三年亏损",
+            "出任总设计师",
+            "带领团队重整"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "力挽狂澜",
+        "挺身而出",
+        "临危不惧"
+      ]
+    },
+    {
+      "id": "zhan_ding_jie_tie",
+      "word": "斩钉截铁",
+      "pinyin": "zhǎn dīng jié tiě",
+      "frequency": 4,
+      "coreMeaning": "像砍断铁钉一样干脆利落，形容说话或行动态度非常坚决果断，毫不拖泥带水。",
+      "morphemeHint": {
+        "keyChar": "斩/截",
+        "explanation": "“斩”“截”均为果断切断之意；多用来修饰表态、拒绝、指令的干脆坚决。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "言辞",
+        "态度",
+        "拒绝",
+        "表态"
+      ],
+      "collocations": [
+        "斩钉截铁地表示",
+        "斩钉截铁地拒绝",
+        "态度斩钉截铁"
+      ],
+      "commonMistake": "多作状语修饰“说”“回答”“拒绝”“驳斥”等语言或明确表态动作，不直接修饰“抓住时机”。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语法功能"
+      ],
+      "examples": [
+        {
+          "sentence": "面对部分平台提出的“放宽未成年人防沉迷限制”试探性诉求，监管方____地予以拒绝，重申保护底线不容动摇。",
+          "highlightClues": [
+            "予以拒绝",
+            "底线不容动摇"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "当机立断",
+        "毅然决然",
+        "果断坚决"
+      ]
+    },
+    {
+      "id": "yi_ran_jue_ran",
+      "word": "毅然决然",
+      "pinyin": "yì rán jué rán",
+      "frequency": 4,
+      "coreMeaning": "意志十分坚决，毫不动摇、毫不犹豫地作出选择或行动。",
+      "morphemeHint": {
+        "keyChar": "毅/决",
+        "explanation": "“毅”指坚毅，“决”指坚决；多用于修饰重大人生抉择或克服阻力时的坚定行动。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "抉择",
+        "行动",
+        "投身事业",
+        "改革决心"
+      ],
+      "collocations": [
+        "毅然决然地投身",
+        "毅然决然地放弃",
+        "毅然决然地踏上"
+      ],
+      "commonMistake": "语义极重，带有崇高或坚毅的感情色彩，一般不用于生活琐事或负面违法举动。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "面对国外科研机构的优厚待遇，这位材料科学家____放弃高薪职位，归国从零搭建自主实验平台。",
+          "highlightClues": [
+            "放弃高薪职位",
+            "归国从零搭建"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "当机立断",
+        "斩钉截铁",
+        "义无反顾"
+      ]
+    },
+    {
+      "id": "fu_di_chou_xin",
+      "word": "釜底抽薪",
+      "pinyin": "fǔ dǐ chōu xīn",
+      "frequency": 5,
+      "coreMeaning": "把锅底下的柴火抽掉，比喻从根本上解决问题或彻底消除矛盾的根源。",
+      "morphemeHint": {
+        "keyChar": "抽薪",
+        "explanation": "“釜”指古代的锅，“薪”指柴火；不撤柴火水永远会开，抽掉柴火才能彻底止沸，即“治本”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "治理方案",
+        "改革举措",
+        "反腐策略",
+        "降本路径"
+      ],
+      "collocations": [
+        "釜底抽薪之策",
+        "采取釜底抽薪的办法",
+        "从根本上釜底抽薪"
+      ],
+      "commonMistake": "常与“扬汤止沸”对比考点；也可用于商战/博弈中切断对手核心优势（此时偏中性），但政论中多指“从源头根治顽疾”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "治理电信网络诈骗不能满足于封堵几个涉诈账号，必须打掉背后的黑灰产资金链与技术温床，方能实现____。",
+          "highlightClues": [
+            "不能满足于",
+            "打掉背后的",
+            "资金链与技术温床"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "扬汤止沸",
+        "标本兼治",
+        "正本清源"
+      ]
+    }
+  ]
+}

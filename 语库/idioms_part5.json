@@ -1,0 +1,2132 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "xi_yi_wei_chang",
+      "word": "习以为常",
+      "pinyin": "xí yǐ wéi cháng",
+      "frequency": 5,
+      "coreMeaning": "指某种事情经常去做或常见到，就觉得很平常、不再感到新鲜或异常。",
+      "morphemeHint": {
+        "keyChar": "习",
+        "explanation": "“习”指“习惯、反复接触”，“常”是平常；侧重人的主观习惯与心理感受。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "人",
+        "生活方式",
+        "工作模式",
+        "现象"
+      ],
+      "collocations": [
+        "早已习以为常",
+        "对此习以为常"
+      ],
+      "commonMistake": "“习以为常”的主语通常是人，强调“人习惯了”；而“司空见惯”既可说人看惯了，也可直接修饰“现象本身常见”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "当刷短视频占据了大量碎片时间，许多年轻人对深度阅读的缺失竟已____，不再觉得有何不妥。",
+          "highlightClues": [
+            "许多年轻人",
+            "竟已",
+            "不再觉得有何不妥"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "司空见惯",
+        "见怪不怪",
+        "安之若素"
+      ]
+    },
+    {
+      "id": "jian_guai_bu_guai",
+      "word": "见怪不怪",
+      "pinyin": "jiàn guài bù guài",
+      "frequency": 4,
+      "coreMeaning": "看到怪异或不正常的现象并不感到奇怪，多指因见多识广或麻木而镇定平常。",
+      "morphemeHint": {
+        "keyChar": "怪",
+        "explanation": "前“怪”指“怪异反常的事物”，后“怪”指“觉得奇怪”；对象往往带有反常或奇特属性。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "反常现象",
+        "奇特言行",
+        "行业乱象"
+      ],
+      "collocations": [
+        "对此见怪不怪",
+        "早已见怪不怪"
+      ],
+      "commonMistake": "适用对象一般带有“反常、少见、不合常规”的意味；若是普通日常事物，用“习以为常”更贴切。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对网络空间层出不穷的营销套路，年轻消费者早已____，能够迅速识别其中的商业滤镜。",
+          "highlightClues": [
+            "层出不穷的营销套路",
+            "早已",
+            "迅速识别"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "司空见惯",
+        "习以为常",
+        "泰然处之"
+      ]
+    },
+    {
+      "id": "zhi_zhi_du_wai",
+      "word": "置之度外",
+      "pinyin": "zhì zhī dù wài",
+      "frequency": 4,
+      "coreMeaning": "放在自己的考虑之外，指不把个人的安危、荣辱或得失放在心上。",
+      "morphemeHint": {
+        "keyChar": "度",
+        "explanation": "“度”读 dù，指“考虑、计较”；多用于把个人生死、名利、安危抛在脑后，常作褒义。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "个人安危",
+        "生死",
+        "荣辱",
+        "得失"
+      ],
+      "collocations": [
+        "将个人安危置之度外",
+        "把生死置之度外"
+      ],
+      "commonMistake": "常与“置之不理”混用；“置之度外”多为褒义，对象是“个人安危、名利”；“置之不理”多为贬义，对象是“他人诉求、问题”。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在抗洪抢险第一线，广大救援人员将个人安危____，连续奋战在堤坝加固最前沿。",
+          "highlightClues": [
+            "抗洪抢险第一线",
+            "个人安危",
+            "连续奋战"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "置之不理",
+        "置若罔闻",
+        "不以为意"
+      ]
+    },
+    {
+      "id": "zhi_zhi_bu_li",
+      "word": "置之不理",
+      "pinyin": "zhì zhī bù lǐ",
+      "frequency": 4,
+      "coreMeaning": "放在一边不加理睬，形容对别人的要求、问题或事务冷漠对待、不予过问。",
+      "morphemeHint": {
+        "keyChar": "理",
+        "explanation": "“理”指“理睬、处理”；强调有事或有诉求摆在面前却不闻不问、不去解决。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "诉求",
+        "问题",
+        "投诉",
+        "建议"
+      ],
+      "collocations": [
+        "对此置之不理",
+        "不能置之不理"
+      ],
+      "commonMistake": "与“束之高阁”区别：“置之不理”重在不理睬，“束之高阁”重在把方案、制度、书籍搁置起来不去实施或使用。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对消费者提交的售后维权申请，商家绝不能以“系统升级”为借口____。",
+          "highlightClues": [
+            "售后维权申请",
+            "绝不能",
+            "为借口"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "置之度外",
+        "置若罔闻",
+        "束之高阁"
+      ]
+    },
+    {
+      "id": "shu_zhi_gao_ge",
+      "word": "束之高阁",
+      "pinyin": "shù zhī gāo gé",
+      "frequency": 5,
+      "coreMeaning": "捆起来放在高高的架子上，比喻把制度、方案或书籍等搁置一旁不去使用。",
+      "morphemeHint": {
+        "keyChar": "阁",
+        "explanation": "“高阁”指高处储物架；原指把书捆起来藏在高阁不读，现多指制度、调研成果未被落实。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "制度",
+        "方案",
+        "调研报告",
+        "典籍"
+      ],
+      "collocations": [
+        "将制度束之高阁",
+        "不能把规划束之高阁"
+      ],
+      "commonMistake": "适用对象多为有形的文本、规范、理论、研究成果等，一般不用于“群众”“安危”等对象。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "制定出台的行业标准不能仅停留在文件上或被____，而必须转化为日常监管中的刚性约束。",
+          "highlightClues": [
+            "停留在文件上",
+            "转化为",
+            "刚性约束"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "置之不理",
+        "纸上谈兵",
+        "空谈误国"
+      ]
+    },
+    {
+      "id": "deng_xian_shi_zhi",
+      "word": "等闲视之",
+      "pinyin": "děng xián shì zhī",
+      "frequency": 4,
+      "coreMeaning": "把某事看作平常小事一样对待，形容轻视、不重视，常用于否定句中。",
+      "morphemeHint": {
+        "keyChar": "等闲",
+        "explanation": "“等闲”即“寻常、一般”；“视之”即看待它，常与“不可”“切忌”“绝不能”连用。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "隐患",
+        "挑战",
+        "变化",
+        "基础工作"
+      ],
+      "collocations": [
+        "切不可等闲视之",
+        "绝不能等闲视之"
+      ],
+      "commonMistake": "行测中极高频地出现在“切不可/绝不能/岂能____”等否定反问结构中，表示必须高度重视。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "全球气候变化引发的极端天气事件频发，对粮食安全构成的潜在威胁绝不能____。",
+          "highlightClues": [
+            "极端天气事件频发",
+            "潜在威胁",
+            "绝不能"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "掉以轻心",
+        "不以为意",
+        "轻描淡写"
+      ]
+    },
+    {
+      "id": "diao_yi_qing_xin",
+      "word": "掉以轻心",
+      "pinyin": "diào yǐ qīng xīn",
+      "frequency": 5,
+      "coreMeaning": "用轻率漫不经心的态度去对待，形容对重要事情缺乏应有的警惕与认真。",
+      "morphemeHint": {
+        "keyChar": "轻",
+        "explanation": "“轻心”指大意、不重视；多用于面对风险、困难或阶段性胜利时提醒不能松懈。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "工作",
+        "风险",
+        "安全",
+        "疫情"
+      ],
+      "collocations": [
+        "切忌掉以轻心",
+        "不可掉以轻心",
+        "稍有好转便掉以轻心"
+      ],
+      "commonMistake": "常用于警示性语境（不可、切莫、不能）；不能用于描述对他人观点不赞同。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "防汛工作虽已取得阶段性成效，但在主汛期尚未结束前，各地各部门丝毫不能____。",
+          "highlightClues": [
+            "取得阶段性成效",
+            "尚未结束前",
+            "丝毫不能"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "麻痹大意",
+        "等闲视之",
+        "不以为意"
+      ]
+    },
+    {
+      "id": "ma_bi_da_yi",
+      "word": "麻痹大意",
+      "pinyin": "má bì dà yì",
+      "frequency": 4,
+      "coreMeaning": "思想上失去应有的警惕，松懈疏忽而对潜在危险缺乏防备。",
+      "morphemeHint": {
+        "keyChar": "麻",
+        "explanation": "“麻痹”原指神经失去知觉，引申为丧失警觉性；常与“思想松懈”“安全隐患”搭配。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "安全管理",
+        "风险防控",
+        "思想态度"
+      ],
+      "collocations": [
+        "切忌麻痹大意",
+        "克服麻痹大意思想",
+        "因麻痹大意导致事故"
+      ],
+      "commonMistake": "多用于安全、防灾、保密等需要保持警惕的领域；不用于形容粗心算错数字等纯粹细心度问题。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "多数实验室安全事故并非源于技术难题，而是由于操作人员长期____、违规简化流程所致。",
+          "highlightClues": [
+            "安全事故",
+            "违规简化流程"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "掉以轻心",
+        "盲目乐观",
+        "等闲视之"
+      ]
+    },
+    {
+      "id": "xiao_ti_da_zuo",
+      "word": "小题大做",
+      "pinyin": "xiǎo tí dà zuò",
+      "frequency": 4,
+      "coreMeaning": "把小事当作大事来夸张处理，形容对小问题反应过度、不合比例。",
+      "morphemeHint": {
+        "keyChar": "大",
+        "explanation": "原指科举用小题目做大文章，现指把微不足道的事故意放大或过度反应。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "舆论反应",
+        "争议",
+        "管理措施",
+        "矛盾"
+      ],
+      "collocations": [
+        "切忌小题大做",
+        "被批小题大做",
+        "看似小题大做"
+      ],
+      "commonMistake": "注意语境正反：若强调“小隐患也要重视”，不能用贬义的“小题大做”，而应说“防微杜渐”。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "对于未成年人沉迷网络的问题，家长和学校绝非____，而是关系到青少年身心健康的系统工程。",
+          "highlightClues": [
+            "绝非",
+            "而是关系到青少年身心健康"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "杞人忧天",
+        "庸人自扰",
+        "大惊小怪"
+      ]
+    },
+    {
+      "id": "qi_ren_you_tian",
+      "word": "杞人忧天",
+      "pinyin": "qǐ rén yōu tiān",
+      "frequency": 5,
+      "coreMeaning": "为根本不会发生或毫无根据的事情而担忧，形容不必要的过度忧虑。",
+      "morphemeHint": {
+        "keyChar": "忧",
+        "explanation": "出自杞国人担心天塌的寓言，核心在于所忧之事“子虚乌有、缺乏现实依据”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "担忧",
+        "顾虑",
+        "风险预判"
+      ],
+      "collocations": [
+        "并非杞人忧天",
+        "简直是杞人忧天"
+      ],
+      "commonMistake": "常与“庸人自扰”辨析：“杞人忧天”侧重担忧并不存在的外在灾祸，“庸人自扰”侧重自己胡思乱想找烦恼；行测常用于否定句“并非____”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "科学界对通用人工智能失控风险的警示并非____，而是基于算力指数级跃升后的理性推演。",
+          "highlightClues": [
+            "警示",
+            "并非",
+            "而是基于",
+            "理性推演"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "庸人自扰",
+        "居安思危",
+        "未雨绸缪"
+      ]
+    },
+    {
+      "id": "yong_ren_zi_rao",
+      "word": "庸人自扰",
+      "pinyin": "yōng rén zì rǎo",
+      "frequency": 4,
+      "coreMeaning": "原本没有问题，平庸的人却自己给自己制造烦恼和焦虑。",
+      "morphemeHint": {
+        "keyChar": "自",
+        "explanation": "“自扰”即自己扰乱自己；重在主观心态上的多疑、多余焦虑，与“杞人忧天”近义。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人心态",
+        "疑虑",
+        "精神内耗"
+      ],
+      "collocations": [
+        "纯属庸人自扰",
+        "不必庸人自扰"
+      ],
+      "commonMistake": "侧重“没事找事、自己烦恼”；若语境强调对宏观趋势或外部危机的预判是否多余，优先选“杞人忧天”。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "与其在未知结果面前过度焦虑、____，不如把精力投入到眼下可控制的具体行动中去。",
+          "highlightClues": [
+            "过度焦虑",
+            "不如",
+            "投入到眼下"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "杞人忧天",
+        "自寻烦恼",
+        "瞻前顾后"
+      ]
+    },
+    {
+      "id": "ju_an_si_wei",
+      "word": "居安思危",
+      "pinyin": "jū ān sī wēi",
+      "frequency": 5,
+      "coreMeaning": "处在安定的环境中仍想到可能出现的危险，强调保持高度的忧患意识。",
+      "morphemeHint": {
+        "keyChar": "思",
+        "explanation": "“居安”是处于顺境，“思危”是思考潜在风险；重在思想上的忧患意识，不含具体行动。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "国家治理",
+        "企业发展",
+        "领导干部"
+      ],
+      "collocations": [
+        "时刻居安思危",
+        "增强居安思危意识"
+      ],
+      "commonMistake": "常与“未雨绸缪”混淆：“居安思危”重在意识层面的警惕，“未雨绸缪”重在事先采取实质性准备行动。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "越是经济运行平稳向好，越要保持____的清醒头脑，提前研判外部环境变化可能带来的冲击。",
+          "highlightClues": [
+            "越是",
+            "平稳向好",
+            "清醒头脑",
+            "提前研判"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "未雨绸缪",
+        "防患未然",
+        "防微杜渐"
+      ]
+    },
+    {
+      "id": "wei_yu_chou_mou",
+      "word": "未雨绸缪",
+      "pinyin": "wèi yǔ chóu móu",
+      "frequency": 5,
+      "coreMeaning": "趁着天还没下雨就把门窗修补好，比喻在事前就做好充分的准备工作。",
+      "morphemeHint": {
+        "keyChar": "缪",
+        "explanation": "“绸缪”读 chóu móu，本义是修缮捆扎；核心在于灾害或变化尚未到来前便已着手准备。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "风险防范",
+        "战略布局",
+        "应急储备"
+      ],
+      "collocations": [
+        "提前未雨绸缪",
+        "做到未雨绸缪",
+        "未雨绸缪的布局"
+      ],
+      "commonMistake": "常与“防微杜渐”辨析：“未雨绸缪”重在为未来可能发生的事“提前准备”；“防微杜渐”重在不良苗头刚露头时“及时制止”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "面对人口老龄化加速的长期趋势，完善多层次养老保障体系必须____，尽早完成制度与资金储备。",
+          "highlightClues": [
+            "长期趋势",
+            "尽早完成制度与资金储备"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "居安思危",
+        "防患未然",
+        "防微杜渐"
+      ]
+    },
+    {
+      "id": "fang_wei_du_jian",
+      "word": "防微杜渐",
+      "pinyin": "fáng wēi dù jiàn",
+      "frequency": 5,
+      "coreMeaning": "在错误或不良倾向刚露苗头时就加以制止，防止它继续发展扩大。",
+      "morphemeHint": {
+        "keyChar": "微",
+        "explanation": "“微”指细小苗头，“渐”指蔓延发展；前提是坏现象已经出现微小端倪，必须趁早遏制。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "廉政建设",
+        "作风问题",
+        "安全隐患",
+        "不良倾向"
+      ],
+      "collocations": [
+        "坚持防微杜渐",
+        "做到防微杜渐"
+      ],
+      "commonMistake": "常与“防患未然”混淆：“防微杜渐”是隐患已露小苗头时遏制，“防患未然”是隐患尚未发生前防范；且不可用于好事。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "许多大案要案往往始于一顿饭、一张卡的小节失守，正因如此，纪律建设才更要抓早抓小、____。",
+          "highlightClues": [
+            "始于",
+            "小节失守",
+            "抓早抓小"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "防患未然",
+        "未雨绸缪",
+        "见微知著"
+      ]
+    },
+    {
+      "id": "fang_huan_wei_ran",
+      "word": "防患未然",
+      "pinyin": "fáng huàn wèi rán",
+      "frequency": 5,
+      "coreMeaning": "在祸患尚未发生之前就采取措施加以预防，避免造成实际损失。",
+      "morphemeHint": {
+        "keyChar": "未然",
+        "explanation": "“未然”指事情还没有变成这样，“患”指祸患灾害；强调在事故形成前消除隐患。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "灾害",
+        "金融风险",
+        "安全事故",
+        "系统漏洞"
+      ],
+      "collocations": [
+        "做到防患未然",
+        "真正防患未然"
+      ],
+      "commonMistake": "常见错误写法是误写作“防患于未然”混用成语本身字数，单独填四字成语时应为“防患未然”；多指防范负面祸患。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "城市地下管网智能化改造能够实时监测渗漏与压力异常，从而将内涝和爆管风险消除在萌芽状态、____。",
+          "highlightClues": [
+            "实时监测",
+            "消除在萌芽状态"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "防微杜渐",
+        "未雨绸缪",
+        "居安思危"
+      ]
+    },
+    {
+      "id": "hui_ji_ji_yi",
+      "word": "讳疾忌医",
+      "pinyin": "huì jí jì yī",
+      "frequency": 5,
+      "coreMeaning": "隐瞒疾病而不愿医治，比喻掩饰自己的缺点错误而不愿接受批评改正。",
+      "morphemeHint": {
+        "keyChar": "讳",
+        "explanation": "“讳”指隐瞒不说，“忌”指害怕回避；核心在于害怕暴露问题、拒绝外部帮扶纠错。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "缺点",
+        "错误",
+        "体制弊端",
+        "社会病灶"
+      ],
+      "collocations": [
+        "切忌讳疾忌医",
+        "不能讳疾忌医"
+      ],
+      "commonMistake": "常与“文过饰非”辨析：“讳疾忌医”重在隐瞒问题、逃避纠正与监督；“文过饰非”重在用漂亮言辞掩饰辩解过错。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "推进改革要有刀刃向内的勇气，对于工作中存在的深层次体制障碍绝不能____，而应主动剖析根源。",
+          "highlightClues": [
+            "刀刃向内的勇气",
+            "深层次体制障碍",
+            "主动剖析根源"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "文过饰非",
+        "掩耳盗铃",
+        "自欺欺人"
+      ]
+    },
+    {
+      "id": "wen_guo_shi_fei",
+      "word": "文过饰非",
+      "pinyin": "wén guò shì fēi",
+      "frequency": 4,
+      "coreMeaning": "用华丽或冠冕堂皇的言辞掩饰自己的过失和错误，拒绝诚恳认错。",
+      "morphemeHint": {
+        "keyChar": "文",
+        "explanation": "“文”读 wén，动词，意为“掩饰、粉饰”；“饰”也是掩盖之意，不要误解为文章。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "过失",
+        "错误",
+        "责任人",
+        "回应"
+      ],
+      "collocations": [
+        "百般文过饰非",
+        "拒绝文过饰非"
+      ],
+      "commonMistake": "易望文生义误解为“写文章议论是非”；实际指用借口、托词掩盖自己的过错。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对审计查出的资金管理漏洞，相关负责人不思整改，反而巧立名目____，终究难逃问责。",
+          "highlightClues": [
+            "资金管理漏洞",
+            "不思整改",
+            "巧立名目"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "讳疾忌医",
+        "掩耳盗铃",
+        "强词夺理"
+      ]
+    },
+    {
+      "id": "yan_er_dao_ling",
+      "word": "掩耳盗铃",
+      "pinyin": "yǎn ěr dào líng",
+      "frequency": 5,
+      "coreMeaning": "捂住自己的耳朵去偷铃铛，比喻自己欺骗自己，做自以为别人不知道的蠢事。",
+      "morphemeHint": {
+        "keyChar": "自",
+        "explanation": "核心逻辑是“只蒙蔽自己感官而客观事实照样存在”，具有明显的愚蠢自我欺骗意味。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "欺骗行为",
+        "表面文章",
+        "回避问题"
+      ],
+      "collocations": [
+        "无异于掩耳盗铃",
+        "这种掩耳盗铃的做法"
+      ],
+      "commonMistake": "与“自欺欺人”略有区别：“掩耳盗铃”侧重客观事实明显存在却靠自我蒙蔽逃避；“自欺欺人”既骗自己又企图蒙骗他人。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "靠在环保监测设备周围人为喷水降尘来美化数据的做法，无异于____，既改变不了空气质量，也瞒不住监管。",
+          "highlightClues": [
+            "人为喷水降尘来美化数据",
+            "无异于",
+            "改变不了空气质量"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "自欺欺人",
+        "讳疾忌医",
+        "文过饰非"
+      ]
+    },
+    {
+      "id": "zi_qi_qi_ren",
+      "word": "自欺欺人",
+      "pinyin": "zì qī qī rén",
+      "frequency": 4,
+      "coreMeaning": "用自己都不相信的假象或话语来欺骗自己，同时也企图欺骗别人。",
+      "morphemeHint": {
+        "keyChar": "欺",
+        "explanation": "既“欺自”又“欺人”，不仅自我麻痹，还试图让外界相信虚幻的假象或结论。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "虚假宣传",
+        "自我安慰",
+        "形式主义"
+      ],
+      "collocations": [
+        "纯属自欺欺人",
+        "不要自欺欺人"
+      ],
+      "commonMistake": "若语境只强调“在众人皆知的事实面前硬要捂住耳朵自以为没人知”，选“掩耳盗铃”更形象。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "把低水平重复建设包装成“产业集群跃升”，不过是政绩观扭曲下____的数字游戏。",
+          "highlightClues": [
+            "低水平重复建设",
+            "包装成",
+            "数字游戏"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "掩耳盗铃",
+        "文过饰非",
+        "讳疾忌医"
+      ]
+    },
+    {
+      "id": "xiong_you_cheng_zhu",
+      "word": "胸有成竹",
+      "pinyin": "xiōng yǒu chéng zhú",
+      "frequency": 5,
+      "coreMeaning": "画竹前心里已先有完整的竹子形象，比喻做事之前心里早有通盘打算和把握。",
+      "morphemeHint": {
+        "keyChar": "成",
+        "explanation": "“成竹”指胸中已成型的高瞻构想；重在“事先心中已有周密谋划和充分信心”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "办事",
+        "应对挑战",
+        "方案策划"
+      ],
+      "collocations": [
+        "显得胸有成竹",
+        "早已胸有成竹"
+      ],
+      "commonMistake": "常与“成竹在胸”同义，但不可说成“心中早已胸有成竹”（“胸”与“心中”重复累赘）。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "因为此前进行了上百次极限工况仿真测试，科研团队在发射窗口开启时显得____、从容不迫。",
+          "highlightClues": [
+            "此前进行了上百次",
+            "仿真测试",
+            "从容不迫"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "深思熟虑",
+        "心中有数",
+        "泰然处之"
+      ]
+    },
+    {
+      "id": "shen_si_shu_lv",
+      "word": "深思熟虑",
+      "pinyin": "shēn sī shú lǜ",
+      "frequency": 4,
+      "coreMeaning": "深入细致地反复思考，形容做决定前考量周详、十分慎重。",
+      "morphemeHint": {
+        "keyChar": "熟",
+        "explanation": "“熟”指周详透彻；重在思考过程本身非常深入细致，时间跨度偏重当下的重大决策。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "决策",
+        "改革方案",
+        "人生选择"
+      ],
+      "collocations": [
+        "经过深思熟虑",
+        "深思熟虑后作出决定"
+      ],
+      "commonMistake": "常与“深谋远虑”辨析：“深思熟虑”重在思考得深入周全，“深谋远虑”重在谋划得长远。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "这项涉及数百万户家庭切身利益的医保改革方案，是相关部门经过多轮调研和____后才正式落地的。",
+          "highlightClues": [
+            "涉及数百万户",
+            "多轮调研",
+            "正式落地"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "深谋远虑",
+        "审时度势",
+        "胸有成竹"
+      ]
+    },
+    {
+      "id": "shen_mou_yuan_lv",
+      "word": "深谋远虑",
+      "pinyin": "shēn móu yuǎn lǜ",
+      "frequency": 5,
+      "coreMeaning": "周密地计划并作长远的打算，形容看问题和筹划事务极具长远眼光。",
+      "morphemeHint": {
+        "keyChar": "远",
+        "explanation": "“深”是周密，“远”是着眼长久未来；强调时间纵深上的战略谋划能力。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "战略规划",
+        "政治家",
+        "企业布局"
+      ],
+      "collocations": [
+        "深谋远虑的战略",
+        "体现出深谋远虑"
+      ],
+      "commonMistake": "与“高瞻远瞩”区别：“深谋远虑”重在筹划安排的长远周密（偏重“谋”）；“高瞻远瞩”重在站得高看得远（偏重“看”）。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "我国在基础学科人才培养上推进“强基计划”，正是着眼于科技自立自强长远大局的____之举。",
+          "highlightClues": [
+            "基础学科人才培养",
+            "长远大局"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "深思熟虑",
+        "高瞻远瞩",
+        "未雨绸缪"
+      ]
+    },
+    {
+      "id": "gao_zhan_yuan_zhu",
+      "word": "高瞻远瞩",
+      "pinyin": "gāo zhān yuǎn zhǔ",
+      "frequency": 5,
+      "coreMeaning": "站得高看得远，形容眼光远大、具有把握未来大势的战略视野。",
+      "morphemeHint": {
+        "keyChar": "瞩",
+        "explanation": "“瞻”是望，“瞩”是注视；重点落在视野高度和远见卓识，而非具体细节操作。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "战略眼光",
+        "决策者",
+        "顶层设计"
+      ],
+      "collocations": [
+        "高瞻远瞩的部署",
+        "眼光高瞻远瞩"
+      ],
+      "commonMistake": "常与“高屋建瓴”辨析：“高瞻远瞩”重在眼光长远（时间维度）；“高屋建瓴”重在居高临下、统揽全局的气势（空间/格局维度）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "早在新能源汽车产业尚未形成规模之际，相关产业规划便以____的战略定力布局电池与充电基础设施。",
+          "highlightClues": [
+            "尚未形成规模之际",
+            "战略定力",
+            "布局"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "高屋建瓴",
+        "深谋远虑",
+        "审时度势"
+      ]
+    },
+    {
+      "id": "shen_shi_du_shi",
+      "word": "审时度势",
+      "pinyin": "shěn shí dù shì",
+      "frequency": 5,
+      "coreMeaning": "仔细观察分析当前时局并估计形势的发展变化，从而作出合理判断。",
+      "morphemeHint": {
+        "keyChar": "度",
+        "explanation": "“度”读 dù，意为推测、估量；“审”是审察；强调依据客观形势变化灵活作出判断。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "决策者",
+        "企业转型",
+        "外交与改革"
+      ],
+      "collocations": [
+        "善于审时度势",
+        "审时度势作出调整"
+      ],
+      "commonMistake": "不要误读为 duó；与“见风使舵”的区别在于“审时度势”是褒义的理性研判，“见风使舵”是贬义的投机钻营。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对国际供应链格局的深刻重塑，外贸企业必须学会____，及时调整市场布局与产品结构。",
+          "highlightClues": [
+            "格局的深刻重塑",
+            "及时调整市场布局"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "高瞻远瞩",
+        "因势利导",
+        "随机应变"
+      ]
+    },
+    {
+      "id": "dong_xi_qiu_hao",
+      "word": "洞悉秋毫",
+      "pinyin": "dòng xī qiū háo",
+      "frequency": 3,
+      "coreMeaning": "透彻地了解极其细微的事物，形容观察力敏锐、对细节变化掌握得非常透彻。",
+      "morphemeHint": {
+        "keyChar": "悉",
+        "explanation": "“洞”是透彻，“悉”是详尽了解，“秋毫”指极细微之物；侧重知晓了解得很全面细致。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "市场需求",
+        "数据变化",
+        "民情细节"
+      ],
+      "collocations": [
+        "洞悉秋毫的敏锐",
+        "对变化洞悉秋毫"
+      ],
+      "commonMistake": "常与“洞察秋毫”“明察秋毫”形成一字之差辨析：“洞悉秋毫”偏重掌握知晓细节；“洞察/明察秋毫”偏重眼光敏锐看透一切。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "优秀的社会调查者不仅要有把握宏观结构的能力，更要具备____的微观体察，从日常细节中听懂弦外之音。",
+          "highlightClues": [
+            "宏观结构",
+            "微观体察",
+            "日常细节"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "洞察秋毫",
+        "明察秋毫",
+        "洞若观火"
+      ]
+    },
+    {
+      "id": "dong_cha_qiu_hao",
+      "word": "洞察秋毫",
+      "pinyin": "dòng chá qiū háo",
+      "frequency": 4,
+      "coreMeaning": "非常清晰透彻地看清极细微的事物，形容洞察力极其敏锐深刻。",
+      "morphemeHint": {
+        "keyChar": "察",
+        "explanation": "“察”是看清、观察；与“明察秋毫”相比，“洞察”更突出穿透表象深入本质的观察深度。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科技仪器",
+        "舆论观察",
+        "案件侦破"
+      ],
+      "collocations": [
+        "洞察秋毫之眼",
+        "犹如洞察秋毫"
+      ],
+      "commonMistake": "“洞察秋毫”既可形容人的判断洞察力，也常在科技科普语境中比喻高精度观测设备（如射电望远镜、显微镜）分辨细微结构。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "新一代冷冻电镜就像一双____的科学慧眼，让研究人员得以直接看清蛋白质分子在原子尺度的构象变化。",
+          "highlightClues": [
+            "冷冻电镜",
+            "科学慧眼",
+            "原子尺度的构象变化"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "洞悉秋毫",
+        "明察秋毫",
+        "洞若观火"
+      ]
+    },
+    {
+      "id": "ming_cha_qiu_hao",
+      "word": "明察秋毫",
+      "pinyin": "míng chá qiū háo",
+      "frequency": 5,
+      "coreMeaning": "能看清秋天鸟兽新长的细毛，形容目光敏锐，连极微小的事情也能看清。",
+      "morphemeHint": {
+        "keyChar": "明",
+        "explanation": "出自《孟子》“明足以察秋毫之末”，既可指眼力敏锐，也指领导者善于体察细节、明辨是非。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "管理者",
+        "执法者",
+        "分析能力"
+      ],
+      "collocations": [
+        "明察秋毫而不见舆薪",
+        "具备明察秋毫的眼光"
+      ],
+      "commonMistake": "注意有些文段会引用“明察秋毫，不见舆薪”来讽刺只抓小细节而忽视大局的片面思维，须结合语境判断褒贬。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "智慧监管平台通过对海量交易数据的实时比对，能够____地捕捉到隐蔽的异常资金流向。",
+          "highlightClues": [
+            "海量交易数据",
+            "捕捉到隐蔽的异常"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "洞察秋毫",
+        "洞悉秋毫",
+        "见微知著"
+      ]
+    },
+    {
+      "id": "dong_ruo_guan_huo",
+      "word": "洞若观火",
+      "pinyin": "dòng ruò guān huǒ",
+      "frequency": 5,
+      "coreMeaning": "对事物看得透彻明白，就像看清黑夜里燃烧的火光一样清晰无误。",
+      "morphemeHint": {
+        "keyChar": "火",
+        "explanation": "“洞”是透彻，“观火”指看火一样一目了然；侧重对局势、规律或本质问题看得极其透彻。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "局势",
+        "规律",
+        "人心",
+        "问题本质"
+      ],
+      "collocations": [
+        "对局势洞若观火",
+        "可谓洞若观火"
+      ],
+      "commonMistake": "强调“对本质规律看得很明白”，不带宾语直接修饰“对……洞若观火”；与“明察秋毫”的区别在于前者重全局透彻，后者重细节敏锐。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "作者对近百年产业技术更迭的底层逻辑____，因此能用寥寥数语便点破当前转型期的关键瓶颈。",
+          "highlightClues": [
+            "底层逻辑",
+            "寥寥数语便点破",
+            "关键瓶颈"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "明察秋毫",
+        "洞察秋毫",
+        "了如指掌"
+      ]
+    },
+    {
+      "id": "jian_wei_zhi_zhu",
+      "word": "见微知著",
+      "pinyin": "jiàn wēi zhī zhù",
+      "frequency": 5,
+      "coreMeaning": "看到微小的苗头就能推知事物的发展趋势和本质全貌。",
+      "morphemeHint": {
+        "keyChar": "著",
+        "explanation": "“著”读 zhù，指“明显、大趋势”；重在由小及大、通过细微迹象推知未来大势的洞察能力。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "趋势判断",
+        "科学研究",
+        "风险预警"
+      ],
+      "collocations": [
+        "善于见微知著",
+        "具备见微知著的洞察力"
+      ],
+      "commonMistake": "常与“防微杜渐”混淆：“见微知著”是认知判断能力（中性或褒义，能推知大势）；“防微杜渐”是行动举措（制止坏苗头）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "优秀的科学史研究者往往能够____，从一篇不起眼的实验笔记中敏锐捕捉到范式革命的先声。",
+          "highlightClues": [
+            "不起眼的实验笔记",
+            "敏锐捕捉到",
+            "先声"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一叶知秋",
+        "防微杜渐",
+        "明察秋毫"
+      ]
+    },
+    {
+      "id": "yi_ye_zhi_qiu",
+      "word": "一叶知秋",
+      "pinyin": "yī yè zhī qiū",
+      "frequency": 4,
+      "coreMeaning": "从一片树叶的凋落就知道秋天将至，比喻通过个别细微迹象预见大趋势变化。",
+      "morphemeHint": {
+        "keyChar": "知",
+        "explanation": "重在从局部的微小先兆推测整体大局或季节趋势的到来，与“一叶障目”刚好相反。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "市场风向",
+        "社会变迁",
+        "危机先兆"
+      ],
+      "collocations": [
+        "正所谓一叶知秋",
+        "由此一叶知秋"
+      ],
+      "commonMistake": "不要与“一叶障目”混淆：“一叶知秋”是见小知大（聪明敏锐）；“一叶障目”是被小遮大（目光短浅）。",
+      "tags": [
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "一线城市二手房成交周期的细微变化往往可以____，提前折射出整个房地产市场预期冷暖。",
+          "highlightClues": [
+            "细微变化",
+            "提前折射出",
+            "市场预期冷暖"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "见微知著",
+        "一叶障目",
+        "管中窥豹"
+      ]
+    },
+    {
+      "id": "shi_shi_qiu_shi",
+      "word": "实事求是",
+      "pinyin": "shí shì qiú shì",
+      "frequency": 5,
+      "coreMeaning": "从客观实际出发，不主观臆断、不夸大缩小，探求事物本来的内在规律。",
+      "morphemeHint": {
+        "keyChar": "求",
+        "explanation": "“实事”指客观存在的一切事物，“是”指规律；核心在于尊重客观事实和科学精神。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "工作作风",
+        "科学态度",
+        "评价标准"
+      ],
+      "collocations": [
+        "坚持实事求是",
+        "秉持实事求是的态度"
+      ],
+      "commonMistake": "多作定语、状语或谓语，强调不虚夸、不盲从、按客观实际情况分析和办事。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "评价一项基层改革试点是否成功，必须秉持____的态度，既要看创新亮点，也要敢于直面暴露出的短板。",
+          "highlightClues": [
+            "既要看创新亮点",
+            "也要敢于直面暴露出的短板"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "客观公正",
+        "主观臆断",
+        "文过饰非"
+      ]
+    },
+    {
+      "id": "jian_ren_jian_zhi",
+      "word": "见仁见智",
+      "pinyin": "jiàn rén jiàn zhì",
+      "frequency": 5,
+      "coreMeaning": "对同一事物从不同角度出发会产生不同的理解和看法，各有各的道理。",
+      "morphemeHint": {
+        "keyChar": "见",
+        "explanation": "“仁者见仁，智者见智”的缩略；强调看问题的角度和立场不同导致结论有差异，属中性客观描述。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "艺术评价",
+        "学术争鸣",
+        "政策讨论"
+      ],
+      "collocations": [
+        "对此见仁见智",
+        "历来见仁见智"
+      ],
+      "commonMistake": "常用于尚无定论、允许多元解读的问题；若语境强调“是非黑白分明”或“各自固执错误”，不能用“见仁见智”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "关于人工智能生成内容是否具备法律意义上的著作权主体资格，法学界与产业界目前依然____。",
+          "highlightClues": [
+            "是否具备",
+            "法学界与产业界",
+            "依然"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "莫衷一是",
+        "不置可否",
+        "各执一词"
+      ]
+    },
+    {
+      "id": "bu_zhi_ke_fou",
+      "word": "不置可否",
+      "pinyin": "bù zhì kě fǒu",
+      "frequency": 5,
+      "coreMeaning": "不说行，也不说不行，指不表明明确的态度，立场含糊回避。",
+      "morphemeHint": {
+        "keyChar": "置",
+        "explanation": "“置”指表示，“可”是同意，“否”是反对；既不赞成也不反对，重在“不表态”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "官员表态",
+        "专家回应",
+        "审慎态度"
+      ],
+      "collocations": [
+        "对此不置可否",
+        "始终不置可否"
+      ],
+      "commonMistake": "极易望文生义误以为“不可否认”；实际意思恰恰是“既不说对也不说不对、不表态”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "当记者追问该并购项目是否存在估值泡沫时，公司发言人只是微笑着____，没有给出正面回应。",
+          "highlightClues": [
+            "追问",
+            "没有给出正面回应"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "模棱两可",
+        "含糊其辞",
+        "无可厚非"
+      ]
+    },
+    {
+      "id": "mo_leng_liang_ke",
+      "word": "模棱两可",
+      "pinyin": "mó léng liǎng kě",
+      "frequency": 5,
+      "coreMeaning": "对事物的态度或表述含糊不清，正反两方面都可以解释，缺乏明确立场。",
+      "morphemeHint": {
+        "keyChar": "两",
+        "explanation": "“模棱”原指摸着桌子两边的棱角；既可指“态度不明确”，也可指“语言表述含混歧义”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "条款表述",
+        "官方表态",
+        "判断结论"
+      ],
+      "collocations": [
+        "模棱两可的回答",
+        "表述模棱两可"
+      ],
+      "commonMistake": "与“不置可否”辨析：“不置可否”偏重说话人“不表态”（多用人作主语）；“模棱两可”既可指人，也可指文辞、条款“本身含义含糊”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "法律法规的条文必须严谨清晰，如果用词____，在具体执法过程中就会留出自由裁量过大的漏洞。",
+          "highlightClues": [
+            "必须严谨清晰",
+            "如果用词",
+            "留出",
+            "漏洞"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不置可否",
+        "似是而非",
+        "含糊其辞"
+      ]
+    },
+    {
+      "id": "tai_ran_chu_zhi",
+      "word": "泰然处之",
+      "pinyin": "tài rán chǔ zhī",
+      "frequency": 4,
+      "coreMeaning": "面对突如其来的变故或困境时神态镇定、毫不慌乱，沉着冷静地对待。",
+      "morphemeHint": {
+        "keyChar": "泰",
+        "explanation": "“泰然”指安定镇定，“处之”读 chǔ zhī，指对待处理；体现强大的心理定力。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "突发危机",
+        "赞誉与非议",
+        "逆境"
+      ],
+      "collocations": [
+        "能够泰然处之",
+        "面对风波泰然处之"
+      ],
+      "commonMistake": "与“熟视无睹”“不以为意”区分：“泰然处之”是积极镇定面对逆境或毁誉（褒义）；后两者是消极麻木忽视（贬义）。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对实验反复失败带来的巨大舆论压力，他始终____，一步步排查参数直至找到症结。",
+          "highlightClues": [
+            "巨大舆论压力",
+            "一步步排查参数"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "胸有成竹",
+        "安之若素",
+        "不以为意"
+      ]
+    },
+    {
+      "id": "xu_huai_ruo_gu",
+      "word": "虚怀若谷",
+      "pinyin": "xū huái ruò gǔ",
+      "frequency": 4,
+      "coreMeaning": "胸怀像山谷一样深广虚空，形容人极其谦虚，能够接纳各种不同意见。",
+      "morphemeHint": {
+        "keyChar": "谷",
+        "explanation": "“虚怀”指虚心、“若谷”指像深谷一样能容纳万物；正与“自以为是”“刚愎自用”相对。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学者",
+        "领导者",
+        "求知态度"
+      ],
+      "collocations": [
+        "保持虚怀若谷的胸襟",
+        "为人虚怀若谷"
+      ],
+      "commonMistake": "程度较重，多用于德高望重或胸襟开阔之人善于纳谏；不可用于谦称自己（否则有自夸之嫌）。",
+      "tags": [
+        "省考高频",
+        "谦敬误用"
+      ],
+      "examples": [
+        {
+          "sentence": "越是站在学术前沿的大师，越能保持____的治学风范，认真倾听青年学生的质疑与补充。",
+          "highlightClues": [
+            "学术前沿的大师",
+            "认真倾听青年学生的质疑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "戒骄戒躁",
+        "妄自菲薄",
+        "自以为是"
+      ]
+    },
+    {
+      "id": "jie_jiao_jie_zao",
+      "word": "戒骄戒躁",
+      "pinyin": "jiè jiāo jiè zào",
+      "frequency": 4,
+      "coreMeaning": "警惕并戒除骄傲自满和急躁冒进的情绪，保持谦虚踏实、冷静稳健。",
+      "morphemeHint": {
+        "keyChar": "戒",
+        "explanation": "“戒”是警惕戒除，“骄”是骄傲，“躁”是急躁；多用于取得成绩后提醒继续保持清醒。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "取得成绩后",
+        "科研团队",
+        "党员干部"
+      ],
+      "collocations": [
+        "务必戒骄戒躁",
+        "戒骄戒躁、再接再厉"
+      ],
+      "commonMistake": "语境中常出现“取得初步胜利/成果”“荣誉面前”等前置条件，提示不能被胜利冲昏头脑。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在核心技术攻关取得阶段性突破后，研发团队更加注重____，继续把测试验证工作做深做细。",
+          "highlightClues": [
+            "取得阶段性突破后",
+            "做深做细"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "虚怀若谷",
+        "居安思危",
+        "妄自尊大"
+      ]
+    },
+    {
+      "id": "zhan_qian_gu_hou",
+      "word": "瞻前顾后",
+      "pinyin": "zhān qián gù hòu",
+      "frequency": 5,
+      "coreMeaning": "看看前面又看看后面，形容做事顾虑重重、犹豫不决，不敢放手行动。",
+      "morphemeHint": {
+        "keyChar": "顾",
+        "explanation": "“瞻”是向前看，“顾”是向后看；现代行测中多含贬义，指畏首畏尾、缺乏魄力，而非谨慎周全。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革魄力",
+        "决策犹豫",
+        "心态"
+      ],
+      "collocations": [
+        "切忌瞻前顾后",
+        "总是瞻前顾后"
+      ],
+      "commonMistake": "极易褒贬误用！很多人误以为是“思虑周全”，其实在现代汉语和行测中多指“顾虑太多、犹豫不决”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "深化改革已进入深水区，面对既得利益格局的阻挠，如果处处____、畏首畏尾，就很难啃下硬骨头。",
+          "highlightClues": [
+            "深水区",
+            "畏首畏尾",
+            "很难啃下硬骨头"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "优柔寡断",
+        "举棋不定",
+        "深思熟虑"
+      ]
+    },
+    {
+      "id": "dang_ji_li_duan",
+      "word": "当机立断",
+      "pinyin": "dāng jī lì duàn",
+      "frequency": 4,
+      "coreMeaning": "抓住关键时机毫不犹豫地作出决断，形容决策果断敏捷、不拖泥带水。",
+      "morphemeHint": {
+        "keyChar": "机",
+        "explanation": "“机”指关键时机，“立”是立刻；突出在紧要关头快速决断，不失战机。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "应急处置",
+        "商业决策",
+        "战场指挥"
+      ],
+      "collocations": [
+        "必须当机立断",
+        "当机立断采取措施"
+      ],
+      "commonMistake": "与“独断专行”完全不同：“当机立断”是抓准时机果断决策（褒义）；“独断专行”是专横不听意见（贬义）。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "发现山体滑坡前兆后，村支书____，立即拉响警报并组织全村群众有序撤离至安全地带。",
+          "highlightClues": [
+            "山体滑坡前兆",
+            "立即拉响警报"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "优柔寡断",
+        "举棋不定",
+        "独断专行"
+      ]
+    },
+    {
+      "id": "you_rou_gua_duan",
+      "word": "优柔寡断",
+      "pinyin": "yōu róu guǎ duàn",
+      "frequency": 5,
+      "coreMeaning": "做事犹豫不决，缺乏果断决策的魄力和主见，常错失良机。",
+      "morphemeHint": {
+        "keyChar": "寡",
+        "explanation": "“优柔”指犹豫软弱，“寡”是缺少，“断”是决断；既可形容性格特征，也形容关键时刻不能决断。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "性格",
+        "决策者",
+        "管理风格"
+      ],
+      "collocations": [
+        "性格优柔寡断",
+        "决策优柔寡断"
+      ],
+      "commonMistake": "常与“举棋不定”辨析：“优柔寡断”偏重性格或一贯作风缺乏果断；“举棋不定”偏重面对具体抉择时拿不定主意。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在技术路线剧烈迭代的窗口期，企业管理者如果____，往往会在反复权衡中错失市场先机。",
+          "highlightClues": [
+            "剧烈迭代的窗口期",
+            "反复权衡中错失市场先机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "举棋不定",
+        "瞻前顾后",
+        "当机立断"
+      ]
+    },
+    {
+      "id": "ju_qi_bu_ding",
+      "word": "举棋不定",
+      "pinyin": "jǔ qí bù dìng",
+      "frequency": 4,
+      "coreMeaning": "拿着棋子不知下在哪里好，比喻面对选择时犹豫不决、拿不定主意。",
+      "morphemeHint": {
+        "keyChar": "举",
+        "explanation": "下棋时“举着棋子不落下”，形象刻画在几个选项之间迟疑徘徊、难作抉择的状态。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "方案抉择",
+        "职业选择",
+        "战略取舍"
+      ],
+      "collocations": [
+        "一时举棋不定",
+        "令人举棋不定"
+      ],
+      "commonMistake": "常用于“面临两种或多种路径取舍”的具体情境；若泛指某人性格软弱没主见，选“优柔寡断”更合适。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对自研核心芯片还是继续外购方案的艰难抉择，公司董事会连续召开数次会议却依然____。",
+          "highlightClues": [
+            "自研核心芯片还是继续外购方案",
+            "艰难抉择",
+            "依然"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "优柔寡断",
+        "瞻前顾后",
+        "见异思迁"
+      ]
+    },
+    {
+      "id": "jian_yi_si_qian",
+      "word": "见异思迁",
+      "pinyin": "jiàn yì sī qiān",
+      "frequency": 5,
+      "coreMeaning": "看到别的新奇事物就想改变原来的主意，形容意志不坚定、缺乏专注与恒心。",
+      "morphemeHint": {
+        "keyChar": "迁",
+        "explanation": "“异”指不同的新事物，“迁”是变动改变；多含贬义，切勿望文生义为“看到差异就思考变通”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研专注",
+        "职业态度",
+        "志向信念"
+      ],
+      "collocations": [
+        "切忌见异思迁",
+        "不能见异思迁"
+      ],
+      "commonMistake": "极易望文生义误作褒义“随机应变、善于迁移”；在行测中恒为贬义，指心浮气躁、朝三暮四。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "基础科学研究往往需要十年磨一剑的定力，最忌讳追逐学术热点、____。",
+          "highlightClues": [
+            "十年磨一剑的定力",
+            "最忌讳追逐学术热点"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "朝三暮四",
+        "随波逐流",
+        "举棋不定"
+      ]
+    },
+    {
+      "id": "mang_ren_mo_xiang",
+      "word": "盲人摸象",
+      "pinyin": "máng rén mō xiàng",
+      "frequency": 5,
+      "coreMeaning": "比喻看问题只接触到局部表象就下结论，不能全面把握事物整体。",
+      "morphemeHint": {
+        "keyChar": "摸",
+        "explanation": "强调对复杂事物只了解局部或单一片段，却把它当成全部真相，属于认识论上的片面性。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "调研分析",
+        "认知方式",
+        "宏观判断"
+      ],
+      "collocations": [
+        "犹如盲人摸象",
+        "避免盲人摸象式的研判"
+      ],
+      "commonMistake": "常与“管中窥豹”“以偏概全”同组考查；“盲人摸象”更强调多方各自抓住局部而对整体产生荒谬误判。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "若缺乏跨部门的数据共享与协同研判，各执法单位对黑灰产链条的打击就容易陷入____的困境。",
+          "highlightClues": [
+            "缺乏跨部门的数据共享",
+            "链条",
+            "困境"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "管中窥豹",
+        "坐井观天",
+        "以偏概全"
+      ]
+    },
+    {
+      "id": "guan_zhong_kui_bao",
+      "word": "管中窥豹",
+      "pinyin": "guǎn zhōng kuī bào",
+      "frequency": 5,
+      "coreMeaning": "从竹管的小孔里看豹子，只能看到一块斑纹，比喻所见有限或只见一斑。",
+      "morphemeHint": {
+        "keyChar": "管",
+        "explanation": "强调受限于狭窄视角，仅看到事物的一小部分；在“管中窥豹，可见一斑”语境中偶尔偏中性。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "视野",
+        "认知",
+        "局部材料"
+      ],
+      "collocations": [
+        "不过是管中窥豹",
+        "透过窗口管中窥豹"
+      ],
+      "commonMistake": "虽常含贬义指眼光片面，但在“管中窥豹，略见一斑”等语境中也可中性表示“通过局部了解大概”，须看上下文倾向。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "仅凭几张截取的网络聊天截图就对整起公共事件盖棺定论，无异于____，极易偏离客观真相。",
+          "highlightClues": [
+            "仅凭几张截取的",
+            "盖棺定论",
+            "偏离客观真相"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "盲人摸象",
+        "坐井观天",
+        "一孔之见"
+      ]
+    },
+    {
+      "id": "zuo_jing_guan_tian",
+      "word": "坐井观天",
+      "pinyin": "zuò jǐng guān tiān",
+      "frequency": 5,
+      "coreMeaning": "坐在井底看天空，比喻眼界狭小、见识短浅，还常常自以为见多识广。",
+      "morphemeHint": {
+        "keyChar": "井",
+        "explanation": "“井”象征封闭狭隘的环境或认知边界；不仅指视野小，还常隐含“固步自封、不愿走出去看世界”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "眼界",
+        "封闭观念",
+        "夜郎自大者"
+      ],
+      "collocations": [
+        "不能坐井观天",
+        "坐井观天的狭隘"
+      ],
+      "commonMistake": "与“管中窥豹”区别：“坐井观天”更强调人处于封闭环境中眼界狭小且往往自大；“管中窥豹”重在观察渠道有限。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在全球科技竞争日趋激烈的今天，任何科研机构如果闭门造车、____，最终都将被时代浪潮淘汰。",
+          "highlightClues": [
+            "闭门造车",
+            "被时代浪潮淘汰"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "管中窥豹",
+        "盲人摸象",
+        "夜郎自大"
+      ]
+    },
+    {
+      "id": "yi_kong_zhi_jian",
+      "word": "一孔之见",
+      "pinyin": "yī kǒng zhī jiàn",
+      "frequency": 4,
+      "coreMeaning": "从小孔里所看到的，比喻狭隘、片面的见解，有时也用作家言谦辞。",
+      "morphemeHint": {
+        "keyChar": "孔",
+        "explanation": "“孔”指小洞，“见”指见解；作名词用，表示片面局限的观点，与“真知灼见”相对。"
+      },
+      "sentiment": "negative",
+      "intensity": "light",
+      "applicableObjects": [
+        "观点",
+        "见解",
+        "理论认识"
+      ],
+      "collocations": [
+        "不过是一孔之见",
+        "谈点一孔之见"
+      ],
+      "commonMistake": "注意其兼有“谦辞”用法（如“仅陈一孔之见”），用于自己表谦虚时是得体的，用于评价别人则是批评其片面。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "若把某单一学科的理论工具当成解释一切社会现象的万能钥匙，难免流于____，忽视现实的复杂维度。",
+          "highlightClues": [
+            "单一学科",
+            "万能钥匙",
+            "忽视现实的复杂维度"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "管中窥豹",
+        "真知灼见",
+        "以偏概全"
+      ]
+    },
+    {
+      "id": "yi_ye_zhang_mu",
+      "word": "一叶障目",
+      "pinyin": "yī yè zhàng mù",
+      "frequency": 5,
+      "coreMeaning": "一片叶子挡在眼前就看不见泰山，比喻被局部或暂时的现象迷惑而看不清全局。",
+      "morphemeHint": {
+        "keyChar": "障",
+        "explanation": "“障”是遮蔽；重在“被眼前微小表象、短期利益蒙蔽”，从而忽视了宏观整体或本质问题。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "短期利益",
+        "局部表象",
+        "判断失误"
+      ],
+      "collocations": [
+        "切忌一叶障目",
+        "不能一叶障目，不见泰山"
+      ],
+      "commonMistake": "常与“一叶知秋”一字组混淆：“一叶障目”是被小树叶遮住眼睛看不清大局（贬义）；“一叶知秋”是看到落叶就知道秋天（褒义）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "观察中国经济不能被短期月度数据的波动____，更要透过周期表象看到新质生产力加快成长的长期趋势。",
+          "highlightClues": [
+            "短期月度数据的波动",
+            "透过周期表象",
+            "长期趋势"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一叶知秋",
+        "盲人摸象",
+        "以偏概全"
+      ]
+    },
+    {
+      "id": "yi_pian_gai_quan",
+      "word": "以偏概全",
+      "pinyin": "yǐ piān gài quán",
+      "frequency": 5,
+      "coreMeaning": "用片面的、局部的事例或特征来概括推论整个事物的全貌，违背逻辑全面性。",
+      "morphemeHint": {
+        "keyChar": "概",
+        "explanation": "“偏”是局部，“概”是概括推及，“全”是整体；常见于逻辑推理、舆论归因和样本偏差批评。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "抽样调查",
+        "舆论评价",
+        "逻辑论证"
+      ],
+      "collocations": [
+        "切忌以偏概全",
+        "犯了以偏概全的错误"
+      ],
+      "commonMistake": "常在“个案/少数现象”推及“整个群体/整体行业”的批评语境中出现，比“盲人摸象”更偏重推理逻辑失误。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "网络舆论场上常有人将个别极端的社会个案无限放大，进而对整个群体贴标签，这种____的做法只会撕裂社会共识。",
+          "highlightClues": [
+            "个别极端的社会个案",
+            "对整个群体贴标签"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "盲人摸象",
+        "管中窥豹",
+        "断章取义"
+      ]
+    },
+    {
+      "id": "xian_ru_wei_zhu",
+      "word": "先入为主",
+      "pinyin": "xiān rù wéi zhǔ",
+      "frequency": 5,
+      "coreMeaning": "先听进去的话或先形成的印象在头脑中占据主导地位，以后很难再接受新观点。",
+      "morphemeHint": {
+        "keyChar": "先",
+        "explanation": "强调时间先后造成的认知固化：第一印象或固有成见阻碍了后续的客观判断。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "认知偏见",
+        "司法审理",
+        "新闻调查"
+      ],
+      "collocations": [
+        "切忌先入为主",
+        "带着先入为主的成见"
+      ],
+      "commonMistake": "多作贬义或警示语（切忌先入为主），表示有预设成见而有失公允；不能用来夸奖“打好基础”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "田野调查要求研究者放下____的理论预设，真正以平视姿态去理解当地人的生活逻辑。",
+          "highlightClues": [
+            "放下",
+            "理论预设",
+            "平视姿态"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "主观臆断",
+        "固执己见",
+        "偏听偏信"
+      ]
+    },
+    {
+      "id": "zhu_guan_yi_duan",
+      "word": "主观臆断",
+      "pinyin": "zhǔ guān yì duàn",
+      "frequency": 5,
+      "coreMeaning": "不经客观调查和事实检验，仅凭个人主观想象就作出武断的判断和结论。",
+      "morphemeHint": {
+        "keyChar": "臆",
+        "explanation": "“臆”指主观猜测，“断”是武断下结论；正与“实事求是”“深入调研”构成鲜明对立。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "决策分析",
+        "学术考证",
+        "案件定性"
+      ],
+      "collocations": [
+        "切忌主观臆断",
+        "凭空主观臆断"
+      ],
+      "commonMistake": "语境中常出现“缺乏数据/实地调研”“拍脑袋”等对比线索；与“捕风捉影”相比，它强调缺乏依据的“下结论”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "制定公共政策必须建立在扎实的数据测算与实地调研基础上，绝不能仅凭经验或____拍脑袋决策。",
+          "highlightClues": [
+            "扎实的数据测算与实地调研",
+            "绝不能",
+            "拍脑袋决策"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "先入为主",
+        "捕风捉影",
+        "实事求是"
+      ]
+    }
+  ]
+}

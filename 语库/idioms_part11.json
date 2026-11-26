@@ -1,0 +1,2144 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "tiao_fen_lv_xi",
+      "word": "条分缕析",
+      "pinyin": "tiáo fēn lǚ xī",
+      "frequency": 5,
+      "coreMeaning": "有条有理地细细分析拆解，使复杂事物呈现出清晰明了的脉络和层次。",
+      "morphemeHint": {
+        "keyChar": "条缕",
+        "explanation": "“条”是条理，“缕”是细丝；侧重拆解分类、脉络分明地呈现复杂结构，极其严谨。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学术报告",
+        "科普拆解",
+        "逻辑论证",
+        "文献梳理"
+      ],
+      "collocations": [
+        "条分缕析地拆解",
+        "论证条分缕析"
+      ],
+      "commonMistake": "常写作“条分屡析”（错别字，“缕”是丝线）；侧重“条理清晰、层次分明地拆解”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "面对多维度的宏观经济统计指标，报告并未堆砌数字，而是____地厘清了消费、投资与净出口之间的传导链条。",
+          "highlightClues": [
+            "并未堆砌数字",
+            "厘清了消费、投资与净出口之间的传导链条"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "抽丝剥茧",
+        "丝丝入扣",
+        "提纲挈领"
+      ]
+    },
+    {
+      "id": "qu_wei_cun_zhen",
+      "word": "去伪存真",
+      "pinyin": "qù wěi cún zhēn",
+      "frequency": 5,
+      "coreMeaning": "去除虚假伪装的表象和错误数据，保留真实可靠的信息和本质规律。",
+      "morphemeHint": {
+        "keyChar": "伪真",
+        "explanation": "核心对立面是“真与假”；专用于信息筛选、数据清洗、谣言辨析和实证考据。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "实验数据",
+        "网络信息",
+        "史料考证",
+        "舆论辨析"
+      ],
+      "collocations": [
+        "经过去伪存真的筛选",
+        "去伪存真地甄别"
+      ],
+      "commonMistake": "常与“去粗取精”并列或辨析；本词聚焦“辨别真假”，后者聚焦“筛选优劣精粗”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在天文大数据处理中，算法必须先对包含卫星反光与宇宙射线噪点的原始图像进行____，才能识别出真实的超新星信号。",
+          "highlightClues": [
+            "噪点",
+            "识别出真实的超新星信号"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "去粗取精",
+        "披沙拣金",
+        "实事求是"
+      ]
+    },
+    {
+      "id": "qu_cu_qu_jing",
+      "word": "去粗取精",
+      "pinyin": "qù cū qǔ jīng",
+      "frequency": 5,
+      "coreMeaning": "除去粗糙冗杂的部分，提取保留其中精华、核心、有价值的成分。",
+      "morphemeHint": {
+        "keyChar": "粗精",
+        "explanation": "核心对立面是“粗杂与精华”；强调在真实材料中提炼萃取高价值内核，常与“去伪存真”联用。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "语料训练",
+        "文化传承",
+        "样本提炼",
+        "调研材料"
+      ],
+      "collocations": [
+        "经过去粗取精",
+        "去粗取精地提炼"
+      ],
+      "commonMistake": "“去粗取精”的对象可以是真实但繁杂的素材，重在精炼优化，不一定涉及“作假”。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "构建高质量大模型预训练语料库绝非全网盲目抓取，而是需要经过严格的数据清洗与____，剔除低质冗余文本。",
+          "highlightClues": [
+            "绝非全网盲目抓取",
+            "剔除低质冗余文本"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "去伪存真",
+        "披沙拣金",
+        "大浪淘沙"
+      ]
+    },
+    {
+      "id": "pi_sha_jian_jin",
+      "word": "披沙拣金",
+      "pinyin": "pī shā jiǎn jīn",
+      "frequency": 4,
+      "coreMeaning": "拨开泥沙挑选出金子，比喻从大量繁杂的事物或文献中精选出最精华的部分。",
+      "morphemeHint": {
+        "keyChar": "拣",
+        "explanation": "“披”是拨开，“拣”是挑选；突出研究者主动、细致地从海量资料里筛选出珍贵成果。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文献检索",
+        "矿产提纯",
+        "人才选拔",
+        "数据挖掘"
+      ],
+      "collocations": [
+        "披沙拣金般的梳理",
+        "在海量资料中披沙拣金"
+      ],
+      "commonMistake": "主语通常是人或工具主动筛选；若强调时代或市场自然淘汰，宜用“大浪淘沙”。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "古气候学者从数十万页散落的古代地方志气象记录中____，终于拼凑出过去两千年间东亚季风演变的连续曲线。",
+          "highlightClues": [
+            "数十万页散落的古代地方志气象记录",
+            "拼凑出",
+            "连续曲线"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "去粗取精",
+        "大浪淘沙",
+        "沙里淘金"
+      ]
+    },
+    {
+      "id": "da_lang_tao_sha",
+      "word": "大浪淘沙",
+      "pinyin": "dà làng táo shā",
+      "frequency": 5,
+      "coreMeaning": "大浪把泥沙冲走留下真金，比喻在时代变迁或激烈竞争中经受考验、去劣留精。",
+      "morphemeHint": {
+        "keyChar": "浪",
+        "explanation": "借助时间、历史或市场竞争这股“大浪”完成客观筛选与优胜劣汰，语势宏阔。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "技术路线",
+        "市场竞争",
+        "历史沉淀",
+        "科学理论"
+      ],
+      "collocations": [
+        "经过时间的大浪淘沙",
+        "大浪淘沙后的真金"
+      ],
+      "commonMistake": "主语一般是时间、历史或市场机制的客观筛选，不宜用于个人在书桌前挑拣文献（宜用“披沙拣金”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "互联网技术浪潮中曾涌现无数风光一时的概念风口，但经过商业周期的____，唯有真正提升生产效率的技术得以留存。",
+          "highlightClues": [
+            "商业周期",
+            "唯有真正提升生产效率的技术得以留存"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "披沙拣金",
+        "去粗取精",
+        "优胜劣汰"
+      ]
+    },
+    {
+      "id": "zhui_ben_su_yuan",
+      "word": "追本溯源",
+      "pinyin": "zhuī běn sù yuán",
+      "frequency": 5,
+      "coreMeaning": "追究根本、追溯源头，比喻深入探究事物产生的根源、来历和底层机理。",
+      "morphemeHint": {
+        "keyChar": "溯",
+        "explanation": "“溯”指逆流而上寻找源头；常用于科学史溯源、故障根因排查或制度源流考证。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科学史",
+        "病因追踪",
+        "文化渊源",
+        "底层原理"
+      ],
+      "collocations": [
+        "追本溯源地探究",
+        "必须追本溯源"
+      ],
+      "commonMistake": "不能写成“追根溯源”以外的错字“追本朔源”；重点在“逆向追溯起点与根本原因”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "现代计算机二进制逻辑的诞生若要____，既离不开莱布尼茨的数学构想，也得益于布尔代数为电路开关提供的严密表达。",
+          "highlightClues": [
+            "诞生",
+            "离不开莱布尼茨的数学构想",
+            "得益于布尔代数"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "寻根究底",
+        "探赜索隐",
+        "抽丝剥茧"
+      ]
+    },
+    {
+      "id": "xun_gen_jiu_di",
+      "word": "寻根究底",
+      "pinyin": "xún gēn jiū dǐ",
+      "frequency": 4,
+      "coreMeaning": "追求根底，一定要把事情的来龙去脉和原由彻底弄清楚。",
+      "morphemeHint": {
+        "keyChar": "究",
+        "explanation": "“究”是深究到底；突出科研人员或探索者不满足于表面答案、打破砂锅问到底的执着。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研精神",
+        "好奇心",
+        "问题排查",
+        "学术考据"
+      ],
+      "collocations": [
+        "寻根究底的精神",
+        "喜欢寻根究底"
+      ],
+      "commonMistake": "多形容人的探索态度或追问行为，不用于历史文献本身的“溯源过程”。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "正是这种对反常实验数据不放过、非要____的科学执着，促使居里夫妇在数吨沥青铀矿渣中提炼出了全新的放射性元素。",
+          "highlightClues": [
+            "对反常实验数据不放过",
+            "科学执着"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "追本溯源",
+        "探赜索隐",
+        "抽丝剥茧"
+      ]
+    },
+    {
+      "id": "tan_ze_suo_yin",
+      "word": "探赜索隐",
+      "pinyin": "tàn zé suǒ yǐn",
+      "frequency": 3,
+      "coreMeaning": "探究深奥繁复的道理，索求隐微未显的规律，形容学术研究极度深入精微。",
+      "morphemeHint": {
+        "keyChar": "赜",
+        "explanation": "“赜”（zé）指精微深奥的义理，“隐”指隐藏未现的规律；高雅书面语，专用于尖端科研与国学考据。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "基础科学",
+        "学术研究",
+        "哲学思辨",
+        "天文探索"
+      ],
+      "collocations": [
+        "探赜索隐的精神",
+        "致力于探赜索隐"
+      ],
+      "commonMistake": "“赜”读 zé，极易写错或读错；切勿用于日常琐事的打听。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "高能物理对撞机犹如人类向物质微观深处____的巨眼，帮助科学家不断逼近希格斯玻色子与夸克禁闭的终极奥秘。",
+          "highlightClues": [
+            "物质微观深处",
+            "终极奥秘"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "追本溯源",
+        "寻根究底",
+        "格物致知"
+      ]
+    },
+    {
+      "id": "ge_wu_zhi_zhi",
+      "word": "格物致知",
+      "pinyin": "gé wù zhì zhī",
+      "frequency": 4,
+      "coreMeaning": "推究事物的原理法则，从而获得理性认识和真知，体现务实的科学求知精神。",
+      "morphemeHint": {
+        "keyChar": "格",
+        "explanation": "“格”是推究、剖析，“致”是获得；将传统儒学概念与现代实证科学探究精神高度契合。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科学态度",
+        "治学理念",
+        "实证精神",
+        "自然观察"
+      ],
+      "collocations": [
+        "秉持格物致知的态度",
+        "格物致知的精神"
+      ],
+      "commonMistake": "“格物”不是“规矩事物”，而是“深入推究客观事物之理”，注意不要望文生义。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "我国古代科学家沈括在《梦溪笔谈》中对磁偏角与化石成因的细致记录，充分展现了中国传统学术中____的实证光芒。",
+          "highlightClues": [
+            "细致记录",
+            "实证光芒"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "实事求是",
+        "探赜索隐",
+        "寻根究底"
+      ]
+    },
+    {
+      "id": "jing_yi_qiu_jing",
+      "word": "精益求精",
+      "pinyin": "jīng yì qiú jīng",
+      "frequency": 5,
+      "coreMeaning": "已经很精致优良了，还要求进一步做到更加精准完美、不断提升品质。",
+      "morphemeHint": {
+        "keyChar": "益",
+        "explanation": "“益”意为更加；前提是“已经达到高水准（精）”，在此基础上继续打磨突破。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "精密制造",
+        "科研工艺",
+        "工匠精神",
+        "算法优化"
+      ],
+      "collocations": [
+        "秉持精益求精的工匠精神",
+        "技术上精益求精"
+      ],
+      "commonMistake": "不能用于原本很差劲、刚及格的事物上（比如“把不及格改及格”不算精益求精）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "国产大飞机翼身对接装配允许的误差不超过一根头发丝的十分之一，这背后正是科研与制造团队____的极致追求。",
+          "highlightClues": [
+            "不超过一根头发丝的十分之一",
+            "极致追求"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一丝不苟",
+        "精雕细琢",
+        "毫厘不爽"
+      ]
+    },
+    {
+      "id": "yi_si_bu_gou",
+      "word": "一丝不苟",
+      "pinyin": "yī sī bù gǒu",
+      "frequency": 5,
+      "coreMeaning": "连最细微的地方也不马虎，形容办事、科研或治学态度极其认真严谨。",
+      "morphemeHint": {
+        "keyChar": "苟",
+        "explanation": "“苟”指草率、马虎；强调主观工作态度的严谨细致，多用于人与工作作风。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科研人员",
+        "检验工作",
+        "实验态度",
+        "工匠"
+      ],
+      "collocations": [
+        "一丝不苟地核对",
+        "一丝不苟的态度"
+      ],
+      "commonMistake": "“丝”是极细微处，“苟”是敷衍；不要和“一尘不染”或“严丝合缝”（形容物体契合）混用。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "发射场燃料加注团队以____的职业素养逐项核验三千余个阀门状态，确保火箭点火前零差错、零隐患。",
+          "highlightClues": [
+            "逐项核验三千余个阀门状态",
+            "零差错、零隐患"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "精益求精",
+        "谨小慎微",
+        "严丝合缝"
+      ]
+    },
+    {
+      "id": "jin_xiao_shen_wei",
+      "word": "谨小慎微",
+      "pinyin": "jǐn xiǎo shèn wēi",
+      "frequency": 4,
+      "coreMeaning": "对细小的事情过分小心谨慎，常带有胆小怕事、不敢放手作为的贬义色彩。",
+      "morphemeHint": {
+        "keyChar": "微",
+        "explanation": "字面看似夸奖认真，实则多含贬义，批评因过度顾虑细枝末节而畏首畏尾、缺乏魄力。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "做事风格",
+        "科研立项",
+        "改革态度",
+        "人物性格"
+      ],
+      "collocations": [
+        "过于谨小慎微",
+        "变得谨小慎微"
+      ],
+      "commonMistake": "行测常考“褒贬误用”陷阱！在赞扬科学家认真严谨时切忌用“谨小慎微”，应用“一丝不苟”。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "如果基础科研项目申报机制对探索性失败零容忍，研究者就会变得____，只敢扎堆做短平快的稳妥课题而回避前沿险峰。",
+          "highlightClues": [
+            "只敢扎堆做短平快的稳妥课题",
+            "回避前沿险峰"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一丝不苟",
+        "小心翼翼",
+        "畏首畏尾"
+      ]
+    },
+    {
+      "id": "xiao_xin_yi_yi",
+      "word": "小心翼翼",
+      "pinyin": "xiǎo xīn yì yì",
+      "frequency": 4,
+      "coreMeaning": "形容举动或操作十分谨慎小心，丝毫不敢疏忽大意。",
+      "morphemeHint": {
+        "keyChar": "翼翼",
+        "explanation": "“翼翼”原指恭敬谨慎的样子；纯中性描写谨慎的动作神态，无“畏首畏尾”的强贬义。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "精密操作",
+        "文物修复",
+        "实验动作",
+        "试探过程"
+      ],
+      "collocations": [
+        "小心翼翼地剥离",
+        "小心翼翼地调试"
+      ],
+      "commonMistake": "侧重具体动作行为的谨慎克制（如修复脆弱文物、拆解危化品），比“谨小慎微”更中性具体。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "考古人员手持显微手术刀，____地将包裹在千年炭化丝织品外的淤泥逐层剥离，生怕损毁极其脆弱的纤维结构。",
+          "highlightClues": [
+            "手持显微手术刀",
+            "生怕损毁极其脆弱的纤维结构"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一丝不苟",
+        "谨小慎微",
+        "战战兢兢"
+      ]
+    },
+    {
+      "id": "wei_hu_qi_wei",
+      "word": "微乎其微",
+      "pinyin": "wēi hū qí wēi",
+      "frequency": 5,
+      "coreMeaning": "非常小、非常少，几乎接近于零，常形容概率、影响、误差或占比极低。",
+      "morphemeHint": {
+        "keyChar": "微",
+        "explanation": "两个“微”叠用强化极度微小之义；纯客观描述数量、概率或作用小到几乎可以忽略。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "概率",
+        "误差率",
+        "占比",
+        "辐射剂量"
+      ],
+      "collocations": [
+        "概率微乎其微",
+        "影响微乎其微"
+      ],
+      "commonMistake": "常与“微不足道”混淆；本词只客观说明数值或概率小，不含“不值得一提、轻视”的主观贬义。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "小行星与地球发生毁灭性撞击的单年概率其实____，但鉴于其一旦发生便后果不堪设想，各国仍持续加强近地天体监测。",
+          "highlightClues": [
+            "单年概率",
+            "但鉴于其一旦发生便后果不堪设想"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "微不足道",
+        "沧海一粟",
+        "九牛一毛"
+      ]
+    },
+    {
+      "id": "wei_bu_zu_dao",
+      "word": "微不足道",
+      "pinyin": "wēi bù zú dào",
+      "frequency": 5,
+      "coreMeaning": "极其渺小、卑微，甚至不值得一提，常含轻视或自谦之意。",
+      "morphemeHint": {
+        "keyChar": "足道",
+        "explanation": "“足”指值得，“道”指说；比“微乎其微”多了一层主观价值判断——小到不值得提起。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人贡献",
+        "微小代价",
+        "局部误差",
+        "力量对比"
+      ],
+      "collocations": [
+        "显得微不足道",
+        "微不足道的贡献"
+      ],
+      "commonMistake": "注意“微乎其微”常修饰客观概率/数量/影响；“微不足道”更常修饰事物价值、作用或个人贡献。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在太阳每秒释放出的庞大辐射能量面前，人类目前所有发电站的总装机功率简直____，开发高效太阳能利用仍有巨大空间。",
+          "highlightClues": [
+            "太阳每秒释放出的庞大辐射能量",
+            "仍有巨大空间"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "微乎其微",
+        "沧海一粟",
+        "九牛一毛"
+      ]
+    },
+    {
+      "id": "cang_hai_yi_su",
+      "word": "沧海一粟",
+      "pinyin": "cāng hǎi yī sù",
+      "frequency": 5,
+      "coreMeaning": "大海里的一粒小米，比喻在宏大整体面前显得极其渺小、微不足道。",
+      "morphemeHint": {
+        "keyChar": "粟",
+        "explanation": "“粟”指小米；核心语境必然存在“极大尺度背景（如宇宙、浩瀚数据）与极小个体”的强烈对比。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "宇宙中的地球",
+        "海量数据中的样本",
+        "历史长河中的个体",
+        "人类认知"
+      ],
+      "collocations": [
+        "犹如沧海一粟",
+        "不过是沧海一粟"
+      ],
+      "commonMistake": "常与“九牛一毛”混淆；本词侧重“总体背景宏大而个体极渺小”，后者侧重“从极大总量中损耗很小一部分”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "人类目前已探明并编目的海洋生物物种在深海广袤未知的生态库中或许只是____，仍有大量极端生命形态等待发现。",
+          "highlightClues": [
+            "深海广袤未知的生态库",
+            "仍有大量极端生命形态等待发现"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "九牛一毛",
+        "微乎其微",
+        "微不足道"
+      ]
+    },
+    {
+      "id": "yan_si_he_feng",
+      "word": "严丝合缝",
+      "pinyin": "yán sī hé fèng",
+      "frequency": 5,
+      "coreMeaning": "缝隙严密闭合，一点儿也不松动漏气，也比喻逻辑、言行或机制衔接极密。",
+      "morphemeHint": {
+        "keyChar": "缝",
+        "explanation": "“严丝”形容密实，“合缝”指接口吻合；既指机械/木工物理接口无缝，也喻逻辑、制度无漏洞。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "机械构件",
+        "逻辑论证",
+        "制度衔接",
+        "文物拼合"
+      ],
+      "collocations": [
+        "衔接严丝合缝",
+        "逻辑严丝合缝"
+      ],
+      "commonMistake": "“缝”读 fèng（第四声，缝隙），不读 féng；注意常修饰两个或多个部分“彼此贴合无间”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "良渚玉琮与古建筑榫卯之所以历经数千年仍能____，源于古人对木材含水率变形与力学受力方向的精妙把握。",
+          "highlightClues": [
+            "古建筑榫卯",
+            "精妙把握"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "天衣无缝",
+        "滴水不漏",
+        "丝丝入扣"
+      ]
+    },
+    {
+      "id": "wu_xie_ke_ji",
+      "word": "无懈可击",
+      "pinyin": "wú xiè kě jī",
+      "frequency": 5,
+      "coreMeaning": "找不到任何漏洞或破绽，形容论证、防线、计划或作品极其严密完美。",
+      "morphemeHint": {
+        "keyChar": "懈",
+        "explanation": "“懈”指松懈、破绽；强调不存在可以被对方攻击或反驳的弱点，多用于论证与制度。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "数学证明",
+        "逻辑论证",
+        "防线",
+        "方案设计"
+      ],
+      "collocations": [
+        "论证无懈可击",
+        "看似无懈可击"
+      ],
+      "commonMistake": "常写作“无隙可击”（错误）或“无可懈击”（语序错）；标准写法为“无懈可击”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "经典欧几里得几何在两千余年间一直被奉为____的公理化真理典范，直至非欧几何诞生才打破了第五公设的唯一性。",
+          "highlightClues": [
+            "公理化真理典范",
+            "打破了第五公设的唯一性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "天衣无缝",
+        "滴水不漏",
+        "严丝合缝"
+      ]
+    },
+    {
+      "id": "tian_yi_wu_feng",
+      "word": "天衣无缝",
+      "pinyin": "tiān yī wú fèng",
+      "frequency": 5,
+      "coreMeaning": "比喻事物浑然天成、周密完善，找不出任何人为拼凑或破绽之处。",
+      "morphemeHint": {
+        "keyChar": "缝",
+        "explanation": "不仅没有漏洞，更强调“浑然一体、自然精妙、看不出拼凑痕迹”，可用于计划、谎言或作品。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "实验设计",
+        "叙事结构",
+        "系统集成",
+        "伪装骗局"
+      ],
+      "collocations": [
+        "看似天衣无缝",
+        "配合天衣无缝"
+      ],
+      "commonMistake": "注意可用于反面语境（如“看似天衣无缝的骗局/假数据终究被戳穿”），也可用于高度赞美。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "深度伪造技术生成的视频在光影与口型同步上看似____，但研究人员依然能通过心跳引发的皮肤微弱血流色差识别破绽。",
+          "highlightClues": [
+            "看似",
+            "识别破绽"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "无懈可击",
+        "严丝合缝",
+        "滴水不漏"
+      ]
+    },
+    {
+      "id": "di_shui_bu_lou",
+      "word": "滴水不漏",
+      "pinyin": "dī shuǐ bù lòu",
+      "frequency": 5,
+      "coreMeaning": "一滴水也漏不出来，形容说话、办事、逻辑论证或防护体系极其周密严谨。",
+      "morphemeHint": {
+        "keyChar": "漏",
+        "explanation": "“不漏”指毫无疏漏与遗漏；侧重防护、管理、发言或推理考虑周全、没有疏忽漏洞。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "防护体系",
+        "言辞应对",
+        "实验控制",
+        "监管流程"
+      ],
+      "collocations": [
+        "防守滴水不漏",
+        "安排得滴水不漏"
+      ],
+      "commonMistake": "常与“天衣无缝”混用；本词重在主观防范周密、不留疏漏死角，后者重在整体浑然完美无破绽。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "生物安全四级实验室通过多级负压梯度与双门互锁消毒系统构建起____的物理屏障，严防高致病性病原体向外泄漏。",
+          "highlightClues": [
+            "物理屏障",
+            "严防高致病性病原体向外泄漏"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "严丝合缝",
+        "天衣无缝",
+        "无懈可击"
+      ]
+    },
+    {
+      "id": "mao_se_dun_kai",
+      "word": "茅塞顿开",
+      "pinyin": "máo sè dùn kāi",
+      "frequency": 4,
+      "coreMeaning": "被茅草堵住的心窍忽然打通，形容人在他人点拨或苦思后突然明白领悟。",
+      "morphemeHint": {
+        "keyChar": "顿",
+        "explanation": "“茅塞”喻思路闭塞，“顿”指瞬间；专指“人”的思维卡壳状态突然被打破而恍然大悟。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "研究者",
+        "学生",
+        "思考者",
+        "科研灵感"
+      ],
+      "collocations": [
+        "令人茅塞顿开",
+        "顿时茅塞顿开"
+      ],
+      "commonMistake": "主语必须是“人（或人的思路）”，不可用于形容空间视野或客观问题自动解决。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "凯库勒在壁炉旁看着跳动火焰如同首尾相衔的蛇时____，终于悟出了苯分子特有的六元环状共轭结构。",
+          "highlightClues": [
+            "看着跳动火焰",
+            "终于悟出了"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "豁然开朗",
+        "恍然大悟",
+        "迎刃而解"
+      ]
+    },
+    {
+      "id": "huo_ran_kai_lang",
+      "word": "豁然开朗",
+      "pinyin": "huò rán kāi lǎng",
+      "frequency": 5,
+      "coreMeaning": "从狭窄幽暗处突然进入宽敞明亮的境界，也比喻疑难思路突然变得开阔明朗。",
+      "morphemeHint": {
+        "keyChar": "开朗",
+        "explanation": "兼有空间“开阔明亮”和认知“格局打开、疑虑尽消”双层含义，画面感比“茅塞顿开”更宏阔。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科研视野",
+        "理论格局",
+        "研究者心境",
+        "自然景观"
+      ],
+      "collocations": [
+        "令人豁然开朗",
+        "思路豁然开朗"
+      ],
+      "commonMistake": "不要只当“性格开朗”理解；在科普与学术文中常指新理论出现后整个研究领域前景突然明朗。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "当板块构造学说将大陆漂移与海底扩张机制统一起来时，地球物理学界对地震与造山带分布的认知瞬间____。",
+          "highlightClues": [
+            "统一起来",
+            "认知瞬间"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "茅塞顿开",
+        "迎刃而解",
+        "拨云见日"
+      ]
+    },
+    {
+      "id": "ti_gang_qie_ling",
+      "word": "提纲挈领",
+      "pinyin": "tí gāng qiè lǐng",
+      "frequency": 5,
+      "coreMeaning": "提起渔网的总绳、拎起衣服的领子，比喻善于抓住关键纲领、简明概括要点。",
+      "morphemeHint": {
+        "keyChar": "纲领",
+        "explanation": "“纲”为网的总绳，“挈”为提起；侧重在繁杂信息中精准抓住决定全局的核心主线。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文章导言",
+        "汇报总结",
+        "政策框架",
+        "理论归纳"
+      ],
+      "collocations": [
+        "提纲挈领地总结",
+        "提纲挈领的作用"
+      ],
+      "commonMistake": "“挈”读 qiè；常在行测中考查与“抓住关键要点/主线”的精准对应，而非“详细罗列所有细节”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "全书开篇的导论章节____，仅用三千字便勾勒出信息论从香农熵到量子纠错编码演进的完整逻辑骨架。",
+          "highlightClues": [
+            "仅用三千字",
+            "完整逻辑骨架"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "高屋建瓴",
+        "言简意赅",
+        "条分缕析"
+      ]
+    },
+    {
+      "id": "bu_ji_qi_shu",
+      "word": "不计其数",
+      "pinyin": "bù jì qí shù",
+      "frequency": 5,
+      "coreMeaning": "无法计算其数量，形容人或事物的数量极其庞大。",
+      "morphemeHint": {
+        "keyChar": "计",
+        "explanation": "“计”指计算、统计；连总数都无法算清，突出数量多到难以计量。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人口",
+        "数据",
+        "文物",
+        "案例"
+      ],
+      "collocations": [
+        "人数不计其数",
+        "类似案例不计其数"
+      ],
+      "commonMistake": "易与“不可胜数”混用，且注意句中不能再出现具体数字或“很多”造成语义重复。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "敦煌藏经洞出土的历代文献与艺术珍品____，为研究古代丝绸之路文明提供了极为丰富的第一手资料。",
+          "highlightClues": [
+            "出土的历代文献与艺术珍品",
+            "极为丰富的第一手资料"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "数不胜数",
+        "不胜枚举"
+      ]
+    },
+    {
+      "id": "bu_sheng_mei_ju",
+      "word": "不胜枚举",
+      "pinyin": "bù shèng méi jǔ",
+      "frequency": 5,
+      "coreMeaning": "不能一个个地全部列举出来，形容同类的人或事很多。",
+      "morphemeHint": {
+        "keyChar": "枚",
+        "explanation": "“枚”指个、件，“枚举”即逐一列举；“胜”读 shèng，意为尽。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "事例",
+        "成就",
+        "问题",
+        "人物"
+      ],
+      "collocations": [
+        "事例不胜枚举",
+        "类似情况不胜枚举"
+      ],
+      "commonMistake": "常因读音和字形错写成“不胜美举”，且多用于列举具体事例而非单纯描述空间密集。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "改革开放以来，我国在高铁、航天、新能源等领域取得的突破性成就____，深刻改变了经济社会发展面貌。",
+          "highlightClues": [
+            "高铁、航天、新能源等领域",
+            "突破性成就"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不计其数",
+        "数不胜数"
+      ]
+    },
+    {
+      "id": "shu_bu_sheng_shu",
+      "word": "数不胜数",
+      "pinyin": "shǔ bù shèng shǔ",
+      "frequency": 4,
+      "coreMeaning": "数也数不过来，形容数量极其繁多，难以逐一清点。",
+      "morphemeHint": {
+        "keyChar": "胜",
+        "explanation": "“胜”为“尽、完”之意，前后两个“数”都读 shǔ，表示清点不完。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "物种",
+        "星辰",
+        "作品",
+        "商品"
+      ],
+      "collocations": [
+        "种类数不胜数",
+        "珍稀藏品数不胜数"
+      ],
+      "commonMistake": "常误将句中“无数”“众多”与之叠加使用；侧重“数不过来”，不如“不胜枚举”偏重“举例”。",
+      "tags": [
+        "省考高频",
+        "语义轻重",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "热带雨林作为地球上的生物基因库，孕育着____的动植物与微生物资源，维系着全球生态平衡。",
+          "highlightClues": [
+            "生物基因库",
+            "动植物与微生物资源"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不计其数",
+        "不可胜数"
+      ]
+    },
+    {
+      "id": "heng_he_sha_shu",
+      "word": "恒河沙数",
+      "pinyin": "héng hé shā shù",
+      "frequency": 3,
+      "coreMeaning": "像恒河里的沙粒那样无法计数，形容数量极大、难以估算。",
+      "morphemeHint": {
+        "keyChar": "沙",
+        "explanation": "源自佛经比喻，以恒河中细沙的数量喻指庞大到无法测算的数目。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "星体",
+        "数据",
+        "信息",
+        "微生物"
+      ],
+      "collocations": [
+        "数量多如恒河沙数",
+        "信息多如恒河沙数"
+      ],
+      "commonMistake": "多作宾语或定语（常与“多如”连用），不适合用来形容少数几类典型案例。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "深空望远镜将人类视野延伸至百亿光年之外，宇宙中如银河系般的星系简直____，令人深感人类之渺小。",
+          "highlightClues": [
+            "百亿光年之外",
+            "星系",
+            "人类之渺小"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不计其数",
+        "浩如烟海"
+      ]
+    },
+    {
+      "id": "lin_lang_man_mu",
+      "word": "琳琅满目",
+      "pinyin": "lín láng mǎn mù",
+      "frequency": 4,
+      "coreMeaning": "满眼都是珍美的玉石，形容美好的工艺品、商品或书籍繁多。",
+      "morphemeHint": {
+        "keyChar": "琳",
+        "explanation": "“琳琅”原指美玉，故隐含“精美、优质”的褒义前提，非杂乱堆砌。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "展品",
+        "商品",
+        "文创产品",
+        "书籍"
+      ],
+      "collocations": [
+        "展品琳琅满目",
+        "文创产品琳琅满目"
+      ],
+      "commonMistake": "不能用于形容低劣、负面事物或自然山川景色；须凸显“精美而丰富”。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "走进非遗文创市集，融合传统工艺与现代审美的陶瓷、刺绣和漆器____，吸引了众多年轻游客驻足选购。",
+          "highlightClues": [
+            "非遗文创市集",
+            "陶瓷、刺绣和漆器",
+            "驻足选购"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "美不胜收",
+        "目不暇接"
+      ]
+    },
+    {
+      "id": "che_zai_dou_liang",
+      "word": "车载斗量",
+      "pinyin": "chē zài dǒu liáng",
+      "frequency": 4,
+      "coreMeaning": "用车装载、用斗计量，形容数量极多以致显得寻常不足为奇。",
+      "morphemeHint": {
+        "keyChar": "斗",
+        "explanation": "“斗”是古代容量单位，“量”读 liáng；隐含“多到不稀罕”的平淡或轻蔑意味。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "平庸作品",
+        "人才",
+        "商品",
+        "案例"
+      ],
+      "collocations": [
+        "此类人才车载斗量",
+        "平庸之作车载斗量"
+      ],
+      "commonMistake": "常带有“数量多而不再珍贵”的语境对比，不宜直接用于热情赞美极少数顶尖人才。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在人工智能辅助创作普及后，流水线式的平庸文本已____，反而是具备鲜明生命体验的原创写作愈发稀缺。",
+          "highlightClues": [
+            "流水线式的平庸文本",
+            "原创写作愈发稀缺"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "比比皆是",
+        "俯拾皆是"
+      ]
+    },
+    {
+      "id": "bi_bi_jie_shi",
+      "word": "比比皆是",
+      "pinyin": "bǐ bǐ jiē shì",
+      "frequency": 5,
+      "coreMeaning": "到处都是，形容同类现象或事物在各处极为常见、数量众多。",
+      "morphemeHint": {
+        "keyChar": "比",
+        "explanation": "“比比”指挨着、到处，意为处处都能见到；多用于形容某种现象普遍存在。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "现象",
+        "案例",
+        "问题",
+        "做法"
+      ],
+      "collocations": [
+        "此类现象比比皆是",
+        "类似报道比比皆是"
+      ],
+      "commonMistake": "常与“俯拾皆是”混淆，后者多指好词佳句、灵感或常见事物随手可得，“比比皆是”更偏普遍现象。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "近年来，将传统戏曲元素融入流行音乐与动漫创作的跨界尝试____，使古老艺术重新走进大众视野。",
+          "highlightClues": [
+            "跨界尝试",
+            "重新走进大众视野"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "俯拾皆是",
+        "屡见不鲜"
+      ]
+    },
+    {
+      "id": "fu_shi_jie_shi",
+      "word": "俯拾皆是",
+      "pinyin": "fǔ shí jiē shì",
+      "frequency": 5,
+      "coreMeaning": "低头就能捡到，形容数量极多且极易获取，到处都有。",
+      "morphemeHint": {
+        "keyChar": "俯",
+        "explanation": "“俯”指弯腰低头，“拾”指捡取；既强调多，也强调“随手可得、不费力气”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "素材",
+        "例证",
+        "妙语",
+        "数据"
+      ],
+      "collocations": [
+        "写作素材俯拾皆是",
+        "历史例证俯拾皆是"
+      ],
+      "commonMistake": "不可用于形容难以触及的宏大对象（如星辰、高精尖技术），因“俯拾”含有近在身边、轻易取得之意。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "只要深入基层田野开展调查研究，生动鲜活的改革故事与群众智慧便____，绝不会陷入闭门造车的困境。",
+          "highlightClues": [
+            "深入基层田野",
+            "生动鲜活的改革故事",
+            "闭门造车"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "比比皆是",
+        "唾手可得"
+      ]
+    },
+    {
+      "id": "lv_jian_bu_xian",
+      "word": "屡见不鲜",
+      "pinyin": "lǚ jiàn bù xiān",
+      "frequency": 5,
+      "coreMeaning": "经常看见，不再觉得新奇，形容某种情况或现象反复出现。",
+      "morphemeHint": {
+        "keyChar": "鲜",
+        "explanation": "“鲜”指新鲜、新奇；因出现次数多而失去新鲜感，侧重频率高。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "现象",
+        "问题",
+        "争议",
+        "案例"
+      ],
+      "collocations": [
+        "此类问题屡见不鲜",
+        "违规行为屡见不鲜"
+      ],
+      "commonMistake": "常与“司空见惯”混淆：“屡见不鲜”主语是事物本身，“司空见惯”主语多为人对事物习惯了。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在算法推荐主导的信息流中，标题夸张、内容空洞的“流量至上”乱象____，亟须压实平台主体责任。",
+          "highlightClues": [
+            "“流量至上”乱象",
+            "亟须压实平台主体责任"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "司空见惯",
+        "比比皆是"
+      ]
+    },
+    {
+      "id": "ceng_chu_bu_qiong",
+      "word": "层出不穷",
+      "pinyin": "céng chū bù qióng",
+      "frequency": 5,
+      "coreMeaning": "接连不断地出现，没有穷尽，强调新事物或新问题持续涌现。",
+      "morphemeHint": {
+        "keyChar": "穷",
+        "explanation": "“穷”指穷尽、完结；“层”体现层次感与时间上的接续不断。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "新技术",
+        "新业态",
+        "诈骗手段",
+        "文化产品"
+      ],
+      "collocations": [
+        "新技术层出不穷",
+        "新业态层出不穷"
+      ],
+      "commonMistake": "易与“接踵而至”混淆：“层出不穷”强调新事物或花样不断涌现；“接踵而至”侧重人或事连续赶来。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "随着大模型技术迭代加速，基于生成式人工智能的办公、医疗与教育应用____，推动生产力迈向新台阶。",
+          "highlightClues": [
+            "技术迭代加速",
+            "办公、医疗与教育应用"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "接踵而至",
+        "纷至沓来"
+      ]
+    },
+    {
+      "id": "fen_zhi_ta_lai",
+      "word": "纷至沓来",
+      "pinyin": "fēn zhì tà lái",
+      "frequency": 5,
+      "coreMeaning": "形容纷纷到来、连续不断地涌来，多指宾客、消息、邀约或机会。",
+      "morphemeHint": {
+        "keyChar": "沓",
+        "explanation": "“沓”读 tà，指重复、稠密；与“纷”搭配突出多方同时涌入的动态画面。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "游客",
+        "投资",
+        "订单",
+        "赞誉"
+      ],
+      "collocations": [
+        "订单纷至沓来",
+        "游客纷至沓来"
+      ],
+      "commonMistake": "不能拆用或写作“纷至踏来”；与“接踵而至”相比，“纷至沓来”更强调多方向、大批次涌来。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "自该古村落入选世界最佳旅游乡村后，海内外游客与文旅投资项目____，带动了当地村民稳定增收。",
+          "highlightClues": [
+            "入选世界最佳旅游乡村",
+            "海内外游客与文旅投资项目"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "接踵而至",
+        "蜂拥而至"
+      ]
+    },
+    {
+      "id": "pu_tian_gai_di",
+      "word": "铺天盖地",
+      "pinyin": "pū tiān gài dì",
+      "frequency": 4,
+      "coreMeaning": "形容声势极大、数量极多或覆盖范围极广，仿佛遮满天空大地。",
+      "morphemeHint": {
+        "keyChar": "盖",
+        "explanation": "“铺”与“盖”兼具广度与压迫感，常用于形容舆论、宣传、广告或风沙等。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "宣传",
+        "广告",
+        "舆论",
+        "风雪"
+      ],
+      "collocations": [
+        "铺天盖地的宣传",
+        "铺天盖地的舆论"
+      ],
+      "commonMistake": "语义较重，带有压倒性声势，用于细腻的文化熏陶或零星现象时显得夸张失当。",
+      "tags": [
+        "省考高频",
+        "语义轻重",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "每逢购物节来临，____的促销弹窗与直播预告便充斥社交平台，令不少消费者产生审美疲劳。",
+          "highlightClues": [
+            "促销弹窗与直播预告",
+            "充斥社交平台",
+            "审美疲劳"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "漫山遍野",
+        "排山倒海"
+      ]
+    },
+    {
+      "id": "men_ting_ruo_shi",
+      "word": "门庭若市",
+      "pinyin": "mén tíng ruò shì",
+      "frequency": 5,
+      "coreMeaning": "门前和院子像集市一样热闹，形容前来拜访、游览或交易的人极多。",
+      "morphemeHint": {
+        "keyChar": "市",
+        "explanation": "“市”指集市；原指进谏者多，现多形容商店、景点、机构人气极旺。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "博物馆",
+        "老字号",
+        "政务大厅",
+        "书店"
+      ],
+      "collocations": [
+        "景区门庭若市",
+        "昔日门庭若市"
+      ],
+      "commonMistake": "只可用于门口或场所人来人往的热闹场景，不能用来形容网络流量或文章引用次数多。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "经过沉浸式展陈改造后，这座曾一度冷清的县级博物馆如今____，周末常出现一票难求的景象。",
+          "highlightClues": [
+            "曾一度冷清",
+            "县级博物馆",
+            "一票难求"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "车水马龙",
+        "门可罗雀"
+      ]
+    },
+    {
+      "id": "men_ke_luo_que",
+      "word": "门可罗雀",
+      "pinyin": "mén kě luó què",
+      "frequency": 5,
+      "coreMeaning": "大门前可以张网捕雀，形容门庭冷落、宾客稀少、无人问津。",
+      "morphemeHint": {
+        "keyChar": "罗",
+        "explanation": "“罗”指张网捕捉；院落无人踏足才会有麻雀聚集，与“门庭若市”构成鲜明反义。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "实体书店",
+        "冷门场馆",
+        "衰落商铺",
+        "门庭"
+      ],
+      "collocations": [
+        "生意门可罗雀",
+        "如今门可罗雀"
+      ],
+      "commonMistake": "不可用于形容僻静幽雅的读书环境（含贬义或冷清凄凉色彩），且对象须为实体场所或门第。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "部分乡村图书馆因藏书陈旧、开放时间与群众作息错位，建成后长期____，未能发挥应有的公共文化服务效能。",
+          "highlightClues": [
+            "藏书陈旧",
+            "未能发挥应有的公共文化服务效能"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "门庭若市",
+        "无人问津"
+      ]
+    },
+    {
+      "id": "liao_liao_wu_ji",
+      "word": "寥寥无几",
+      "pinyin": "liáo liáo wú jǐ",
+      "frequency": 5,
+      "coreMeaning": "非常稀少，没有几个，强调人或事物的数量极其有限。",
+      "morphemeHint": {
+        "keyChar": "寥",
+        "explanation": "“寥寥”形容稀少；“无几”即没有几个，适合直接统计个数的离散对象。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学者",
+        "幸存者",
+        "优秀作品",
+        "机构"
+      ],
+      "collocations": [
+        "人数寥寥无几",
+        "传承人寥寥无几"
+      ],
+      "commonMistake": "注意“几”读 jǐ；不能用来修饰不可数的抽象名词（如“时间寥寥无几”应改用“所剩无几”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这项传承百年的手工制箔技艺工序繁杂、收益微薄，如今仍在坚守的老师傅已是____，抢救性保护迫在眉睫。",
+          "highlightClues": [
+            "传承百年",
+            "仍在坚守的老师傅",
+            "抢救性保护"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "屈指可数",
+        "寥若晨星"
+      ]
+    },
+    {
+      "id": "liao_ruo_chen_xing",
+      "word": "寥若晨星",
+      "pinyin": "liáo ruò chén xīng",
+      "frequency": 4,
+      "coreMeaning": "稀少得像清晨的星星一样，形容在众多事物中留存或顶尖者极少。",
+      "morphemeHint": {
+        "keyChar": "晨",
+        "explanation": "黎明将至时大部分星辰隐退，仅剩零星几颗，常带有对比衬托的书面语色彩。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "大师",
+        "佳作",
+        "遗址",
+        "物种"
+      ],
+      "collocations": [
+        "顶尖学者寥若晨星",
+        "存世真迹寥若晨星"
+      ],
+      "commonMistake": "比喻稀少，不能用于形容星光灿烂；多用于较高书面语境中的人才、杰作或稀缺遗存。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "在信息爆炸的时代，每天都有海量评论产生，但能够经得起时间淘洗、具备思想穿透力的文章却____。",
+          "highlightClues": [
+            "海量评论",
+            "经得起时间淘洗",
+            "思想穿透力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "凤毛麟角",
+        "寥寥无几"
+      ]
+    },
+    {
+      "id": "qu_zhi_ke_shu",
+      "word": "屈指可数",
+      "pinyin": "qū zhǐ kě shǔ",
+      "frequency": 5,
+      "coreMeaning": "扳着手指头就能数得清，形容数量极少，一般不超过两位数。",
+      "morphemeHint": {
+        "keyChar": "屈",
+        "explanation": "“屈”指弯曲手指；用手指就能计数，凸显数量虽少但具体可数。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "企业",
+        "城市",
+        "国家",
+        "专家"
+      ],
+      "collocations": [
+        "真正掌握者屈指可数",
+        "全国屈指可数"
+      ],
+      "commonMistake": "常用于客观强调稀少且顶尖；不能与“不计其数”混同，且不用于形容无法按个数计算的事物。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "具备深海万米级载人潜水器自主研制能力的国家在全球范围内____，这彰显了我国海洋高端装备的硬核实力。",
+          "highlightClues": [
+            "深海万米级载人潜水器",
+            "全球范围内",
+            "硬核实力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "寥寥无几",
+        "凤毛麟角"
+      ]
+    },
+    {
+      "id": "shuo_guo_jin_cun",
+      "word": "硕果仅存",
+      "pinyin": "shuò guǒ jǐn cún",
+      "frequency": 4,
+      "coreMeaning": "唯一留存下来的大果实，比喻经过淘汰或变迁后仅存的珍贵人或物。",
+      "morphemeHint": {
+        "keyChar": "仅",
+        "explanation": "“硕果”指大果实（褒义），“仅存”指历经岁月淘汰后几乎只剩下这一个。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "古建筑",
+        "非遗项目",
+        "老艺术家",
+        "珍稀物种"
+      ],
+      "collocations": [
+        "硕果仅存的古建筑",
+        "成为硕果仅存的样本"
+      ],
+      "commonMistake": "必须是“优秀、珍贵”且“历经消亡后仅余极少数”的对象，不能用于新生事物或反面事物。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这座始建于宋代的木结构廊桥是该流域____的早期建筑标本，其榫卯工艺对研究古代桥梁史意义重大。",
+          "highlightClues": [
+            "始建于宋代",
+            "早期建筑标本",
+            "意义重大"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "绝无仅有",
+        "凤毛麟角"
+      ]
+    },
+    {
+      "id": "mi_zu_zhen_gui",
+      "word": "弥足珍贵",
+      "pinyin": "mí zú zhēn guì",
+      "frequency": 5,
+      "coreMeaning": "更加值得珍爱、格外宝贵，强调事物在特定条件下显得尤为难得。",
+      "morphemeHint": {
+        "keyChar": "弥",
+        "explanation": "“弥”意为更加、越发，“足”为值得；常与“在……背景下”构成递进衬托。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "精神",
+        "经验",
+        "史料",
+        "友谊"
+      ],
+      "collocations": [
+        "显得弥足珍贵",
+        "留下的经验弥足珍贵"
+      ],
+      "commonMistake": "“弥”不作“弥补”解，若写成“愈加弥足珍贵”则造成“愈加”与“弥”语义重复。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "在快节奏、碎片化阅读盛行的当下，能够沉下心来精读经典著作的定力与耐心显得____。",
+          "highlightClues": [
+            "快节奏、碎片化阅读盛行",
+            "沉下心来精读经典"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "难能可贵",
+        "凤毛麟角"
+      ]
+    },
+    {
+      "id": "nan_neng_ke_gui",
+      "word": "难能可贵",
+      "pinyin": "nán néng kě guì",
+      "frequency": 5,
+      "coreMeaning": "指做到了别人难以做到的事，因而十分可贵、值得赞许。",
+      "morphemeHint": {
+        "keyChar": "能",
+        "explanation": "“难能”即难以做到；侧重对人的品格、行动或作品突破局限的赞赏，而非物品稀缺。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "品质",
+        "精神",
+        "做法",
+        "探索"
+      ],
+      "collocations": [
+        "尤为难能可贵",
+        "这种精神难能可贵"
+      ],
+      "commonMistake": "常与“弥足珍贵”混用：文物、自然资源本身珍贵用“弥足珍贵”；人主动克服困难做出可贵之举用“难能可贵”。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "这部科普纪录片没有堆砌晦涩术语，而是用平实生动的镜头语言讲透前沿物理规律，这种创作自觉____。",
+          "highlightClues": [
+            "没有堆砌晦涩术语",
+            "讲透前沿物理规律",
+            "创作自觉"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "弥足珍贵",
+        "可圈可点"
+      ]
+    },
+    {
+      "id": "jue_wu_jin_you",
+      "word": "绝无仅有",
+      "pinyin": "jué wú jǐn yǒu",
+      "frequency": 4,
+      "coreMeaning": "只有一个，再没有别的，形容某种事物极其罕见、少有。",
+      "morphemeHint": {
+        "keyChar": "绝",
+        "explanation": "“绝无”表极少，“仅有”表唯一留存，两者并列极言罕见，语义极重。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "案例",
+        "孤本",
+        "奇迹",
+        "现象"
+      ],
+      "collocations": [
+        "史上绝无仅有",
+        "堪称绝无仅有"
+      ],
+      "commonMistake": "绝对化程度极高，若语境后文还说“类似情况也偶尔发生”，则不可用“绝无仅有”。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "逻辑呼应"
+      ],
+      "examples": [
+        {
+          "sentence": "这种在极端高温高压深海热液口独立演化的盲虾生态系统，在已知地球生物群落中几乎____，具有极高科研价值。",
+          "highlightClues": [
+            "极端高温高压",
+            "独立演化",
+            "极高科研价值"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独一无二",
+        "空前绝后"
+      ]
+    },
+    {
+      "id": "du_yi_wu_er",
+      "word": "独一无二",
+      "pinyin": "dú yī wú èr",
+      "frequency": 5,
+      "coreMeaning": "没有相同的，也没有可以相比的，突出个体与众不同的唯一性。",
+      "morphemeHint": {
+        "keyChar": "独",
+        "explanation": "“独一”即唯一，“无二”即没有第二个，侧重独特性与不可替代性。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "优势",
+        "风格",
+        "基因",
+        "文化遗产"
+      ],
+      "collocations": [
+        "独一无二的地位",
+        "独一无二的魅力"
+      ],
+      "commonMistake": "本身已含“唯一”义，不能再用“最”“非常”等程度副词修饰。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "每个人的指纹纹路与基因图谱都是____的生物标识，这为现代法医学精准识别提供了可靠的科学基石。",
+          "highlightClues": [
+            "指纹纹路与基因图谱",
+            "生物标识",
+            "精准识别"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "举世无双",
+        "无与伦比"
+      ]
+    },
+    {
+      "id": "ju_shi_wu_shuang",
+      "word": "举世无双",
+      "pinyin": "jǔ shì wú shuāng",
+      "frequency": 4,
+      "coreMeaning": "全世界都找不到第二个，形容极其罕见、卓越超群。",
+      "morphemeHint": {
+        "keyChar": "举",
+        "explanation": "“举”指全（全天下、全世界），“无双”即没有匹敌者，褒义极浓。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "奇观",
+        "珍宝",
+        "绝技",
+        "杰作"
+      ],
+      "collocations": [
+        "举世无双的瑰宝",
+        "技艺举世无双"
+      ],
+      "commonMistake": "不可用于负面事件或普通日常事物；强调“全世界范围的卓越性”，语义较重。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "曾侯乙编钟集礼乐文化与青铜铸造巅峰工艺于一身，一钟双音的声学奇迹堪称____，令世界音乐界叹为观止。",
+          "highlightClues": [
+            "巅峰工艺",
+            "一钟双音的声学奇迹",
+            "叹为观止"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独一无二",
+        "无与伦比"
+      ]
+    },
+    {
+      "id": "wu_yu_lun_bi",
+      "word": "无与伦比",
+      "pinyin": "wú yǔ lún bǐ",
+      "frequency": 5,
+      "coreMeaning": "没有能够比得上的，形容事物完美、卓越或优势达到极高水准。",
+      "morphemeHint": {
+        "keyChar": "伦",
+        "explanation": "“伦”指同类、同等；找不到可以与之并列比较的对象，多作定语或谓语。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "优势",
+        "魅力",
+        "价值",
+        "成就"
+      ],
+      "collocations": [
+        "无与伦比的优势",
+        "无与伦比的艺术魅力"
+      ],
+      "commonMistake": "易错写成“无与轮比”；带有强烈赞美色彩，不可用于形容危害、灾难或负面影响。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "我国超大规模市场和完整产业体系所形成的综合配套能力，为新兴技术快速迭代落地提供了____的天然试验场。",
+          "highlightClues": [
+            "超大规模市场",
+            "完整产业体系",
+            "天然试验场"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独一无二",
+        "望尘莫及"
+      ]
+    },
+    {
+      "id": "jiu_niu_yi_mao",
+      "word": "九牛一毛",
+      "pinyin": "jiǔ niú yī máo",
+      "frequency": 5,
+      "coreMeaning": "九头牛身上的一根毛，比喻在极大数量中所占极少、微不足道。",
+      "morphemeHint": {
+        "keyChar": "毛",
+        "explanation": "多用于资源消耗、经费投入、损失或已解决部分在总量中的占比极小。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "经费",
+        "损失",
+        "数量",
+        "已探明部分"
+      ],
+      "collocations": [
+        "不过是九牛一毛",
+        "相比之下九牛一毛"
+      ],
+      "commonMistake": "不能用于形容“只露出一小部分隐藏真相”（该义项应选“冰山一角”）。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "目前人类对深海热泉微生物多样性的认知，与广袤海洋中尚未探明的生命奥秘相比，依然只是____。",
+          "highlightClues": [
+            "目前人类对……的认知",
+            "尚未探明的生命奥秘",
+            "相比"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "沧海一粟",
+        "冰山一角"
+      ]
+    },
+    {
+      "id": "bing_shan_yi_jiao",
+      "word": "冰山一角",
+      "pinyin": "bīng shān yī jiǎo",
+      "frequency": 5,
+      "coreMeaning": "漂浮冰山露出水面的小部分，比喻已显现出来的只是潜藏整体的极小部分。",
+      "morphemeHint": {
+        "keyChar": "角",
+        "explanation": "水面下还隐藏着庞大冰体，核心语义是“显露与隐藏”，多用于问题、风险或黑幕。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "乱象",
+        "风险",
+        "案件",
+        "科研发现"
+      ],
+      "collocations": [
+        "只是冰山一角",
+        "暴露出的冰山一角"
+      ],
+      "commonMistake": "切忌与“沧海一粟”混用：“冰山一角”必须存在“表面已露、背后未露”的隐蔽对应关系。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "此次专项审计通报的几起虚报研发费用案例或许只是____，监管部门必须顺藤摸瓜，深挖背后的制度漏洞。",
+          "highlightClues": [
+            "通报的几起案例",
+            "顺藤摸瓜",
+            "深挖背后的制度漏洞"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "沧海一粟",
+        "九牛一毛"
+      ]
+    },
+    {
+      "id": "bei_shui_che_xin",
+      "word": "杯水车薪",
+      "pinyin": "bēi shuǐ chē xīn",
+      "frequency": 5,
+      "coreMeaning": "用一杯水去扑灭一车燃烧的柴火，比喻力量太小，解决不了大问题。",
+      "morphemeHint": {
+        "keyChar": "薪",
+        "explanation": "“薪”指柴草；重点在于“投入资源”与“待解决的巨大困难”严重不匹配。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "资金",
+        "补贴",
+        "力量",
+        "措施"
+      ],
+      "collocations": [
+        "可谓杯水车薪",
+        "显得杯水车薪"
+      ],
+      "commonMistake": "常与“捉襟见肘”混淆：“杯水车薪”强调小力量解决不了大困难；“捉襟见肘”强调自身处境窘迫、难以周全应付。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对动辄数亿元的基础科研设备更新与长周期攻关支出，单纯依赖零星的社会捐助往往只是____。",
+          "highlightClues": [
+            "动辄数亿元",
+            "零星的社会捐助"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "捉襟见肘",
+        "九牛一毛"
+      ]
+    }
+  ]
+}

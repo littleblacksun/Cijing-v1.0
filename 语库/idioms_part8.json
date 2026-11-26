@@ -1,0 +1,2140 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "gu_bu_zi_feng_2",
+      "word": "故步自封",
+      "pinyin": "gù bù zì fēng",
+      "frequency": 5,
+      "coreMeaning": "安于现状、局限在旧步子和既定范围内，不求上进也不愿突破创新。",
+      "morphemeHint": {
+        "keyChar": "封",
+        "explanation": "“自封”即自己画地为牢把自己封锁起来；侧重自我满足、缺乏开放和进取心。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人",
+        "行业龙头",
+        "学术流派",
+        "发展思路"
+      ],
+      "collocations": [
+        "切忌故步自封",
+        "沾沾自喜、故步自封",
+        "在成绩面前故步自封"
+      ],
+      "commonMistake": "既可写“故步自封”也可写“固步自封”，但公考规范语料通常首选“故步自封”（出自《汉书》）。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "制造业冠军企业即便已占据领先优势，也不能躺在过往功劳簿上____，唯有持续自我革命方能基业长青。",
+          "highlightClues": [
+            "躺在过往功劳簿上",
+            "自我革命"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "墨守成规",
+        "抱残守缺",
+        "画地为牢"
+      ]
+    },
+    {
+      "id": "ji_zhong_nan_fan",
+      "word": "积重难返",
+      "pinyin": "jī zhòng nán fǎn",
+      "frequency": 5,
+      "coreMeaning": "长期积累形成的弊端或坏习惯已经十分深重，极难一下子扭转过来。",
+      "morphemeHint": {
+        "keyChar": "积",
+        "explanation": "“积”强调长期日积月累，“难返”指极难扭转；仅用于贬义的弊病、顽疾或颓势。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "社会顽疾",
+        "行业弊端",
+        "生态问题",
+        "体制沉疴"
+      ],
+      "collocations": [
+        "积重难返的顽疾",
+        "问题已积重难返",
+        "避免积重难返"
+      ],
+      "commonMistake": "“返”读 fǎn，意为返回正轨；绝不能用于褒义事物（如不可说“优良传统积重难返”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "行业乱象在萌芽阶段就应露头就打，一旦利益链条盘根错节导致问题____，后期治理的成本将成倍增加。",
+          "highlightClues": [
+            "萌芽阶段",
+            "利益链条盘根错节",
+            "后期治理成本成倍增加"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "病入膏肓",
+        "尾大不掉",
+        "根深蒂固"
+      ]
+    },
+    {
+      "id": "dao_xing_ni_shi",
+      "word": "倒行逆施",
+      "pinyin": "dào xíng nì shī",
+      "frequency": 4,
+      "coreMeaning": "违背时代潮流、历史规律或大众民意而采取反动、倒退的举措。",
+      "morphemeHint": {
+        "keyChar": "逆",
+        "explanation": "“倒”与“逆”均为反向背离规律；语义极重，严厉批判违背大势与民心的行径。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "霸权行径",
+        "逆全球化行为",
+        "违法乱纪者",
+        "倒退政策"
+      ],
+      "collocations": [
+        "倒行逆施之举",
+        "这种倒行逆施",
+        "在历史上倒行逆施"
+      ],
+      "commonMistake": "语义极重且带有强烈道德/历史批判色彩，不宜用于普通的失误、偏见或性格固执。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "个别国家违背世贸组织基本原则，大搞单边“脱钩断链”，这种____的贸易保护行径注定不得人心。",
+          "highlightClues": [
+            "违背基本原则",
+            "贸易保护行径",
+            "不得人心"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "逆水行舟",
+        "一意孤行",
+        "背道而驰"
+      ]
+    },
+    {
+      "id": "ni_shui_xing_zhou",
+      "word": "逆水行舟",
+      "pinyin": "nì shuǐ xíng zhōu",
+      "frequency": 4,
+      "coreMeaning": "逆着水流方向划船，比喻在充满阻力或激烈竞争中不进则退、必须加倍努力。",
+      "morphemeHint": {
+        "keyChar": "进",
+        "explanation": "源自“逆水行舟，不进则退”；中性偏警醒意味，强调外部压力下不努力就会倒退的紧迫感。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革进程",
+        "技术竞争",
+        "个人学习",
+        "行业生存"
+      ],
+      "collocations": [
+        "犹如逆水行舟",
+        "在逆水行舟中前行",
+        "逆水行舟，不进则退"
+      ],
+      "commonMistake": "切忌与“倒行逆施”混淆！“逆水行舟”指在困难阻力中奋进或警醒不进则退，“倒行逆施”指违背规律作恶倒退。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "全球科技竞争犹如____，稍有松懈便可能被竞争对手拉开代差，唯有持续保持研发投入强度方能稳步前行。",
+          "highlightClues": [
+            "稍有松懈便被拉开代差",
+            "持续保持投入"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "倒行逆施",
+        "乘风破浪",
+        "不进则退"
+      ]
+    },
+    {
+      "id": "jiang_he_ri_xia",
+      "word": "江河日下",
+      "pinyin": "jiāng hé rì xià",
+      "frequency": 5,
+      "coreMeaning": "江河的水天天向下流淌，比喻国家、事业、社会风气或形势一天天地衰落下去。",
+      "morphemeHint": {
+        "keyChar": "日",
+        "explanation": "“日下”指一天天走向低落衰退，气象较宏观，多用于政局、事业、学术或家道等大势。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "国家政局",
+        "行业大势",
+        "传统纸媒",
+        "家族声望"
+      ],
+      "collocations": [
+        "国势江河日下",
+        "声望江河日下",
+        "生意江河日下"
+      ],
+      "commonMistake": "一般不用于形容天气变冷、物价下跌或个人感冒病情加重（后者宜用“每况愈下”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "如果不及时进行内容形态转型与商业模式重构，传统纸媒在移动互联时代的影响力恐怕只能继续____。",
+          "highlightClues": [
+            "如果不及时转型",
+            "传统纸媒",
+            "影响力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "每况愈下",
+        "日薄西山",
+        "一落千丈"
+      ]
+    },
+    {
+      "id": "yi_luo_qian_zhang",
+      "word": "一落千丈",
+      "pinyin": "yī luò qiān zhàng",
+      "frequency": 4,
+      "coreMeaning": "原指琴声突然降得很低，后形容声誉、地位、业绩或景气指数急剧大幅下降。",
+      "morphemeHint": {
+        "keyChar": "落",
+        "explanation": "突出下降幅度极大且速度快（断崖式暴跌），区别于缓慢渐进的“每况愈下”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "品牌声誉",
+        "市场份额",
+        "销量",
+        "地位"
+      ],
+      "collocations": [
+        "声誉一落千丈",
+        "销量一落千丈",
+        "口碑一落千丈"
+      ],
+      "commonMistake": "侧重短时间内大幅暴跌的落差感，如果是原本一直处于低谷或缓慢下滑，不宜使用。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "这家老牌食品企业被曝光使用过期原料后，消费信任体系瞬间崩塌，产品市场占有率在短短一季内____。",
+          "highlightClues": [
+            "瞬间崩塌",
+            "短短一季内"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "急转直下",
+        "每况愈下",
+        "江河日下"
+      ]
+    },
+    {
+      "id": "ji_zhuan_zhi_xia",
+      "word": "急转直下",
+      "pinyin": "jí zhuǎn zhí xià",
+      "frequency": 4,
+      "coreMeaning": "形容形势、局面或事态突然发生剧烈转折，迅速向坏的方向发展下去。",
+      "morphemeHint": {
+        "keyChar": "转",
+        "explanation": "包含“转折”与“直下”两层含义：原本尚可或平稳，突然拐弯朝恶化方向急速滑落。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "市场形势",
+        "外交关系",
+        "病情",
+        "局势"
+      ],
+      "collocations": [
+        "形势急转直下",
+        "局势急转直下",
+        "关系急转直下"
+      ],
+      "commonMistake": "注意既要有“突然转折”也要有“朝坏处滑落”，不可用于形容原本就一直在恶化的缓慢过程。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "受核心供应链突发断供事件冲击，原本稳健增长的消费电子市场在第三季度____，多家厂商被迫下调预期。",
+          "highlightClues": [
+            "突发冲击",
+            "原本稳健增长",
+            "下调预期"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一落千丈",
+        "每况愈下",
+        "突如其来"
+      ]
+    },
+    {
+      "id": "ri_bo_xi_shan",
+      "word": "日薄西山",
+      "pinyin": "rì bó xī shān",
+      "frequency": 4,
+      "coreMeaning": "太阳已经逼近西边的山头即将落山，比喻人到暮年或事物衰败接近没落终结。",
+      "morphemeHint": {
+        "keyChar": "薄",
+        "explanation": "“薄”读 bó，意为“迫近、逼近”；太阳快落山了，表示已走到生命或衰亡的最后阶段。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "衰落王朝",
+        "夕阳产业",
+        "老龄个体",
+        "腐朽势力"
+      ],
+      "collocations": [
+        "已呈日薄西山之势",
+        "日薄西山的产业",
+        "气息奄奄、日薄西山"
+      ],
+      "commonMistake": "注意“薄”读 bó 不读 báo；比“江河日下”更强调“临近终结、余晖将尽”的末期状态。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "在数字流媒体平台的全面冲击下，曾经风靡一时的实体音像租赁行业已然____，难觅昔日繁华踪影。",
+          "highlightClues": [
+            "全面冲击",
+            "曾经风靡一时",
+            "难觅踪影"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "江河日下",
+        "奄奄一息",
+        "如日中天"
+      ]
+    },
+    {
+      "id": "ji_ji_ke_wei",
+      "word": "岌岌可危",
+      "pinyin": "jí jí kě wēi",
+      "frequency": 5,
+      "coreMeaning": "形容处于极其危险的状态，随时都有倾覆、灭亡或崩溃的可能。",
+      "morphemeHint": {
+        "keyChar": "岌",
+        "explanation": "“岌岌”指高耸摇晃不稳；多用于形容政权、生态系统、生态链或企业生存状态极其危急。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "生态系统",
+        "企业生存",
+        "文化传承",
+        "财政安全"
+      ],
+      "collocations": [
+        "处境岌岌可危",
+        "生态链岌岌可危",
+        "让传承岌岌可危"
+      ],
+      "commonMistake": "不可用来形容建筑物本身快倒塌（后者用“摇摇欲坠”），它侧重抽象局势、地位或生存状态的危险。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "由于过度捕捞与湿地围垦，该流域部分土著鱼类的野生种群数量急剧萎缩，整个水生生态平衡已____。",
+          "highlightClues": [
+            "急剧萎缩",
+            "水生生态平衡"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "危如累卵",
+        "危在旦夕",
+        "摇摇欲坠"
+      ]
+    },
+    {
+      "id": "wei_ru_lei_luan",
+      "word": "危如累卵",
+      "pinyin": "wēi rú lěi luǎn",
+      "frequency": 4,
+      "coreMeaning": "危险得像叠起来的蛋一样随时可能摔碎，形容处境或局势极度危险脆危。",
+      "morphemeHint": {
+        "keyChar": "累",
+        "explanation": "“累”读 lěi，意为重叠；将鸡蛋一颗颗往上叠，极其形象地表达脆弱、一触即溃的危机。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "局势",
+        "安全防线",
+        "资金链",
+        "政权"
+      ],
+      "collocations": [
+        "形势危如累卵",
+        "资金链危如累卵",
+        "危如累卵的处境"
+      ],
+      "commonMistake": "本身已含“危”字，前面不可再加“十分危险”等重复修饰；与“危在旦夕”相比更重失衡脆弱感。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "高杠杆盲目扩张令这家房地产企业的现金流早已____，一旦销售回款稍有放缓便可能触发系统性违约风险。",
+          "highlightClues": [
+            "高杠杆盲目扩张",
+            "现金流",
+            "触发违约风险"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "岌岌可危",
+        "危在旦夕",
+        "摇摇欲坠"
+      ]
+    },
+    {
+      "id": "wei_zai_dan_xi",
+      "word": "危在旦夕",
+      "pinyin": "wēi zài dàn xī",
+      "frequency": 4,
+      "coreMeaning": "危险就在早晚之间，形容灾难、覆灭或危急关头紧迫到极点。",
+      "morphemeHint": {
+        "keyChar": "旦",
+        "explanation": "“旦”指早晨，“夕”指晚上；以时间之短突出危机已迫在眉睫，刻不容缓。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "濒危物种",
+        "古城安全",
+        "重症患者",
+        "濒临破产机构"
+      ],
+      "collocations": [
+        "生命危在旦夕",
+        "局面危在旦夕",
+        "抢救危在旦夕的文化遗产"
+      ],
+      "commonMistake": "强调时间上的极度紧迫性（早晚就要出事），若指长期慢性的衰落过程则不宜使用。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "面对因年久失修而____的明代古石桥，当地文物部门连夜启动抢险加固预案，赶在汛期到来前消除了坍塌隐患。",
+          "highlightClues": [
+            "年久失修",
+            "连夜启动抢险加固",
+            "消除坍塌隐患"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "岌岌可危",
+        "危如累卵",
+        "迫在眉睫"
+      ]
+    },
+    {
+      "id": "yao_yao_yu_zhui",
+      "word": "摇摇欲坠",
+      "pinyin": "yáo yáo yù zhuì",
+      "frequency": 4,
+      "coreMeaning": "晃悠着好像马上要倒塌，形容建筑不稳或政权、体系、地位即将垮台。",
+      "morphemeHint": {
+        "keyChar": "坠",
+        "explanation": "具有强烈的画面感，既可实指老旧建筑屋瓦将落，也可比喻主导地位或体系面临崩溃。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "古建筑",
+        "主导地位",
+        "制度根基",
+        "行业秩序"
+      ],
+      "collocations": [
+        "墙体摇摇欲坠",
+        "地位摇摇欲坠",
+        "体系摇摇欲坠"
+      ],
+      "commonMistake": "不可用于形容“人病重快死了”（应用“奄奄一息”或“危在旦夕”）。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "单边保护主义与地缘冲突正在冲击战后建立的多边贸易规则，使原本维系全球经贸稳定的协调机制显得____。",
+          "highlightClues": [
+            "冲击多边贸易规则",
+            "维系稳定的协调机制"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "岌岌可危",
+        "危如累卵",
+        "风雨飘摇"
+      ]
+    },
+    {
+      "id": "gou_yan_can_chuan",
+      "word": "苟延残喘",
+      "pinyin": "gǒu yán cán chuǎn",
+      "frequency": 4,
+      "coreMeaning": "勉强拖延微弱的残余气息，比喻腐朽事物或落后势力在灭亡前勉强维持。",
+      "morphemeHint": {
+        "keyChar": "苟",
+        "explanation": "“苟”指姑且、勉强，“残喘”指最后微弱的呼吸；带有明显贬义和厌恶色彩。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "落后产能",
+        "黑恶势力",
+        "腐朽制度",
+        "寄生企业"
+      ],
+      "collocations": [
+        "依靠补贴苟延残喘",
+        "在夹缝中苟延残喘"
+      ],
+      "commonMistake": "含明显贬义！绝不能用于同情、敬重困难中的英雄人物或值得扶持的珍稀濒危事物。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "若地方政府继续对高耗能、高污染的“僵尸企业”采取输血保护，只会让这些落后产能继续____，挤占优质资源。",
+          "highlightClues": [
+            "僵尸企业",
+            "输血保护",
+            "落后产能"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "奄奄一息",
+        "垂死挣扎",
+        "强弩之末"
+      ]
+    },
+    {
+      "id": "yan_yan_yi_xi",
+      "word": "奄奄一息",
+      "pinyin": "yǎn yǎn yī xī",
+      "frequency": 3,
+      "coreMeaning": "只剩下微弱的一口气，形容生命垂危或事物极其衰微、濒临消亡。",
+      "morphemeHint": {
+        "keyChar": "奄",
+        "explanation": "“奄奄”形容气息微弱将断；相比“苟延残喘”，情感偏中性怜惜或客观陈述极度衰弱。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "重病者",
+        "濒危传统技艺",
+        "衰竭企业",
+        "生态系统"
+      ],
+      "collocations": [
+        "已然奄奄一息",
+        "从奄奄一息中救活"
+      ],
+      "commonMistake": "侧重客观描写“生机微弱快要断绝”，可用于需要拯救扶持的对象，不同于纯贬义的“苟延残喘”。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "随着老一辈手艺人相继离世，这项曾经享誉江南的传统织造技艺一度____，幸得年轻设计团队介入才重现生机。",
+          "highlightClues": [
+            "手艺人相继离世",
+            "重现生机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "苟延残喘",
+        "危在旦夕",
+        "日薄西山"
+      ]
+    },
+    {
+      "id": "qiang_nu_zhi_mo",
+      "word": "强弩之末",
+      "pinyin": "qiáng nǔ zhī mò",
+      "frequency": 5,
+      "coreMeaning": "强弓射出的箭到了射程尽头，比喻原本强大的势力已经衰微，不再能发挥威力。",
+      "morphemeHint": {
+        "keyChar": "末",
+        "explanation": "重点在“末”（尾端、尽头），而非“强”；强调曾经很强但如今力量已耗尽。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "增长动能",
+        "技术红利",
+        "市场势力",
+        "反扑力量"
+      ],
+      "collocations": [
+        "已是强弩之末",
+        "沦为强弩之末",
+        "势成强弩之末"
+      ],
+      "commonMistake": "常被误用为形容某种力量依然很强，或误用于从未强大过的小事物（前提必须“曾强而今衰”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "依赖人口数量红利的传统代工模式如今已是____，制造企业必须向研发设计与品牌运营两端攀升。",
+          "highlightClues": [
+            "传统代工模式",
+            "如今已是",
+            "向两端攀升"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "日薄西山",
+        "强弓劲弩",
+        "江河日下"
+      ]
+    },
+    {
+      "id": "tan_hua_yi_xian",
+      "word": "昙花一现",
+      "pinyin": "tán huā yī xiàn",
+      "frequency": 5,
+      "coreMeaning": "像昙花开放极短时间便凋谢，比喻美好事物或一时景象出现后很快消逝。",
+      "morphemeHint": {
+        "keyChar": "现",
+        "explanation": "突出持续时间极短、难以长久；在行测中常与“行稳致远”“长盛不衰”构成对立。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "网红产品",
+        "短期繁荣",
+        "热潮",
+        "改革试点"
+      ],
+      "collocations": [
+        "沦为昙花一现",
+        "只是昙花一现",
+        "避免昙花一现"
+      ],
+      "commonMistake": "多用来形容曾经引起关注或美好热闹的事物很快消失，一般不用于灾难或恶劣行径。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "网红文旅城市不能满足于靠一两段短视频带来的流量爆发，唯有提升配套服务品质才能避免热度____。",
+          "highlightClues": [
+            "流量爆发",
+            "提升服务品质",
+            "避免热度"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "稍纵即逝",
+        "转瞬即逝",
+        "风靡一时"
+      ]
+    },
+    {
+      "id": "sheng_ji_er_shuai",
+      "word": "盛极而衰",
+      "pinyin": "shèng jí ér shuāi",
+      "frequency": 4,
+      "coreMeaning": "兴盛到达顶点之后便开始走向衰落，指事物发展遵循物极必反的盛衰规律。",
+      "morphemeHint": {
+        "keyChar": "极",
+        "explanation": "“盛极”是达到极盛，“而衰”是随后转衰；常用于历史周期律或产业生命周期分析。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "历史王朝",
+        "行业周期",
+        "商业帝国",
+        "文化流派"
+      ],
+      "collocations": [
+        "难免盛极而衰",
+        "盛极而衰的教训",
+        "打破盛极而衰的周期"
+      ],
+      "commonMistake": "强调由巅峰转入下滑的客观周期转折，并非指一开始就没有兴盛过。",
+      "tags": [
+        "国考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "纵观世界工业史，许多昔日巨无霸企业之所以____，往往不是败于外部竞争对手，而是败于内部创新机制僵化。",
+          "highlightClues": [
+            "昔日巨无霸企业",
+            "败于内部机制僵化"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "盛极一时",
+        "江河日下",
+        "物极必反"
+      ]
+    },
+    {
+      "id": "jing_jing_ye_ye",
+      "word": "兢兢业业",
+      "pinyin": "jīng jīng yè yè",
+      "frequency": 5,
+      "coreMeaning": "形容做事小心谨慎，认真踏实，毫不懈怠的工作态度。",
+      "morphemeHint": {
+        "keyChar": "兢",
+        "explanation": "“兢兢”指小心谨慎，“业业”指勤勉畏惧；合指工作认真负责、不敢丝毫大意。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "干部",
+        "科研人员",
+        "基层工作者"
+      ],
+      "collocations": [
+        "兢兢业业地工作",
+        "兢兢业业数十载"
+      ],
+      "commonMistake": "常考与“战战兢兢”辨析；前者是褒义词，形容敬业踏实，后者多形容因害怕而发抖。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "这位基层农技员扎根山区三十余年，始终____地推广良种栽培技术，赢得了乡亲们的由衷赞誉。",
+          "highlightClues": [
+            "扎根山区三十余年",
+            "推广良种栽培技术",
+            "由衷赞誉"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "战战兢兢",
+        "勤勤恳恳",
+        "恪尽职守"
+      ]
+    },
+    {
+      "id": "ke_jin_zhi_shou",
+      "word": "恪尽职守",
+      "pinyin": "kè jìn zhí shǒu",
+      "frequency": 5,
+      "coreMeaning": "严格遵守规矩，谨慎认真地履行自己的全部职责。",
+      "morphemeHint": {
+        "keyChar": "恪",
+        "explanation": "“恪”读 kè，意为谨慎而恭敬；“恪尽”即严谨而全力地履行本职。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "公职人员",
+        "执法者",
+        "岗位工作人员"
+      ],
+      "collocations": [
+        "恪尽职守、勇于担当",
+        "在岗位上恪尽职守"
+      ],
+      "commonMistake": "多用于有明确岗位职责的公职或专业人员，不宜用于一般日常琐事；易读错“恪”字音。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "防汛抗旱期间，各地应急管理部门工作人员昼夜值守巡堤，以____的实际行动筑牢安全防线。",
+          "highlightClues": [
+            "应急管理部门工作人员",
+            "昼夜值守巡堤",
+            "筑牢安全防线"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "履职尽责",
+        "尽职尽责",
+        "玩忽职守"
+      ]
+    },
+    {
+      "id": "lv_zhi_jin_ze",
+      "word": "履职尽责",
+      "pinyin": "lǚ zhí jìn zé",
+      "frequency": 5,
+      "coreMeaning": "依法依规履行自身职务，尽心尽力承担相应责任。",
+      "morphemeHint": {
+        "keyChar": "履",
+        "explanation": "“履”本义为踩踏、实行，“履职”即实际践行岗位职责，侧重行动落实。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公职人员",
+        "代表委员",
+        "监管部门"
+      ],
+      "collocations": [
+        "依法履职尽责",
+        "主动履职尽责"
+      ],
+      "commonMistake": "政论语境中常与“担当作为”搭配，注意不要与“职责”重复连用造成“履职尽责地履行职责”语病。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "人大代表只有深入田间地头倾听民声，才能在参政议政过程中真正做到____、不负重托。",
+          "highlightClues": [
+            "人大代表",
+            "参政议政",
+            "不负重托"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "恪尽职守",
+        "责无旁贷",
+        "敷衍塞责"
+      ]
+    },
+    {
+      "id": "xiao_yi_gan_shi",
+      "word": "宵衣旰食",
+      "pinyin": "xiāo yī gàn shí",
+      "frequency": 4,
+      "coreMeaning": "天未亮就穿衣起身，天黑了才吃饭，形容勤于政务。",
+      "morphemeHint": {
+        "keyChar": "旰",
+        "explanation": "“宵”指天未明，“旰”指天色已晚；形容从早到晚操劳政事，无暇顾及衣食。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "执政者",
+        "领导干部",
+        "治国理政者"
+      ],
+      "collocations": [
+        "宵衣旰食地操劳",
+        "夙兴夜寐、宵衣旰食"
+      ],
+      "commonMistake": "语义极重且带有庄重历史政论色彩，多用于形容国家领导人或高级执政者勤政，不宜形容普通学生学习。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "纵观史册，凡能开创盛世之治者，无不是____、勤勉理政，将民生疾苦时刻挂在心头。",
+          "highlightClues": [
+            "开创盛世之治者",
+            "勤勉理政",
+            "民生疾苦"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "夙夜在公",
+        "废寝忘食",
+        "夜以继日"
+      ]
+    },
+    {
+      "id": "su_ye_zai_gong",
+      "word": "夙夜在公",
+      "pinyin": "sù yè zài gōng",
+      "frequency": 4,
+      "coreMeaning": "从早到晚都在为公务操劳，形容勤勉奉公、毫无懈怠。",
+      "morphemeHint": {
+        "keyChar": "夙",
+        "explanation": "“夙”指清晨，“夜”指夜晚，“公”指公务；强调全天候心系公事。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "公职人员",
+        "领导干部",
+        "政务人员"
+      ],
+      "collocations": [
+        "夙夜在公、勤勉履职",
+        "秉持夙夜在公的精神"
+      ],
+      "commonMistake": "常被望文生义理解为只在夜间办公，实则指早晚不懈；对象限公务人员，不能用于私营事务。",
+      "tags": [
+        "省考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对脱贫攻坚的硬骨头，驻村第一书记们____、迎难而上，用汗水换来了贫困村的蝶变。",
+          "highlightClues": [
+            "脱贫攻坚",
+            "驻村第一书记",
+            "迎难而上"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "宵衣旰食",
+        "夙兴夜寐",
+        "废寝忘食"
+      ]
+    },
+    {
+      "id": "ju_gong_jin_cui",
+      "word": "鞠躬尽瘁",
+      "pinyin": "jū gōng jìn cuì",
+      "frequency": 5,
+      "coreMeaning": "恭敬谨慎，竭尽全部心力奉献到底，至死方休。",
+      "morphemeHint": {
+        "keyChar": "瘁",
+        "explanation": "“鞠躬”指恭敬谨慎，“尽瘁”指竭尽劳苦；形容为国家、人民或崇高事业耗尽心血。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "英模人物",
+        "政治家",
+        "科学家"
+      ],
+      "collocations": [
+        "鞠躬尽瘁、死而后已",
+        "为人民事业鞠躬尽瘁"
+      ],
+      "commonMistake": "语义极重，仅适用于献身国家、民族或伟大公益事业的崇高人物，不可用于日常小事或商业逐利。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "老一辈航天科学家隐姓埋名数十载，为我国航天事业____，铸就了不朽的精神丰碑。",
+          "highlightClues": [
+            "隐姓埋名数十载",
+            "我国航天事业",
+            "精神丰碑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "殚精竭虑",
+        "呕心沥血",
+        "恪尽职守"
+      ]
+    },
+    {
+      "id": "ren_lao_ren_yuan",
+      "word": "任劳任怨",
+      "pinyin": "rèn láo rèn yuàn",
+      "frequency": 4,
+      "coreMeaning": "做事不辞辛苦，受了委屈也不埋怨，形容甘于奉献。",
+      "morphemeHint": {
+        "keyChar": "任",
+        "explanation": "“任”在此作“承受、担当”讲，而非“任凭”；指既能承受辛劳，又能承受怨言。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "基层干部",
+        "普通劳动者",
+        "服务人员"
+      ],
+      "collocations": [
+        "任劳任怨地付出",
+        "默默无闻、任劳任怨"
+      ],
+      "commonMistake": "注意“任”读 rèn；常与“怨天尤人”构成反义，语境需同时有辛苦和委屈隐忍的支撑。",
+      "tags": [
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "社区调解员常年奔波在邻里纠纷一线，面对误解与冷眼始终____，用耐心化解了无数矛盾。",
+          "highlightClues": [
+            "常年奔波",
+            "面对误解与冷眼",
+            "用耐心化解"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "勤勤恳恳",
+        "默默无闻",
+        "怨天尤人"
+      ]
+    },
+    {
+      "id": "mai_tou_ku_gan",
+      "word": "埋头苦干",
+      "pinyin": "mái tóu kǔ gàn",
+      "frequency": 5,
+      "coreMeaning": "专心致志地默默钻研和劳作，不图虚名、不怕吃苦。",
+      "morphemeHint": {
+        "keyChar": "埋",
+        "explanation": "“埋头”指专注投入、不张扬，“苦干”指实实在在付出辛勤劳动。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研团队",
+        "实干者",
+        "建设者"
+      ],
+      "collocations": [
+        "埋头苦干、勇毅前行",
+        "沉下心来埋头苦干"
+      ],
+      "commonMistake": "重在“专心不张扬地实干”，常与“好高骛远”“浮躁冒进”形成对比。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "核心技术攻关容不得半点浮躁，必须发扬____的精神，在基础研究领域坐稳冷板凳。",
+          "highlightClues": [
+            "核心技术攻关",
+            "容不得半点浮躁",
+            "坐稳冷板凳"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "真抓实干",
+        "脚踏实地",
+        "闭门造车"
+      ]
+    },
+    {
+      "id": "jiao_ta_shi_di",
+      "word": "脚踏实地",
+      "pinyin": "jiǎo tà shí dì",
+      "frequency": 5,
+      "coreMeaning": "形容做事踏实认真，不浮夸、不空谈，一步一个脚印。",
+      "morphemeHint": {
+        "keyChar": "实",
+        "explanation": "“踏实地”比喻立足现实、稳扎稳打，强调作风扎实不漂浮。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "工作作风",
+        "改革推进",
+        "青年人才"
+      ],
+      "collocations": [
+        "脚踏实地地推进",
+        "秉持脚踏实地的作风"
+      ],
+      "commonMistake": "常与“好高骛远”“急功近利”反义对照；注意不要与“按部就班”混淆，前者纯褒义重踏实。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "乡村振兴不能搞脱离实际的“形象工程”，而应____地解决好农村供水、道路和产业等现实问题。",
+          "highlightClues": [
+            "不能搞脱离实际的",
+            "解决好",
+            "现实问题"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "真抓实干",
+        "求真务实",
+        "好高骛远"
+      ]
+    },
+    {
+      "id": "zhen_zhua_shi_gan",
+      "word": "真抓实干",
+      "pinyin": "zhēn zhuā shí gàn",
+      "frequency": 5,
+      "coreMeaning": "不搞形式主义，动真碰硬地抓落实、干实事。",
+      "morphemeHint": {
+        "keyChar": "实",
+        "explanation": "“真抓”对治虚抓，“实干”对治空喊，突出工作落实的真实成效。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "党员干部",
+        "地方政府",
+        "工作作风"
+      ],
+      "collocations": [
+        "真抓实干促发展",
+        "形成真抓实干的浓厚氛围"
+      ],
+      "commonMistake": "典型政论高频词，常与“装样子”“走过场”“弄虚作假”形成反义呼应。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "只有把考核指挥棒向一线倾斜，才能激励广大干部____，杜绝“材料政绩”和数字造假。",
+          "highlightClues": [
+            "考核指挥棒",
+            "杜绝“材料政绩”",
+            "数字造假"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "求真务实",
+        "脚踏实地",
+        "敷衍塞责"
+      ]
+    },
+    {
+      "id": "qiu_zhen_wu_shi",
+      "word": "求真务实",
+      "pinyin": "qiú zhēn wù shí",
+      "frequency": 5,
+      "coreMeaning": "追求客观真理，讲求实际效用，反对空谈虚浮。",
+      "morphemeHint": {
+        "keyChar": "务",
+        "explanation": "“求真”是探索规律，“务实”是致力于实效，体现科学精神与实干作风的统一。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "思想作风",
+        "政策制定",
+        "科学态度"
+      ],
+      "collocations": [
+        "弘扬求真务实之风",
+        "秉持求真务实的态度"
+      ],
+      "commonMistake": "侧重“遵循规律+注重实效”，而“实事求是”更侧重一切从实际出发、尊重事实。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "数字政府建设必须坚持____的原则，以群众办事是否真正便利作为检验成效的根本标准。",
+          "highlightClues": [
+            "群众办事是否真正便利",
+            "检验成效",
+            "根本标准"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "实事求是",
+        "真抓实干",
+        "脚踏实地"
+      ]
+    },
+    {
+      "id": "shen_ti_li_xing",
+      "word": "身体力行",
+      "pinyin": "shēn tǐ lì xíng",
+      "frequency": 5,
+      "coreMeaning": "亲身体验并努力践行，强调自己带头去实践。",
+      "morphemeHint": {
+        "keyChar": "体",
+        "explanation": "“身体”指亲身体验，非名词“身躯”；“力行”指努力实行，重在亲自实践。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "倡导者",
+        "干部",
+        "文化传承人"
+      ],
+      "collocations": [
+        "身体力行地践行",
+        "倡导并身体力行"
+      ],
+      "commonMistake": "常考与“以身作则”辨析：“身体力行”重在自己亲自去实践体验，未必强调给别人作榜样。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "低碳环保不能只停留在口号上，更需要每位公民从日常出行和垃圾分类做起，____。",
+          "highlightClues": [
+            "不能只停留在口号上",
+            "从日常出行",
+            "做起"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "以身作则",
+        "率先垂范",
+        "躬行实践"
+      ]
+    },
+    {
+      "id": "yi_shen_zuo_ze",
+      "word": "以身作则",
+      "pinyin": "yǐ shēn zuò zé",
+      "frequency": 5,
+      "coreMeaning": "用自己的实际行动作为榜样，带动并规范他人。",
+      "morphemeHint": {
+        "keyChar": "则",
+        "explanation": "“则”指榜样、准则；核心在于通过自身示范去影响、带动他人效仿。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "领导干部",
+        "教师",
+        "家长"
+      ],
+      "collocations": [
+        "领导干部以身作则",
+        "以身作则、示范带动"
+      ],
+      "commonMistake": "主语须处于示范、引导位置，不能用于普通群众对自己的约束；注意“作”不要写成“做”。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "家风建设中，父母唯有____，在言谈举止中传递诚实守信的品格，才能给孩子立下好规矩。",
+          "highlightClues": [
+            "父母",
+            "在言谈举止中",
+            "给孩子立下好规矩"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "率先垂范",
+        "身体力行",
+        "言传身教"
+      ]
+    },
+    {
+      "id": "shuai_xian_chui_fan",
+      "word": "率先垂范",
+      "pinyin": "shuài xiān chuí fàn",
+      "frequency": 5,
+      "coreMeaning": "带头走在前列，为下级或他人树立可供效仿的典范。",
+      "morphemeHint": {
+        "keyChar": "垂",
+        "explanation": "“率先”指带头在先，“垂范”指留下模范给后人或下属；带有明显的自上而下示范义。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "高级领导",
+        "部门负责人",
+        "行业领军者"
+      ],
+      "collocations": [
+        "领导班子率先垂范",
+        "关键少数率先垂范"
+      ],
+      "commonMistake": "对象限制极严，只能用于上级、领导、长辈或前辈对下级、群众、晚辈作表率，不能用于平级或下级对上级。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "谦敬误用"
+      ],
+      "examples": [
+        {
+          "sentence": "整治形式主义必须盯住“关键少数”，各级主要负责同志要____，带头精简会议和文件。",
+          "highlightClues": [
+            "关键少数",
+            "各级主要负责同志",
+            "带头精简"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "以身作则",
+        "身先士卒",
+        "身体力行"
+      ]
+    },
+    {
+      "id": "yan_chuan_shen_jiao",
+      "word": "言传身教",
+      "pinyin": "yán chuán shēn jiào",
+      "frequency": 5,
+      "coreMeaning": "一面用言语教导，一面用自身行动做出示范和影响。",
+      "morphemeHint": {
+        "keyChar": "身",
+        "explanation": "“言传”是口头讲授，“身教”是行动示范；兼顾语言与行为双重教育作用。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "教师",
+        "导师",
+        "长辈",
+        "老党员"
+      ],
+      "collocations": [
+        "父母的言传身教",
+        "通过言传身教培育人才"
+      ],
+      "commonMistake": "需主语既有言语指导又有行动示范；若语境强调“不说教、靠行动默默影响”，则应选“潜移默化”或“润物无声”。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "非遗传承既需要老艺人口传心授讲解技艺要领，更离不开他们在日常创作中的____。",
+          "highlightClues": [
+            "非遗传承",
+            "老艺人",
+            "口传心授"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "以身作则",
+        "耳濡目染",
+        "潜移默化"
+      ]
+    },
+    {
+      "id": "er_ru_mu_ran",
+      "word": "耳濡目染",
+      "pinyin": "ěr rú mù rǎn",
+      "frequency": 5,
+      "coreMeaning": "耳朵经常听到，眼睛经常看到，不知不觉受到熏陶影响。",
+      "morphemeHint": {
+        "keyChar": "濡",
+        "explanation": "“濡”意为沾湿，“染”指染上色彩；强调长期置身某种环境中被自然熏陶。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "人",
+        "青少年",
+        "受众"
+      ],
+      "collocations": [
+        "在其中耳濡目染",
+        "从小耳濡目染"
+      ],
+      "commonMistake": "主语必须是“受影响的人”，不能说“环境耳濡目染了孩子”；若主语是文化或制度，宜用“潜移默化”。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "将廉洁文化融入社区微景观与日常活动，让群众在____中厚植崇廉尚洁的价值理念。",
+          "highlightClues": [
+            "融入社区微景观",
+            "让群众",
+            "厚植"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "潜移默化",
+        "润物无声",
+        "言传身教"
+      ]
+    },
+    {
+      "id": "run_wu_wu_sheng",
+      "word": "润物无声",
+      "pinyin": "rùn wù wú shēng",
+      "frequency": 4,
+      "coreMeaning": "像春雨滋润万物那样悄然无声地发挥积极教育感化作用。",
+      "morphemeHint": {
+        "keyChar": "润",
+        "explanation": "化用杜甫“润物细无声”，指不靠生硬说教，而是以温和方式滋养人心。"
+      },
+      "sentiment": "positive",
+      "intensity": "light",
+      "applicableObjects": [
+        "思想教育",
+        "文化宣传",
+        "德育工作"
+      ],
+      "collocations": [
+        "起到润物无声的效果",
+        "润物无声地滋养"
+      ],
+      "commonMistake": "纯褒义，多用于思政教育、文化传播等正面引导语境；不可用于不良风气的蔓延。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "新时代文明实践中心摒弃生硬说教，用群众喜闻乐见的志愿服务实现____的教化效果。",
+          "highlightClues": [
+            "摒弃生硬说教",
+            "喜闻乐见",
+            "教化效果"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "潜移默化",
+        "春风化雨",
+        "耳濡目染"
+      ]
+    },
+    {
+      "id": "feng_qing_qi_zheng",
+      "word": "风清气正",
+      "pinyin": "fēng qīng qì zhèng",
+      "frequency": 5,
+      "coreMeaning": "形容政治生态清朗、社会或行业风气纯正健康。",
+      "morphemeHint": {
+        "keyChar": "清",
+        "explanation": "“风清”指风尚清朗不浑浊，“气正”指正气充盈、不歪斜。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政治生态",
+        "网络空间",
+        "学术环境"
+      ],
+      "collocations": [
+        "营造风清气正的政治生态",
+        "风清气正的干事环境"
+      ],
+      "commonMistake": "修饰对象为宏观生态、环境、风气，一般不直接用来形容某个具体个人。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "持续深化纪检监察体制改革，就是要清除腐败土壤，营造____、干事创业的良好政治生态。",
+          "highlightClues": [
+            "清除腐败土壤",
+            "良好政治生态"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "政通人和",
+        "激浊扬清",
+        "清正廉明"
+      ]
+    },
+    {
+      "id": "lian_jie_feng_gong",
+      "word": "廉洁奉公",
+      "pinyin": "lián jié fèng gōng",
+      "frequency": 5,
+      "coreMeaning": "不贪污、不受贿，一心一意为公家办事。",
+      "morphemeHint": {
+        "keyChar": "廉",
+        "explanation": "“廉洁”指清白不贪，“奉公”指恪守公职、秉公办事。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "党员干部",
+        "公职人员",
+        "执法人员"
+      ],
+      "collocations": [
+        "保持廉洁奉公的本色",
+        "廉洁奉公、勤政为民"
+      ],
+      "commonMistake": "常与“克己奉公”近义考查；“廉洁奉公”偏重钱财与权力上的不贪，“克己奉公”偏重克制私欲。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "焦裕禄等优秀党员干部一生____，从不利用手中权力为亲属谋取半点特殊照顾。",
+          "highlightClues": [
+            "从不利用手中权力",
+            "谋取半点特殊照顾"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "克己奉公",
+        "两袖清风",
+        "清正廉明"
+      ]
+    },
+    {
+      "id": "ke_ji_feng_gong",
+      "word": "克己奉公",
+      "pinyin": "kè jǐ fèng gōng",
+      "frequency": 4,
+      "coreMeaning": "严格约束个人私欲，一心一意奉行公事、服务大众。",
+      "morphemeHint": {
+        "keyChar": "克",
+        "explanation": "“克己”即克制自己的私心欲望，“奉公”即一切以公事为重。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "领导干部",
+        "党员",
+        "公职人员"
+      ],
+      "collocations": [
+        "克己奉公的高尚品格",
+        "坚持克己奉公"
+      ],
+      "commonMistake": "不可误解为“委屈自己”；强调公私分明、先公后私的道德自律。",
+      "tags": [
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对各种利益诱惑，党员领导干部更应筑牢思想防线，时刻做到____、先公后私。",
+          "highlightClues": [
+            "利益诱惑",
+            "先公后私"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "廉洁奉公",
+        "大公无私",
+        "假公济私"
+      ]
+    },
+    {
+      "id": "liang_xiu_qing_feng",
+      "word": "两袖清风",
+      "pinyin": "liǎng xiù qīng fēng",
+      "frequency": 5,
+      "coreMeaning": "衣袖中除清风外别无他物，比喻做官清廉，不贪不占。",
+      "morphemeHint": {
+        "keyChar": "清",
+        "explanation": "典出明代于谦进京不带土产礼品，仅剩“两袖清风”，比喻身无不义之财。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "官员",
+        "公职人员"
+      ],
+      "collocations": [
+        "一身正气、两袖清风",
+        "终生两袖清风"
+      ],
+      "commonMistake": "常被误用为形容普通百姓“家境贫寒”或“身上没钱”；它专指为官清廉，与贫穷无关。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "老县长离任时只有几箱旧书相伴，真正做到了一身正气、____，至今仍被当地群众传颂。",
+          "highlightClues": [
+            "老县长离任",
+            "几箱旧书",
+            "一身正气"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一尘不染",
+        "廉洁奉公",
+        "一贫如洗"
+      ]
+    },
+    {
+      "id": "da_gong_wu_si",
+      "word": "大公无私",
+      "pinyin": "dà gōng wú sī",
+      "frequency": 4,
+      "coreMeaning": "完全从整体和大众利益出发，毫无个人私心杂念。",
+      "morphemeHint": {
+        "keyChar": "公",
+        "explanation": "“大公”指一心为公，“无私”指不计个人私利；侧重价值立场无私心。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "公职人员",
+        "先模人物",
+        "品格精神"
+      ],
+      "collocations": [
+        "大公无私的精神",
+        "秉持大公无私的立场"
+      ],
+      "commonMistake": "与“铁面无私”区分：前者重在“无私心、舍己为公”，后者重在“执法办案不讲情面”。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在急难险重任务面前，共产党员总是把个人安危置之度外，展现出____的崇高境界。",
+          "highlightClues": [
+            "急难险重任务",
+            "个人安危置之度外",
+            "崇高境界"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "铁面无私",
+        "克己奉公",
+        "徇私舞弊"
+      ]
+    },
+    {
+      "id": "tie_mian_wu_si",
+      "word": "铁面无私",
+      "pinyin": "tiě miàn wú sī",
+      "frequency": 5,
+      "coreMeaning": "形容执法、办事公正严明，不畏权贵、不徇私情。",
+      "morphemeHint": {
+        "keyChar": "铁",
+        "explanation": "“铁面”比喻面色严峻、不可通融，“无私”指绝不偏袒任何私情。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "纪检干部",
+        "法官",
+        "执法监管人员"
+      ],
+      "collocations": [
+        "铁面无私的执法者",
+        "铁面无私、秉公办案"
+      ],
+      "commonMistake": "专用于执法、执纪、裁判等涉及原则底线的场景，不宜用来形容日常待人接物冷漠。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "环保督察组在核查污染线索时____，对任何说情打招呼的行为一律严词拒绝、照章处理。",
+          "highlightClues": [
+            "环保督察组",
+            "说情打招呼",
+            "照章处理"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "秉公执法",
+        "执法如山",
+        "刚正不阿"
+      ]
+    },
+    {
+      "id": "zhi_fa_ru_shan",
+      "word": "执法如山",
+      "pinyin": "zhí fǎ rú shān",
+      "frequency": 4,
+      "coreMeaning": "执行法律像山岳般坚定不可动摇，毫无通融余地。",
+      "morphemeHint": {
+        "keyChar": "山",
+        "explanation": "以“如山”比喻法律权威与执法意志稳固不可撼动。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "司法机关",
+        "执法部门",
+        "执法者"
+      ],
+      "collocations": [
+        "坚持执法如山",
+        "执法如山、令出必行"
+      ],
+      "commonMistake": "语义刚性强，多用于严肃司法、行政执法或整肃纪律语境。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "只有做到____，让违法者在法律铁拳面前无处遁形，才能真正捍卫社会公平正义的最后防线。",
+          "highlightClues": [
+            "法律铁拳",
+            "无处遁形",
+            "捍卫社会公平正义"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "秉公执法",
+        "铁面无私",
+        "刚正不阿"
+      ]
+    },
+    {
+      "id": "bing_gong_zhi_fa",
+      "word": "秉公执法",
+      "pinyin": "bǐng gōng zhí fǎ",
+      "frequency": 5,
+      "coreMeaning": "手持公正尺度执行法律，不偏袒任何一方。",
+      "morphemeHint": {
+        "keyChar": "秉",
+        "explanation": "“秉”意为手持、掌握，“秉公”即持守公正原则而不偏向私情。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "司法人员",
+        "执法机关",
+        "监管干部"
+      ],
+      "collocations": [
+        "严格秉公执法",
+        "坚持秉公执法、司法为民"
+      ],
+      "commonMistake": "注意只能用于拥有法定执法权的机关或人员，不可用于普通企业内部管理。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "市场监管人员在查处假冒伪劣商品案件时坚持____，既不放过违法线索，也保障合法经营权益。",
+          "highlightClues": [
+            "市场监管人员",
+            "查处假冒伪劣",
+            "不放过"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "执法如山",
+        "铁面无私",
+        "贪赃枉法"
+      ]
+    },
+    {
+      "id": "cheng_e_yang_shan",
+      "word": "惩恶扬善",
+      "pinyin": "chéng è yáng shàn",
+      "frequency": 4,
+      "coreMeaning": "惩罚邪恶势力，宣扬和鼓励善良正义的行为。",
+      "morphemeHint": {
+        "keyChar": "扬",
+        "explanation": "“惩”是打击惩戒，“扬”是褒扬弘扬；体现法治与道德的双重导向。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "法律制度",
+        "司法裁判",
+        "社会舆论"
+      ],
+      "collocations": [
+        "发挥惩恶扬善的作用",
+        "依法惩恶扬善"
+      ],
+      "commonMistake": "注意“惩”读 chéng（二声）；侧重对善恶两种行为并行的奖惩机制。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "民法典明确保护见义勇为者免责权益，以鲜明的司法导向发挥了____的社会功能。",
+          "highlightClues": [
+            "保护见义勇为者",
+            "司法导向",
+            "社会功能"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "激浊扬清",
+        "赏罚分明",
+        "姑息养奸"
+      ]
+    },
+    {
+      "id": "ji_zhuo_yang_qing",
+      "word": "激浊扬清",
+      "pinyin": "jī zhuó yáng qīng",
+      "frequency": 5,
+      "coreMeaning": "冲走污浊的水，让清澈的水流涌起，比喻清除坏人坏风气、发扬正气。",
+      "morphemeHint": {
+        "keyChar": "激",
+        "explanation": "“激”是冲刷除去，“浊”喻腐败歪风，“清”喻清风正气；常用于生态整治。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "政治生态",
+        "网络空间",
+        "学术风气"
+      ],
+      "collocations": [
+        "深入推进激浊扬清",
+        "在网络空间激浊扬清"
+      ],
+      "commonMistake": "常与“正本清源”辨析：“激浊扬清”重在除旧弊、树新风，强调“破与立”；“正本清源”重在从根本和源头上彻底整顿。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "专项整治网络水军和谣言乱象，旨在____，让真实理性之声成为互联网空间的主流。",
+          "highlightClues": [
+            "整治网络水军和谣言",
+            "真实理性之声",
+            "主流"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "正本清源",
+        "惩恶扬善",
+        "风清气正"
+      ]
+    },
+    {
+      "id": "zheng_ben_qing_yuan",
+      "word": "正本清源",
+      "pinyin": "zhèng běn qīng yuán",
+      "frequency": 5,
+      "coreMeaning": "从根本上整顿，从源头上清理，比喻彻底解决弊端。",
+      "morphemeHint": {
+        "keyChar": "源",
+        "explanation": "“本”指根基，“源”指水流源头；核心语境必有“根本、源头、制度根源”提示。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "制度改革",
+        "舆论纠偏",
+        "反腐治理"
+      ],
+      "collocations": [
+        "正本清源、固本培元",
+        "从制度上正本清源"
+      ],
+      "commonMistake": "若语境强调“治标与治本结合”，宜选“标本兼治”；若仅强调“从根本和源头纠正”，选“正本清源”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "遏制未成年人沉迷网络游戏，既需技术防沉迷，更要通过完善家校协同与平台监管实现____。",
+          "highlightClues": [
+            "既需技术防沉迷",
+            "完善家校协同与平台监管"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "激浊扬清",
+        "标本兼治",
+        "釜底抽薪"
+      ]
+    },
+    {
+      "id": "gua_gu_liao_du",
+      "word": "刮骨疗毒",
+      "pinyin": "guā gǔ liáo dú",
+      "frequency": 5,
+      "coreMeaning": "刮去骨头上的毒素，比喻以极大勇气和痛苦代价彻底革除自身积弊。",
+      "morphemeHint": {
+        "keyChar": "毒",
+        "explanation": "典出关羽刮骨疗毒，突出“忍痛自我革命、彻底清除内部毒瘤”的决心。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "自我革命",
+        "反腐败",
+        "内部整顿"
+      ],
+      "collocations": [
+        "以刮骨疗毒的勇气",
+        "刮骨疗毒、自我革命"
+      ],
+      "commonMistake": "强调“对自身内部顽疾”动手术，如果是打击外部敌人或改革外部体制，通常不用“刮骨疗毒”。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "全面从严治党永远在路上，必须以____的政治勇气坚决查处系统内部的腐败分子。",
+          "highlightClues": [
+            "全面从严治党",
+            "政治勇气",
+            "系统内部的腐败分子"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "壮士断腕",
+        "大刀阔斧",
+        "讳疾忌医"
+      ]
+    },
+    {
+      "id": "zhuang_shi_duan_wan",
+      "word": "壮士断腕",
+      "pinyin": "zhuàng shì duàn wàn",
+      "frequency": 5,
+      "coreMeaning": "比喻关键时刻当机立断，宁可舍弃局部利益也要保全全局或推进改革。",
+      "morphemeHint": {
+        "keyChar": "断",
+        "explanation": "重点在“舍得牺牲既得利益或局部利益”的决断魄力。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "深化改革",
+        "产业转型",
+        "简政放权"
+      ],
+      "collocations": [
+        "以壮士断腕的决心",
+        "壮士断腕推进改革"
+      ],
+      "commonMistake": "常与“刮骨疗毒”并列考查：前者重“忍痛舍弃既得利益/局部”，后者重“清除内部毒瘤/弊病”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "推进“放管服”改革实质上是一场自我削权，需要相关部门拿出____的魄力砍掉多余审批事项。",
+          "highlightClues": [
+            "自我削权",
+            "魄力",
+            "砍掉多余审批事项"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "刮骨疗毒",
+        "大刀阔斧",
+        "当机立断"
+      ]
+    },
+    {
+      "id": "lei_li_feng_xing",
+      "word": "雷厉风行",
+      "pinyin": "léi lì fēng xíng",
+      "frequency": 5,
+      "coreMeaning": "像打雷那样猛烈、像刮风那样迅速，形容执行政令果断有力、雷霆效率。",
+      "morphemeHint": {
+        "keyChar": "行",
+        "explanation": "“厉”指猛烈，“行”指推行迅速；专指办事和执行政策的速度与魄力。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "工作作风",
+        "政策执行",
+        "整改落实"
+      ],
+      "collocations": [
+        "雷厉风行地抓落实",
+        "雷厉风行的工作作风"
+      ],
+      "commonMistake": "常与“大刀阔斧”辨析：“雷厉风行”重在执行迅速果断；“大刀阔斧”重在改革规模大、敢破敢立。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "中央环保督察指出问题后，当地政府____，连夜制定整改方案并关停了违规排污企业。",
+          "highlightClues": [
+            "指出问题后",
+            "连夜制定整改方案",
+            "关停"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "大刀阔斧",
+        "立竿见影",
+        "雷霆万钧"
+      ]
+    },
+    {
+      "id": "da_dao_kuo_fu",
+      "word": "大刀阔斧",
+      "pinyin": "dà dāo kuò fǔ",
+      "frequency": 5,
+      "coreMeaning": "原指使用大刀宽斧砍杀，现比喻办事果断、有魄力、大力度推进改革。",
+      "morphemeHint": {
+        "keyChar": "阔",
+        "explanation": "“大”“阔”突出动作幅度和力度极大，常用于破除陈规、推进体制改革。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "改革措施",
+        "机构调整",
+        "整顿治理"
+      ],
+      "collocations": [
+        "大刀阔斧地改革",
+        "大刀阔斧砍掉冗员"
+      ],
+      "commonMistake": "强调“力度大、跨度广”，不可用于精细微小的修补调整（后者宜用“精雕细琢”“循序渐进”）。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "面对长期制约科技成果转化的体制障碍，科研院所必须____地改革评价体系和收益分配机制。",
+          "highlightClues": [
+            "长期制约",
+            "体制障碍",
+            "改革评价体系"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雷厉风行",
+        "壮士断腕",
+        "循序渐进"
+      ]
+    },
+    {
+      "id": "lei_ting_wan_jun",
+      "word": "雷霆万钧",
+      "pinyin": "léi tíng wàn jūn",
+      "frequency": 4,
+      "coreMeaning": "形容威力或气势极其强大，势不可挡。",
+      "morphemeHint": {
+        "keyChar": "钧",
+        "explanation": "“雷霆”喻声势，“万钧”极言重量（一钧为三十斤）；形容威势极大、不可阻挡。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "反腐攻势",
+        "打击行动",
+        "自然现象",
+        "声势"
+      ],
+      "collocations": [
+        "以雷霆万钧之势",
+        "雷霆万钧的打击"
+      ],
+      "commonMistake": "常与“雷厉风行”混用；“雷霆万钧”只形容声势、威力巨大，并不强调日常工作作风迅速。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "扫黑除恶专项斗争开展以来，政法机关以____之势摧毁了一批长期盘踞基层的黑恶势力。",
+          "highlightClues": [
+            "扫黑除恶",
+            "政法机关",
+            "摧毁"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雷厉风行",
+        "排山倒海",
+        "势如破竹"
+      ]
+    }
+  ]
+}

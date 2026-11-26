@@ -1,0 +1,2098 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "shi_zhi_bu_yu",
+      "word": "矢志不渝",
+      "pinyin": "shǐ zhì bù yú",
+      "frequency": 4,
+      "coreMeaning": "立下坚定志愿，永远不改变初衷和信念。",
+      "morphemeHint": {
+        "keyChar": "渝",
+        "explanation": "“矢”意为发誓，“渝”意为改变；合指立志坚定、永不变节。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "理想信念",
+        "奋斗者",
+        "政党成员"
+      ],
+      "collocations": [
+        "矢志不渝地坚守",
+        "矢志不渝为人民服务"
+      ],
+      "commonMistake": "“矢”不是箭，作动词“发誓”讲；注意“渝”不要误写为“逾”。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "一代代塞罕坝林场建设者____地守护绿色使命，将昔日荒原沙地变成了广袤林海。",
+          "highlightClues": [
+            "一代代",
+            "守护绿色使命",
+            "荒原沙地变成"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "坚定不移",
+        "始终不渝",
+        "半途而废"
+      ]
+    },
+    {
+      "id": "yi_chen_bu_ran",
+      "word": "一尘不染",
+      "pinyin": "yī chén bù rǎn",
+      "frequency": 4,
+      "coreMeaning": "原指环境极为洁净，现多比喻人品行纯洁清廉，不受丝毫污浊沾染。",
+      "morphemeHint": {
+        "keyChar": "染",
+        "explanation": "语出佛教“六尘不染”，既可写环境整洁，政论中多比喻干部清廉自守、不沾私利。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "公职人员",
+        "政治本色",
+        "洁净环境"
+      ],
+      "collocations": [
+        "保持一尘不染的清廉本色",
+        "一尘不染的实验室"
+      ],
+      "commonMistake": "注意区分具体环境洁净义与抽象廉洁品行义，政论多取廉洁引申义。",
+      "tags": [
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "在权力集中、资金密集的关键岗位上，领导干部更需常怀敬畏之心，始终保持____的政治本色。",
+          "highlightClues": [
+            "权力集中",
+            "敬畏之心",
+            "政治本色"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "两袖清风",
+        "清正廉明",
+        "洁身自好"
+      ]
+    },
+    {
+      "id": "qing_zheng_lian_ming",
+      "word": "清正廉明",
+      "pinyin": "qīng zhèng lián míng",
+      "frequency": 4,
+      "coreMeaning": "为官清白正直，不贪污受贿，判案办事公正明察。",
+      "morphemeHint": {
+        "keyChar": "明",
+        "explanation": "兼具“清廉”“正直”与“明察是非”三重含义，常用于评价优秀官员形象。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "官员",
+        "领导干部",
+        "司法人员"
+      ],
+      "collocations": [
+        "清正廉明的形象",
+        "清正廉明的好干部"
+      ],
+      "commonMistake": "对象专指公职人员或古代官吏，不宜用于形容商界人士或文艺作品。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "历史上的清官之所以千古留名，不仅因为他们个人____，更因为他们敢于为民请命、革除弊政。",
+          "highlightClues": [
+            "历史上的清官",
+            "千古留名",
+            "为民请命"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "廉洁奉公",
+        "两袖清风",
+        "贪赃枉法"
+      ]
+    },
+    {
+      "id": "feng_gong_shou_fa",
+      "word": "奉公守法",
+      "pinyin": "fèng gōng shǒu fǎ",
+      "frequency": 4,
+      "coreMeaning": "恪守公事原则，严格遵守国家法律法规。",
+      "morphemeHint": {
+        "keyChar": "守",
+        "explanation": "“奉公”指以公事为重，“守法”指依法行事，强调合规守纪底线。"
+      },
+      "sentiment": "positive",
+      "intensity": "light",
+      "applicableObjects": [
+        "公民",
+        "企业",
+        "公职人员"
+      ],
+      "collocations": [
+        "做奉公守法的公民",
+        "坚持奉公守法经营"
+      ],
+      "commonMistake": "适用范围比“廉洁奉公”更广，也可用于普通守法公民或依法纳税的企业。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "构建亲清政商关系，既要求公职人员清白履职，也引导民营企业家____、诚信经营。",
+          "highlightClues": [
+            "亲清政商关系",
+            "民营企业家",
+            "诚信经营"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "廉洁奉公",
+        "遵纪守法",
+        "徇私舞弊"
+      ]
+    },
+    {
+      "id": "gang_zheng_bu_e",
+      "word": "刚正不阿",
+      "pinyin": "gāng zhèng bù ē",
+      "frequency": 4,
+      "coreMeaning": "性格刚强正直，不迎合、不屈从权势，坚持原则。",
+      "morphemeHint": {
+        "keyChar": "阿",
+        "explanation": "“阿”读 ē，意为迎合、偏袒；“不阿”即绝不阿谀奉承或曲意徇私。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "御史",
+        "审计人员",
+        "纪检干部",
+        "文人"
+      ],
+      "collocations": [
+        "刚正不阿的品格",
+        "素以刚正不阿著称"
+      ],
+      "commonMistake": "易错读音“阿”应读 ē（非 ā）；侧重不屈服权势压力，敢言敢管。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "审计监督必须选拔____的干部，敢于较真碰硬，决不能在压力面前打退堂鼓、搞变通。",
+          "highlightClues": [
+            "审计监督",
+            "较真碰硬",
+            "压力面前"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "铁面无私",
+        "执法如山",
+        "阿谀奉承"
+      ]
+    },
+    {
+      "id": "li_xing_jie_yue",
+      "word": "厉行节约",
+      "pinyin": "lì xíng jié yuē",
+      "frequency": 4,
+      "coreMeaning": "严格切实地推行节约制度，反对铺张浪费。",
+      "morphemeHint": {
+        "keyChar": "厉",
+        "explanation": "“厉”指严格、切实，而非“厉害”；强调用制度和刚性约束实行节约。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "党政机关",
+        "财政预算",
+        "社会风尚"
+      ],
+      "collocations": [
+        "厉行节约、反对浪费",
+        "坚持勤俭办一切事业、厉行节约"
+      ],
+      "commonMistake": "注意“厉”字勿写作“励”；多用于公共治理、党政机关过紧日子语境。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "各级党政机关要带头过紧日子，严控一般性支出，把____的要求落实到每一笔预算审批中。",
+          "highlightClues": [
+            "过紧日子",
+            "严控一般性支出",
+            "预算审批"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "勤俭节约",
+        "铺张浪费"
+      ]
+    },
+    {
+      "id": "jiu_jiu_wei_gong",
+      "word": "久久为功",
+      "pinyin": "jiǔ jiǔ wéi gōng",
+      "frequency": 5,
+      "coreMeaning": "要有长期坚持的韧劲，持续发力才能最终取得实效。",
+      "morphemeHint": {
+        "keyChar": "久",
+        "explanation": "强调不急于求成、不半途而废，靠长期积累和持续攻坚达成目标。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "生态治理",
+        "作风建设",
+        "基础研究"
+      ],
+      "collocations": [
+        "保持久久为功的定力",
+        "绵绵用力、久久为功"
+      ],
+      "commonMistake": "典型当代政论高频词，常与“一蹴而就”“急功近利”反义对照。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "纠治“四风”绝非一朝一夕之功，必须保持____的战略定力，一个节点一个节点坚守推进。",
+          "highlightClues": [
+            "绝非一朝一夕之功",
+            "战略定力",
+            "坚守推进"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "持之以恒",
+        "坚持不懈",
+        "急功近利"
+      ]
+    },
+    {
+      "id": "biao_ben_jian_zhi",
+      "word": "标本兼治",
+      "pinyin": "biāo běn jiān zhì",
+      "frequency": 5,
+      "coreMeaning": "既消除表面症状，又解决深层病根，两手同时抓、彻底治理。",
+      "morphemeHint": {
+        "keyChar": "兼",
+        "explanation": "“标”指表面现象，“本”指根本原因，“兼治”强调当下止损与长远制度治本并重。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "反腐倡廉",
+        "社会治理",
+        "生态修复"
+      ],
+      "collocations": [
+        "坚持标本兼治",
+        "标本兼治、综合施策"
+      ],
+      "commonMistake": "语境中通常同时出现“治标（短期打击/表面整顿）”和“治本（完善制度/根源治理）”两方面线索。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "治理拖欠农民工工资问题，既要重拳打击恶意欠薪行为，更要完善工资保证金和实名制监管，实现____。",
+          "highlightClues": [
+            "重拳打击恶意欠薪",
+            "完善工资保证金",
+            "监管"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "正本清源",
+        "釜底抽薪",
+        "扬汤止沸"
+      ]
+    },
+    {
+      "id": "ling_xing_jin_zhi",
+      "word": "令行禁止",
+      "pinyin": "lìng xíng jìn zhǐ",
+      "frequency": 4,
+      "coreMeaning": "下令行动就立即执行，下令禁止就立刻停止，形容纪律极其严明。",
+      "morphemeHint": {
+        "keyChar": "禁",
+        "explanation": "“令行”与“禁止”并列，强调政令畅通、执行毫无折扣。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "行政执行",
+        "军队纪律",
+        "政令贯彻"
+      ],
+      "collocations": [
+        "做到令行禁止",
+        "严明纪律、令行禁止"
+      ],
+      "commonMistake": "常被望文生义误解为“发出命令禁止某事”；其实是“有令必行，有禁必止”。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "只有健全全流程督查问责机制，才能确保各项惠企纾困政策在基层____，不打折扣、不搞变通。",
+          "highlightClues": [
+            "督查问责机制",
+            "惠企纾困政策",
+            "不打折扣、不搞变通"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雷厉风行",
+        "阳奉阴违",
+        "各自为政"
+      ]
+    },
+    {
+      "id": "fu_yan_se_ze",
+      "word": "敷衍塞责",
+      "pinyin": "fū yǎn sè zé",
+      "frequency": 5,
+      "coreMeaning": "做事不认真负责，只做表面文章来搪塞应付职责。",
+      "morphemeHint": {
+        "keyChar": "塞",
+        "explanation": "“塞”读 sè，意为搪塞、应付；指表面上应付了事，实质上推卸责任。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "工作态度",
+        "监管人员",
+        "整改落实"
+      ],
+      "collocations": [
+        "敷衍塞责、走过场",
+        "严厉整治敷衍塞责行为"
+      ],
+      "commonMistake": "注意“塞”读 sè，不读 sāi；多与“走马观花”“蜻蜓点水”同卷考查，但本词重在主观态度搪塞不负责。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "群众信访件不能一转了之，对于那些在核查回复中____、只求表面过关的单位必须严肃追责。",
+          "highlightClues": [
+            "不能一转了之",
+            "只求表面过关",
+            "严肃追责"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "推诿扯皮",
+        "得过且过",
+        "恪尽职守"
+      ]
+    },
+    {
+      "id": "wan_hu_zhi_shou",
+      "word": "玩忽职守",
+      "pinyin": "wán hū zhí shǒu",
+      "frequency": 5,
+      "coreMeaning": "不认真履行岗位职责，态度轻慢疏忽而造成严重后果。",
+      "morphemeHint": {
+        "keyChar": "忽",
+        "explanation": "“玩”指轻慢戏谑，“忽”指疏忽大意；强调因不尽职守而酿成事故或损失。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "公职人员",
+        "安全监管者",
+        "职务犯罪"
+      ],
+      "collocations": [
+        "因玩忽职守引发事故",
+        "涉嫌玩忽职守罪"
+      ],
+      "commonMistake": "语义较重，常带有法律或行政追责后果，区别于一般态度轻率的“敷衍塞责”。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "这起重大安全生产事故暴露出部分监管人员日常巡查____，对显而易见的隐患视而不见。",
+          "highlightClues": [
+            "重大安全生产事故",
+            "监管人员",
+            "隐患视而不见"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "敷衍塞责",
+        "尸位素餐",
+        "恪尽职守"
+      ]
+    },
+    {
+      "id": "shi_wei_su_can",
+      "word": "尸位素餐",
+      "pinyin": "shī wèi sù cān",
+      "frequency": 5,
+      "coreMeaning": "空占着职位享受俸禄，却不办实事、不履行职责。",
+      "morphemeHint": {
+        "keyChar": "素",
+        "explanation": "“尸位”指像祭祀中木偶般空占位置，“素餐”指白吃俸禄；专指占着官位不干事。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "在职官员",
+        "平庸干部",
+        "懒政者"
+      ],
+      "collocations": [
+        "整治尸位素餐现象",
+        "绝不允许尸位素餐"
+      ],
+      "commonMistake": "易望文生义！“素餐”不是吃素食，而是“白吃饭不干活”；专用于有职位待遇却不作为者。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "推进干部能上能下常态化，就是要让那些____、不担当不作为的“太平官”挪出位置。",
+          "highlightClues": [
+            "能上能下",
+            "不担当不作为",
+            "太平官"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "玩忽职守",
+        "敷衍塞责",
+        "履职尽责"
+      ]
+    },
+    {
+      "id": "yang_feng_yin_wei",
+      "word": "阳奉阴违",
+      "pinyin": "yáng fèng yīn wéi",
+      "frequency": 5,
+      "coreMeaning": "表面上假意遵从上级指示，背地里却违背抗拒执行。",
+      "morphemeHint": {
+        "keyChar": "阴",
+        "explanation": "“阳”指公开表面，“阴”指暗中背地；揭示“两面人”表面顺从实则抗命的作风。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "下级官员",
+        "两面派",
+        "政策执行者"
+      ],
+      "collocations": [
+        "阳奉阴违、打折扣",
+        "坚决查处阳奉阴违行为"
+      ],
+      "commonMistake": "注意“奉”与“违”反义对应；重在“对上假意顺从、暗地违背”，而“欺上瞒下”侧重隐瞒实情。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "对于中央三令五申严禁新增隐性债务的要求，个别地方竟采取变相融资手段____，必须严厉问责。",
+          "highlightClues": [
+            "三令五申严禁",
+            "变相融资",
+            "严厉问责"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "欺上瞒下",
+        "虚与委蛇",
+        "令行禁止"
+      ]
+    },
+    {
+      "id": "qi_shang_man_xia",
+      "word": "欺上瞒下",
+      "pinyin": "qī shàng mán xià",
+      "frequency": 4,
+      "coreMeaning": "向上级欺骗隐瞒真相，对下级和群众隐瞒实情。",
+      "morphemeHint": {
+        "keyChar": "瞒",
+        "explanation": "同时向“上”“下”两头隐匿实情、编造假象，多见于政绩造假与事故捂盖子。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "地方官员",
+        "机构负责人",
+        "弄虚作假者"
+      ],
+      "collocations": [
+        "欺上瞒下、弄虚作假",
+        "严惩欺上瞒下行为"
+      ],
+      "commonMistake": "偏重信息封锁与隐瞒事实；与“阳奉阴违”（表面遵从暗中对抗）侧重点不同。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "矿山安全事故发生后，相关负责人企图____、封锁消息，最终不仅没能掩盖真相，反而罪加一等。",
+          "highlightClues": [
+            "封锁消息",
+            "掩盖真相",
+            "罪加一等"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "阳奉阴违",
+        "弄虚作假",
+        "实事求是"
+      ]
+    },
+    {
+      "id": "nong_xu_zuo_jia",
+      "word": "弄虚作假",
+      "pinyin": "nòng xū zuò jiǎ",
+      "frequency": 5,
+      "coreMeaning": "耍花招制造假情况、假数据，用来欺骗他人或组织。",
+      "morphemeHint": {
+        "keyChar": "假",
+        "explanation": "“弄虚”与“作假”同义复指，强调故意造假骗取政绩、荣誉或逃避检查。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "统计数据",
+        "政绩考核",
+        "科研论文"
+      ],
+      "collocations": [
+        "在数据上弄虚作假",
+        "严厉打击弄虚作假"
+      ],
+      "commonMistake": "注意“假”读 jiǎ；政论和科研诚信语境高频，与“实事求是”“求真务实”正反相对。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "科研诚信是科技创新的基石，学术评价必须建立“零容忍”机制，让任何____者付出沉重代价。",
+          "highlightClues": [
+            "科研诚信",
+            "“零容忍”机制",
+            "付出沉重代价"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "欺上瞒下",
+        "掩耳盗铃",
+        "实事求是"
+      ]
+    },
+    {
+      "id": "zou_ma_guan_hua",
+      "word": "走马观花",
+      "pinyin": "zǒu mǎ guān huā",
+      "frequency": 5,
+      "coreMeaning": "骑在奔跑的马上看花，比喻粗略观察事物、不作深入调查。",
+      "morphemeHint": {
+        "keyChar": "走",
+        "explanation": "古汉语中“走”指跑；骑马快跑看花，形容调研、检查只看表面、一晃而过。"
+      },
+      "sentiment": "negative",
+      "intensity": "light",
+      "applicableObjects": [
+        "调查研究",
+        "基层走访",
+        "参观考察"
+      ],
+      "collocations": [
+        "走马观花式的调研",
+        "忌走马观花"
+      ],
+      "commonMistake": "行测高频对比组：“走马观花”重在“看/调研不深入”；“蜻蜓点水”重在“做事/接触肤浅”；“浅尝辄止”重在“学习/尝试不深入”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "开展基层调研不能坐在车里看、隔着玻璃望，搞____式的“盆景视察”，而要真正沉下身子解剖麻雀。",
+          "highlightClues": [
+            "基层调研",
+            "隔着玻璃望",
+            "“盆景视察”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "蜻蜓点水",
+        "浮光掠影",
+        "浅尝辄止"
+      ]
+    },
+    {
+      "id": "qing_ting_dian_shui",
+      "word": "蜻蜓点水",
+      "pinyin": "qīng tíng diǎn shuǐ",
+      "frequency": 5,
+      "coreMeaning": "像蜻蜓用尾轻点水面般，比喻做事或接触问题浮于表面、不够深入。",
+      "morphemeHint": {
+        "keyChar": "点",
+        "explanation": "突出“轻轻一点即离开”，强调做事力度不够、停留在浅表层次。"
+      },
+      "sentiment": "negative",
+      "intensity": "light",
+      "applicableObjects": [
+        "调研走访",
+        "工作作风",
+        "文章论述"
+      ],
+      "collocations": [
+        "蜻蜓点水式检查",
+        "绝不能蜻蜓点水"
+      ],
+      "commonMistake": "多作定语或状语形容调研、督查、学习不扎实；与“大刀阔斧”形成力度对比。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "治理农村人居环境不能停留在刷几面墙、修几条路的____阶段，而要建立长效管护机制。",
+          "highlightClues": [
+            "不能停留在",
+            "建立长效管护机制"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "走马观花",
+        "浅尝辄止",
+        "浮光掠影"
+      ]
+    },
+    {
+      "id": "qian_chang_zhe_zhi",
+      "word": "浅尝辄止",
+      "pinyin": "qiǎn cháng zhé zhǐ",
+      "frequency": 5,
+      "coreMeaning": "略微尝试一下就停下来，指对知识、工作或改革不肯深入钻研。",
+      "morphemeHint": {
+        "keyChar": "辄",
+        "explanation": "“辄”读 zhé，意为就、立即；强调试一试就放弃、缺乏持续钻研的韧劲。"
+      },
+      "sentiment": "negative",
+      "intensity": "light",
+      "applicableObjects": [
+        "理论学习",
+        "技术攻关",
+        "改革试点"
+      ],
+      "collocations": [
+        "切忌浅尝辄止",
+        "学习不能浅尝辄止"
+      ],
+      "commonMistake": "核心语义在“止”（半途停止、不深究），多与“久久为功”“精益求精”相对。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "学习党的创新理论和现代科技前沿知识，必须下一番苦功夫，切忌一知半解、____。",
+          "highlightClues": [
+            "学习",
+            "下一番苦功夫",
+            "一知半解"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "蜻蜓点水",
+        "走马观花",
+        "半途而废"
+      ]
+    },
+    {
+      "id": "fu_guang_lue_ying",
+      "word": "浮光掠影",
+      "pinyin": "fú guāng lüè yǐng",
+      "frequency": 5,
+      "coreMeaning": "像水面反光和一闪而过的影子，比喻观察不细致、印象不深刻。",
+      "morphemeHint": {
+        "keyChar": "掠",
+        "explanation": "“浮”“掠”皆指停在表面、一扫而过；多修饰观察感受、印象或文字阐述不深入。"
+      },
+      "sentiment": "negative",
+      "intensity": "light",
+      "applicableObjects": [
+        "认识印象",
+        "观察调研",
+        "文化体验"
+      ],
+      "collocations": [
+        "流于浮光掠影",
+        "浮光掠影的了解"
+      ],
+      "commonMistake": "侧重“印象浅薄、了解不深”，常搭配“了解”“印象”“体验”“描写”，较少直接形容“动作”。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "文化研学不能只是打卡拍照的____，应当引导学生走进历史肌理，感受传统工艺背后的匠心。",
+          "highlightClues": [
+            "打卡拍照",
+            "走进历史肌理",
+            "感受"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "走马观花",
+        "蜻蜓点水",
+        "浅尝辄止"
+      ]
+    },
+    {
+      "id": "ge_xue_sao_yang",
+      "word": "隔靴搔痒",
+      "pinyin": "gé xuē sāo yǎng",
+      "frequency": 5,
+      "coreMeaning": "隔着靴子抓痒，比喻措施、批评或讲话没有抓住关键要害，不解决实际问题。",
+      "morphemeHint": {
+        "keyChar": "隔",
+        "explanation": "重点在“隔”——动作没有触及真正痛点，白费力气却无实效。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策举措",
+        "监督批评",
+        "整改措施"
+      ],
+      "collocations": [
+        "批评不能隔靴搔痒",
+        "防止政策隔靴搔痒"
+      ],
+      "commonMistake": "高频对比：“隔靴搔痒”是“没触及要害、不痛不痒”；“有的放矢”是“精准对准靶心”；“扬汤止沸”是“治标不治本”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "民主生活会上的批评与自我批评必须直面矛盾、辣味十足，决不能避重就轻、____。",
+          "highlightClues": [
+            "批评与自我批评",
+            "直面矛盾",
+            "避重就轻"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "有的放矢",
+        "扬汤止沸",
+        "治标不治本"
+      ]
+    },
+    {
+      "id": "ge_zi_wei_zheng",
+      "word": "各自为政",
+      "pinyin": "gè zì wéi zhèng",
+      "frequency": 5,
+      "coreMeaning": "各按自己的一套主张行事，互不协调配合，缺乏统一统筹。",
+      "morphemeHint": {
+        "keyChar": "政",
+        "explanation": "“为政”指独自施政决策；在治理语境中专指部门壁垒、数据孤岛、缺乏协同。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政府部门",
+        "区域治理",
+        "信息系统"
+      ],
+      "collocations": [
+        "打破各自为政的壁垒",
+        "避免各自为政"
+      ],
+      "commonMistake": "主语通常是多个平级部门或地方机构；反义词为“统筹兼顾”“齐心协力”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "跨流域水污染治理不能由上下游城市____，必须建立联防联控机制，实现全流域协同共治。",
+          "highlightClues": [
+            "跨流域",
+            "上下游城市",
+            "协同共治"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一盘散沙",
+        "统筹兼顾",
+        "各行其是"
+      ]
+    },
+    {
+      "id": "yi_pan_san_sha",
+      "word": "一盘散沙",
+      "pinyin": "yī pán sǎn shā",
+      "frequency": 4,
+      "coreMeaning": "比喻人群或组织内部缺乏凝聚力和向心力，各自松散、不成合力。",
+      "morphemeHint": {
+        "keyChar": "散",
+        "explanation": "“散”读 sǎn，指松散不聚；强调团体缺乏核心引领和组织凝聚力。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "组织团队",
+        "基层治理",
+        "社会力量"
+      ],
+      "collocations": [
+        "陷入一盘散沙的局面",
+        "改变一盘散沙的状态"
+      ],
+      "commonMistake": "注意“散”读 sǎn；多形容群体整体涣散无力，反义为“众志成城”“凝心聚力”。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "如果缺乏坚强的基层党组织引领，乡村产业发展就容易陷入____的困境，难以形成规模竞争力。",
+          "highlightClues": [
+            "基层党组织引领",
+            "难以形成规模竞争力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "各自为政",
+        "群策群力",
+        "分崩离析"
+      ]
+    },
+    {
+      "id": "xun_si_wu_bi",
+      "word": "徇私舞弊",
+      "pinyin": "xùn sī wǔ bì",
+      "frequency": 5,
+      "coreMeaning": "为了照顾私情而违背原则法纪，暗中弄虚作假谋取不正当利益。",
+      "morphemeHint": {
+        "keyChar": "徇",
+        "explanation": "“徇”读 xùn（非 xún），意为曲从、迁就；因私情而违法违规作弊。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "执法人员",
+        "招考评审",
+        "公职人员"
+      ],
+      "collocations": [
+        "严查徇私舞弊行为",
+        "徇私舞弊、吃拿卡要"
+      ],
+      "commonMistake": "极易错读“徇”为 xún，正确读音为 xùn；区别于“营私舞弊”，前者更强调曲从私人关系和情面。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "公务员招录和职称评审推行全流程盲审与信息公开，从源头上堵塞了工作人员____的漏洞。",
+          "highlightClues": [
+            "招录",
+            "全流程盲审",
+            "漏洞"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "假公济私",
+        "以权谋私",
+        "秉公执法"
+      ]
+    },
+    {
+      "id": "zhong_bao_si_nang",
+      "word": "中饱私囊",
+      "pinyin": "zhōng bǎo sī náng",
+      "frequency": 5,
+      "coreMeaning": "利用经手钱财物资的便利，侵吞公款或他人财物塞进自己腰包。",
+      "morphemeHint": {
+        "keyChar": "中",
+        "explanation": "“中”指在经手流转过程中截留侵占，“私囊”指个人钱袋；专指贪污截留钱财。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "财务人员",
+        "腐败官员",
+        "经手人"
+      ],
+      "collocations": [
+        "大肆中饱私囊",
+        "防止涉农资金被中饱私囊"
+      ],
+      "commonMistake": "必须涉及经手公共或他人钱财并从中截留贪占，不可泛指一般占便宜。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "通过“一卡通”平台将惠农补贴直达农户账户，有效斩断了少数基层干部虚报冒领、____的链条。",
+          "highlightClues": [
+            "惠农补贴",
+            "虚报冒领",
+            "直达农户账户"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "损公肥私",
+        "贪赃枉法",
+        "以权谋私"
+      ]
+    },
+    {
+      "id": "tan_zang_wang_fa",
+      "word": "贪赃枉法",
+      "pinyin": "tān zāng wǎng fǎ",
+      "frequency": 4,
+      "coreMeaning": "贪污受贿，歪曲破坏法律而胡作非为。",
+      "morphemeHint": {
+        "keyChar": "枉",
+        "explanation": "“赃”指不义财物，“枉法”指歪曲法律；特指掌权者受贿后违法乱纪。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "司法官员",
+        "腐败分子",
+        "执法者"
+      ],
+      "collocations": [
+        "贪赃枉法之徒",
+        "依法严惩贪赃枉法"
+      ],
+      "commonMistake": "语义极重，包含“贪财”与“破坏法律”两层含义，主要适用于掌管执法权或行政权者。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "对于充当黑恶势力“保护伞”、____的个别政法干警，纪检监察机关必须坚决清除出执法队伍。",
+          "highlightClues": [
+            "“保护伞”",
+            "政法干警",
+            "清除出执法队伍"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "徇私舞弊",
+        "中饱私囊",
+        "秉公执法"
+      ]
+    },
+    {
+      "id": "wan_huo_zi_fen",
+      "word": "玩火自焚",
+      "pinyin": "wán huǒ zì fén",
+      "frequency": 4,
+      "coreMeaning": "玩弄火最终烧伤自己，比喻干坏事、冒险触碰底线最终自食恶果。",
+      "morphemeHint": {
+        "keyChar": "焚",
+        "explanation": "强调明知危险或违法仍肆意妄为，最终导致自身毁灭。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "违法分子",
+        "腐败官员",
+        "挑衅势力"
+      ],
+      "collocations": [
+        "无异于玩火自焚",
+        "终将玩火自焚"
+      ],
+      "commonMistake": "语气极为严厉，常用于政论警示或外交评论中警告触犯红线的行为。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "法律红线不容触碰，少数官员心存侥幸搞权钱交易、充当违法项目推手，最终只会____。",
+          "highlightClues": [
+            "法律红线",
+            "心存侥幸",
+            "权钱交易"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "作茧自缚",
+        "自食其果",
+        "引火烧身"
+      ]
+    },
+    {
+      "id": "yi_jing_xiao_you",
+      "word": "以儆效尤",
+      "pinyin": "yǐ jǐng xiào yóu",
+      "frequency": 5,
+      "coreMeaning": "通过严厉处分一个坏人或坏事，来警告其他想跟着学坏的人。",
+      "morphemeHint": {
+        "keyChar": "儆",
+        "explanation": "“儆”意为戒备警示，“效尤”意为学着做坏事；专指惩罚典型以震慑效仿者。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "执法处罚",
+        "纪检通报",
+        "典型案例"
+      ],
+      "collocations": [
+        "依法严惩、以儆效尤",
+        "公开通报以儆效尤"
+      ],
+      "commonMistake": "常被误用为警告他人“学习好榜样”；“尤”指过错，必须用于惩戒反面典型来警戒效仿坏行为。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "监管部门对这起恶意操纵市场价格的案件顶格处罚并公开曝光，就是要发挥震慑效应，____。",
+          "highlightClues": [
+            "顶格处罚",
+            "公开曝光",
+            "震慑效应"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "杀鸡儆猴",
+        "惩前毖后",
+        "前车之鉴"
+      ]
+    },
+    {
+      "id": "tui_wei_che_pi",
+      "word": "推诿扯皮",
+      "pinyin": "tuī wěi chě pí",
+      "frequency": 5,
+      "coreMeaning": "面对问题或任务互相推卸责任、拖延扯闹，谁也不愿担当。",
+      "morphemeHint": {
+        "keyChar": "诿",
+        "explanation": "“诿”读 wěi，指推卸；“扯皮”指无谓争执拖延。典型机关病与庸政表现。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "部门协作",
+        "窗口服务",
+        "行政效能"
+      ],
+      "collocations": [
+        "部门间推诿扯皮",
+        "整治推诿扯皮现象"
+      ],
+      "commonMistake": "多用于多个部门或岗位之间责任不清、互踢皮球的场景；注意“诿”字书写与读音。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "政务服务中心推行“首问负责制”和并联审批，彻底根治了以往群众办事时部门之间____的顽疾。",
+          "highlightClues": [
+            "首问负责制",
+            "并联审批",
+            "群众办事"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "敷衍塞责",
+        "各自为政",
+        "尸位素餐"
+      ]
+    },
+    {
+      "id": "de_guo_qie_guo",
+      "word": "得过且过",
+      "pinyin": "dé guò qiě guò",
+      "frequency": 4,
+      "coreMeaning": "只要勉强过得去就算了，形容胸无远志、敷衍糊弄、不思进取。",
+      "morphemeHint": {
+        "keyChar": "且",
+        "explanation": "“且”意为姑且、暂且；重在满足现状、敷衍混日子、缺乏长远打算。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "干部作风",
+        "企业管理",
+        "生活态度"
+      ],
+      "collocations": [
+        "抱有得过且过的心态",
+        "摒弃得过且过思想"
+      ],
+      "commonMistake": "常与“敷衍塞责”辨析：前者偏重自身不思进取、混日子；后者偏重对职责义务应付了事。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "面对产业升级的紧迫压力，部分传统企业管理层仍抱着____的“躺平”心态，终将被市场淘汰。",
+          "highlightClues": [
+            "产业升级",
+            "“躺平”心态",
+            "被市场淘汰"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "敷衍塞责",
+        "安于现状",
+        "因循守旧"
+      ]
+    },
+    {
+      "id": "bi_men_zao_che",
+      "word": "闭门造车",
+      "pinyin": "bì mén zào chē",
+      "frequency": 5,
+      "coreMeaning": "关起门来凭主观想象造车，比喻脱离实际和社会需求，只按主观想法办事。",
+      "morphemeHint": {
+        "keyChar": "闭",
+        "explanation": "突出“脱离外部实际、不调查研究、不沟通交流”，主观臆断制定政策或方案。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策制定",
+        "产品研发",
+        "学术研究"
+      ],
+      "collocations": [
+        "切忌闭门造车",
+        "不能闭门造车搞规划"
+      ],
+      "commonMistake": "注意该词在现代汉语中是贬义词（批评脱离实际），不同于褒义的“闭门潜修”；常与“开门问策”相对。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "立法工作必须坚持科学立法、民主立法，广泛听取基层和群众意见，决不能关在办公室里____。",
+          "highlightClues": [
+            "广泛听取基层和群众意见",
+            "关在办公室里"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "纸上谈兵",
+        "实事求是",
+        "集思广益"
+      ]
+    },
+    {
+      "id": "hao_gao_wu_yuan",
+      "word": "好高骛远",
+      "pinyin": "hào gāo wù yuǎn",
+      "frequency": 5,
+      "coreMeaning": "脱离实际条件，一味追求过高过远而不切实际的目标。",
+      "morphemeHint": {
+        "keyChar": "骛",
+        "explanation": "“好”读 hào（喜欢），“骛”意为追求；指目标脱离当前现实基础、不踏实。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "发展规划",
+        "政绩追求",
+        "个人理想"
+      ],
+      "collocations": [
+        "切忌好高骛远",
+        "好高骛远、脱离实际"
+      ],
+      "commonMistake": "注意“好”读 hào，“骛”不能写作“鹜”（鸭子）；常与“脚踏实地”构成反义。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "地方制定产业蓝图既要立足长远，更要量力而行，不能脱离本地财政与人才条件____、盲目铺摊子。",
+          "highlightClues": [
+            "量力而行",
+            "脱离本地财政与人才条件",
+            "盲目铺摊子"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "急功近利",
+        "脚踏实地",
+        "眼高手低"
+      ]
+    },
+    {
+      "id": "ji_gong_jin_li",
+      "word": "急功近利",
+      "pinyin": "jí gōng jìn lì",
+      "frequency": 5,
+      "coreMeaning": "急于求成，只贪图眼前的成效和利益，忽视长远根本。",
+      "morphemeHint": {
+        "keyChar": "近",
+        "explanation": "“急”指急切，“近”指眼前；专指政绩观扭曲、只顾任期内短期收益而牺牲长远发展。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政绩观",
+        "科研评价",
+        "商业行为"
+      ],
+      "collocations": [
+        "克服急功近利的浮躁心态",
+        "急功近利搞形象工程"
+      ],
+      "commonMistake": "与“饮鸩止渴”区别：“急功近利”重在短视、求快贪利；“饮鸩止渴”重在用有害办法解决眼前困难、招致大祸。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "生态修复与文化培育都需要长期投入，最忌讳____、只盯着任期内能出彩的“短平快”项目。",
+          "highlightClues": [
+            "长期投入",
+            "任期内能出彩",
+            "“短平快”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "饮鸩止渴",
+        "好高骛远",
+        "久久为功"
+      ]
+    },
+    {
+      "id": "yin_zhen_zhi_ke",
+      "word": "饮鸩止渴",
+      "pinyin": "yǐn zhèn zhǐ kě",
+      "frequency": 5,
+      "coreMeaning": "喝毒酒来解渴，比喻用错误的有害方法解决眼前困难而不顾严重后果。",
+      "morphemeHint": {
+        "keyChar": "鸩",
+        "explanation": "“鸩”读 zhèn，传说中的毒鸟；重点在“为了缓解眼前危机而采取剧毒般的错误手段”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "经济政策",
+        "生态破坏",
+        "地方举债"
+      ],
+      "collocations": [
+        "无异于饮鸩止渴",
+        "绝不能饮鸩止渴"
+      ],
+      "commonMistake": "语义极重！必须同时包含“解决眼前急迫困境”和“招致未来致命恶果”两层含义，易误读“鸩”为 jiū。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "靠放松环保准入门槛、引进高耗能高污染项目来换取短期财政增长，无异于____，必然透支未来发展空间。",
+          "highlightClues": [
+            "高耗能高污染",
+            "短期财政增长",
+            "透支未来"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "急功近利",
+        "杀鸡取卵",
+        "涸泽而渔"
+      ]
+    },
+    {
+      "id": "guan_yang_wen_zhang",
+      "word": "官样文章",
+      "pinyin": "guān yàng wén zhāng",
+      "frequency": 4,
+      "coreMeaning": "比喻只照固定格式套话敷衍、内容空洞而无实际效用的公文或表面做法。",
+      "morphemeHint": {
+        "keyChar": "样",
+        "explanation": "原指官场公文固定样式，现讽刺脱离实际、照抄套话的文牍主义与形式主义。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公文材料",
+        "会议讲话",
+        "考核汇报"
+      ],
+      "collocations": [
+        "充斥官样文章",
+        "杜绝官样文章"
+      ],
+      "commonMistake": "可指空洞文章，也可指流于表面的例行公事；不可用于夸赞公文规范工整。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "基层减负首先要整治“文山会海”，坚决砍掉那些照搬上级文件、穿靴戴帽、毫无实质举措的____。",
+          "highlightClues": [
+            "“文山会海”",
+            "穿靴戴帽",
+            "毫无实质举措"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一纸空文",
+        "流于形式",
+        "照本宣科"
+      ]
+    },
+    {
+      "id": "gu_xi_yang_jian",
+      "word": "姑息养奸",
+      "pinyin": "gū xī yǎng jiān",
+      "frequency": 4,
+      "coreMeaning": "无原则地宽容坏人坏事，结果反而助长了邪恶势力的蔓延。",
+      "morphemeHint": {
+        "keyChar": "姑",
+        "explanation": "“姑息”指无原则迁就宽容，“养奸”指纵容滋长恶行；多用于批评监管失软。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "执法监督",
+        "纪律处分",
+        "社会治理"
+      ],
+      "collocations": [
+        "绝不姑息养奸",
+        "姑息养奸只会酿成大祸"
+      ],
+      "commonMistake": "强调对违法乱纪行为“纵容包庇”的严重后果，不可用于对正常小失误的宽容。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "对校园欺凌和未成年人恶性违法行为，一味迁就退让无异于____，必须坚持宽严相济、惩教结合。",
+          "highlightClues": [
+            "校园欺凌",
+            "一味迁就退让",
+            "惩教结合"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "养痈遗患",
+        "惩恶扬善",
+        "宽宏大量"
+      ]
+    },
+    {
+      "id": "yang_yong_yi_huan",
+      "word": "养痈遗患",
+      "pinyin": "yǎng yōng yí huàn",
+      "frequency": 4,
+      "coreMeaning": "留着毒疮不医治，比喻对隐患或恶势力不及时清除，日后必留大祸害。",
+      "morphemeHint": {
+        "keyChar": "痈",
+        "explanation": "“痈”读 yōng，指毒疮；比喻对内部病灶、隐患或违规行为拖延不治而酿成后患。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "风险隐患",
+        "腐败毒瘤",
+        "安全治理"
+      ],
+      "collocations": [
+        "避免养痈遗患",
+        "决不能养痈遗患"
+      ],
+      "commonMistake": "多指向风险隐患或组织内部积弊，与“刮骨疗毒”“防微杜渐”构成鲜明正反对照。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "金融风险处置必须果断出手、早拆“炸弹”，若拖延观望、____，局部风险就可能演变为系统性危机。",
+          "highlightClues": [
+            "金融风险",
+            "早拆“炸弹”",
+            "演变为系统性危机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "姑息养奸",
+        "防微杜渐",
+        "刮骨疗毒"
+      ]
+    },
+    {
+      "id": "cheng_qian_bi_hou",
+      "word": "惩前毖后",
+      "pinyin": "chéng qián bì hòu",
+      "frequency": 4,
+      "coreMeaning": "吸取以前犯错误的教训，用来戒备以后不再重犯。",
+      "morphemeHint": {
+        "keyChar": "毖",
+        "explanation": "“惩”指警戒，“毖”读 bì，意为谨慎防备；重在汲取教训防止重蹈覆辙。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "党内监督",
+        "干部教育",
+        "执纪问责"
+      ],
+      "collocations": [
+        "坚持惩前毖后、治病救人",
+        "发挥惩前毖后作用"
+      ],
+      "commonMistake": "常被误以为单纯强调严厉惩罚；实则与“治病救人”并举，强调教育挽救与戒备将来。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "纪检监察工作运用“四种形态”早提醒、早纠正，充分体现了____、治病救人的组织关怀。",
+          "highlightClues": [
+            "“四种形态”",
+            "早提醒、早纠正",
+            "治病救人"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "治病救人",
+        "以儆效尤",
+        "防微杜渐"
+      ]
+    },
+    {
+      "id": "zhi_bing_jiu_ren",
+      "word": "治病救人",
+      "pinyin": "zhì bìng jiù rén",
+      "frequency": 4,
+      "coreMeaning": "原指医病救命，政论中多比喻批评教育犯错同志，帮助其改正错误。",
+      "morphemeHint": {
+        "keyChar": "救",
+        "explanation": "在纪律审查和党内政治生活中，专指挽救犯错干部而非一棍子打死。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "干部监督",
+        "思想教育",
+        "纠错机制"
+      ],
+      "collocations": [
+        "惩前毖后、治病救人",
+        "本着治病救人的方针"
+      ],
+      "commonMistake": "在政论语境中具有特定政治术语内涵，重点在批评帮助、挽救改正。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "严管就是厚爱，组织谈话函询不是为了把干部“整倒”，而是本着____的原则拉一把、醒一醒。",
+          "highlightClues": [
+            "严管就是厚爱",
+            "谈话函询",
+            "拉一把、醒一醒"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "惩前毖后",
+        "刮骨疗毒",
+        "姑息养奸"
+      ]
+    },
+    {
+      "id": "shang_fa_fen_ming",
+      "word": "赏罚分明",
+      "pinyin": "shǎng fá fēn míng",
+      "frequency": 4,
+      "coreMeaning": "该奖赏的就奖赏，该惩罚的就惩罚，激励与约束界限清晰公正。",
+      "morphemeHint": {
+        "keyChar": "明",
+        "explanation": "“赏”与“罚”并行不悖，“分明”突出考核评价标准清晰、兑现严格。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "考核机制",
+        "制度管理",
+        "队伍建设"
+      ],
+      "collocations": [
+        "建立赏罚分明的考核机制",
+        "做到赏罚分明"
+      ],
+      "commonMistake": "语境中须同时体现“奖优”和“罚劣”两个维度，不宜单指处罚严厉。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "破解干部“干多干少一个样”的困局，关键在于完善____的绩效考核体系，让实干者得实惠、躺平者受惩戒。",
+          "highlightClues": [
+            "“干多干少一个样”",
+            "实干者得实惠",
+            "躺平者受惩戒"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "惩恶扬善",
+        "令行禁止",
+        "姑息养奸"
+      ]
+    },
+    {
+      "id": "yi_quan_mou_si",
+      "word": "以权谋私",
+      "pinyin": "yǐ quán móu sī",
+      "frequency": 5,
+      "coreMeaning": "利用手中的职务权力为自己或亲友谋取非法私利。",
+      "morphemeHint": {
+        "keyChar": "权",
+        "explanation": "强调权力寻租和权力变现，是将公共权力私有化的腐败核心特征。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "掌权干部",
+        "审批人员",
+        "腐败行为"
+      ],
+      "collocations": [
+        "坚决杜绝以权谋私",
+        "利用职权以权谋私"
+      ],
+      "commonMistake": "注意只能用于拥有公共权力或职务权限者；与“假公济私”相比，更直接指向职权交易。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "把权力关进制度的笼子里，压缩自由裁量空间，才能从根本上遏制____的权力寻租现象。",
+          "highlightClues": [
+            "权力关进制度的笼子",
+            "自由裁量空间",
+            "权力寻租"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "假公济私",
+        "徇私舞弊",
+        "廉洁奉公"
+      ]
+    },
+    {
+      "id": "jia_gong_ji_si",
+      "word": "假公济私",
+      "pinyin": "jiǎ gōng jì sī",
+      "frequency": 5,
+      "coreMeaning": "假借公家的名义或资源，暗中谋取和满足个人私利。",
+      "morphemeHint": {
+        "keyChar": "假",
+        "explanation": "“假”读 jiǎ，作“借用、假托”讲，“济”指帮助满足；即打着公事幌子肥私。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公职人员",
+        "差旅考察",
+        "项目经费"
+      ],
+      "collocations": [
+        "防止借机假公济私",
+        "假公济私、公款旅游"
+      ],
+      "commonMistake": "易错点在“假”的义项是“借用”（如假道伐虢），非“虚假”；典型场景如借公务出差之名公款旅游。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "严禁借红色教育、业务培训之名组织绕道旅游，坚决纠治这种打着学习旗号____的隐形变异“四风”。",
+          "highlightClues": [
+            "借红色教育",
+            "打着学习旗号",
+            "隐形变异“四风”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "损公肥私",
+        "以权谋私",
+        "克己奉公"
+      ]
+    },
+    {
+      "id": "sun_gong_fei_si",
+      "word": "损公肥私",
+      "pinyin": "sǔn gōng féi sī",
+      "frequency": 4,
+      "coreMeaning": "损害国家或集体的公共利益，来满足个人或小团体的私利。",
+      "morphemeHint": {
+        "keyChar": "肥",
+        "explanation": "“损公”与“肥私”直接形成利益转移对立，突出因私利而侵蚀公共资产。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "国企管理",
+        "公共资产",
+        "贪腐行为"
+      ],
+      "collocations": [
+        "严查损公肥私行为",
+        "绝不允许损公肥私"
+      ],
+      "commonMistake": "强调“公共利益受损、个人获利”的结果，多用于国资监管、工程招投标和集体资产保护语境。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "国有企业改制必须严把资产评估与产权交易关，严防内部人员低价贱卖资产、搞____的利益输送。",
+          "highlightClues": [
+            "国有企业改制",
+            "低价贱卖资产",
+            "利益输送"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "中饱私囊",
+        "假公济私",
+        "大公无私"
+      ]
+    },
+    {
+      "id": "liu_yu_xing_shi",
+      "word": "流于形式",
+      "pinyin": "liú yú xíng shì",
+      "frequency": 5,
+      "coreMeaning": "只剩下空洞的外在形式或表面流程，没有真正发挥实质作用。",
+      "morphemeHint": {
+        "keyChar": "流",
+        "explanation": "“流”指滑向、变成；形容会议、制度、检查等只重排场过程而丢掉实际内容。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "制度落实",
+        "调研检查",
+        "民主评议"
+      ],
+      "collocations": [
+        "防止监督流于形式",
+        "避免整改流于形式"
+      ],
+      "commonMistake": "常与“形同虚设”区分：“流于形式”指还在开展但只走过场；“形同虚设”指制度虽然存在但完全不起作用。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "政务公开不能只满足于网页上发几份枯燥公告、让群众看不懂，否则便会____，失去监督实效。",
+          "highlightClues": [
+            "只满足于网页上发",
+            "群众看不懂",
+            "失去监督实效"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "形同虚设",
+        "一纸空文",
+        "真抓实干"
+      ]
+    },
+    {
+      "id": "xing_tong_xu_she",
+      "word": "形同虚设",
+      "pinyin": "xíng tóng xū shè",
+      "frequency": 5,
+      "coreMeaning": "形式上虽然设立了机构或制度，但实际上完全不起作用，跟没设一样。",
+      "morphemeHint": {
+        "keyChar": "虚",
+        "explanation": "“虚设”指白白设立、毫无约束力或执行力；多修饰制度、规则、监管机制。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "法律法规",
+        "监管机制",
+        "安全规程"
+      ],
+      "collocations": [
+        "让制度形同虚设",
+        "不能使监管形同虚设"
+      ],
+      "commonMistake": "适用对象必须是“有形的规则、制度、机构、设施”，不能用来形容人的态度。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "如果缺乏刚性问责和常态化抽查，再严密的网络安全管理条例也只会____，难以真正守住数据防线。",
+          "highlightClues": [
+            "缺乏刚性问责",
+            "网络安全管理条例",
+            "难以真正守住"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一纸空文",
+        "束之高阁",
+        "流于形式"
+      ]
+    },
+    {
+      "id": "yi_zhi_kong_wen",
+      "word": "一纸空文",
+      "pinyin": "yī zhǐ kōng wén",
+      "frequency": 5,
+      "coreMeaning": "只是写在纸上的空洞条文或承诺，没有法律效力或根本没有落实兑现。",
+      "morphemeHint": {
+        "keyChar": "空",
+        "explanation": "突出“条文、规定、协议写得漂亮，却完全没有落地兑现”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "政策条文",
+        "法律法规",
+        "合同承诺"
+      ],
+      "collocations": [
+        "沦为一纸空文",
+        "不能让法律成为一纸空文"
+      ],
+      "commonMistake": "名词性短语多作宾语（沦为/变成一纸空文），不可用来形容具体的人或行动。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "“天下之事，不难于立法，而难于法之必行。”如果执行环节层层衰减，良法善治就会沦为____。",
+          "highlightClues": [
+            "难于法之必行",
+            "执行环节层层衰减",
+            "良法善治"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "形同虚设",
+        "束之高阁",
+        "官样文章"
+      ]
+    },
+    {
+      "id": "zhao_ling_xi_gai",
+      "word": "朝令夕改",
+      "pinyin": "zhāo lìng xī gǎi",
+      "frequency": 5,
+      "coreMeaning": "早上发布的命令晚上就改变，形容政令或制度频繁变动、缺乏稳定性和公信力。",
+      "morphemeHint": {
+        "keyChar": "朝",
+        "explanation": "“朝”读 zhāo（早晨）；极言政策反复无常，严重损害营商环境与政府公信力。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "政策法规",
+        "营商环境",
+        "行政决策"
+      ],
+      "collocations": [
+        "切忌朝令夕改",
+        "政策朝令夕改损害公信力"
+      ],
+      "commonMistake": "专指“频繁无常地修改既定政令”，不同于根据新情况科学修订完善制度。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "优化法治化营商环境需要保持政策的连续性和稳定性，决不能让招商承诺和行业规范____，令企业无所适从。",
+          "highlightClues": [
+            "连续性和稳定性",
+            "招商承诺",
+            "令企业无所适从"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "朝秦暮楚",
+        "出尔反尔",
+        "令行禁止"
+      ]
+    },
+    {
+      "id": "xu_yu_wei_yi",
+      "word": "虚与委蛇",
+      "pinyin": "xū yǔ wēi yí",
+      "frequency": 5,
+      "coreMeaning": "对人假意敷衍应酬，表面顺从客套，内心毫无诚意。",
+      "morphemeHint": {
+        "keyChar": "委",
+        "explanation": "“委蛇”在此读 wēi yí（非 wěi shé），意为敷衍顺从；形容面对督察或群众诉求假意周旋。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "应付检查",
+        "人际周旋",
+        "外交博弈"
+      ],
+      "collocations": [
+        "虚与委蛇、应付了事",
+        "对监督组虚与委蛇"
+      ],
+      "commonMistake": "读音必考：“委蛇”读 wēi yí！重在假意周旋敷衍，常与“敷衍塞责”“阳奉阴违”同组考查。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "部分地方对企业反映的拖欠账款问题表面上热情接待、承诺协调，实则____、拖字诀到底，严重寒了企业家心。",
+          "highlightClues": [
+            "表面上热情接待",
+            "拖字诀到底",
+            "寒了企业家心"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "阳奉阴违",
+        "敷衍塞责",
+        "推诿扯皮"
+      ]
+    },
+    {
+      "id": "tong_chou_jian_gu",
+      "word": "统筹兼顾",
+      "pinyin": "tǒng chóu jiān gù",
+      "frequency": 5,
+      "coreMeaning": "从全局出发统一筹划，同时照顾到各方面的利益和关系。",
+      "morphemeHint": {
+        "keyChar": "兼",
+        "explanation": "“统筹”是系统谋划全局，“兼顾”是平衡局部与多方诉求，反对单打一和顾此失彼。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "宏观调控",
+        "政策制定",
+        "协同治理"
+      ],
+      "collocations": [
+        "坚持统筹兼顾",
+        "统筹兼顾、协同推进"
+      ],
+      "commonMistake": "语境常出现“既要……又要……”“保护与开发”“当前与长远”等双维度平衡线索。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "推进碳达峰碳中和是一场系统性变革，必须____，把降碳减污与保障能源安全、稳定产业链紧密结合。",
+          "highlightClues": [
+            "系统性变革",
+            "降碳减污",
+            "保障能源安全"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "顾此失彼",
+        "各自为政",
+        "标本兼治"
+      ]
+    },
+    {
+      "id": "zheng_tong_ren_he",
+      "word": "政通人和",
+      "pinyin": "zhèng tōng rén hé",
+      "frequency": 4,
+      "coreMeaning": "政事顺畅清明，百姓安居和乐，形容国家或地方治理良好、社会安定。",
+      "morphemeHint": {
+        "keyChar": "通",
+        "explanation": "语出《岳阳楼记》，“政通”指政令畅通清明，“人和”指人心归附和睦。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "社会治理",
+        "地方生态",
+        "盛世景象"
+      ],
+      "collocations": [
+        "政通人和的局面",
+        "实现政通人和"
+      ],
+      "commonMistake": "适用对象为国家、地区或社会治理宏观局面，不能用来形容单位内部几个人关系好。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "只有坚持依法行政与以德润心相结合，才能不断巩固发展清明有序、____的良好社会治理格局。",
+          "highlightClues": [
+            "依法行政",
+            "清明有序",
+            "良好社会治理格局"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "风清气正",
+        "国泰民安",
+        "令行禁止"
+      ]
+    },
+    {
+      "id": "qun_ce_qun_li",
+      "word": "群策群力",
+      "pinyin": "qún cè qún lì",
+      "frequency": 5,
+      "coreMeaning": "大家共同出谋划策、共同出力，发挥集体智慧和力量办成大事。",
+      "morphemeHint": {
+        "keyChar": "策",
+        "explanation": "“策”是出主意，“力”是出力量；强调民主协商、汇聚众智与众人协作。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "民主决策",
+        "基层共治",
+        "团队攻关"
+      ],
+      "collocations": [
+        "大家群策群力",
+        "依靠群策群力破解难题"
+      ],
+      "commonMistake": "常与“集思广益”辨析：前者兼顾“出主意”和“出力量”，后者侧重“集中大家的智慧”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "老旧小区加装电梯涉及邻里多方利益，只有搭建居民议事平台、引导大家____，才能画出最大同心圆。",
+          "highlightClues": [
+            "居民议事平台",
+            "邻里多方利益",
+            "画出最大同心圆"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "集思广益",
+        "各自为政",
+        "一盘散沙"
+      ]
+    }
+  ]
+}

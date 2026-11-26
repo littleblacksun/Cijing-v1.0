@@ -1,0 +1,2146 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "xi_xi_xiang_guan",
+      "word": "息息相关",
+      "pinyin": "xī xī xiāng guān",
+      "frequency": 5,
+      "coreMeaning": "呼吸也相互关联，形容彼此关系极其密切，不可分割。",
+      "morphemeHint": {
+        "keyChar": "息",
+        "explanation": "“息”指呼吸；连呼吸都彼此相通，比喻联系极为紧密，属中性关联词。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "民生",
+        "生态",
+        "技术发展",
+        "社会现象"
+      ],
+      "collocations": [
+        "与群众利益息息相关",
+        "和气候变化息息相关"
+      ],
+      "commonMistake": "常与“休戚相关”混淆；本词只强调联系紧密，不含利害祸福与共之意。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "芯片制造的良品率与超纯水供应、光刻胶纯度等基础材料工艺____，任何一个环节的波动都可能影响最终性能。",
+          "highlightClues": [
+            "基础材料工艺",
+            "任何一个环节的波动都可能影响"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "休戚相关",
+        "密不可分",
+        "唇齿相依"
+      ]
+    },
+    {
+      "id": "xiu_qi_xiang_guan",
+      "word": "休戚相关",
+      "pinyin": "xiū qī xiāng guān",
+      "frequency": 5,
+      "coreMeaning": "彼此间祸福、喜忧紧密相连，利害关系完全一致。",
+      "morphemeHint": {
+        "keyChar": "休戚",
+        "explanation": "“休”指喜庆、福禄，“戚”指忧愁、灾祸；强调祸福与共，多用于人或共同体。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "国家",
+        "民族",
+        "命运共同体",
+        "利益相关方"
+      ],
+      "collocations": [
+        "命运休戚相关",
+        "与人民休戚相关"
+      ],
+      "commonMistake": "不可用于无生命、无利害感知的普通客观事物（如“气候与农业休戚相关”不如“息息相关”恰当）。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在全球气候治理框架下，各国已成____的命运共同体，任何一方都难以在生态危机中独善其身。",
+          "highlightClues": [
+            "命运共同体",
+            "难以在生态危机中独善其身"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "息息相关",
+        "休戚与共",
+        "唇亡齿寒"
+      ]
+    },
+    {
+      "id": "chun_chi_xiang_yi",
+      "word": "唇齿相依",
+      "pinyin": "chún chǐ xiāng yī",
+      "frequency": 4,
+      "coreMeaning": "像嘴唇和牙齿那样相互依靠，形容关系密切、相互依存。",
+      "morphemeHint": {
+        "keyChar": "依",
+        "explanation": "“依”指互相依靠、缺一不可；比“息息相关”更强调彼此依存、谁也离不开谁。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "邻邦",
+        "产业链上下游",
+        "生态系统",
+        "协同部门"
+      ],
+      "collocations": [
+        "唇齿相依的关系",
+        "与上游产业唇齿相依"
+      ],
+      "commonMistake": "侧重双方的“相互依存”关系，不可用于单方面依赖或一般性的轻微联系。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "基础研究与应用研发如同____的双生体系，没有基础理论的突破，工程技术的迭代便会很快触及天花板。",
+          "highlightClues": [
+            "双生体系",
+            "没有基础理论的突破"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "唇亡齿寒",
+        "息息相关",
+        "相辅相成"
+      ]
+    },
+    {
+      "id": "chun_wang_chi_han",
+      "word": "唇亡齿寒",
+      "pinyin": "chún wáng chǐ hán",
+      "frequency": 4,
+      "coreMeaning": "嘴唇没了牙齿就会受凉，比喻一方受损或覆灭，另一方也难保全。",
+      "morphemeHint": {
+        "keyChar": "亡",
+        "explanation": "“亡”表示失去、灭亡；侧重危机传导与负面因果警示，语境偏严峻或消极假设。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "生态链",
+        "产业链",
+        "安全防线",
+        "战略关系"
+      ],
+      "collocations": [
+        "明白唇亡齿寒的道理",
+        "形成唇亡齿寒的局势"
+      ],
+      "commonMistake": "常与“唇齿相依”混用；本词重在警告“一方垮掉则另一方受殃及”，而非平时合作密切。",
+      "tags": [
+        "省考高频",
+        "易混淆",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "湿地生态系统与候鸟迁徙通道之间存在着____的生态关联，一旦湿地萎缩干涸，迁徙种群将面临生存危机。",
+          "highlightClues": [
+            "一旦湿地萎缩干涸",
+            "面临生存危机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "唇齿相依",
+        "休戚相关",
+        "辅车相依"
+      ]
+    },
+    {
+      "id": "xiang_fu_xiang_cheng",
+      "word": "相辅相成",
+      "pinyin": "xiāng fǔ xiāng chéng",
+      "frequency": 5,
+      "coreMeaning": "两件事物互相配合、互相补充，缺一不可地共同促成结果。",
+      "morphemeHint": {
+        "keyChar": "辅",
+        "explanation": "“辅”是辅助，“成”是促成；强调二者功能不同但彼此配合、共同完成目标。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "制度与技术",
+        "理论与实践",
+        "双因素",
+        "两种方法"
+      ],
+      "collocations": [
+        "二者相辅相成",
+        "与监管相辅相成"
+      ],
+      "commonMistake": "常与“相得益彰”混淆；本词强调缺一不可的配合促进，后者强调配合后各自更加出色。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在人工智能辅助诊断中，算法的算力优势与临床医生的经验判断____，共同提升了早期病灶的检出准确率。",
+          "highlightClues": [
+            "算力优势与临床医生的经验判断",
+            "共同提升"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相得益彰",
+        "相反相成",
+        "相生相克"
+      ]
+    },
+    {
+      "id": "xiang_de_yi_zhang",
+      "word": "相得益彰",
+      "pinyin": "xiāng dé yì zhāng",
+      "frequency": 5,
+      "coreMeaning": "两个人或两件事物互相配合，各自的长处和作用更加充分显现。",
+      "morphemeHint": {
+        "keyChar": "彰",
+        "explanation": "“益”是更加，“彰”是显著；核心在于配合之后双方优点都比单独存在时更突出。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "技术与艺术",
+        "传统与现代",
+        "功能搭配",
+        "人才搭档"
+      ],
+      "collocations": [
+        "两者相得益彰",
+        "与环境相得益彰"
+      ],
+      "commonMistake": "注意只用于美好、积极事物的配合；不可用于反面事物或相互制约的关系。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "数字孪生技术与古建筑保护理念____，既高精度还原了斗拱榫卯结构，又让沉睡的文物在虚拟空间焕发新生。",
+          "highlightClues": [
+            "高精度还原",
+            "焕发新生"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相辅相成",
+        "水乳交融",
+        "珠联璧合"
+      ]
+    },
+    {
+      "id": "xiang_fan_xiang_cheng",
+      "word": "相反相成",
+      "pinyin": "xiāng fǎn xiāng chéng",
+      "frequency": 4,
+      "coreMeaning": "看似对立的两个方面相互依存、相互促进，构成辩证统一。",
+      "morphemeHint": {
+        "keyChar": "反",
+        "explanation": "“反”指矛盾对立面，“成”指互相成就；专指包含相反属性却辩证统一的关系。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "矛盾双方",
+        "快与慢",
+        "破与立",
+        "辩证关系"
+      ],
+      "collocations": [
+        "相反相成的辩证法",
+        "相反相成的统一体"
+      ],
+      "commonMistake": "必须存在“看似对立或性质相反”的前提，若双方原本就一致则不能用“相反相成”。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "数据安全管控与数据要素流通并非零和博弈，而是一对____的治理命题，严密的安全边界恰恰是高效流通的前提。",
+          "highlightClues": [
+            "并非零和博弈",
+            "严密的安全边界恰恰是高效流通的前提"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相辅相成",
+        "相生相克",
+        "此消彼长"
+      ]
+    },
+    {
+      "id": "mi_bu_ke_fen",
+      "word": "密不可分",
+      "pinyin": "mì bù kě fēn",
+      "frequency": 5,
+      "coreMeaning": "关系十分紧密，无法分割开来，强调高度的整体性与关联性。",
+      "morphemeHint": {
+        "keyChar": "分",
+        "explanation": "“不可分”直指客观上难以剥离拆解，在政论和科普中常用于描述结构性捆绑关系。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "系统要素",
+        "因果链条",
+        "文化与历史",
+        "技术生态"
+      ],
+      "collocations": [
+        "有着密不可分的联系",
+        "与基础科学密不可分"
+      ],
+      "commonMistake": "常因前文已有“联系紧密”而出现语义重复，使用时注意不要与“紧密联系”叠用。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "深海高压环境下的生物进化机制与热液喷口的化学能量供给____，脱离这一特殊生境便难以理解其代谢路径。",
+          "highlightClues": [
+            "脱离这一特殊生境便难以理解"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "息息相关",
+        "唇齿相依",
+        "水乳交融"
+      ]
+    },
+    {
+      "id": "shui_ru_jiao_rong",
+      "word": "水乳交融",
+      "pinyin": "shuǐ rǔ jiāo róng",
+      "frequency": 4,
+      "coreMeaning": "像水和乳汁那样融合在一起，比喻关系极其融洽或结合得无比紧密。",
+      "morphemeHint": {
+        "keyChar": "融",
+        "explanation": "“交融”突出原本不同的两种事物完全渗透融合、难以分辨边界，且感情色彩偏褒。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学科交叉",
+        "文化融合",
+        "技术与场景",
+        "感情"
+      ],
+      "collocations": [
+        "与场景水乳交融",
+        "科学与人文水乳交融"
+      ],
+      "commonMistake": "强调“融合无间”的和谐状态，不用于仅仅存在因果影响或对立依存的事物。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "优秀的科普纪录片往往能将严谨的物理定律与诗意的影像叙事____，让观众在审美体验中自然理解科学原理。",
+          "highlightClues": [
+            "严谨的物理定律与诗意的影像叙事",
+            "自然理解"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相得益彰",
+        "融会贯通",
+        "密不可分"
+      ]
+    },
+    {
+      "id": "qian_si_wan_lv",
+      "word": "千丝万缕",
+      "pinyin": "qiān sī wàn lǚ",
+      "frequency": 4,
+      "coreMeaning": "形容事物之间存在着极为繁多、细密而难以理清的联系。",
+      "morphemeHint": {
+        "keyChar": "丝缕",
+        "explanation": "“丝”与“缕”均指细线；偏重联系的数量繁多且交织细密，可褒可贬偏中性。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "社会网络",
+        "利益关系",
+        "历史渊源",
+        "生态联系"
+      ],
+      "collocations": [
+        "有着千丝万缕的联系",
+        "千丝万缕的关联"
+      ],
+      "commonMistake": "本身表示“很多丝线般的联系”，常作定语修饰“联系”“瓜葛”，不宜直接充当谓语表示复杂困难。",
+      "tags": [
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "肠道菌群的微生态平衡与人体免疫调控、情绪波动之间存在着____的生理联系，相关机制正逐步被测序技术揭示。",
+          "highlightClues": [
+            "微生态平衡",
+            "生理联系"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "错综复杂",
+        "盘根错节",
+        "息息相关"
+      ]
+    },
+    {
+      "id": "huan_huan_xiang_kou",
+      "word": "环环相扣",
+      "pinyin": "huán huán xiāng kòu",
+      "frequency": 5,
+      "coreMeaning": "一环扣着一环，形容链条、步骤或逻辑推理连接得十分紧密有序。",
+      "morphemeHint": {
+        "keyChar": "扣",
+        "explanation": "“相扣”指前后衔接毫无脱节；强调整个流程或论证链条的连续性与严密性。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "逻辑链条",
+        "实验步骤",
+        "产业链",
+        "制度设计"
+      ],
+      "collocations": [
+        "逻辑环环相扣",
+        "工序环环相扣"
+      ],
+      "commonMistake": "强调“线性或链式的前后紧扣”，不同于“错综复杂”的网状缠绕感。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "天体物理学家对引力波信号的确认经历了噪声过滤、波形比对与多台站交叉验证等____的严谨流程。",
+          "highlightClues": [
+            "噪声过滤、波形比对与多台站交叉验证",
+            "严谨流程"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "丝丝入扣",
+        "严丝合缝",
+        "滴水不漏"
+      ]
+    },
+    {
+      "id": "hu_wei_yin_guo",
+      "word": "互为因果",
+      "pinyin": "hù wéi yīn guǒ",
+      "frequency": 4,
+      "coreMeaning": "甲是乙的原因，乙又是甲的原因，两者在发展中循环促成彼此。",
+      "morphemeHint": {
+        "keyChar": "因果",
+        "explanation": "打破单向因果思维，精准表达“A导致B、B又反过来强化或引发A”的双向闭环。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "经济指标",
+        "科研与产业",
+        "生态反馈",
+        "社会现象"
+      ],
+      "collocations": [
+        "二者互为因果",
+        "形成互为因果的循环"
+      ],
+      "commonMistake": "仅当两者确实存在双向反馈机制时使用，单向的“先有因后有果”切忌误用。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在数字经济时代，海量数据的积累与机器学习算法的迭代____：更丰富的数据喂养出更聪明的模型，而智能应用又持续产生新数据。",
+          "highlightClues": [
+            "更丰富的数据喂养出更聪明的模型，而智能应用又持续产生新数据"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相辅相成",
+        "此消彼长",
+        "恶性循环"
+      ]
+    },
+    {
+      "id": "ci_xiao_bi_zhang",
+      "word": "此消彼长",
+      "pinyin": "cǐ xiāo bǐ zhǎng",
+      "frequency": 5,
+      "coreMeaning": "这一方削弱消退，另一方就发展壮大，形容双方力量或趋势的反向动态变化。",
+      "morphemeHint": {
+        "keyChar": "消长",
+        "explanation": "“消”指减少衰退，“长”指增长兴起；专指总量或竞争格局中一减一增的动态博弈。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "市场份额",
+        "势力对比",
+        "物种数量",
+        "能量转化"
+      ],
+      "collocations": [
+        "呈现此消彼长的态势",
+        "两者此消彼长"
+      ],
+      "commonMistake": "不可用于双方同步增长或同步下降的趋势；必须一升一降且存在动态关联。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在能量守恒定律的约束下，封闭物理系统中的动能与势能总是处于____的转化之中，总机械能保持恒定。",
+          "highlightClues": [
+            "能量守恒定律",
+            "总机械能保持恒定"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相反相成",
+        "相生相克",
+        "互为因果"
+      ]
+    },
+    {
+      "id": "xiang_sheng_xiang_ke",
+      "word": "相生相克",
+      "pinyin": "xiāng shēng xiāng kè",
+      "frequency": 3,
+      "coreMeaning": "事物之间既相互资生促进，又相互制约克制，从而维持动态平衡。",
+      "morphemeHint": {
+        "keyChar": "生克",
+        "explanation": "源于五行学说，“生”为促进，“克”为制约；现常用于形容生态系统或系统内部的制衡规律。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "生态群落",
+        "制度制衡",
+        "微生物群",
+        "自然法则"
+      ],
+      "collocations": [
+        "保持相生相克的平衡",
+        "物种间相生相克"
+      ],
+      "commonMistake": "既要有“相互促进”也要有“相互制约”，只谈合作或只谈对抗均不完整。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "热带雨林中捕食者、草食动物与植物群落经过亿万年演化，形成了____的精密食物网，维系着系统的稳态。",
+          "highlightClues": [
+            "精密食物网",
+            "维系着系统的稳态"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相反相成",
+        "此消彼长",
+        "相辅相成"
+      ]
+    },
+    {
+      "id": "yi_mai_xiang_cheng",
+      "word": "一脉相承",
+      "pinyin": "yī mài xiāng chéng",
+      "frequency": 5,
+      "coreMeaning": "由同一个血统、派别或思想传统延续下来，前后具有共同的渊源和脉络。",
+      "morphemeHint": {
+        "keyChar": "脉",
+        "explanation": "“脉”指血脉、脉络；纵向强调时间维度上的源流继承，而非横向的并列相似。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学术思想",
+        "技术路线",
+        "文化传统",
+        "政策脉络"
+      ],
+      "collocations": [
+        "与传统理念一脉相承",
+        "一脉相承的发展逻辑"
+      ],
+      "commonMistake": "常与“一以贯之”混淆；本词重在“从古到今、从前代到后代”的源流继承关系。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "从早期的统计语言模型到如今的大规模预训练架构，自然语言处理技术基于概率预测的底层数学逻辑可谓____。",
+          "highlightClues": [
+            "从早期的统计语言模型到如今的大规模预训练架构",
+            "底层数学逻辑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一以贯之",
+        "薪火相传",
+        "如出一辙"
+      ]
+    },
+    {
+      "id": "yi_yi_guan_zhi",
+      "word": "一以贯之",
+      "pinyin": "yī yǐ guàn zhī",
+      "frequency": 5,
+      "coreMeaning": "用一种根本的原则或思路贯穿于全部过程和各个方面，始终不变。",
+      "morphemeHint": {
+        "keyChar": "贯",
+        "explanation": "“一”指根本原则，“贯”是贯穿到底；强调主体始终坚持同一核心准则。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "治学态度",
+        "理论体系",
+        "战略方针",
+        "科学精神"
+      ],
+      "collocations": [
+        "一以贯之的准则",
+        "始终一以贯之"
+      ],
+      "commonMistake": "注意其多用来赞扬坚持原则、逻辑彻底，与“一脉相承”（重传承）侧重点不同。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "无论实验仪器如何升级换代，以可重复性检验假设的实证精神在近代物理学史上始终是____的黄金准则。",
+          "highlightClues": [
+            "始终",
+            "黄金准则"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一脉相承",
+        "始终如一",
+        "持之以恒"
+      ]
+    },
+    {
+      "id": "pan_gen_cuo_jie",
+      "word": "盘根错节",
+      "pinyin": "pán gēn cuò jié",
+      "frequency": 4,
+      "coreMeaning": "树根盘曲、枝节交错，比喻事物或关系极其复杂，根基深厚且难于处理。",
+      "morphemeHint": {
+        "keyChar": "根节",
+        "explanation": "“根”喻根基深，“错节”喻交织紧密；常带有“历史积累深、清理难度大”的意味。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "利益格局",
+        "历史积弊",
+        "地下管网",
+        "问题根源"
+      ],
+      "collocations": [
+        "盘根错节的利益关系",
+        "纠葛盘根错节"
+      ],
+      "commonMistake": "常与“错综复杂”混用；本词除复杂外，更突出“根深蒂固、牵扯极广、难以撼动”。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "城市地下综合管廊的改造往往举步维艰，盖因供水、供电与通信线路经年累月铺设，早已____。",
+          "highlightClues": [
+            "举步维艰",
+            "经年累月铺设"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "错综复杂",
+        "千头万绪",
+        "根深蒂固"
+      ]
+    },
+    {
+      "id": "cuo_zong_fu_za",
+      "word": "错综复杂",
+      "pinyin": "cuò zōng fù zá",
+      "frequency": 5,
+      "coreMeaning": "许多头绪和因素交错综合在一起，情况极为繁复，难以一眼看清。",
+      "morphemeHint": {
+        "keyChar": "错综",
+        "explanation": "“错”指交叉，“综”指织布时纵横交织；专指多因素交汇形成的复杂格局，纯中性词。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "局势",
+        "因果机制",
+        "数据网络",
+        "自然现象"
+      ],
+      "collocations": [
+        "面对错综复杂的形势",
+        "机制错综复杂"
+      ],
+      "commonMistake": "侧重客观局面的头绪交错与繁复，不自带“根基深厚”或“混乱无序”的贬义。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "气候系统是一个包含大气、海洋、冰雪圈与生物圈交互作用的____巨系统，微小扰动也可能引发连锁反应。",
+          "highlightClues": [
+            "交互作用",
+            "微小扰动也可能引发连锁反应"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "盘根错节",
+        "千头万绪",
+        "扑朔迷离"
+      ]
+    },
+    {
+      "id": "qian_tou_wan_xu",
+      "word": "千头万绪",
+      "pinyin": "qiān tóu wàn xù",
+      "frequency": 4,
+      "coreMeaning": "事情的头绪极其繁多，令人感到纷繁杂乱，一时不知从何处着手。",
+      "morphemeHint": {
+        "keyChar": "头绪",
+        "explanation": "“头”“绪”均指丝的端头；强调待处理事务或问题起点极多、需要梳理理顺。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "工作事务",
+        "科研任务",
+        "梳理对象",
+        "改革事项"
+      ],
+      "collocations": [
+        "工作千头万绪",
+        "理清千头万绪"
+      ],
+      "commonMistake": "重在“事务繁多、头绪杂乱”，多搭配“处理”“梳理”；不用于形容谜团神秘或真相难辨。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "大型载人航天工程的系统集成工作____，唯有借助数字化项目管理平台，才能确保千万个零部件按节点精准总装。",
+          "highlightClues": [
+            "系统集成工作",
+            "千万个零部件按节点精准总装"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "错综复杂",
+        "盘根错节",
+        "纷繁复杂"
+      ]
+    },
+    {
+      "id": "pu_shuo_mi_li",
+      "word": "扑朔迷离",
+      "pinyin": "pū shuò mí lí",
+      "frequency": 5,
+      "coreMeaning": "形容事物错综复杂，线索真假难辨，使人难以看清其中的真相。",
+      "morphemeHint": {
+        "keyChar": "迷离",
+        "explanation": "出自《木兰诗》辨雌雄兔之典，核心在于“外在表象模糊、真相或规律一时难以看透”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "案情",
+        "科学谜题",
+        "历史真相",
+        "市场前景"
+      ],
+      "collocations": [
+        "显得扑朔迷离",
+        "扑朔迷离的真相"
+      ],
+      "commonMistake": "常与“错综复杂”混用；本词重在“真假难辨、看不透”，而非单纯事务多。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "快速射电暴的物理起源一度显得____，直到天文学家利用高精度射电望远镜锁定了其宿主星系内的磁星活动。",
+          "highlightClues": [
+            "物理起源",
+            "直到天文学家利用高精度射电望远镜锁定了"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "错综复杂",
+        "神秘莫测",
+        "雾里看花"
+      ]
+    },
+    {
+      "id": "shen_mi_mo_ce",
+      "word": "神秘莫测",
+      "pinyin": "shén mì mò cè",
+      "frequency": 4,
+      "coreMeaning": "非常神秘诡奇，让人完全无法猜测和理解其规律与内情。",
+      "morphemeHint": {
+        "keyChar": "神秘",
+        "explanation": "“神秘”重在未知、奇异的氛围，“莫测”指无法测度；多用于未知领域或自然奇观。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "宇宙现象",
+        "古代文明",
+        "深海世界",
+        "自然规律"
+      ],
+      "collocations": [
+        "神秘莫测的宇宙",
+        "显得神秘莫测"
+      ],
+      "commonMistake": "带有强烈的“奇幻未知”色彩，若强调人的学识、城府或道理深奥，宜用“高深莫测”。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在现代显微镜发明之前，微生物主导的发酵与腐败过程对古人而言如同____的魔法，令人敬畏却无从解释。",
+          "highlightClues": [
+            "魔法",
+            "无从解释"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "高深莫测",
+        "深不可测",
+        "扑朔迷离"
+      ]
+    },
+    {
+      "id": "gao_shen_mo_ce",
+      "word": "高深莫测",
+      "pinyin": "gāo shēn mò cè",
+      "frequency": 4,
+      "coreMeaning": "高明深奥到使人无法揣测理解，常形容理论、技艺或人物的城府。",
+      "morphemeHint": {
+        "keyChar": "高深",
+        "explanation": "“高深”指水平、造诣或理论门槛极高；语境中有时可作贬义，讽刺故弄玄虚。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "理论学说",
+        "技术壁垒",
+        "人物",
+        "表达方式"
+      ],
+      "collocations": [
+        "显得高深莫测",
+        "并非高深莫测"
+      ],
+      "commonMistake": "科技科普语境常考其“否定句”（如“量子计算并非高深莫测，而是……”），切忌望文生义仅作褒义。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "好的科普文章从不堆砌____的学术术语来吓唬读者，而是善于用日常生活中的水波与音叉来类比抽象的波动方程。",
+          "highlightClues": [
+            "吓唬读者",
+            "用日常生活中的水波与音叉来类比"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "深不可测",
+        "神秘莫测",
+        "玄之又玄"
+      ]
+    },
+    {
+      "id": "shen_bu_ke_ce",
+      "word": "深不可测",
+      "pinyin": "shēn bù kě cè",
+      "frequency": 4,
+      "coreMeaning": "深度无法测量，比喻水体极深，或指人心、学问、实力深厚得难以估量。",
+      "morphemeHint": {
+        "keyChar": "深",
+        "explanation": "字面实指水深或洞深，引申指底蕴、实力或思想深度极深，比“高深莫测”更偏重深度与底气。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "海洋沟壑",
+        "科研积累",
+        "战略实力",
+        "人物心思"
+      ],
+      "collocations": [
+        "实力深不可测",
+        "底蕴深不可测"
+      ],
+      "commonMistake": "不能用于形容“难度低”或单纯表示“神秘奇怪”，必须突出“深度、底蕴”无可估量。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "马里亚纳海沟底部承受着上千个大气压，这片曾被视为____的生命禁区，如今已被我国全海深载人潜水器多次造访。",
+          "highlightClues": [
+            "马里亚纳海沟",
+            "生命禁区",
+            "全海深载人潜水器"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "高深莫测",
+        "神秘莫测",
+        "莫测高深"
+      ]
+    },
+    {
+      "id": "bai_si_bu_jie",
+      "word": "百思不解",
+      "pinyin": "bǎi sī bù jiě",
+      "frequency": 4,
+      "coreMeaning": "反复思索了很久很多遍，仍然无法理解其中的道理或原因。",
+      "morphemeHint": {
+        "keyChar": "百思",
+        "explanation": "“百思”强调经过了极多次深入思考，“不解”表示依然没找到答案，体现认知卡点。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "研究者",
+        "读者",
+        "悬案",
+        "反常现象"
+      ],
+      "collocations": [
+        "令人百思不解",
+        "对此百思不解"
+      ],
+      "commonMistake": "常写为“百思不得其解”，但四字成语“百思不解”已完整表达含义，切勿在句中重复加“难以理解”。",
+      "tags": [
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "金属在超低温下电阻突然归零的超导现象曾让物理学家____，直到微观层面的电子配对理论提出后才得以阐明。",
+          "highlightClues": [
+            "曾让物理学家",
+            "电子配对理论提出后才得以阐明"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "茫然不解",
+        "扑朔迷离",
+        "莫名其妙"
+      ]
+    },
+    {
+      "id": "zhong_shuo_fen_yun",
+      "word": "众说纷纭",
+      "pinyin": "zhòng shuō fēn yún",
+      "frequency": 5,
+      "coreMeaning": "众人议论纷纷，各种说法很多，各不相同且缺乏统一结论。",
+      "morphemeHint": {
+        "keyChar": "纷纭",
+        "explanation": "“纷纭”指多而杂乱；侧重议论声浪多、观点繁杂，不如“莫衷一是”强调“无定论”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "舆论",
+        "学界观点",
+        "传闻",
+        "原因探讨"
+      ],
+      "collocations": [
+        "一时间众说纷纭",
+        "对此众说纷纭"
+      ],
+      "commonMistake": "主语也必须包含众人或多种说法；句中已有“大家议论纷纷”时不宜叠用。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "新近发现的深海发光鱼类究竟如何调控体表荧光蛋白，生物学界至今____，尚待进一步的基因敲除实验证实。",
+          "highlightClues": [
+            "生物学界至今",
+            "尚待进一步的基因敲除实验证实"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "莫衷一是",
+        "聚讼纷纭",
+        "议论纷纷"
+      ]
+    },
+    {
+      "id": "ju_song_fen_yun",
+      "word": "聚讼纷纭",
+      "pinyin": "jù sòng fēn yún",
+      "frequency": 4,
+      "coreMeaning": "许多人聚在一起争辩诉讼，比喻学界对某问题长期争论不休，没有定论。",
+      "morphemeHint": {
+        "keyChar": "讼",
+        "explanation": "“讼”原指争辩是非；该词书面色彩极浓，专用于学术、历史考据、典籍阐释的长期争论。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学术史",
+        "历史考据",
+        "文献争议",
+        "理论派别"
+      ],
+      "collocations": [
+        "历代学者聚讼纷纭",
+        "聚讼纷纭的公案"
+      ],
+      "commonMistake": "极书面化，适合学术史或考据语境；日常小事或菜市场吵架不可使用。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "《考工记》中“六齐”配方的金属成分比例曾令冶金史学者____，现代质谱分析技术为这一千年学术公案提供了实证依据。",
+          "highlightClues": [
+            "冶金史学者",
+            "千年学术公案"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "莫衷一是",
+        "众说纷纭",
+        "各抒己见"
+      ]
+    },
+    {
+      "id": "guan_kui_li_ce",
+      "word": "管窥蠡测",
+      "pinyin": "guǎn kuī lí cè",
+      "frequency": 4,
+      "coreMeaning": "从竹管里看天、用瓢去量海水，比喻眼光狭窄、见识浅薄片面。",
+      "morphemeHint": {
+        "keyChar": "管蠡",
+        "explanation": "“管”为细竹管，“蠡”为贝壳做的瓢；既可用于自谦，也常在议论文中批评认知局限。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人见解",
+        "局部观察",
+        "传统认知",
+        "片面方法"
+      ],
+      "collocations": [
+        "无异于管窥蠡测",
+        "不过是管窥蠡测"
+      ],
+      "commonMistake": "易因“窥”“测”二字误作探索精密；实则强调工具太小导致认知极度片面局限。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "谦敬误用"
+      ],
+      "examples": [
+        {
+          "sentence": "宇宙微波背景辐射的观测范围极其有限，若仅凭局部星系的分布便断言宇宙整体结构，无异于____。",
+          "highlightClues": [
+            "观测范围极其有限",
+            "仅凭局部",
+            "断言宇宙整体结构"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "以偏概全",
+        "坐井观天",
+        "盲人摸象"
+      ]
+    },
+    {
+      "id": "an_tu_suo_ji",
+      "word": "按图索骥",
+      "pinyin": "àn tú suǒ jì",
+      "frequency": 5,
+      "coreMeaning": "比喻按照死板的教条或既定线索去机械寻找事物，也指按图样线索探寻。",
+      "morphemeHint": {
+        "keyChar": "索",
+        "explanation": "“索”是寻找，“骥”是好马；原讽刺僵化机械，现行测中也常用于中性“循着图谱去查找”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研检索",
+        "工作方法",
+        "教条执行",
+        "数据排查"
+      ],
+      "collocations": [
+        "按图索骥地寻找",
+        "不能按图索骥"
+      ],
+      "commonMistake": "行测常考“褒贬两用”：既有讽刺生搬硬套的贬义，也有“依据图纸、图谱高效查找”的中性义。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "随着人类基因组草图的绘制完成，遗传学家得以____，更加精准地定位与罕见病相关的致病突变位点。",
+          "highlightClues": [
+            "基因组草图",
+            "精准地定位",
+            "致病突变位点"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "刻舟求剑",
+        "胶柱鼓瑟",
+        "照本宣科"
+      ]
+    },
+    {
+      "id": "ben_mo_dao_zhi",
+      "word": "本末倒置",
+      "pinyin": "běn mò dào zhì",
+      "frequency": 5,
+      "coreMeaning": "把根本、主要的事物和枝节、次要的事物颠倒过来，主次关系错位。",
+      "morphemeHint": {
+        "keyChar": "倒置",
+        "explanation": "“本”为树根（根本），“末”为树梢（枝节）；批判把手段当目的、把次要当核心的逻辑颠倒。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "评价体系",
+        "政策导向",
+        "技术应用",
+        "研究目的"
+      ],
+      "collocations": [
+        "切忌本末倒置",
+        "陷入本末倒置的误区"
+      ],
+      "commonMistake": "常与“舍本逐末”混淆；本词强调“主次位置颠倒（把末当成比本还重要）”，后者强调“丢掉根本去追求枝节”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "科研评价如果一味追逐论文数量而忽视真正解决科学问题，就会把学术发表的载体当成目的本身，造成____的扭曲生态。",
+          "highlightClues": [
+            "载体当成目的本身",
+            "忽视真正解决科学问题"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "舍本逐末",
+        "主次不分",
+        "南辕北辙"
+      ]
+    },
+    {
+      "id": "she_ben_zhu_mo",
+      "word": "舍本逐末",
+      "pinyin": "shě běn zhú mò",
+      "frequency": 4,
+      "coreMeaning": "放弃根本的、关键的事物，反而去费力追求细枝末节的小事。",
+      "morphemeHint": {
+        "keyChar": "舍逐",
+        "explanation": "“舍”是抛弃，“逐”是追逐；比“本末倒置”更突出行动上“丢掉核心、忙于琐碎”的选择失误。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "治理重点",
+        "技术路线",
+        "资源投入",
+        "学习方法"
+      ],
+      "collocations": [
+        "切莫舍本逐末",
+        "避免舍本逐末"
+      ],
+      "commonMistake": "注意“本末”在此指“根本与枝节”，不指商业里的本钱与利润。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在芯片自主可控的攻关中，若不着力突破光刻与架构等核心瓶颈，只在外观封装上大做文章，无异于____。",
+          "highlightClues": [
+            "不着力突破光刻与架构等核心瓶颈",
+            "只在外观封装上大做文章"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "本末倒置",
+        "捡了芝麻丢了西瓜",
+        "因小失大"
+      ]
+    },
+    {
+      "id": "nan_yuan_bei_zhe",
+      "word": "南辕北辙",
+      "pinyin": "nán yuán běi zhé",
+      "frequency": 5,
+      "coreMeaning": "心里想往南去却驾车往北走，比喻行动方向和预定目标完全相反。",
+      "morphemeHint": {
+        "keyChar": "辕辙",
+        "explanation": "“辕”为车前驾牲口木头，“辙”为车轮印；强调行动与目标截然背离，条件越好越偏离目标。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "行动与目标",
+        "措施与初衷",
+        "技术路径",
+        "政策效果"
+      ],
+      "collocations": [
+        "与初衷南辕北辙",
+        "结果南辕北辙"
+      ],
+      "commonMistake": "必须是同一主体“自身的行动与自身目标相反”，不可用于甲和乙两个不同事物的差异对比！",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "某些减肥软件通过诱导焦虑来兜售高糖代餐食品，其商业逻辑与促进用户健康饮食的宣称可谓____。",
+          "highlightClues": [
+            "诱导焦虑",
+            "促进用户健康饮食的宣称"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "背道而驰",
+        "大相径庭",
+        "适得其反"
+      ]
+    },
+    {
+      "id": "bei_dao_er_chi",
+      "word": "背道而驰",
+      "pinyin": "bèi dào ér chí",
+      "frequency": 5,
+      "coreMeaning": "朝着完全相反的方向奔跑，比喻行动方向或理念与既定原则完全背离。",
+      "morphemeHint": {
+        "keyChar": "背",
+        "explanation": "“背”是背向、背离；比“南辕北辙”适用更广，既可用于行动与目标，也可用于两方理念相反。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "行为与规律",
+        "观点与事实",
+        "发展路径",
+        "科学精神"
+      ],
+      "collocations": [
+        "与客观规律背道而驰",
+        "和初衷背道而驰"
+      ],
+      "commonMistake": "不可用于仅仅表示“有些偏差或略微不同”，必须强调方向完全相反、彻底背离。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "学术造假和篡改实验数据的行为与求真求实的科学精神____，不仅污染学术生态，更会误导后续研究方向。",
+          "highlightClues": [
+            "学术造假和篡改实验数据",
+            "求真求实的科学精神"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "南辕北辙",
+        "大相径庭",
+        "格格不入"
+      ]
+    },
+    {
+      "id": "da_xiang_jing_ting",
+      "word": "大相径庭",
+      "pinyin": "dà xiāng jìng tíng",
+      "frequency": 5,
+      "coreMeaning": "彼此之间差别很大，截然不同，形容观点、结论或事物现状相去极远。",
+      "morphemeHint": {
+        "keyChar": "径庭",
+        "explanation": "“径”是门外小路，“庭”是院中空地，二者相隔颇远；纯客观描述二者差距巨大，中性词。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "实验结果",
+        "学说观点",
+        "中外制度",
+        "预期与现实"
+      ],
+      "collocations": [
+        "与预期大相径庭",
+        "结论大相径庭"
+      ],
+      "commonMistake": "常与“南辕北辙”混淆；本词只指“两个对象差异很大”，不含“行动与目标相反”的贬义批判。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "早期宏观力学预测与微观量子实验观测到的电子双缝干涉图样____，这一反差直接催生了现代量子理论。",
+          "highlightClues": [
+            "早期宏观力学预测",
+            "这一反差"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "迥然不同",
+        "截然不同",
+        "南辕北辙"
+      ]
+    },
+    {
+      "id": "jiong_ran_bu_tong",
+      "word": "迥然不同",
+      "pinyin": "jiǒng rán bù tóng",
+      "frequency": 4,
+      "coreMeaning": "彼此之间相差得非常远，完全不一样，突出对比上的鲜明反差。",
+      "morphemeHint": {
+        "keyChar": "迥",
+        "explanation": "“迥”意为远、差得远；在说明文中常用来对比两种技术路线、材料特性或形态差异。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "性质特征",
+        "机理机制",
+        "风格流派",
+        "实验状态"
+      ],
+      "collocations": [
+        "呈现出迥然不同的特性",
+        "与传统材料迥然不同"
+      ],
+      "commonMistake": "本身已含“完全不同”，切勿在前面再加“非常”“极其”或后面再跟“的差异”。",
+      "tags": [
+        "省考高频",
+        "重复累赘",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "同是由碳原子构成的晶体，金刚石与石墨因原子排布结构各异，在硬度与导电性上展现出____的物理性质。",
+          "highlightClues": [
+            "原子排布结构各异",
+            "硬度与导电性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "大相径庭",
+        "截然不同",
+        "天壤之别"
+      ]
+    },
+    {
+      "id": "shu_tu_tong_gui",
+      "word": "殊途同归",
+      "pinyin": "shū tú tóng guī",
+      "frequency": 5,
+      "coreMeaning": "通过不同的道路和方法，最终到达同一个目的地或得出相同的结论。",
+      "morphemeHint": {
+        "keyChar": "殊同",
+        "explanation": "“殊途”指路径方式各异，“同归”指归宿结论一致；重在方法路径不同但结果统一。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "技术路线",
+        "数学证明",
+        "研究方法",
+        "学术流派"
+      ],
+      "collocations": [
+        "看似不同却殊途同归",
+        "与西方理论殊途同归"
+      ],
+      "commonMistake": "常与“异曲同工”混淆；本词重在“路径不同而终点/结果一致”，后者重在“做法不同而同样精妙”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "波动力学与矩阵力学在数学形式上看似毫无瓜葛，薛定谔随后证明二者在物理本质上完全等价，可谓____。",
+          "highlightClues": [
+            "数学形式上看似毫无瓜葛",
+            "物理本质上完全等价"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "异曲同工",
+        "不谋而合",
+        "如出一辙"
+      ]
+    },
+    {
+      "id": "ru_chu_yi_zhe",
+      "word": "如出一辙",
+      "pinyin": "rú chū yī zhé",
+      "frequency": 4,
+      "coreMeaning": "好像从同一个车辙里走出来一样，形容两件事物的言行、规律或表现完全雷同。",
+      "morphemeHint": {
+        "keyChar": "辙",
+        "explanation": "“辙”为车轮压出的轨迹；可作中性或贬义（讽刺抄袭、重蹈覆辙），极少作赞美用。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "发展轨迹",
+        "欺诈手段",
+        "实验曲线",
+        "历史现象"
+      ],
+      "collocations": [
+        "与此前案例如出一辙",
+        "表现如出一辙"
+      ],
+      "commonMistake": "常带批评或冷静揭示“如出一模一样”的意味，赞赏各自独立却同样精彩时宜用“异曲同工”。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这些伪科普短视频的套路几乎____：先制造耸人听闻的健康恐慌，再顺势推销毫无科学依据的保健产品。",
+          "highlightClues": [
+            "套路",
+            "制造耸人听闻的健康恐慌",
+            "推销毫无科学依据的保健产品"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "异曲同工",
+        "殊途同归",
+        "一模一样"
+      ]
+    },
+    {
+      "id": "xian_er_yi_jian",
+      "word": "显而易见",
+      "pinyin": "xiǎn ér yì jiàn",
+      "frequency": 5,
+      "coreMeaning": "事情的道理或特征非常明显，不需要多加推论就很容易看清楚。",
+      "morphemeHint": {
+        "keyChar": "显",
+        "explanation": "“显”指外显、清楚，“易见”指容易看见；强调客观事实呈现在表面、一目了然。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "优势劣势",
+        "危害",
+        "规律趋势",
+        "对比差异"
+      ],
+      "collocations": [
+        "其危害显而易见",
+        "显而易见的事实"
+      ],
+      "commonMistake": "常与“不言而喻”混淆；本词偏重“摆在明面上容易看到”，后者偏重“不必说破就能明白”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在算力能耗呈指数级攀升的背景下，研发存算一体新型芯片对降低数据中心碳排放的紧迫性已经____。",
+          "highlightClues": [
+            "算力能耗呈指数级攀升",
+            "紧迫性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不言而喻",
+        "一目了然",
+        "昭然若揭"
+      ]
+    },
+    {
+      "id": "wu_yong_zhi_yi",
+      "word": "毋庸置疑",
+      "pinyin": "wú yōng zhì yí",
+      "frequency": 5,
+      "coreMeaning": "事实清楚或理由充分，完全不需要提出怀疑，表示高度肯定。",
+      "morphemeHint": {
+        "keyChar": "庸",
+        "explanation": "“毋庸”即“不用”，“置疑”指怀疑；用于论证中确立无须再争辩的前提或事实。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科学结论",
+        "历史事实",
+        "核心地位",
+        "战略方向"
+      ],
+      "collocations": [
+        "这是毋庸置疑的",
+        "毋庸置疑的事实"
+      ],
+      "commonMistake": "不可误写为“无庸质疑”（标准写法为“毋庸置疑”）；不能作谓语直接带宾语。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "尽管学界对气候变化的具体区域响应仍有细微探讨，但人类活动加剧全球变暖的总趋势早已____。",
+          "highlightClues": [
+            "细微探讨",
+            "总趋势"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不容置疑",
+        "不言而喻",
+        "毫无疑问"
+      ]
+    },
+    {
+      "id": "shui_luo_shi_chu",
+      "word": "水落石出",
+      "pinyin": "shuǐ luò shí chū",
+      "frequency": 4,
+      "coreMeaning": "水位下降后石头显露出来，比喻经过调查或探究，事情的真相终于完全显露。",
+      "morphemeHint": {
+        "keyChar": "出",
+        "explanation": "“落”与“出”形成因果画面；侧重长期疑案或复杂成因经过排查后自然暴露出来。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "事故原因",
+        "学术真相",
+        "案件疑点",
+        "历史谜团"
+      ],
+      "collocations": [
+        "终于水落石出",
+        "让真相水落石出"
+      ],
+      "commonMistake": "必须经历“疑团迷雾消退、真相显现”的过程，不可用于原本就没有任何隐情的事物。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "科研团队利用黑匣子遥测数据重建了火箭发射异常时刻的姿态参数，最终使这起故障的真实诱因____。",
+          "highlightClues": [
+            "遥测数据重建",
+            "真实诱因"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "真相大白",
+        "拨云见日",
+        "扑朔迷离"
+      ]
+    },
+    {
+      "id": "zhen_xiang_da_bai",
+      "word": "真相大白",
+      "pinyin": "zhēn xiàng dà bái",
+      "frequency": 4,
+      "coreMeaning": "事情的真实情况完全弄清楚了，一切疑团和误解都已彻底消除。",
+      "morphemeHint": {
+        "keyChar": "白",
+        "explanation": "“大白”意为彻底明了；比“水落石出”更直接点明“真实面目完全公开澄清”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科学假象",
+        "争议事件",
+        "实验误差",
+        "历史悬案"
+      ],
+      "collocations": [
+        "很快真相大白",
+        "直到真相大白"
+      ],
+      "commonMistake": "主语通常是“事件”“问题”或整个客观局面，不可说“这个真相大白”，否则主谓语义重复。",
+      "tags": [
+        "省考高频",
+        "重复累赘",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "起初人们怀疑探测器传回了外星文明脉冲，直到排查出微波炉开门瞬间的电磁泄漏后，这起“宇宙信号”乌龙才____。",
+          "highlightClues": [
+            "排查出微波炉开门瞬间的电磁泄漏",
+            "乌龙"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "水落石出",
+        "水清石见",
+        "原形毕露"
+      ]
+    },
+    {
+      "id": "ju_yi_fan_san",
+      "word": "举一反三",
+      "pinyin": "jǔ yī fǎn sān",
+      "frequency": 5,
+      "coreMeaning": "从一件事情或一条原理推知同类其他许多事物，形容善于类比推理。",
+      "morphemeHint": {
+        "keyChar": "反",
+        "explanation": "“反”指类推；强调由一个典型样本或基本定理出发，推导出其余同类情形的迁移能力。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学习能力",
+        "算法泛化",
+        "科研思路",
+        "解题方法"
+      ],
+      "collocations": [
+        "善于举一反三",
+        "具备举一反三的能力"
+      ],
+      "commonMistake": "侧重“由少推多、由此例推同类”；与“触类旁通”相比，后者更强调跨越不同门类而相通。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "新一代具身智能机器人正致力于摆脱对海量单一指令的依赖，力争在掌握少量示范动作后实现____的泛化操作。",
+          "highlightClues": [
+            "掌握少量示范动作后",
+            "泛化操作"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "触类旁通",
+        "融会贯通",
+        "由此及彼"
+      ]
+    },
+    {
+      "id": "yi_zhen_jian_xie",
+      "word": "一针见血",
+      "pinyin": "yī zhēn jiàn xiě",
+      "frequency": 5,
+      "coreMeaning": "比喻言辞或分析直截了当，一下子就击中问题的核心实质。",
+      "morphemeHint": {
+        "keyChar": "血",
+        "explanation": "“见血”形象喻指刺破表象、直抵要害；多用于评价言论、评论、诊断精准犀利。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学术评论",
+        "问题诊断",
+        "演讲观点",
+        "批评建议"
+      ],
+      "collocations": [
+        "一针见血地指出",
+        "点评一针见血"
+      ],
+      "commonMistake": "适用对象多为“言论、观点、剖析”，不可用于具体的行动方案或解决措施本身。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这位院士在学术研讨会上____地指出，当前部分大模型评测过于偏重刷榜分数，却忽视了推理链条的可解释性。",
+          "highlightClues": [
+            "指出",
+            "过于偏重刷榜分数",
+            "忽视了推理链条的可解释性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "切中要害",
+        "切中肯綮",
+        "鞭辟入里"
+      ]
+    },
+    {
+      "id": "qie_zhong_yao_hai",
+      "word": "切中要害",
+      "pinyin": "qiè zhòng yào hài",
+      "frequency": 5,
+      "coreMeaning": "言论、措施或批评正好击中事物的最关键、最核心部位。",
+      "morphemeHint": {
+        "keyChar": "切中",
+        "explanation": "“切中”即恰恰击中，“要害”指致命关键处；既可用于言论剖析，也可用于改革措施。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "改革举措",
+        "分析评论",
+        "调研报告",
+        "技术攻关"
+      ],
+      "collocations": [
+        "切中要害的建议",
+        "可谓切中要害"
+      ],
+      "commonMistake": "注意“中”读 zhòng（第四声，击中），切勿误读为 zhōng。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "该项科技体制改革方案直接瞄准科研经费“重物轻人”的长期痛点，可谓____，赢得了广大一线研究者的支持。",
+          "highlightClues": [
+            "瞄准科研经费“重物轻人”的长期痛点",
+            "改革方案"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一针见血",
+        "切中肯綮",
+        "对症下药"
+      ]
+    },
+    {
+      "id": "qie_zhong_ken_qing",
+      "word": "切中肯綮",
+      "pinyin": "qiè zhòng kěn qìng",
+      "frequency": 4,
+      "coreMeaning": "正好击中骨肉结合最紧要的地方，比喻剖析或解决问题的最关键症结。",
+      "morphemeHint": {
+        "keyChar": "肯綮",
+        "explanation": "出自《庄子·庖丁解牛》，“肯”是附骨之肉，“綮”是筋骨结合处；极具学术书面色彩。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学术论文",
+        "深度剖析",
+        "政策建言",
+        "评论文章"
+      ],
+      "collocations": [
+        "分析切中肯綮",
+        "可谓切中肯綮"
+      ],
+      "commonMistake": "“綮”读 qìng，不读 qǐ；书面语色彩比“切中要害”更浓，多用于高阶政论与学术分析。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "该篇综述论文并未停留在现象罗列，而是____地揭示出跨尺度建模中微观参数无法向上传递的数学症结。",
+          "highlightClues": [
+            "并未停留在现象罗列",
+            "数学症结"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "切中要害",
+        "一针见血",
+        "鞭辟入里"
+      ]
+    },
+    {
+      "id": "you_di_fang_shi",
+      "word": "有的放矢",
+      "pinyin": "yǒu dì fàng shǐ",
+      "frequency": 5,
+      "coreMeaning": "对准靶子射箭，比喻说话或做事有明确的目标和极强的针对性。",
+      "morphemeHint": {
+        "keyChar": "的",
+        "explanation": "“的”指箭靶中心（读 dì），“矢”指箭；核心义项即“有针对性、不盲目发力”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研攻关",
+        "精准施策",
+        "科普传播",
+        "靶向治疗"
+      ],
+      "collocations": [
+        "做到有的放矢",
+        "有的放矢地推进"
+      ],
+      "commonMistake": "“的”必须读 dì，不可读 de；常考与“无的放矢”“盲目推进”构成反义语境对应。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "只有通过前期精准的基因测序锁定致病突变靶点，后续的靶向药物研发才能真正做到____，大幅降低试错成本。",
+          "highlightClues": [
+            "锁定致病突变靶点",
+            "大幅降低试错成本"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "对症下药",
+        "因地制宜",
+        "切中要害"
+      ]
+    },
+    {
+      "id": "dui_zheng_xia_yao",
+      "word": "对症下药",
+      "pinyin": "duì zhèng xià yào",
+      "frequency": 5,
+      "coreMeaning": "针对病症的根源来开药方，比喻针对具体问题的症结采取切实有效的办法。",
+      "morphemeHint": {
+        "keyChar": "症",
+        "explanation": "先找准“病症”（问题根源），再“下药”（采取对策），强调解决措施的精准匹配。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "治理方案",
+        "故障排查",
+        "科研对策",
+        "教育帮扶"
+      ],
+      "collocations": [
+        "才能对症下药",
+        "对症下药地解决"
+      ],
+      "commonMistake": "多与“病因”“症结”“问题”搭配；前文通常铺垫“先诊断原因，再采取精准措施”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "治理区域性水体富营养化必须先摸清氮磷污染的农业与工业来源比例，方能____，避免投入巨资却收效甚微。",
+          "highlightClues": [
+            "摸清氮磷污染的农业与工业来源比例",
+            "避免投入巨资却收效甚微"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "有的放矢",
+        "因地制宜",
+        "切中要害"
+      ]
+    },
+    {
+      "id": "you_qian_ru_shen",
+      "word": "由浅入深",
+      "pinyin": "yóu qiǎn rù shēn",
+      "frequency": 4,
+      "coreMeaning": "从浅显易懂的内容或现象开始，逐步向深奥复杂的道理推进。",
+      "morphemeHint": {
+        "keyChar": "浅深",
+        "explanation": "强调认知、学习或论证推进的层次梯度，先易后难、先基础后高阶。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "课程编排",
+        "科普读物",
+        "实验设计",
+        "认知过程"
+      ],
+      "collocations": [
+        "由浅入深地讲解",
+        "由浅入深的认知规律"
+      ],
+      "commonMistake": "常与“深入浅出”混淆；本词是从浅到深的渐进过程，后者是自己懂得很深却讲得很浅显。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这套量子力学教材采用____的编排体例，先借助直观的光偏振实验建立概念，再引入严谨的希尔伯特空间算符推导。",
+          "highlightClues": [
+            "借助直观的光偏振实验建立概念",
+            "引入严谨的希尔伯特空间算符推导"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "深入浅出",
+        "循序渐进",
+        "由表及里"
+      ]
+    },
+    {
+      "id": "you_biao_ji_li",
+      "word": "由表及里",
+      "pinyin": "yóu biǎo jí lǐ",
+      "frequency": 5,
+      "coreMeaning": "从外在的表面现象出发，逐步深入剖析事物的内在实质和根本规律。",
+      "morphemeHint": {
+        "keyChar": "表里",
+        "explanation": "“表”为外部现象，“里”为本质机理；与“由此及彼”常并列使用，指代科学归纳推理路径。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科学研究",
+        "现象剖析",
+        "调查研究",
+        "逻辑推理"
+      ],
+      "collocations": [
+        "由表及里地剖析",
+        "做到由表及里"
+      ],
+      "commonMistake": "注意“表”与“里”的递进顺序，不可用于仅停留在现象描述而未触及本质的研究。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "地质学家对岩石薄片的分析从来不是止步于矿物色彩观察，而是通过光谱与同位素测年实现____的成因追索。",
+          "highlightClues": [
+            "止步于矿物色彩观察",
+            "成因追索"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "由此及彼",
+        "去伪存真",
+        "抽丝剥茧"
+      ]
+    },
+    {
+      "id": "you_ci_ji_bi",
+      "word": "由此及彼",
+      "pinyin": "yóu cǐ jí bǐ",
+      "frequency": 4,
+      "coreMeaning": "从这一事物或现象推及到另一事物或现象，通过关联推理拓展认识。",
+      "morphemeHint": {
+        "keyChar": "彼此",
+        "explanation": "强调横向的逻辑推演与类比延伸，经常和“由表及里”联合构成科学思维方法的完整表述。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "逻辑推演",
+        "类比研究",
+        "跨学科迁移",
+        "调查追踪"
+      ],
+      "collocations": [
+        "由表及里、由此及彼",
+        "由此及彼地推演"
+      ],
+      "commonMistake": "侧重从A现象推演到相关联的B现象，与“由表及里”（从表面到本质）方向维度不同。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "天文学家通过观测遥远类星体光谱的红移现象，____地推演出整个宇宙处于加速膨胀状态的关键结论。",
+          "highlightClues": [
+            "观测遥远类星体光谱的红移",
+            "推演出整个宇宙处于加速膨胀状态的关键结论"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "由表及里",
+        "举一反三",
+        "触类旁通"
+      ]
+    },
+    {
+      "id": "chou_si_bo_jian",
+      "word": "抽丝剥茧",
+      "pinyin": "chōu sī bō jiǎn",
+      "frequency": 5,
+      "coreMeaning": "丝得一根根抽、茧得一层层剥，比喻极其细致深入地梳理分析复杂问题。",
+      "morphemeHint": {
+        "keyChar": "抽剥",
+        "explanation": "强调逐层剥离表象、理顺纷繁线索的“过程性动作”，在科技解密与案件侦查中极高频。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科学研究",
+        "数据溯源",
+        "疑难排查",
+        "论证过程"
+      ],
+      "collocations": [
+        "抽丝剥茧般排查",
+        "通过抽丝剥茧的分析"
+      ],
+      "commonMistake": "强调“逐层深入、理清线索的过程”；若强调已经列出一二三四条清清楚楚，宜用“条分缕析”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "为了找准这批航天器陀螺仪偶发漂移的微弱干扰源，工程师团队对十万条遥测波形进行____式的逐级排查。",
+          "highlightClues": [
+            "微弱干扰源",
+            "逐级排查"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "条分缕析",
+        "由表及里",
+        "寻根究底"
+      ]
+    }
+  ]
+}

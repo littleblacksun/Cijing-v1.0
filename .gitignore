@@ -1,0 +1,17 @@
+/node_modules/
+/dist/
+/android/local.properties
+/android/keystore/
+/android/keystore.properties
+/android/.gradle/
+/android/app/build/
+/src/data/generatedVocab.json
+*.jks
+*.keystore
+.env
+.env.*
+.DS_Store
+/release/*
+!/release/cijing-v1.0.0-release.apk
+
+

@@ -1,0 +1,2177 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "zhao_qi_peng_bo",
+      "word": "朝气蓬勃",
+      "pinyin": "zhāo qì péng bó",
+      "frequency": 4,
+      "coreMeaning": "早晨的空气或气象充满活力，形容青年、团队或新生事物充满生气和进取精神。",
+      "morphemeHint": {
+        "keyChar": "朝",
+        "explanation": "“朝”读 zhāo，指清晨；与“暮气沉沉”相对，侧重年轻有活力、积极向上。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "青年群体",
+        "科研团队",
+        "新生事业",
+        "精神风貌"
+      ],
+      "collocations": [
+        "朝气蓬勃的青年",
+        "保持朝气蓬勃",
+        "朝气蓬勃的创新团队"
+      ],
+      "commonMistake": "通常用于形容人、团队或具有青春气象的组织，一般不用于形容自然风景或机器设备。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在航天发射一线，平均年龄不到三十五岁的科研团队____，用扎实的技术攻关托举起一次次太空探索。",
+          "highlightClues": [
+            "平均年龄不到三十五岁",
+            "科研团队",
+            "托举"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生机勃勃",
+        "意气风发",
+        "活力四射"
+      ]
+    },
+    {
+      "id": "sheng_ji_bo_bo",
+      "word": "生机勃勃",
+      "pinyin": "shēng jī bó bó",
+      "frequency": 4,
+      "coreMeaning": "形容自然界万物、生态环境或社会行业充满生命力与旺盛的发展活力。",
+      "morphemeHint": {
+        "keyChar": "勃",
+        "explanation": "“勃勃”形容旺盛兴起的样子；适用面比“朝气蓬勃”更广，可用于生态与社会领域。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "自然生态",
+        "市场经济",
+        "文化土壤",
+        "地方发展"
+      ],
+      "collocations": [
+        "生机勃勃的景象",
+        "保持生机勃勃",
+        "展现生机勃勃的活力"
+      ],
+      "commonMistake": "与“生机盎然”近义；但“生机勃勃”在政论中常高频搭配“民营经济”“市场生态”等宏观概念。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "湿地保护法实施后，曾因过度开发而退化的河口湿地重现____的生态图景，多种珍稀候鸟重返栖息。",
+          "highlightClues": [
+            "湿地保护法",
+            "重现",
+            "生态图景",
+            "珍稀候鸟重返"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "朝气蓬勃",
+        "欣欣向荣",
+        "生机盎然"
+      ]
+    },
+    {
+      "id": "ru_ri_zhong_tian",
+      "word": "如日中天",
+      "pinyin": "rú rì zhōng tiān",
+      "frequency": 5,
+      "coreMeaning": "好像太阳处在正午最高点，比喻事物正发展到十分兴盛、声势最盛的顶点。",
+      "morphemeHint": {
+        "keyChar": "中",
+        "explanation": "太阳行至正午天空正中，表示已经达到极盛状态，暗含顶点义，与“方兴未艾”阶段不同。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "事业",
+        "品牌",
+        "帝国",
+        "行业地位"
+      ],
+      "collocations": [
+        "声誉如日中天",
+        "事业正值如日中天",
+        "势力如日中天"
+      ],
+      "commonMistake": "常与“方兴未艾”混用；“如日中天”已至巅峰盛况，而“方兴未艾”尚在起步上升期。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "某些传统胶片巨头在行业____之时忽视了数码传感器的颠覆潜能，最终在技术浪潮迭代中遗憾退场。",
+          "highlightClues": [
+            "巨头",
+            "忽视了数码传感器",
+            "遗憾退场"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "方兴未艾",
+        "鼎盛一时",
+        "炙手可热"
+      ]
+    },
+    {
+      "id": "shi_ru_po_zhu",
+      "word": "势如破竹",
+      "pinyin": "shì rú pò zhú",
+      "frequency": 4,
+      "coreMeaning": "气势像劈竹子一样，劈开几节后下面便迎刃而裂，比喻节节胜利、毫无阻碍。",
+      "morphemeHint": {
+        "keyChar": "破",
+        "explanation": "“破竹”的力学特点是第一刀破开后顺势直下、毫无阻挡，侧重连续推进的顺畅感。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "改革推进",
+        "市场拓展",
+        "比赛进程",
+        "军事行动"
+      ],
+      "collocations": [
+        "攻势势如破竹",
+        "势如破竹般推进",
+        "发展势如破竹"
+      ],
+      "commonMistake": "强调“突破阻力后一顺到底”的势头，不用于描述艰难缓慢或反复拉锯的过程。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "打破省际电力交易壁垒后，全国统一电力市场建设____，跨区跨省清洁能源消纳比例连创新高。",
+          "highlightClues": [
+            "打破壁垒后",
+            "统一电力市场建设",
+            "连创新高"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "所向披靡",
+        "锐不可当",
+        "高歌猛进"
+      ]
+    },
+    {
+      "id": "suo_xiang_pi_mi",
+      "word": "所向披靡",
+      "pinyin": "suǒ xiàng pī mǐ",
+      "frequency": 4,
+      "coreMeaning": "力量所到之处一切障碍都被摧毁或倾倒，形容力量极强、战无不胜或毫无阻挡。",
+      "morphemeHint": {
+        "keyChar": "靡",
+        "explanation": "“披靡”指草木随风倒伏；力量所指之处对手纷纷溃退，侧重威力与压倒性优势。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "队伍",
+        "技术优势",
+        "产品竞争力",
+        "军队"
+      ],
+      "collocations": [
+        "产品在市场上所向披靡",
+        "攻势所向披靡"
+      ],
+      "commonMistake": "“靡”易误读为 mí；此处读 mǐ。不能与“势如破竹”一样仅仅形容进展顺畅，它更重“压倒对手”。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "没有任何一项单项技术能永远____，唯有持续构建底层研发护城河，才能在国际竞争中立于不败之地。",
+          "highlightClues": [
+            "单项技术",
+            "国际竞争",
+            "立于不败之地"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "势如破竹",
+        "锐不可当",
+        "战无不胜"
+      ]
+    },
+    {
+      "id": "rui_bu_ke_dang",
+      "word": "锐不可当",
+      "pinyin": "ruì bù kě dāng",
+      "frequency": 4,
+      "coreMeaning": "锋锐的气势无法抵挡，形容勇往直前、气势极盛且不可阻拦。",
+      "morphemeHint": {
+        "keyChar": "锐",
+        "explanation": "“锐”指锐气、锋芒，“当”指抵挡；侧重进取锋芒和冲击力极其强劲。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "发展势头",
+        "革新力量",
+        "军心士气",
+        "趋势"
+      ],
+      "collocations": [
+        "气势锐不可当",
+        "改革之势锐不可当",
+        "锋芒锐不可当"
+      ],
+      "commonMistake": "注意“当”读 dāng，不读 dǎng；多用于褒义语境，不宜用来形容坏风气或灾害的蔓延。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "绿色低碳转型已成为全球能源体系重构中____的时代潮流，任何保护主义壁垒都无法逆转这一进程。",
+          "highlightClues": [
+            "时代潮流",
+            "无法逆转"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "势不可挡",
+        "势如破竹",
+        "所向披靡"
+      ]
+    },
+    {
+      "id": "gao_ge_meng_jin",
+      "word": "高歌猛进",
+      "pinyin": "gāo gē měng jìn",
+      "frequency": 4,
+      "coreMeaning": "高声歌唱、勇猛前进，形容在胜利或乐观的形势下意气风发地急速向前发展。",
+      "morphemeHint": {
+        "keyChar": "歌",
+        "explanation": "既“高歌”又“猛进”，兼含乐观昂扬的情绪与快速推进的步伐，多用于大好形势。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "产业发展",
+        "事业进程",
+        "时代步伐",
+        "建设"
+      ],
+      "collocations": [
+        "一路高歌猛进",
+        "高歌猛进的态势",
+        "在高歌猛进中保持清醒"
+      ],
+      "commonMistake": "带有明显的昂扬与快速扩张意味，在行测语境中常与“保持理性”“防范泡沫”形成转折搭配。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "过去几年平台经济在资本助力下____，但规模扩张之后更需补齐合规治理与核心技术短板。",
+          "highlightClues": [
+            "规模扩张",
+            "合规治理与核心技术短板"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "突飞猛进",
+        "势如破竹",
+        "大步流星"
+      ]
+    },
+    {
+      "id": "po_jian_cheng_die",
+      "word": "破茧成蝶",
+      "pinyin": "pò jiǎn chéng dié",
+      "frequency": 4,
+      "coreMeaning": "比喻冲破束缚、经历艰难的积淀和蜕变后，实现全新的质变飞跃与新生。",
+      "morphemeHint": {
+        "keyChar": "茧",
+        "explanation": "“茧”象征束缚或积累阶段；强调挣脱旧壳限制、经过痛苦蜕变迎来全新形态。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "产业升级",
+        "企业转型",
+        "个人成长",
+        "文化革新"
+      ],
+      "collocations": [
+        "实现破茧成蝶",
+        "完成破茧成蝶的蜕变",
+        "迎来破茧成蝶"
+      ],
+      "commonMistake": "隐含“先经历束缚与痛苦孕育，再实现质变飞跃”的过程，不适用于轻而易举的成功。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "经过三年啃硬骨头式的技术攻关，这家曾受制于核心芯片进口的企业终于____，推出了完全自主架构的处理器。",
+          "highlightClues": [
+            "啃硬骨头式",
+            "受制于",
+            "完全自主架构"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "凤凰涅槃",
+        "脱胎换骨",
+        "浴火重生"
+      ]
+    },
+    {
+      "id": "feng_huang_nie_pan",
+      "word": "凤凰涅槃",
+      "pinyin": "fèng huáng niè pán",
+      "frequency": 4,
+      "coreMeaning": "凤凰在烈火中焚烧后重生，比喻经历重大磨难考验后实现更高层次的新生。",
+      "morphemeHint": {
+        "keyChar": "涅",
+        "explanation": "“涅槃”本义是超越生死，在成语中指经受毁灭性考验后彻底更新、升华重生。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "老工业基地",
+        "危机中的企业",
+        "民族精神",
+        "传统技艺"
+      ],
+      "collocations": [
+        "实现凤凰涅槃",
+        "经历凤凰涅槃式的重生"
+      ],
+      "commonMistake": "语义极重，前提往往包含“陷入危机、历经阵痛或浴火考验”，不可用于一般性小改进。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "面对产能过剩与环保约束双重压力，这座资源枯竭型城市唯有壮士断腕推动绿色转型，才能实现____。",
+          "highlightClues": [
+            "资源枯竭型城市",
+            "壮士断腕",
+            "绿色转型"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "浴火重生",
+        "破茧成蝶",
+        "脱胎换骨"
+      ]
+    },
+    {
+      "id": "yu_huo_chong_sheng",
+      "word": "浴火重生",
+      "pinyin": "yù huǒ chóng shēng",
+      "frequency": 4,
+      "coreMeaning": "经历烈火的洗礼和严峻考验后重新获得生命力，比喻在磨难中焕发新机。",
+      "morphemeHint": {
+        "keyChar": "浴",
+        "explanation": "“浴火”即经受严酷洗礼；强调在危机、挫折或惨痛教训之后重新崛起。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "企业",
+        "城市",
+        "文化",
+        "产业"
+      ],
+      "collocations": [
+        "在阵痛中浴火重生",
+        "实现浴火重生"
+      ],
+      "commonMistake": "与“凤凰涅槃”相近，若未经历严重困境或考验而直接顺利发展，则不宜使用。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "经受住全球供应链重构冲击的制造企业，通过重构柔性生产线和自主品牌建设，在市场洗牌中实现了____。",
+          "highlightClues": [
+            "经受住冲击",
+            "市场洗牌",
+            "重构"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "凤凰涅槃",
+        "破茧成蝶",
+        "东山再起"
+      ]
+    },
+    {
+      "id": "ge_gu_ding_xin",
+      "word": "革故鼎新",
+      "pinyin": "gé gù dǐng xīn",
+      "frequency": 5,
+      "coreMeaning": "破除旧的制度风气，建立新的体制气象，多用于政治、制度或时代的重大变革。",
+      "morphemeHint": {
+        "keyChar": "鼎",
+        "explanation": "源自《易经》革卦和鼎卦，“革”为去旧，“鼎”为立新，分量远重于一般艺术改良。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "制度改革",
+        "社会变革",
+        "体制机制",
+        "时代转型"
+      ],
+      "collocations": [
+        "革故鼎新的魄力",
+        "推动革故鼎新",
+        "革故鼎新的历史转折"
+      ],
+      "commonMistake": "多用于宏观制度、体制或重大社会革新，不宜用于更换衣物、调整日常作息等小事。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "唯有以____的勇气破除利益固化藩篱，深化要素市场化配置改革，才能持续释放制度红利。",
+          "highlightClues": [
+            "破除利益固化藩篱",
+            "深化",
+            "制度红利"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "破旧立新",
+        "除旧布新",
+        "推陈出新"
+      ]
+    },
+    {
+      "id": "tu_gu_na_xin",
+      "word": "吐故纳新",
+      "pinyin": "tǔ gù nà xīn",
+      "frequency": 4,
+      "coreMeaning": "比喻舍弃陈旧落后的东西，吸收新鲜有生命力的事物以保持活力。",
+      "morphemeHint": {
+        "keyChar": "纳",
+        "explanation": "“吐”是排出，“纳”是吸收；形象表达组织、思想或文化新陈代谢的双向过程。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "组织人才",
+        "思想观念",
+        "文化生态",
+        "制度体系"
+      ],
+      "collocations": [
+        "保持吐故纳新的活力",
+        "人才队伍吐故纳新",
+        "文化的吐故纳新"
+      ],
+      "commonMistake": "既要有“吐故”（舍弃旧的），也要有“纳新”（吸收新的），不能仅表示单向吸收外部事物。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "任何一种文明的生命力都在于开放包容与____，既要守住精神根脉，又要善于吸收时代新知。",
+          "highlightClues": [
+            "开放包容",
+            "守住精神根脉",
+            "吸收时代新知"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "推陈出新",
+        "新陈代谢",
+        "兼收并蓄"
+      ]
+    },
+    {
+      "id": "chu_jiu_bu_xin",
+      "word": "除旧布新",
+      "pinyin": "chú jiù bù xīn",
+      "frequency": 3,
+      "coreMeaning": "清除旧的事物或习俗，建立、布置新的局面或制度。",
+      "morphemeHint": {
+        "keyChar": "布",
+        "explanation": "“布”意为陈设、建立；在破除陈规陋习的同时系统性地建立新规新貌。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "社会风气",
+        "规章制度",
+        "环境布置",
+        "年节习俗"
+      ],
+      "collocations": [
+        "除旧布新的举措",
+        "大力除旧布新"
+      ],
+      "commonMistake": "常写错为“除旧迎新”；若强调政治、制度层面的大变革，用“革故鼎新”更显庄重。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "移风易俗是一项____的系统工程，既要坚决遏制天价彩礼等陈规陋习，也要倡导简约文明的婚嫁新风。",
+          "highlightClues": [
+            "移风易俗",
+            "遏制陈规陋习",
+            "倡导新风"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "革故鼎新",
+        "破旧立新",
+        "推陈出新"
+      ]
+    },
+    {
+      "id": "po_jiu_li_xin",
+      "word": "破旧立新",
+      "pinyin": "pò jiù lì xīn",
+      "frequency": 3,
+      "coreMeaning": "破除陈旧腐朽的东西，建立起新的、合理的制度、观念或做法。",
+      "morphemeHint": {
+        "keyChar": "立",
+        "explanation": "“破”与“立”并重，行测中常用来呼应“先立后破”或破立并举的改革方法论。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革措施",
+        "评价体系",
+        "思想观念",
+        "制度建设"
+      ],
+      "collocations": [
+        "坚持破旧立新",
+        "在破旧立新中前行"
+      ],
+      "commonMistake": "强调“破除旧的、树立新的”的明确动作，语体较直接有力。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "破除“唯论文、唯职称”评价顽疾需要____的智慧，在清理不合理指标的同时建立多元化科研评价体系。",
+          "highlightClues": [
+            "破除评价顽疾",
+            "清理不合理指标",
+            "建立多元化"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "革故鼎新",
+        "除旧布新",
+        "推陈出新"
+      ]
+    },
+    {
+      "id": "gai_xian_geng_zhang",
+      "word": "改弦更张",
+      "pinyin": "gǎi xián gēng zhāng",
+      "frequency": 5,
+      "coreMeaning": "比喻彻底改革制度或变更原来的方针政策、做法，使其重新走上正轨。",
+      "morphemeHint": {
+        "keyChar": "弦",
+        "explanation": "琴弦声音不调时拆换琴弦、重新上紧；专指对制度、方针、大政的重大调整改革。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "政策方针",
+        "制度体系",
+        "经营战略",
+        "治理模式"
+      ],
+      "collocations": [
+        "到了改弦更张的时刻",
+        "果断改弦更张",
+        "彻底改弦更张"
+      ],
+      "commonMistake": "常与“改弦易辙”混用；“改弦更张”偏重改革制度或方针，“改弦易辙”偏重改变行进方向或立场路线。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "当粗放式增长路径的边际效益已近枯竭，地方经济考核机制必须尽快____，真正转向高质量发展轨道。",
+          "highlightClues": [
+            "粗放式增长已近枯竭",
+            "考核机制",
+            "转向高质量发展"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "改弦易辙",
+        "另起炉灶",
+        "革故鼎新"
+      ]
+    },
+    {
+      "id": "gai_xian_yi_zhe",
+      "word": "改弦易辙",
+      "pinyin": "gǎi xián yì zhé",
+      "frequency": 4,
+      "coreMeaning": "换琴弦、改车辙，比喻改变原来的方向、道路、立场或长期沿用的方法。",
+      "morphemeHint": {
+        "keyChar": "辙",
+        "explanation": "“辙”是车轮压出的轨迹；比喻放弃原有行进路线或既定策略，另走新路。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "发展道路",
+        "政策路线",
+        "战略方向",
+        "行为方式"
+      ],
+      "collocations": [
+        "被迫改弦易辙",
+        "及时改弦易辙",
+        "毅然改弦易辙"
+      ],
+      "commonMistake": "既有积极的纠偏义，也可用于贬义场合表示背弃原则立场，需结合上下文色彩判断。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "事实证明，单边制裁解决不了跨国贸易摩擦，某些国家若不及时____，最终只会反噬本国产业链稳定。",
+          "highlightClues": [
+            "解决不了",
+            "若不及时",
+            "反噬"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "改弦更张",
+        "改头换面",
+        "悬崖勒马"
+      ]
+    },
+    {
+      "id": "du_pi_xi_jing",
+      "word": "独辟蹊径",
+      "pinyin": "dú pì xī jìng",
+      "frequency": 5,
+      "coreMeaning": "自己独自开辟出一条新路，比喻在学术、艺术或事业中独创出新风格或方法。",
+      "morphemeHint": {
+        "keyChar": "独",
+        "explanation": "“独”强调首创性与独特性，“蹊径”指小路；侧重打破常规、独自开创全新路径。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研方法",
+        "艺术流派",
+        "商业模式",
+        "解题思路"
+      ],
+      "collocations": [
+        "在研究领域独辟蹊径",
+        "独辟蹊径的构思",
+        "勇于独辟蹊径"
+      ],
+      "commonMistake": "纯褒义，强调前人未走过的独创之路；若是在已有道路受阻后改走他路，宜用“另辟蹊径”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "在传统硅基芯片逼近物理极限的背景下，科研团队____，转向光子计算与二维材料体系寻找算力突破口。",
+          "highlightClues": [
+            "逼近物理极限",
+            "转向光子计算",
+            "寻找突破口"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "另辟蹊径",
+        "别开生面",
+        "独树一帜"
+      ]
+    },
+    {
+      "id": "bie_kai_sheng_mian",
+      "word": "别开生面",
+      "pinyin": "bié kāi shēng miàn",
+      "frequency": 4,
+      "coreMeaning": "另行创造出一种新的形式、风格或局面，给人以新鲜独特的面貌。",
+      "morphemeHint": {
+        "keyChar": "生",
+        "explanation": "“生面”指全新的面貌或画作风貌，源自杜甫赞曹霸画马“凌烟功臣少颜色，将军下笔开生面”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "活动形式",
+        "艺术表现",
+        "展览策划",
+        "会议格局"
+      ],
+      "collocations": [
+        "一场别开生面的演出",
+        "别开生面的科普课",
+        "呈现别开生面的气象"
+      ],
+      "commonMistake": "常与“别出心裁”混用；“别开生面”重在呈现出崭新局面或形式，“别出心裁”重在构思巧妙。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "这场____的“云端考古直播”将实验室检测画面与遗址发掘现场实时切换，吸引了数百万网友在线互动。",
+          "highlightClues": [
+            "云端考古直播",
+            "实时切换",
+            "吸引数百万网友"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "别出心裁",
+        "独辟蹊径",
+        "耳目一新"
+      ]
+    },
+    {
+      "id": "rui_yi_jin_qu",
+      "word": "锐意进取",
+      "pinyin": "ruì yì jìn qǔ",
+      "frequency": 4,
+      "coreMeaning": "意志坚定、精神饱满地积极向前开拓进取，不满足于现状。",
+      "morphemeHint": {
+        "keyChar": "锐",
+        "explanation": "“锐意”指意志坚决、奋发向前；主语必须是人、集体或组织，不能是无生命事物。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "党员干部",
+        "科研人员",
+        "企业团队",
+        "改革者"
+      ],
+      "collocations": [
+        "保持锐意进取的精神",
+        "锐意进取、勇于担当",
+        "锐意进取的姿态"
+      ],
+      "commonMistake": "形容人的主观精神姿态，不可用于形容技术、市场或天气变化等客观现象。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "广大青年科技工作者当以____的拼搏姿态勇闯创新“无人区”，把关键核心技术牢牢掌握在自己手中。",
+          "highlightClues": [
+            "青年科技工作者",
+            "拼搏姿态",
+            "勇闯创新无人区"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "开拓创新",
+        "奋发有为",
+        "朝气蓬勃"
+      ]
+    },
+    {
+      "id": "ji_wang_kai_lai",
+      "word": "继往开来",
+      "pinyin": "jì wǎng kāi lái",
+      "frequency": 4,
+      "coreMeaning": "继承前人的优良传统与事业，开辟未来新的发展道路和局面。",
+      "morphemeHint": {
+        "keyChar": "开",
+        "explanation": "“继往”重在继承过去，“开来”重在开创未来，强调宏大历史事业的接续与开拓。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "历史事业",
+        "学术传承",
+        "时代使命",
+        "会议意义"
+      ],
+      "collocations": [
+        "继往开来的历史起点",
+        "承担继往开来的使命"
+      ],
+      "commonMistake": "与“承前启后”相近，但“继往开来”侧重人的主动开创使命，“承前启后”多客观指所处的过渡位置或作用。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "站在新的历史起点上，我们既要珍视数十年积累的制度经验，更要以____的使命感书写现代化建设新篇章。",
+          "highlightClues": [
+            "新的历史起点",
+            "珍视积累的经验",
+            "书写新篇章"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "承前启后",
+        "薪火相传",
+        "承上启下"
+      ]
+    },
+    {
+      "id": "cheng_qian_qi_hou",
+      "word": "承前启后",
+      "pinyin": "chéng qián qǐ hòu",
+      "frequency": 4,
+      "coreMeaning": "继承前面的阶段、开启后面的阶段，形容在历史或发展进程中起连接过渡作用。",
+      "morphemeHint": {
+        "keyChar": "启",
+        "explanation": "“承”为衔接前代，“启”为开启后代；多用于评价关键时间节点、著作或人物的历史地位。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "关键时期",
+        "经典著作",
+        "历史人物",
+        "改革阶段"
+      ],
+      "collocations": [
+        "起着承前启后的作用",
+        "承前启后的关键节点"
+      ],
+      "commonMistake": "“承上启下”多用于文章结构或层级关系，而“承前启后”专用于时间纵轴上的发展阶段衔接。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这份五年规划纲要在我国工业化进程中具有____的战略意义，既巩固了传统制造根基，又为数字经济铺平了道路。",
+          "highlightClues": [
+            "五年规划纲要",
+            "既巩固了",
+            "又铺平了道路"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "继往开来",
+        "承上启下",
+        "薪火相传"
+      ]
+    },
+    {
+      "id": "shi_bu_ke_dang",
+      "word": "势不可挡",
+      "pinyin": "shì bù kě dǎng",
+      "frequency": 4,
+      "coreMeaning": "来势极其迅猛，任何力量都无法阻挡，多形容时代潮流或重大发展势头。",
+      "morphemeHint": {
+        "keyChar": "势",
+        "explanation": "侧重客观大势和潮流所具有的不可阻拦性，气势宏大。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "时代潮流",
+        "技术变革",
+        "改革大势",
+        "潮流"
+      ],
+      "collocations": [
+        "以势不可挡之势",
+        "趋势势不可挡",
+        "浪潮势不可挡"
+      ],
+      "commonMistake": "注意写作“势不可挡”（提手旁），而非“势不可当”；“锐不可当”才用“当”。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "数字经济与实体经济深度融合的大潮____，顺应这一趋势的企业将率先赢得新一轮发展先机。",
+          "highlightClues": [
+            "深度融合的大潮",
+            "顺应这一趋势"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "锐不可当",
+        "大势所趋",
+        "势如破竹"
+      ]
+    },
+    {
+      "id": "da_shi_suo_qu",
+      "word": "大势所趋",
+      "pinyin": "dà shì suǒ qū",
+      "frequency": 4,
+      "coreMeaning": "整个局势发展的必然走向，形容某种变化或结果符合客观规律、不可逆转。",
+      "morphemeHint": {
+        "keyChar": "趋",
+        "explanation": "“趋”指趋向、归向；表示所有条件汇聚所指向的必然方向，常与“人心所向”并举。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "历史潮流",
+        "行业转型",
+        "改革方向",
+        "全球化进程"
+      ],
+      "collocations": [
+        "是历史的大势所趋",
+        "发展是大势所趋",
+        "人心所向、大势所趋"
+      ],
+      "commonMistake": "不可误用为表示“当前大家都跟风去做”（后者可用“趋之若鹜”），它强调客观规律决定。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "从燃油车向电动化、智能化转型是汽车产业发展的____，传统车企唯有加快技术切换才能避免掉队。",
+          "highlightClues": [
+            "汽车产业发展",
+            "加快技术切换",
+            "避免掉队"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "人心所向",
+        "势不可挡",
+        "顺理成章"
+      ]
+    },
+    {
+      "id": "cheng_feng_po_lang",
+      "word": "乘风破浪",
+      "pinyin": "chéng fēng pò làng",
+      "frequency": 4,
+      "coreMeaning": "趁顺风破开巨浪前进，比喻不畏艰难勇往直前，也形容发展势头稳健有力。",
+      "morphemeHint": {
+        "keyChar": "破",
+        "explanation": "既借“风”之势，又能“破”浪之阻，既含奋进勇气又含克服风浪挑战之意。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "航船",
+        "经济巨轮",
+        "青年",
+        "事业"
+      ],
+      "collocations": [
+        "中国经济乘风破浪",
+        "乘风破浪前行",
+        "乘风破浪的勇气"
+      ],
+      "commonMistake": "强调在存在风浪挑战的环境中坚定前进，不宜用于毫无阻力的轻松场合。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "面对外部环境复杂严峻的多重考验，中国经济巨轮依然保持韧性、____，沿着高质量发展航道稳健前行。",
+          "highlightClues": [
+            "多重考验",
+            "经济巨轮",
+            "稳健前行"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "扬帆起航",
+        "高歌猛进",
+        "逆水行舟"
+      ]
+    },
+    {
+      "id": "xu_shi_dai_fa",
+      "word": "蓄势待发",
+      "pinyin": "xù shì dài fā",
+      "frequency": 4,
+      "coreMeaning": "积蓄力量、做好充分准备，只等时机一到便全力迸发或付诸行动。",
+      "morphemeHint": {
+        "keyChar": "蓄",
+        "explanation": "“蓄”是积聚能量，“待发”是等待爆发；强调行动前厚积薄发、随时启动的临发状态。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "新兴产业",
+        "改革方案",
+        "运动员",
+        "创新动能"
+      ],
+      "collocations": [
+        "正蓄势待发",
+        "新动能蓄势待发",
+        "蓄势待发的姿态"
+      ],
+      "commonMistake": "表示“准备就绪尚未全面展开”，若事件已大规模全面开展，则应用“如火如荼”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "经过前期基础设施铺设与多轮封闭测试，无人驾驶商业化运营如今已____，即将步入规模化落地阶段。",
+          "highlightClues": [
+            "前期铺设与测试",
+            "即将步入规模化"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "厚积薄发",
+        "跃跃欲试",
+        "一触即发"
+      ]
+    },
+    {
+      "id": "xi_xin_ge_mian",
+      "word": "洗心革面",
+      "pinyin": "xǐ xīn gé miàn",
+      "frequency": 3,
+      "coreMeaning": "清除旧思想、改变旧面貌，比喻彻底悔悟并改正过去的错误，重新做起。",
+      "morphemeHint": {
+        "keyChar": "洗",
+        "explanation": "洗净内心、改变容貌，前提必然是过去犯过错误或存在严重恶习，带有悔过自新意味。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "犯错者",
+        "不良风气",
+        "整改后的机构"
+      ],
+      "collocations": [
+        "彻底洗心革面",
+        "痛改前非、洗心革面"
+      ],
+      "commonMistake": "只能用于“改邪归正、改正错误”，不能用来形容本来就健康的企业或城市升级面貌（后者应用“脱胎换骨”或“焕然一新”）。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这家曾因数据造假被勒令停业整顿的检测机构，经过内部刮骨疗毒般的清查整改，表示要____重塑公信力。",
+          "highlightClues": [
+            "数据造假",
+            "停业整顿",
+            "清查整改"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "脱胎换骨",
+        "痛改前非",
+        "改头换面"
+      ]
+    },
+    {
+      "id": "wen_zha_wen_da",
+      "word": "稳扎稳打",
+      "pinyin": "wěn zhā wěn dǎ",
+      "frequency": 4,
+      "coreMeaning": "稳固阵地再发起进攻，比喻做事踏实稳健、有步骤、有把握，不冒进也不盲动。",
+      "morphemeHint": {
+        "keyChar": "稳",
+        "explanation": "既有“扎”的根基稳固，又有“打”的主动作为，区别于消极停滞的保守。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研攻关",
+        "项目推进",
+        "企业经营",
+        "战略部署"
+      ],
+      "collocations": [
+        "坚持稳扎稳打",
+        "稳扎稳打地推进",
+        "步步稳扎稳打"
+      ],
+      "commonMistake": "不可与“急功近利”混用；侧重脚踏实地、不浮躁的推进风格。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "深空探测工程周期长、容错率低，科研团队始终秉持____的作风，把每一个分系统的地面验证做到极致。",
+          "highlightClues": [
+            "周期长、容错率低",
+            "做到极致"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "循序渐进",
+        "步步为营",
+        "脚踏实地"
+      ]
+    },
+    {
+      "id": "bu_bu_wei_ying",
+      "word": "步步为营",
+      "pinyin": "bù bù wéi yíng",
+      "frequency": 4,
+      "coreMeaning": "军队每推进一段就扎下营垒防备，比喻行动或推进极其谨慎稳重、步调严密。",
+      "morphemeHint": {
+        "keyChar": "营",
+        "explanation": "原指行军筑营防敌反扑，今比喻每走一步都巩固成果、谨慎布局，不贸然孤军深入。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "战略推进",
+        "试点改革",
+        "商业扩张",
+        "谈判"
+      ],
+      "collocations": [
+        "采取步步为营的策略",
+        "步步为营地推进"
+      ],
+      "commonMistake": "中性词，侧重防御谨慎与稳妥布局，有时也可配合形容稳健的推进策略。",
+      "tags": [
+        "国考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "跨国企业在开拓陌生新兴市场时往往采取____的布局策略，先建立区域示范中心再逐步铺开销售网络。",
+          "highlightClues": [
+            "陌生新兴市场",
+            "先建立示范中心再逐步铺开"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "稳扎稳打",
+        "循序渐进",
+        "稳步推进"
+      ]
+    },
+    {
+      "id": "shun_shui_tui_zhou",
+      "word": "顺水推舟",
+      "pinyin": "shùn shuǐ tuī zhōu",
+      "frequency": 4,
+      "coreMeaning": "顺着水流的方向推船，比喻顺应已有的情势或他人意向方便行事。",
+      "morphemeHint": {
+        "keyChar": "顺",
+        "explanation": "借助现成的水势顺势推进，中性偏灵活策略，常形容趁势促成或借机应对。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "借势应对",
+        "策略调整",
+        "谈判妥协",
+        "市场借力"
+      ],
+      "collocations": [
+        "顺水推舟地答应",
+        "顺水推舟推进合作"
+      ],
+      "commonMistake": "注意声调“顺”为 shùn。侧重顺应眼前便势省力促成，不如“因势利导”带有积极引导高屋建瓴的意味。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "见双方都有意降低交易成本、简化审批环节，调解专员便____提出了共建跨区绿色通道的折中方案。",
+          "highlightClues": [
+            "双方都有意",
+            "提出折中方案"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "因势利导",
+        "推波助澜",
+        "顺理成章"
+      ]
+    },
+    {
+      "id": "yin_shi_li_dao",
+      "word": "因势利导",
+      "pinyin": "yīn shì lì dǎo",
+      "frequency": 5,
+      "coreMeaning": "顺应事物发展的自然趋势，加以积极、恰当的引导，使之向有利方向发展。",
+      "morphemeHint": {
+        "keyChar": "导",
+        "explanation": "“因”是顺应，“利导”是往有利方向引导；是行测政论描写科学治理的高频褒义词。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "社会治理",
+        "产业发展",
+        "舆论引导",
+        "消费需求"
+      ],
+      "collocations": [
+        "善于因势利导",
+        "加强因势利导",
+        "因势利导地规范"
+      ],
+      "commonMistake": "不可与“推波助澜”混用；“因势利导”强调政府或管理者顺应规律并科学引导。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对年轻人热衷的“地摊夜市”与文旅微度假新消费，城市管理者不应简单取缔，而应____，释放消费潜力。",
+          "highlightClues": [
+            "不应简单取缔",
+            "释放消费潜力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "顺水推舟",
+        "推波助澜",
+        "因地制宜"
+      ]
+    },
+    {
+      "id": "shun_li_cheng_zhang",
+      "word": "顺理成章",
+      "pinyin": "shùn lǐ chéng zhāng",
+      "frequency": 5,
+      "coreMeaning": "比喻说话做事合乎逻辑或客观事理，从而自然顺畅地产生某种结果。",
+      "morphemeHint": {
+        "keyChar": "理",
+        "explanation": "“理”指客观逻辑与事理；侧重因果推理、逻辑顺畅自然，结果合理且可预期。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "逻辑推论",
+        "改革结果",
+        "历史演变",
+        "人事晋升"
+      ],
+      "collocations": [
+        "顺理成章的事情",
+        "顺理成章地成为",
+        "显得顺理成章"
+      ],
+      "commonMistake": "常与“水到渠成”辨析；“顺理成章”偏重符合逻辑与情理，“水到渠成”偏重条件成熟后自然成功。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "当一个城市在人才落户、住房保障与科研经费上形成制度合力，高端创新要素集聚便是____的事。",
+          "highlightClues": [
+            "形成制度合力",
+            "高端创新要素集聚"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "水到渠成",
+        "瓜熟蒂落",
+        "理所当然"
+      ]
+    },
+    {
+      "id": "shui_dao_qu_cheng",
+      "word": "水到渠成",
+      "pinyin": "shuǐ dào qú chéng",
+      "frequency": 5,
+      "coreMeaning": "水流到的地方自然形成水渠，比喻客观条件成熟之后，事情自然而然地成功。",
+      "morphemeHint": {
+        "keyChar": "渠",
+        "explanation": "强调前期的“水”（条件、积累）已经具备，“渠成”（成功、结果）只是自然发生，不可强求。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革成效",
+        "技术突破",
+        "合作达成",
+        "制度确立"
+      ],
+      "collocations": [
+        "实现水到渠成",
+        "水到渠成的结果",
+        "条件成熟后水到渠成"
+      ],
+      "commonMistake": "强调“前期积累成熟→自然成功”，不能用来形容投机取巧或盲目强行推进。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "只有先把基础学科建设和原创算法积累做扎实，产业层面的颠覆性应用创新才会____，而不是空中楼阁。",
+          "highlightClues": [
+            "基础学科建设和原创积累做扎实",
+            "而不是空中楼阁"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "瓜熟蒂落",
+        "顺理成章",
+        "功到自然成"
+      ]
+    },
+    {
+      "id": "gua_shu_di_luo",
+      "word": "瓜熟蒂落",
+      "pinyin": "guā shú dì luò",
+      "frequency": 4,
+      "coreMeaning": "瓜熟了瓜蒂自然脱落，比喻时机和条件成熟之后，事情自然顺利完成。",
+      "morphemeHint": {
+        "keyChar": "熟",
+        "explanation": "突出时间积累与内在成熟度，“熟”到一定火候方才自然脱落，忌拔苗助长。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "时机成熟",
+        "改革落地",
+        "成果产出",
+        "制度出台"
+      ],
+      "collocations": [
+        "迎来瓜熟蒂落",
+        "水到渠成、瓜熟蒂落",
+        "到头来瓜熟蒂落"
+      ],
+      "commonMistake": "注意“蒂”读 dì。多形容需要经过较长孕育周期才能成熟的结果，不宜用于突发事件。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "科学普及需要久久为功的耐心耕耘，公众科学素养的全面提升唯有静待____，切忌急功近利的短期突击。",
+          "highlightClues": [
+            "久久为功的耐心",
+            "切忌急功近利"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "水到渠成",
+        "顺理成章",
+        "一蹴而就"
+      ]
+    },
+    {
+      "id": "ying_ren_er_jie",
+      "word": "迎刃而解",
+      "pinyin": "yíng rèn ér jiě",
+      "frequency": 4,
+      "coreMeaning": "比喻主要问题或关键症结解决之后，其他次要的困难或问题也就顺利解决了。",
+      "morphemeHint": {
+        "keyChar": "刃",
+        "explanation": "劈竹子破开几节后，后面的竹节迎着刀刃自行裂开；比喻问题随之顺利解决。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "难题",
+        "矛盾",
+        "困惑",
+        "障碍"
+      ],
+      "collocations": [
+        "问题迎刃而解",
+        "难题便会迎刃而解",
+        "症结迎刃而解"
+      ],
+      "commonMistake": "注意搭配对象只能是“问题、困难、矛盾”，不能说“任务迎刃而解”或“工作迎刃而解”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "只要抓住城乡医疗资源配置不均这个核心症结并精准施策，群众看病难、看病贵的衍生问题自会____。",
+          "highlightClues": [
+            "核心症结",
+            "衍生问题"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "势如破竹",
+        "豁然开朗",
+        "水到渠成"
+      ]
+    },
+    {
+      "id": "yi_cu_er_jiu",
+      "word": "一蹴而就",
+      "pinyin": "yī cù ér jiù",
+      "frequency": 5,
+      "coreMeaning": "踏一步就成功，比喻事情轻而易举、不用费力就能一下子完成。",
+      "morphemeHint": {
+        "keyChar": "蹴",
+        "explanation": "“蹴”指踏步；该词在行测中绝大多数时候以否定形式出现，如“不可能一蹴而就”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革任务",
+        "生态治理",
+        "科技攻关",
+        "习惯养成"
+      ],
+      "collocations": [
+        "不可能一蹴而就",
+        "非一蹴而就之事",
+        "切忌企图一蹴而就"
+      ],
+      "commonMistake": "常与“一挥而就”混淆；“一蹴而就”泛指事情一下子做成，“一挥而就”专指写字、作画、作文很快完成。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "流域生态系统的系统性修复是一场持久战，绝不可能____，必须保持战略定力一任接着一任干。",
+          "highlightClues": [
+            "持久战",
+            "绝不可能",
+            "一任接着一任干"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一挥而就",
+        "立竿见影",
+        "一举成功"
+      ]
+    },
+    {
+      "id": "li_gan_jian_ying",
+      "word": "立竿见影",
+      "pinyin": "lì gān jiàn yǐng",
+      "frequency": 5,
+      "coreMeaning": "立起竹竿就能立刻看到影子，比喻措施实施后极短时间内就见到明显成效。",
+      "morphemeHint": {
+        "keyChar": "立",
+        "explanation": "强调见效速度极快、因果直接，常在政论中与“长期见效”“潜移默化”形成对比。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "政策措施",
+        "治理手段",
+        "改革效果",
+        "药物疗效"
+      ],
+      "collocations": [
+        "产生立竿见影的效果",
+        "很难立竿见影",
+        "立竿见影的成效"
+      ],
+      "commonMistake": "常用于客观强调见效快，但在否定句或批判急功近利语境中常写“追求立竿见影”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "基础研究投入周期长、见效慢，难以产生____的短期经济回报，因此更需要政府财政资金的长期稳定支持。",
+          "highlightClues": [
+            "周期长、见效慢",
+            "短期经济回报"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "卓有成效",
+        "行之有效",
+        "一蹴而就"
+      ]
+    },
+    {
+      "id": "zhuo_you_cheng_xiao",
+      "word": "卓有成效",
+      "pinyin": "zhuó yǒu chéng xiào",
+      "frequency": 5,
+      "coreMeaning": "形容工作、探索或治理措施取得了非常突出、显著的实际效果和成绩。",
+      "morphemeHint": {
+        "keyChar": "卓",
+        "explanation": "“卓”即高超、突出；侧重“结果已显现出突出的好效果”，多在复盘总结中使用。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "改革工作",
+        "治理实践",
+        "国际合作",
+        "创新探索"
+      ],
+      "collocations": [
+        "开展卓有成效的工作",
+        "进行了卓有成效的探索",
+        "卓有成效的举措"
+      ],
+      "commonMistake": "常与“行之有效”混淆；“卓有成效”强调已取得突出成绩，“行之有效”强调方法可行且有效力。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "近年来，我国在荒漠化防治与三北防护林建设方面进行了____的探索，积累了可供全球借鉴的中国经验。",
+          "highlightClues": [
+            "荒漠化防治",
+            "积累了可供借鉴的经验"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "行之有效",
+        "成绩斐然",
+        "立竿见影"
+      ]
+    },
+    {
+      "id": "xing_zhi_you_xiao",
+      "word": "行之有效",
+      "pinyin": "xíng zhī yǒu xiào",
+      "frequency": 5,
+      "coreMeaning": "指某种方法、制度或措施在实践中实行起来确实有效、切实可行。",
+      "morphemeHint": {
+        "keyChar": "行",
+        "explanation": "“行之”即“实行它”；主语或修饰对象必须是具体办法、机制、举措，而非抽象人物。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "机制",
+        "办法",
+        "制度",
+        "监管举措"
+      ],
+      "collocations": [
+        "行之有效的办法",
+        "形成行之有效的机制",
+        "实践证明行之有效"
+      ],
+      "commonMistake": "只能修饰方法、制度、举措，不能修饰人、成果或风景（不说“行之有效的成绩”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "遏制网络电信诈骗既需要严厉打击，更需要建立起跨部门协同联动、源头封堵的____长效治理机制。",
+          "highlightClues": [
+            "建立起",
+            "长效治理机制"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "卓有成效",
+        "屡试不爽",
+        "立竿见影"
+      ]
+    },
+    {
+      "id": "cheng_ji_fei_ran",
+      "word": "成绩斐然",
+      "pinyin": "chéng jì fěi rán",
+      "frequency": 4,
+      "coreMeaning": "形容在学业、工作、科研或某项事业上取得了十分突出、令人瞩目的成绩。",
+      "morphemeHint": {
+        "keyChar": "斐",
+        "explanation": "“斐然”指有文采、显著突出的样子；专用来形容成果、成绩或文采出众。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科研攻关",
+        "事业发展",
+        "个人履历",
+        "办学成果"
+      ],
+      "collocations": [
+        "虽然成绩斐然",
+        "在各自领域成绩斐然"
+      ],
+      "commonMistake": "“斐”读 fěi（三声），易误读为 fēi；“斐然”本身已含成绩显著义，勿写成“斐然可观”。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "我国深海载人潜水器研发团队十年磨一剑，在万米海试与水下作业装备领域____，赢得国际同行广泛赞誉。",
+          "highlightClues": [
+            "十年磨一剑",
+            "赢得国际同行广泛赞誉"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "卓有成效",
+        "硕果累累",
+        "功勋卓著"
+      ]
+    },
+    {
+      "id": "shuo_guo_lei_lei",
+      "word": "硕果累累",
+      "pinyin": "shuò guǒ léi léi",
+      "frequency": 4,
+      "coreMeaning": "原指秋天果实大而多地挂满枝头，现多比喻在某领域取得了极其丰硕的成果。",
+      "morphemeHint": {
+        "keyChar": "累",
+        "explanation": "此处“累累”读 léi léi，形容聚集、成串很多的样子，比喻成果数量多且质量高。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科研成果",
+        "改革收获",
+        "人才培养",
+        "文艺创作"
+      ],
+      "collocations": [
+        "科技创新硕果累累",
+        "结出硕果累累",
+        "五年来硕果累累"
+      ],
+      "commonMistake": "“累累”在此读 léi，不读 lěi（如“罪行累累”）或 lèi；不可用于形容负面事物。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "共建“一带一路”倡议提出十余年来，基础设施互联互通与绿色能源合作____，惠及沿线众多国家和人民。",
+          "highlightClues": [
+            "倡议提出十余年来",
+            "合作",
+            "惠及沿线"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "成绩斐然",
+        "卓有成效",
+        "满载而归"
+      ]
+    },
+    {
+      "id": "shi_ban_gong_bei",
+      "word": "事半功倍",
+      "pinyin": "shì bàn gōng bèi",
+      "frequency": 4,
+      "coreMeaning": "形容做事得法，只需花费一半的力气和成本，就能收到加倍的良好效果。",
+      "morphemeHint": {
+        "keyChar": "倍",
+        "explanation": "“事”是投入精力，“功”是成效；投入减半、成效加倍，突出方法科学带来的高效率。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "工作方法",
+        "政策工具",
+        "学习策略",
+        "技术赋能"
+      ],
+      "collocations": [
+        "起到事半功倍的效果",
+        "往往事半功倍",
+        "实现事半功倍"
+      ],
+      "commonMistake": "与“事倍功半”字序极近，解题时务必看清语境是赞扬效率高还是批评效率低。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "借助卫星遥感与无人机巡检技术开展森林防火监测，比单纯依靠人工徒步巡山效率高得多，真正做到了____。",
+          "highlightClues": [
+            "技术开展监测",
+            "比人工效率高得多"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "事倍功半",
+        "一本万利",
+        "行之有效"
+      ]
+    },
+    {
+      "id": "shi_bei_gong_ban",
+      "word": "事倍功半",
+      "pinyin": "shì bèi gōng bàn",
+      "frequency": 4,
+      "coreMeaning": "形容做事方法不对或统筹失当，花去加倍的力气和代价，收效却只有一半。",
+      "morphemeHint": {
+        "keyChar": "半",
+        "explanation": "付出加倍、收效减半；侧重批评因方式蛮干、方向错误导致投入产出比极低。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "治理方式",
+        "学习方法",
+        "工作思路",
+        "资源投入"
+      ],
+      "collocations": [
+        "往往事倍功半",
+        "避免事倍功半",
+        "陷入事倍功半的困境"
+      ],
+      "commonMistake": "不要与“徒劳无功”混用；“事倍功半”仍有部分成效但效率极低，“徒劳无功”则是毫无成果。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "如果缺乏精准的数据分析支撑，仅仅依靠“大水漫灌”式的补贴政策去刺激消费，往往会因为资金错配而____。",
+          "highlightClues": [
+            "缺乏精准支撑",
+            "大水漫灌",
+            "资金错配"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "事半功倍",
+        "徒劳无功",
+        "得不偿失"
+      ]
+    },
+    {
+      "id": "tu_lao_wu_gong",
+      "word": "徒劳无功",
+      "pinyin": "tú láo wú gōng",
+      "frequency": 4,
+      "coreMeaning": "白白地耗费力气和精力，结果却没有任何成效或收获。",
+      "morphemeHint": {
+        "keyChar": "徒",
+        "explanation": "“徒”意为白白地、空空地；强调付出全部努力后成效为零，突出“白费力气”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "努力",
+        "尝试",
+        "整治行动",
+        "研究方向"
+      ],
+      "collocations": [
+        "最终徒劳无功",
+        "注定徒劳无功",
+        "以免徒劳无功"
+      ],
+      "commonMistake": "常与“无济于事”辨析；“徒劳无功”主语常是人的付出或行动，“无济于事”主语多是办法或言行本身不解决问题。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "企图通过封锁技术标准来遏制别国科技自主创新，历史一再证明这种逆全球化行径终将____。",
+          "highlightClues": [
+            "封锁技术标准",
+            "逆全球化行径"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "无济于事",
+        "事倍功半",
+        "付诸东流"
+      ]
+    },
+    {
+      "id": "wu_ji_yu_shi",
+      "word": "无济于事",
+      "pinyin": "wú jì yú shì",
+      "frequency": 4,
+      "coreMeaning": "对事情没有任何帮助或补益，指某种办法、措施不能解决实际问题。",
+      "morphemeHint": {
+        "keyChar": "济",
+        "explanation": "“济”指帮助、补益；强调所采取的对策分量不够或不对症，对扭转局面不起作用。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "补救措施",
+        "口头表态",
+        "轻微调整",
+        "消极应对"
+      ],
+      "collocations": [
+        "于事无补、无济于事",
+        "根本无济于事",
+        "依然无济于事"
+      ],
+      "commonMistake": "“无济于事”后不能再加宾语，也不能与“于事无补”连用造成语意重复。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "对于已经严重失信的平台商家，仅靠象征性的几百元罚款根本____，必须建立联合惩戒与市场清退机制。",
+          "highlightClues": [
+            "象征性的几百元罚款",
+            "必须建立联合惩戒"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "于事无补",
+        "徒劳无功",
+        "杯水车薪"
+      ]
+    },
+    {
+      "id": "gong_kui_yi_kui",
+      "word": "功亏一篑",
+      "pinyin": "gōng kuī yī kuì",
+      "frequency": 5,
+      "coreMeaning": "堆高土山只差最后一筐土而失败，比喻做事只差最后一点点却未能完成。",
+      "morphemeHint": {
+        "keyChar": "篑",
+        "explanation": "“篑”指盛土的竹筐；强调前期付出极大、距离最终成功仅一步之遥时因松懈而失利。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "攻坚工程",
+        "改革收官",
+        "谈判",
+        "生态环境治理"
+      ],
+      "collocations": [
+        "切忌功亏一篑",
+        "险些功亏一篑",
+        "以免功亏一篑"
+      ],
+      "commonMistake": "仅用于“事情已接近完成、只差最后临门一脚”之时，不能用于刚刚起步就失败的情况。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "大气污染防治已进入啃硬骨头的深水区，此时绝不能有丝毫松懈歇脚的念头，否则极易导致多年治污成果____。",
+          "highlightClues": [
+            "深水区",
+            "松懈歇脚",
+            "多年治污成果"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "功败垂成",
+        "前功尽弃",
+        "半途而废"
+      ]
+    },
+    {
+      "id": "qian_gong_jin_qi",
+      "word": "前功尽弃",
+      "pinyin": "qián gōng jìn qì",
+      "frequency": 4,
+      "coreMeaning": "以前积累的成绩、功劳和努力全部白费、化为乌有。",
+      "morphemeHint": {
+        "keyChar": "弃",
+        "explanation": "“尽弃”即全部丢弃毁掉；强调后续不当行为或松懈毁掉了此前所有的阶段性成果。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "治污成果",
+        "改革成效",
+        "防疫成果",
+        "长期积累"
+      ],
+      "collocations": [
+        "让努力前功尽弃",
+        "防止前功尽弃",
+        "多年努力前功尽弃"
+      ],
+      "commonMistake": "常与“付诸东流”混用；“前功尽弃”主语可以是人或前期功劳，“付诸东流”常作谓语，搭配“心血、努力、希望”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "水土保持工作若出现“前紧后松”的监管漏洞，毁林开荒行为反弹，就会让此前十年的生态修复____。",
+          "highlightClues": [
+            "监管漏洞",
+            "反弹",
+            "此前十年的生态修复"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "付诸东流",
+        "功亏一篑",
+        "毁于一旦"
+      ]
+    },
+    {
+      "id": "fu_zhu_dong_liu",
+      "word": "付诸东流",
+      "pinyin": "fù zhū dōng liú",
+      "frequency": 4,
+      "coreMeaning": "把东西扔进东流的江水中，比喻全部心血、希望或成果完全落空、白费。",
+      "morphemeHint": {
+        "keyChar": "诸",
+        "explanation": "“诸”是“之于”的合音，“付诸”即交给；绝不能在后面再加“了于”等重复介词。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "心血",
+        "希望",
+        "投资",
+        "努力"
+      ],
+      "collocations": [
+        "努力付诸东流",
+        "心血付诸东流",
+        "让投入付诸东流"
+      ],
+      "commonMistake": "注意“付诸”已含“于”，不可说“付诸于东流”；与“前功尽弃”相比，它也可搭配“希望”“梦想”等未成事实的愿景。",
+      "tags": [
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "如果在冷链运输的“最后一公里”发生断链失温，前面田间预冷和全程保鲜所花费的所有心血都将____。",
+          "highlightClues": [
+            "最后一公里断链",
+            "花费的所有心血"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "前功尽弃",
+        "化为泡影",
+        "竹篮打水"
+      ]
+    },
+    {
+      "id": "ting_zhi_bu_qian",
+      "word": "停滞不前",
+      "pinyin": "tíng zhì bù qián",
+      "frequency": 5,
+      "coreMeaning": "受到阻碍或缺乏动力，停留在原地不再向前发展，常形容技术或事业停顿。",
+      "morphemeHint": {
+        "keyChar": "滞",
+        "explanation": "“滞”指凝滞、阻滞；侧重发展过程客观上卡住不动，与“突飞猛进”直接对立。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "经济增长",
+        "技术研发",
+        "改革进程",
+        "学术研究"
+      ],
+      "collocations": [
+        "发展停滞不前",
+        "陷入停滞不前的状态",
+        "长期停滞不前"
+      ],
+      "commonMistake": "常与“裹足不前”“徘徊不前”辨析；“停滞不前”最常修饰客观事业、经济或技术进程，后两者多形容人的顾虑或犹豫。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "任何企业若沉溺于旧专利的利润舒适区而放松底层研发，其技术竞争力就必然会在行业洗牌期____。",
+          "highlightClues": [
+            "沉溺于舒适区",
+            "放松底层研发"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "裹足不前",
+        "徘徊不前",
+        "故步自封"
+      ]
+    },
+    {
+      "id": "guo_zu_bu_qian",
+      "word": "裹足不前",
+      "pinyin": "guǒ zú bù qián",
+      "frequency": 4,
+      "coreMeaning": "像把脚缠住一样不敢迈步，比喻因有所顾虑、畏难或害怕风险而停止不前。",
+      "morphemeHint": {
+        "keyChar": "裹",
+        "explanation": "自己或外在因素把脚束缚住；行测中特别强调“因顾虑、恐惧或条框束缚而不敢行动”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革者",
+        "科研人员",
+        "创业者",
+        "干部"
+      ],
+      "collocations": [
+        "因顾虑而裹足不前",
+        "不能因风险而裹足不前",
+        "令企业裹足不前"
+      ],
+      "commonMistake": "多用于形容“人或机构因畏惧、顾虑而不敢迈步”，不可直接用于形容毫无主观意识的物价、气温停滞。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "完善科研容错免责机制，正是为了打消科研人员“怕失败、怕问责”的后顾之忧，避免他们在前沿探索中____。",
+          "highlightClues": [
+            "怕失败、怕问责",
+            "后顾之忧"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "停滞不前",
+        "徘徊不前",
+        "畏首畏尾"
+      ]
+    },
+    {
+      "id": "pai_huai_bu_qian",
+      "word": "徘徊不前",
+      "pinyin": "pái huái bù qián",
+      "frequency": 4,
+      "coreMeaning": "比喻犹豫不决、拿不定主意，或事物水平长期在低谷原地踏步。",
+      "morphemeHint": {
+        "keyChar": "徘",
+        "explanation": "“徘徊”既指心理上犹豫拿不定方向，也指指标、水平在原地上下波动无法突破。"
+      },
+      "sentiment": "negative",
+      "intensity": "light",
+      "applicableObjects": [
+        "决策者",
+        "转型期企业",
+        "指标水平",
+        "探索进程"
+      ],
+      "collocations": [
+        "在十字路口徘徊不前",
+        "长期徘徊不前",
+        "犹豫中徘徊不前"
+      ],
+      "commonMistake": "与“裹足不前”相比，“徘徊不前”重在“犹豫举棋不定”或“波动踏步”，不一定是害怕受束缚。",
+      "tags": [
+        "国考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "面对新能源与传统燃油路线之争，部分车企在战略转型窗口期长期____，最终错失了抢占市场份额的最佳时机。",
+          "highlightClues": [
+            "路线之争",
+            "窗口期",
+            "错失最佳时机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "裹足不前",
+        "停滞不前",
+        "举棋不定"
+      ]
+    }
+  ]
+}

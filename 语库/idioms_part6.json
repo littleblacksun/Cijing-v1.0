@@ -1,0 +1,2140 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "wang_wen_sheng_yi",
+      "word": "望文生义",
+      "pinyin": "wàng wén shēng yì",
+      "frequency": 5,
+      "coreMeaning": "不了解某词语或典故的确切含义和语境，仅从字面上去牵强附会地解释。",
+      "morphemeHint": {
+        "keyChar": "望",
+        "explanation": "“望文”指只看字面，“生义”指强行附会出意思；强调脱离本义和背景的浅薄误读。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文本解读",
+        "成语理解",
+        "法条释义"
+      ],
+      "collocations": [
+        "切忌望文生义",
+        "不能望文生义地理解"
+      ],
+      "commonMistake": "常与“断章取义”辨析：“望文生义”是看字面瞎猜意思；“断章取义”是不顾全篇孤立截取其中一句来曲解原意。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "阅读古代典籍时必须结合当时的历史语境与训诂材料，如果只按现代汉语字面意思____，很容易闹出笑话。",
+          "highlightClues": [
+            "历史语境与训诂材料",
+            "按现代汉语字面意思"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "断章取义",
+        "一知半解",
+        "生搬硬套"
+      ]
+    },
+    {
+      "id": "duan_zhang_qu_yi",
+      "word": "断章取义",
+      "pinyin": "duàn zhāng qǔ yì",
+      "frequency": 5,
+      "coreMeaning": "不顾文章或讲话的完整原意，孤立截取其中一段或一句话来表达自己的意思。",
+      "morphemeHint": {
+        "keyChar": "断",
+        "explanation": "“断章”是截断篇章，“取义”是截取字句；常见于刻意曲解他人发言或引述经典。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "引用言论",
+        "新闻剪辑",
+        "学术引证"
+      ],
+      "collocations": [
+        "故意断章取义",
+        "切忌断章取义"
+      ],
+      "commonMistake": "常搭配“片面截取”“掐头去尾”“忽略上下文”等线索；比“望文生义”多了一层“割裂上下文”的意思。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "部分营销号将专家长达两小时的科普访谈掐头去尾、____，制造出极具煽动性的伪命题收割流量。",
+          "highlightClues": [
+            "掐头去尾",
+            "伪命题"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "望文生义",
+        "以偏概全",
+        "曲解原意"
+      ]
+    },
+    {
+      "id": "gu_ci_shi_bi",
+      "word": "顾此失彼",
+      "pinyin": "gù cǐ shī bǐ",
+      "frequency": 5,
+      "coreMeaning": "顾了这个就丢了那个，形容忙不过来或缺乏统筹思维，无法兼顾多方面关系。",
+      "morphemeHint": {
+        "keyChar": "失",
+        "explanation": "强调精力或资源分配失衡，缺乏系统观念和全局统筹，只抓一头而疏漏另一头。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策平衡",
+        "系统治理",
+        "资源分配"
+      ],
+      "collocations": [
+        "避免顾此失彼",
+        "陷入顾此失彼的被动"
+      ],
+      "commonMistake": "语境中通常有明确的对立或并存两方（如“发展与安全”“效率与公平”“生态与经济”），需配合“系统思维/统筹兼顾”使用。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "推动绿色低碳转型是一场系统性变革，必须坚持先立后破、统筹兼顾，防止简单“一刀切”导致能源保供与减排之间____。",
+          "highlightClues": [
+            "系统性变革",
+            "统筹兼顾",
+            "能源保供与减排之间"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "因小失大",
+        "瞻前顾后",
+        "手忙脚乱"
+      ]
+    },
+    {
+      "id": "ye_lang_zi_da",
+      "word": "夜郎自大",
+      "pinyin": "yè láng zì dà",
+      "frequency": 5,
+      "coreMeaning": "比喻孤陋寡闻、见识短浅的人狂妄自大，盲目高估自己的地位与能力。",
+      "morphemeHint": {
+        "keyChar": "自大",
+        "explanation": "源出汉代夜郎国小却自比汉朝大小，核心是“无知狭隘”与“狂妄骄傲”并存。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "骄傲心态",
+        "国家或企业",
+        "闭塞自满"
+      ],
+      "collocations": [
+        "切忌夜郎自大",
+        "既不夜郎自大，也不妄自菲薄"
+      ],
+      "commonMistake": "行测中极常与“妄自菲薄”组成反义对举结构，体现“不骄不躁、不卑不亢”的理性认知态度。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "回顾百年科技与文明交流史，对待外来成果我们既不能盲目排外、____，也不能全盘否定自身传统而失去文化自信。",
+          "highlightClues": [
+            "盲目排外",
+            "既不能",
+            "也不",
+            "文化自信"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "妄自尊大",
+        "坐井观天",
+        "目空一切"
+      ]
+    },
+    {
+      "id": "wang_zi_zun_da",
+      "word": "妄自尊大",
+      "pinyin": "wàng zì zūn dà",
+      "frequency": 4,
+      "coreMeaning": "没有根据地狂妄自高自大，盲目抬高自己并轻视别人。",
+      "morphemeHint": {
+        "keyChar": "尊",
+        "explanation": "“妄自”是胡乱自以为，“尊大”是尊贵伟大；与“妄自菲薄”构成正反一字之差对比。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "狂妄心理",
+        "傲慢态度",
+        "个人或组织"
+      ],
+      "collocations": [
+        "切忌妄自尊大",
+        "变得妄自尊大"
+      ],
+      "commonMistake": "与“夜郎自大”区别：“妄自尊大”偏重毫无依据地自高自大；“夜郎自大”更突出因眼界狭小无知而自大。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "一点微小的市场领先绝不能成为____的资本，技术护城河如果停止迭代很快就会被对手抹平。",
+          "highlightClues": [
+            "微小的市场领先",
+            "资本",
+            "很快就会被对手抹平"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "夜郎自大",
+        "妄自菲薄",
+        "目空一切"
+      ]
+    },
+    {
+      "id": "mu_kong_yi_qie",
+      "word": "目空一切",
+      "pinyin": "mù kōng yī qiè",
+      "frequency": 4,
+      "coreMeaning": "什么都不放在眼里，形容极其骄傲自大、狂妄傲慢，丝毫不把他人当回事。",
+      "morphemeHint": {
+        "keyChar": "空",
+        "explanation": "“目空”即眼里没有任何人或物，“一切”读 yī qiè；语义程度极重，狂傲至极。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "傲慢态度",
+        "狂妄性格",
+        "权威迷信"
+      ],
+      "collocations": [
+        "一副目空一切的样子",
+        "目空一切的傲慢"
+      ],
+      "commonMistake": "注意“切”读四声 qiè；语义比“自以为是”更重，突出“谁也不放在眼里”。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "真正的学术权威永远对未知保持敬畏，绝不会因为取得几项专利成果就____、听不进半点批评。",
+          "highlightClues": [
+            "对未知保持敬畏",
+            "绝不会",
+            "听不进半点批评"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "妄自尊大",
+        "自以为是",
+        "夜郎自大"
+      ]
+    },
+    {
+      "id": "zi_yi_wei_shi",
+      "word": "自以为是",
+      "pinyin": "zì yǐ wéi shì",
+      "frequency": 5,
+      "coreMeaning": "总认为自己是对的，形容主观固执、不虚心接受别人的正确意见。",
+      "morphemeHint": {
+        "keyChar": "是",
+        "explanation": "“是”即“正确”；与“不以为然”的“然”字构词对称，指盲目笃信自己永远正确。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "主观态度",
+        "判断风格",
+        "沟通姿态"
+      ],
+      "collocations": [
+        "切忌自以为是",
+        "总是自以为是"
+      ],
+      "commonMistake": "常与“刚愎自用”辨析：“自以为是”侧重思想认识上总觉得自己对；“刚愎自用”侧重性格倔强固执、专横任性且拒绝劝谏。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "跨文化传播最忌讳带着居高临下的优越感____，只有尊重文化多样性，才能实现真正的情感共鸣。",
+          "highlightClues": [
+            "居高临下的优越感",
+            "只有尊重文化多样性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "刚愎自用",
+        "固执己见",
+        "目空一切"
+      ]
+    },
+    {
+      "id": "gang_bi_zi_yong",
+      "word": "刚愎自用",
+      "pinyin": "gāng bì zì yòng",
+      "frequency": 5,
+      "coreMeaning": "性情倔强固执，只凭自己主意行事，完全不听取别人的意见或劝告。",
+      "morphemeHint": {
+        "keyChar": "愎",
+        "explanation": "“刚”是强硬，“愎”读 bì，意为倔强执拗，“自用”是任凭自己主意；语义极重，带有明显批评色彩。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "性格",
+        "掌权者",
+        "决策作风"
+      ],
+      "collocations": [
+        "性格刚愎自用",
+        "因刚愎自用而失败"
+      ],
+      "commonMistake": "多用于形容掌握一定权力或地位的人不纳忠言、固执任性；常与“一意孤行”“独断专行”辨析。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "这位创始人早期靠敏锐直觉带出爆款，但企业做大后他却愈发____，连续否决风控团队的预警，终致资金链断裂。",
+          "highlightClues": [
+            "连续否决风控团队的预警",
+            "终致资金链断裂"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "自以为是",
+        "一意孤行",
+        "独断专行"
+      ]
+    },
+    {
+      "id": "yi_yi_gu_xing",
+      "word": "一意孤行",
+      "pinyin": "yī yì gū xíng",
+      "frequency": 5,
+      "coreMeaning": "不接受别人的劝告，顽固地照着自己一厢情愿的想法去做。",
+      "morphemeHint": {
+        "keyChar": "孤",
+        "explanation": "“一意”是固执己见，“孤行”是撇开众人单独行动；强调明知众人反对仍执拗行事。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "决策行为",
+        "个人或机构",
+        "外交政策"
+      ],
+      "collocations": [
+        "切勿一意孤行",
+        "继续一意孤行"
+      ],
+      "commonMistake": "常与“独断专行”辨析：“一意孤行”可用于个人、国家或机构不顾劝阻我行我素；“独断专行”多指拥有权力者专制不讲民主。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "如果个别国家无视国际社会普遍反对，在单边保护主义道路上____，最终只会反噬自身产业链安全。",
+          "highlightClues": [
+            "无视国际社会普遍反对",
+            "单边保护主义道路"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独断专行",
+        "刚愎自用",
+        "固执己见"
+      ]
+    },
+    {
+      "id": "du_duan_zhuan_xing",
+      "word": "独断专行",
+      "pinyin": "dú duàn zhuān xíng",
+      "frequency": 4,
+      "coreMeaning": "行事专横武断，不考虑别人意见，也不与集体商量就独自拍板决定。",
+      "morphemeHint": {
+        "keyChar": "专",
+        "explanation": "“独断”是独自决断，“专行”是专横行事；高度聚焦于权力运行中的“不民主、搞一言堂”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "领导作风",
+        "集体决策",
+        "权力监督"
+      ],
+      "collocations": [
+        "反对独断专行",
+        "家长式独断专行"
+      ],
+      "commonMistake": "通常隐含上下级或团队决策背景，强调“违背民主集中、搞个人说了算”；普通个体私事很少用“独断专行”。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "完善重大行政决策程序，就是要把权力关进制度的笼子里，彻底遏制“一把手”____的乱作为现象。",
+          "highlightClues": [
+            "重大行政决策程序",
+            "一把手",
+            "乱作为"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一意孤行",
+        "刚愎自用",
+        "当机立断"
+      ]
+    },
+    {
+      "id": "gu_zhi_ji_jian",
+      "word": "固执己见",
+      "pinyin": "gù zhí jǐ jiàn",
+      "frequency": 4,
+      "coreMeaning": "顽固地坚持自己的看法和主张，不肯采纳他人的合理建议或客观事实。",
+      "morphemeHint": {
+        "keyChar": "执",
+        "explanation": "“固”是死板，“执”是坚持，“己见”是自己的意见；语义比“刚愎自用”略轻，重在认识分歧中不肯让步。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学术争论",
+        "团队沟通",
+        "观点态度"
+      ],
+      "collocations": [
+        "切忌固执己见",
+        "依然固执己见"
+      ],
+      "commonMistake": "重在“坚持个人观点不肯变”，较少涉及权力专横；语境若强调工作作风专断应选“独断专行”。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "科学共同体的可贵之处在于容许质疑与自我修正，一旦研究者在确凿反例面前仍____，学术进步便会停滞。",
+          "highlightClues": [
+            "容许质疑与自我修正",
+            "确凿反例面前",
+            "停滞"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "自以为是",
+        "一意孤行",
+        "执迷不悟"
+      ]
+    },
+    {
+      "id": "zhi_mi_bu_wu",
+      "word": "执迷不悟",
+      "pinyin": "zhí mí bù wù",
+      "frequency": 4,
+      "coreMeaning": "坚持错误认识而不觉悟，形容在错误道路上越走越远、不知悔改。",
+      "morphemeHint": {
+        "keyChar": "悟",
+        "explanation": "“执”是坚持，“迷”是迷惑错误，“不悟”是不醒悟；前提是所坚持的已是明显错误或违法之事。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "错误路线",
+        "违法犯罪",
+        "迷信偏见"
+      ],
+      "collocations": [
+        "切勿执迷不悟",
+        "如果仍执迷不悟"
+      ],
+      "commonMistake": "多用于批评坚持原则性错误、歪门邪道或不法行径而不肯回头的人；若只是理念保守，用“固步自封”或“顽固不化”。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "对于那些在行业专项整治警告下仍____、继续顶风违规的机构，监管部门必将依法从严惩处。",
+          "highlightClues": [
+            "整治警告下",
+            "继续顶风违规",
+            "依法从严惩处"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "顽固不化",
+        "固执己见",
+        "一意孤行"
+      ]
+    },
+    {
+      "id": "wan_gu_bu_hua",
+      "word": "顽固不化",
+      "pinyin": "wán gù bù huà",
+      "frequency": 4,
+      "coreMeaning": "思想极其保守僵化或坚持错误立场，无论怎样教育感化都不肯改变。",
+      "morphemeHint": {
+        "keyChar": "顽",
+        "explanation": "“顽”指愚钝固执，“不化”指无法改变转化；程度极重，常与“泥古不化”“食古不化”并列辨析。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "保守势力",
+        "错误立场",
+        "陈旧观念"
+      ],
+      "collocations": [
+        "极其顽固不化",
+        "顽固不化的势力"
+      ],
+      "commonMistake": "与“泥古不化/食古不化”的差异：“顽固不化”泛指思想或态度死硬不改；“泥古/食古不化”专指死守古代传统或书本教条。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "每一项重大社会制度的革新，几乎都曾遭遇既得利益阶层与____的旧观念的双重阻力。",
+          "highlightClues": [
+            "制度的革新",
+            "旧观念",
+            "阻力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "泥古不化",
+        "食古不化",
+        "执迷不悟"
+      ]
+    },
+    {
+      "id": "gu_bu_zi_feng",
+      "word": "固步自封",
+      "pinyin": "gù bù zì fēng",
+      "frequency": 5,
+      "coreMeaning": "守着老一套不愿向前迈步，比喻安于现状、不求进步和创新。",
+      "morphemeHint": {
+        "keyChar": "封",
+        "explanation": "“固步”是停住脚步，“自封”是自我封闭；重点在于“不进取、自我设限”，与“开拓创新”正相对。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "产业发展",
+        "文化传承",
+        "治学态度"
+      ],
+      "collocations": [
+        "不能固步自封",
+        "固步自封、不思进取"
+      ],
+      "commonMistake": "易错字形提示：规范写法为“固步自封”或“故步自封”，行测真题最常见“固步自封”；侧重停滞封闭不愿革新。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "老字号品牌既要守住百年传承的工艺品质，又不能在数字化消费浪潮中____，必须主动拥抱新渠道与新审美。",
+          "highlightClues": [
+            "守住百年传承",
+            "又不能",
+            "主动拥抱新渠道"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "墨守成规",
+        "抱残守缺",
+        "因循守旧"
+      ]
+    },
+    {
+      "id": "mo_shou_cheng_gui",
+      "word": "墨守成规",
+      "pinyin": "mò shǒu chéng guī",
+      "frequency": 5,
+      "coreMeaning": "死守着既定的老规矩、老办法不肯改变，形容思想保守、缺乏变通与创新。",
+      "morphemeHint": {
+        "keyChar": "规",
+        "explanation": "原指墨子善于守城，“成规”指现成的旧规矩、旧章法；重在机械守旧规而不敢突破规则。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "规章制度",
+        "工作方法",
+        "艺术创作"
+      ],
+      "collocations": [
+        "切忌墨守成规",
+        "墨守成规的教条"
+      ],
+      "commonMistake": "常与“循规蹈矩”辨析：“墨守成规”必含贬义，批死守陈规不创新；“循规蹈矩”原为中性/褒义，现多指拘谨缺少创造力。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "科技创新本质上是探索未知领域的过程，如果科研评价体系仍然____，只看论文数量而不问突破价值，就很难孕育原始创新。",
+          "highlightClues": [
+            "探索未知领域",
+            "只看论文数量",
+            "原始创新"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "固步自封",
+        "因循守旧",
+        "循规蹈矩"
+      ]
+    },
+    {
+      "id": "bao_can_shou_que",
+      "word": "抱残守缺",
+      "pinyin": "bào cán shǒu quē",
+      "frequency": 5,
+      "coreMeaning": "抱着残缺破旧的东西不放，形容思想极其保守，不肯接受新事物。",
+      "morphemeHint": {
+        "keyChar": "残",
+        "explanation": "“残”“缺”特指已经过时、落后、不完整的旧事物或旧思想；贬义极鲜明，突出守着落后的东西不放。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "旧观念",
+        "落后产能",
+        "学术门户之见"
+      ],
+      "collocations": [
+        "切勿抱残守缺",
+        "抱残守缺的心态"
+      ],
+      "commonMistake": "注意不要误用为“保护传统文化/文物古迹”；保护珍贵非遗不能叫“抱残守缺”，只有守着已落后过时的弊端才用它。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "传统制造业在智能化浪潮中唯有加快设备更新与工艺升级才能重焕生机，若一味____、排斥新技术，终将被市场出清。",
+          "highlightClues": [
+            "智能化浪潮",
+            "排斥新技术",
+            "被市场出清"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "墨守成规",
+        "固步自封",
+        "因循守旧"
+      ]
+    },
+    {
+      "id": "ni_gu_bu_hua",
+      "word": "泥古不化",
+      "pinyin": "nì gǔ bù huà",
+      "frequency": 5,
+      "coreMeaning": "拘泥于古代的制度、成法或经验而不知变通，形容思想死板守旧。",
+      "morphemeHint": {
+        "keyChar": "泥",
+        "explanation": "“泥”读 nì，意为“拘泥、固执”，“古”指古代陈法；侧重把古人规矩当成不可更改的教条。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "文化传承",
+        "制度改革",
+        "艺术复古"
+      ],
+      "collocations": [
+        "不能泥古不化",
+        "反对泥古不化"
+      ],
+      "commonMistake": "常与“食古不化”辨析：两者高度近义，“泥古不化”更偏重拘泥于古代的制度做法不知变通，“食古不化”偏重读书学习古人知识不能消化运用。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "弘扬中华优秀传统文化必须坚持创造性转化、创新性发展，既不能虚无否定，也不能____、照搬古代礼制。",
+          "highlightClues": [
+            "创造性转化、创新性发展",
+            "照搬古代礼制"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "食古不化",
+        "顽固不化",
+        "墨守成规"
+      ]
+    },
+    {
+      "id": "shi_gu_bu_hua",
+      "word": "食古不化",
+      "pinyin": "shí gǔ bù huà",
+      "frequency": 5,
+      "coreMeaning": "像吃进古代的东西却无法消化一样，指学习古代知识或理论却不会灵活运用。",
+      "morphemeHint": {
+        "keyChar": "食",
+        "explanation": "“食”指吸收学习，“不化”指不能消化转化为今用；多用于治学、读书、文风或理论借鉴场景。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "读书治学",
+        "文学创作",
+        "理论学习"
+      ],
+      "collocations": [
+        "避免食古不化",
+        "流于食古不化"
+      ],
+      "commonMistake": "与“泥古不化”构成一字之差高频考点：“食古不化”强调“学了消化不了、死记硬背古书”；“泥古不化”强调“拘守古代做法不变通”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "当代青年研读国学经典重在汲取其中穿越时空的哲学智慧，如果只是死背章句、____，反而背离了经世致用的初衷。",
+          "highlightClues": [
+            "研读国学经典",
+            "死背章句",
+            "经世致用"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "泥古不化",
+        "生搬硬套",
+        "照本宣科"
+      ]
+    },
+    {
+      "id": "yin_xun_shou_jiu",
+      "word": "因循守旧",
+      "pinyin": "yīn xún shǒu jiù",
+      "frequency": 5,
+      "coreMeaning": "死守老一套做法，沿袭旧习惯而不敢革新或改进工作方式。",
+      "morphemeHint": {
+        "keyChar": "循",
+        "explanation": "“因循”指沿袭不改，“守旧”是守着旧方法；强调缺乏改革精神、怕担风险而顺着老路走。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "体制机制",
+        "工作作风",
+        "企业管理"
+      ],
+      "collocations": [
+        "打破因循守旧",
+        "克服因循守旧思想"
+      ],
+      "commonMistake": "与“萧规曹随”的区别：“因循守旧”是明确贬义，指不敢改革创新；“萧规曹随”偏中性或微褒，指后任沿袭前任行之有效的政策。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "营商环境优化永无止境，政务服务部门必须破除____的惯性思维，用数字化流程再造替代繁琐的人工审批。",
+          "highlightClues": [
+            "破除",
+            "惯性思维",
+            "流程再造替代"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "墨守成规",
+        "固步自封",
+        "萧规曹随"
+      ]
+    },
+    {
+      "id": "xiao_gui_cao_sui",
+      "word": "萧规曹随",
+      "pinyin": "xiāo guī cáo suí",
+      "frequency": 4,
+      "coreMeaning": "萧何创立的规章制度由曹参接着照办，比喻后任按照前任成规连续执行政策。",
+      "morphemeHint": {
+        "keyChar": "随",
+        "explanation": "原为历史佳话，强调政策的连续性与稳定性；但在强调锐意改革的语境中也可微含缺乏开拓之意。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "政策延续",
+        "施政方略",
+        "管理交接"
+      ],
+      "collocations": [
+        "采取萧规曹随的策略",
+        "并非简单的萧规曹随"
+      ],
+      "commonMistake": "常考感情色彩辨析：行测中“萧规曹随”多为中性词，强调“保持政策连贯性不折腾”，切不可当作纯粹贬义词“墨守成规”来理解。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "对于已被实践证明行之有效的惠企稳岗政策，新任班子应当保持政策连续性、善于____，避免“新官不理旧账”。",
+          "highlightClues": [
+            "行之有效",
+            "保持政策连续性",
+            "避免“新官不理旧账”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "因循守旧",
+        "墨守成规",
+        "亦步亦趋"
+      ]
+    },
+    {
+      "id": "ke_zhou_qiu_jian",
+      "word": "刻舟求剑",
+      "pinyin": "kè zhōu qiú jiàn",
+      "frequency": 5,
+      "coreMeaning": "比喻死板地拘泥于成例，不懂得根据客观形势和条件的变化而灵活变通。",
+      "morphemeHint": {
+        "keyChar": "刻",
+        "explanation": "以静止的刻记去寻找运动变化的剑，哲学上指向“用静止僵化的眼光看待发展变化的事物”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "思维方式",
+        "政策沿用",
+        "动态管理"
+      ],
+      "collocations": [
+        "无异于刻舟求剑",
+        "切忌刻舟求剑"
+      ],
+      "commonMistake": "重点强调“外界条件、时代环境已经发生动态变化，却仍用静止的旧办法”，与“审时度势”形成鲜明对比。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "人口流动趋势和产业结构已发生深刻变迁，若城市规划仍照搬三十年前的用地指标，无异于____。",
+          "highlightClues": [
+            "已发生深刻变迁",
+            "照搬三十年前",
+            "无异于"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "胶柱鼓瑟",
+        "墨守成规",
+        "生搬硬套"
+      ]
+    },
+    {
+      "id": "jiao_zhu_gu_se",
+      "word": "胶柱鼓瑟",
+      "pinyin": "jiāo zhù gǔ sè",
+      "frequency": 4,
+      "coreMeaning": "用胶把调音的弦柱粘死再弹瑟，比喻拘泥固执、不知变通，无法适应变化。",
+      "morphemeHint": {
+        "keyChar": "胶",
+        "explanation": "“胶”指粘住，“柱”是调音马子；粘死琴柱便不能调音，生动比喻教条僵化、不会灵活调节。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "治理机制",
+        "教条主义",
+        "工作方法"
+      ],
+      "collocations": [
+        "绝不能胶柱鼓瑟",
+        "陷入胶柱鼓瑟的僵化"
+      ],
+      "commonMistake": "常与“刻舟求剑”近义替换，但“胶柱鼓瑟”更侧重机制、制度或方法本身被“粘死”、丧失调节弹性，书面语色彩更浓。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "基层治理面对的社情民意千变万化，执法人员必须在法律框架内讲究方式方法，切忌____、机械套用条款。",
+          "highlightClues": [
+            "千变万化",
+            "机械套用条款"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "刻舟求剑",
+        "生搬硬套",
+        "墨守成规"
+      ]
+    },
+    {
+      "id": "zhao_ben_xuan_ke",
+      "word": "照本宣科",
+      "pinyin": "zhào běn xuān kē",
+      "frequency": 5,
+      "coreMeaning": "照着本子念条文，形容讲话、教学或落实政策时死板教条、毫无发挥与变通。",
+      "morphemeHint": {
+        "keyChar": "本",
+        "explanation": "“本”指讲稿或文件文本，“宣科”是照念道教经文；强调只按书面文字死板复述，脱离实际。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策宣讲",
+        "课堂教学",
+        "文件传达"
+      ],
+      "collocations": [
+        "只会照本宣科",
+        "反对照本宣科"
+      ],
+      "commonMistake": "多用于讲课、宣讲、培训或执行文件语境；若是模仿别人行为动作，应选“照猫画虎”或“亦步亦趋”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "思政课要真正入脑入心，教师就不能只是站在讲台上____，而应结合鲜活的社会实践案例启发学生思考。",
+          "highlightClues": [
+            "站在讲台上",
+            "社会实践案例启发"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生搬硬套",
+        "食古不化",
+        "照猫画虎"
+      ]
+    },
+    {
+      "id": "xun_gui_dao_ju",
+      "word": "循规蹈矩",
+      "pinyin": "xún guī dǎo jǔ",
+      "frequency": 5,
+      "coreMeaning": "原指遵守规矩不胡来，现多形容拘泥于旧的准则而不敢越雷池一步、缺乏创新。",
+      "morphemeHint": {
+        "keyChar": "规",
+        "explanation": "“循”是遵守，“蹈”读 dǎo，意为踩踏遵守；具有“双面色彩”，在守纪语境中中性偏褒，在创新语境中偏贬。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "行事风格",
+        "制度遵守",
+        "艺术或科研"
+      ],
+      "collocations": [
+        "过于循规蹈矩",
+        "循规蹈矩地按流程办"
+      ],
+      "commonMistake": "常与“按部就班”“墨守成规”形成三词辨析：“循规蹈矩”侧重守规矩/拘谨；“按部就班”侧重讲步骤次序；“墨守成规”纯贬义批死守陈规。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "颠覆性技术创新往往诞生于跨界碰撞与大胆试错之中，若处处____、不敢越出既有学科边界半步，便难有原创突破。",
+          "highlightClues": [
+            "颠覆性技术创新",
+            "大胆试错",
+            "难有原创突破"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "墨守成规",
+        "按部就班",
+        "循序渐进"
+      ]
+    },
+    {
+      "id": "an_bu_jiu_ban",
+      "word": "按部就班",
+      "pinyin": "àn bù jiù bān",
+      "frequency": 5,
+      "coreMeaning": "按照一定的步骤、顺序和条理去做事，也指缺乏创新精神地照老规矩办事。",
+      "morphemeHint": {
+        "keyChar": "部",
+        "explanation": "“部”是门类，“班”是次序；核心语义在于“有条理、按顺序”，以中性为主，视语境可褒可贬。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "工程进度",
+        "培养规律",
+        "工作流程"
+      ],
+      "collocations": [
+        "按部就班地推进",
+        "不能只靠按部就班"
+      ],
+      "commonMistake": "注意其偏重“步骤顺序井然”，与“循序渐进”相比，“按部就班”更像静态照章走流程，“循序渐进”则明确褒义强调逐步提高深化。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "空间站建造是一项高度精密的庞大系统工程，各系统联调测试必须严格遵循科学规范、____推进，容不得半点急躁冒进。",
+          "highlightClues": [
+            "高度精密",
+            "遵循科学规范",
+            "容不得半点急躁冒进"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "循序渐进",
+        "循规蹈矩",
+        "墨守成规"
+      ]
+    },
+    {
+      "id": "xun_xu_jian_jin",
+      "word": "循序渐进",
+      "pinyin": "xún xù jiàn jìn",
+      "frequency": 5,
+      "coreMeaning": "按照一定的先后次序和客观规律，由浅入深、一步步地稳步推进提高。",
+      "morphemeHint": {
+        "keyChar": "渐",
+        "explanation": "“循序”是顺着次序，“渐进”是逐步向前发展；纯褒义，强调遵循发展规律、不急于求成。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "教育学习",
+        "改革推进",
+        "能力提升"
+      ],
+      "collocations": [
+        "坚持循序渐进",
+        "循序渐进地深化改革"
+      ],
+      "commonMistake": "与“按部就班”不同，“循序渐进”带有明确的向上递进、逐步深化的积极意味，绝不用于批评“保守僵化”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "培养青少年的科学素养是一个____的长期过程，需要从好奇心激发到实验探究能力培养逐阶推进。",
+          "highlightClues": [
+            "长期过程",
+            "逐阶推进"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "按部就班",
+        "循规蹈矩",
+        "一步登天"
+      ]
+    },
+    {
+      "id": "sui_bo_zhu_liu",
+      "word": "随波逐流",
+      "pinyin": "suí bō zhú liú",
+      "frequency": 5,
+      "coreMeaning": "随着波浪起伏、跟着流水漂流，比喻没有坚定立场和主见，只知盲从大流。",
+      "morphemeHint": {
+        "keyChar": "逐",
+        "explanation": "“随”“逐”皆是被动跟随；突出个人在群体裹挟或潮流冲击下丧失独立思考与原则立场。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "独立思考",
+        "审美取向",
+        "舆论态度"
+      ],
+      "collocations": [
+        "拒绝随波逐流",
+        "盲目随波逐流"
+      ],
+      "commonMistake": "常与“人云亦云”辨析：“随波逐流”偏重行为和立场上的跟风盲从；“人云亦云”专指言语和观点上的盲目附和。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "在算法推荐制造的同质化信息浪潮中，青年人更应当保持独立思考的定力，不轻信、不盲从、不____。",
+          "highlightClues": [
+            "独立思考的定力",
+            "不轻信、不盲从"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "人云亦云",
+        "亦步亦趋",
+        "随声附和"
+      ]
+    },
+    {
+      "id": "ren_yun_yi_yun",
+      "word": "人云亦云",
+      "pinyin": "rén yún yì yún",
+      "frequency": 5,
+      "coreMeaning": "人家怎么说自己也跟着怎么说，形容说话写文章没有主见、只会盲目附和别人。",
+      "morphemeHint": {
+        "keyChar": "云",
+        "explanation": "“云”即“说”；核心落点在“言语、评论、观点表达上没有独创见解”，只知道重复他人论调。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "评论表达",
+        "学术研究",
+        "观点态度"
+      ],
+      "collocations": [
+        "切忌人云亦云",
+        "只是人云亦云"
+      ],
+      "commonMistake": "常与“拾人牙慧”“鹦鹉学舌”同考：“人云亦云”重在没主见跟风说；“拾人牙慧”重在抄袭拿取别人的零碎言辞；“鹦鹉学舌”重在机械学说话不懂含义。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "文艺评论应当有敢于亮明独立学术立场的锐气，如果只是看票房脸色、跟着热搜风向____，评论的公信力便无从谈起。",
+          "highlightClues": [
+            "独立学术立场",
+            "跟着热搜风向"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "随声附和",
+        "拾人牙慧",
+        "鹦鹉学舌"
+      ]
+    },
+    {
+      "id": "sui_sheng_fu_he",
+      "word": "随声附和",
+      "pinyin": "suí shēng fù hè",
+      "frequency": 4,
+      "coreMeaning": "自己没有主见，别人怎么说就跟着附和赞同，形容盲目迎合他人言论。",
+      "morphemeHint": {
+        "keyChar": "和",
+        "explanation": "“和”读 hè，指应和、附和；比“人云亦云”多一层“当面迎合、帮腔赞同”的动态感。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "会议讨论",
+        "舆论起哄",
+        "迎合他人"
+      ],
+      "collocations": [
+        "一味随声附和",
+        "盲目随声附和"
+      ],
+      "commonMistake": "注意“和”读 hè，不读 hé；常用于集体讨论、听证或网络跟风时“跟着起哄帮腔”。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在团队头脑风暴中，我们需要听到基于事实的建设性质疑，而不是所有人都一团和气地____。",
+          "highlightClues": [
+            "建设性质疑",
+            "一团和气"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "人云亦云",
+        "随波逐流",
+        "亦步亦趋"
+      ]
+    },
+    {
+      "id": "shi_ren_ya_hui",
+      "word": "拾人牙慧",
+      "pinyin": "shí rén yá huì",
+      "frequency": 5,
+      "coreMeaning": "拾取别人说过的话当作自己的，比喻缺乏独创精神、抄袭套用他人见解。",
+      "morphemeHint": {
+        "keyChar": "拾",
+        "explanation": "“牙慧”指别人口中吐出的零碎言语；突出“抄袭借鉴别人用剩的观点或辞藻”，毫无原创性。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学术写作",
+        "文艺创作",
+        "理论研究"
+      ],
+      "collocations": [
+        "绝不拾人牙慧",
+        "流于拾人牙慧"
+      ],
+      "commonMistake": "常用于批评论文、文章、创作“没有独创性、抄别人观点”；若是谦称或强调不重复他人老路，常用否定式“不落窠臼、不拾人牙慧”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "建设中国自主的知识体系，不能满足于在西方学术概念框架下____，而必须立足中国本土实践提炼原创理论。",
+          "highlightClues": [
+            "自主的知识体系",
+            "西方学术概念框架下",
+            "提炼原创理论"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "人云亦云",
+        "鹦鹉学舌",
+        "生搬硬套"
+      ]
+    },
+    {
+      "id": "ying_wu_xue_she",
+      "word": "鹦鹉学舌",
+      "pinyin": "yīng wǔ xué shé",
+      "frequency": 4,
+      "coreMeaning": "像鹦鹉一样机械模仿人说话，比喻自己不动脑筋、不理解实质地重复别人言语。",
+      "morphemeHint": {
+        "keyChar": "学",
+        "explanation": "核心在于“只学其声而不知其义”，讽刺生硬背诵或机械转述他人词句而缺乏独立理解。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人工智能生成",
+        "机械复述",
+        "空洞宣传"
+      ],
+      "collocations": [
+        "犹如鹦鹉学舌",
+        "沦为鹦鹉学舌"
+      ],
+      "commonMistake": "在科技科普（如探讨大语言模型是否真正理解语义）和教育评论中出现频率极高，重在“机械复读、不懂原理”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "一些学者批评早期大语言模型缺乏对物理世界的真实感知，其流畅对答本质上仍像是概率驱动下的“____”。",
+          "highlightClues": [
+            "缺乏对物理世界的真实感知",
+            "流畅对答",
+            "概率驱动下"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "人云亦云",
+        "拾人牙慧",
+        "亦步亦趋"
+      ]
+    },
+    {
+      "id": "han_dan_xue_bu",
+      "word": "邯郸学步",
+      "pinyin": "hán dān xué bù",
+      "frequency": 5,
+      "coreMeaning": "比喻一味机械模仿别人，没学到对方长处，反而丢掉了原有本领。",
+      "morphemeHint": {
+        "keyChar": "丢",
+        "explanation": "核心结果是“双重丧失”：新的没学会、旧的（自身优势或本土根基）反而忘光了。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "城市建设",
+        "文化借鉴",
+        "制度移植"
+      ],
+      "collocations": [
+        "切忌邯郸学步",
+        "落得个邯郸学步的结果"
+      ],
+      "commonMistake": "语境中常明确包含“丢掉自身原有优势/特色”这一结果线索，这是它与“亦步亦趋”“东施效颦”最关键的区分点。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "乡村风貌改造必须留住乡愁韵味，如果一味模仿大都市的高楼广场，只会____，既失了乡土本色又显出不伦不类。",
+          "highlightClues": [
+            "留住乡愁韵味",
+            "模仿大都市",
+            "失了乡土本色"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "东施效颦",
+        "亦步亦趋",
+        "生搬硬套"
+      ]
+    },
+    {
+      "id": "dong_shi_xiao_pin",
+      "word": "东施效颦",
+      "pinyin": "dōng shī xiào pín",
+      "frequency": 5,
+      "coreMeaning": "比喻不顾自身条件胡乱模仿别人，结果不仅不好看，反而显得更加可笑荒唐。",
+      "morphemeHint": {
+        "keyChar": "效",
+        "explanation": "“效”是模仿，“颦”读 pín，指皱眉；核心在于“不顾自身特点盲目学别人，效果适得其反、出丑滑稽”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "文化模仿",
+        "商业抄袭",
+        "城市模仿"
+      ],
+      "collocations": [
+        "无异于东施效颦",
+        "沦为东施效颦"
+      ],
+      "commonMistake": "与“邯郸学步”区分：“东施效颦”侧重把别人的特点（甚至是缺点）硬往自己身上安，显得可笑；“邯郸学步”侧重把自己的原有技能也学丢了。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "一些地方文旅项目无视本地资源禀赋，盲目复制外地网红古镇的商业模板，结果千镇一面，无异于____。",
+          "highlightClues": [
+            "无视本地资源禀赋",
+            "盲目复制",
+            "千镇一面"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "邯郸学步",
+        "亦步亦趋",
+        "照猫画虎"
+      ]
+    },
+    {
+      "id": "zhao_mao_hua_hu",
+      "word": "照猫画虎",
+      "pinyin": "zhào māo huà hǔ",
+      "frequency": 4,
+      "coreMeaning": "比喻只按着样子机械地模仿，不了解内在精神与本质规律，画得形似而神不似。",
+      "morphemeHint": {
+        "keyChar": "照",
+        "explanation": "“猫”和“虎”外形相似但本质气象迥异；突出模仿流于表面形式，没有学到精髓核心。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "经验复制",
+        "技能模仿",
+        "制度借鉴"
+      ],
+      "collocations": [
+        "不能只是照猫画虎",
+        "简单的照猫画虎"
+      ],
+      "commonMistake": "侧重“只学表面皮毛、形似神不似”；与“生搬硬套”相比，它更强调模仿得浅薄表面，“生搬硬套”更强调不顾实际强行套用。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "学习先进地区的产业园区运营经验，要学其背后的法治环境与服务机制，而不能停留在建几栋孵化大楼的____。",
+          "highlightClues": [
+            "学其背后的法治环境",
+            "停留在建几栋孵化大楼"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生搬硬套",
+        "东施效颦",
+        "照本宣科"
+      ]
+    },
+    {
+      "id": "sheng_ban_ying_tao",
+      "word": "生搬硬套",
+      "pinyin": "shēng bān yìng tào",
+      "frequency": 5,
+      "coreMeaning": "不顾客观实际条件是否相符，把别人的经验、理论或模式机械硬性地照搬套用。",
+      "morphemeHint": {
+        "keyChar": "硬",
+        "explanation": "“生”“硬”突出不作本土化改造、无视差异强行套用，结果往往水土不服。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "国外经验",
+        "理论模型",
+        "治理模式"
+      ],
+      "collocations": [
+        "切忌生搬硬套",
+        "不能生搬硬套外国模式"
+      ],
+      "commonMistake": "常与“削足适履”辨析：“生搬硬套”是直接把外部经验硬拿来用；“削足适履”是为了迁就死板的框框而强行裁剪破坏自身合理部分。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "我国各区域资源禀赋与发展阶段差异显著，推进乡村振兴必须因地制宜，绝不能把南方水乡的建设模板____到北方旱作农区。",
+          "highlightClues": [
+            "差异显著",
+            "因地制宜",
+            "绝不能把南方",
+            "到北方"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "削足适履",
+        "照猫画虎",
+        "照本宣科"
+      ]
+    },
+    {
+      "id": "xue_zu_shi_lv",
+      "word": "削足适履",
+      "pinyin": "xuē zú shì lǚ",
+      "frequency": 5,
+      "coreMeaning": "比喻不顾实际情况，不合理地勉强迁就现成条件或死板框框。",
+      "morphemeHint": {
+        "keyChar": "削",
+        "explanation": "“削”读 xuē，“适”是适应，“履”是鞋子；本末倒置，为了顺应错误教条或僵化标准而牺牲客观实际。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "考核标准",
+        "教条制度",
+        "本土实际"
+      ],
+      "collocations": [
+        "无异于削足适履",
+        "避免削足适履的荒谬"
+      ],
+      "commonMistake": "极高频考点！辨析要点在于“本末倒置、牺牲合理实际去迁就既定框框/理论/工具”；勿把读音错记为 xiāo。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "考核指标本应是服务于真实发展的标尺，若为了迎合僵化的表格评分而强行改变一线实际工作重心，岂非____？",
+          "highlightClues": [
+            "迎合僵化的表格评分",
+            "强行改变一线实际工作重心"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生搬硬套",
+        "刻舟求剑",
+        "胶柱鼓瑟"
+      ]
+    },
+    {
+      "id": "yu_shi_ju_jin",
+      "word": "与时俱进",
+      "pinyin": "yǔ shí jù jìn",
+      "frequency": 5,
+      "coreMeaning": "行动、观念等随着时代的发展而不断前进、更新，不固步自封。",
+      "morphemeHint": {
+        "keyChar": "俱",
+        "explanation": "“俱”意为“一同、一起”；“与时俱进”即随着时代变化一同向前发展。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策",
+        "理论",
+        "制度",
+        "观念"
+      ],
+      "collocations": [
+        "坚持与时俱进",
+        "与时俱进地创新",
+        "思想观念与时俱进"
+      ],
+      "commonMistake": "不可与“随波逐流”混用；前者强调主动顺应时代进步，后者指盲目跟风。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对人工智能技术带来的治理新课题，相关法律法规必须____，及时填补数字时代的监管空白。",
+          "highlightClues": [
+            "治理新课题",
+            "及时填补",
+            "数字时代"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "因时制宜",
+        "推陈出新",
+        "随波逐流"
+      ]
+    },
+    {
+      "id": "ri_xin_yue_yi",
+      "word": "日新月异",
+      "pinyin": "rì xīn yuè yì",
+      "frequency": 5,
+      "coreMeaning": "每天每月都有新的变化，形容发展、进步非常迅速，不断出现新事物。",
+      "morphemeHint": {
+        "keyChar": "异",
+        "explanation": "“异”指“不同、新奇”；每日更新、每月不同，突出客观变化节奏快。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科技",
+        "城市面貌",
+        "时代发展",
+        "信息技术"
+      ],
+      "collocations": [
+        "科技日新月异",
+        "日新月异的变化",
+        "发展日新月异"
+      ],
+      "commonMistake": "多作谓语或定语形容客观事物的快速演进，一般不直接用来夸奖个人的学习态度。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在信息传播格局____的今天，主流媒体唯有主动融入全媒体生态，才能持续扩大引导力。",
+          "highlightClues": [
+            "信息传播格局",
+            "主动融入全媒体生态"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "突飞猛进",
+        "一日千里",
+        "瞬息万变"
+      ]
+    },
+    {
+      "id": "tu_fei_meng_jin",
+      "word": "突飞猛进",
+      "pinyin": "tū fēi měng jìn",
+      "frequency": 5,
+      "coreMeaning": "形容事业、技术、成绩等发展进步得极快，跨越式向前迈进。",
+      "morphemeHint": {
+        "keyChar": "突",
+        "explanation": "“突”和“猛”均强调速度迅猛、跨度大，侧重在短时间内实现大幅跃升。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科技水平",
+        "经济建设",
+        "学业成绩",
+        "产业能力"
+      ],
+      "collocations": [
+        "取得突飞猛进的发展",
+        "技术突飞猛进",
+        "生产力突飞猛进"
+      ],
+      "commonMistake": "不可搭配“变化”说“突飞猛进的变化”，也不用于消极、破坏性事物的扩张。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "近十年来，我国新能源汽车产业实现了____的跨越，在电池能量密度与电控系统领域均跻身世界前列。",
+          "highlightClues": [
+            "跨越",
+            "跻身世界前列"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一日千里",
+        "日新月异",
+        "高歌猛进"
+      ]
+    },
+    {
+      "id": "yi_ri_qian_li",
+      "word": "一日千里",
+      "pinyin": "yī rì qiān lǐ",
+      "frequency": 4,
+      "coreMeaning": "原形容马跑得极快，后多比喻事业、技术或个人学识进步、发展极快。",
+      "morphemeHint": {
+        "keyChar": "千",
+        "explanation": "一天行进千里，以空间距离极度夸张地比喻进步速度之快、幅度之大。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科技",
+        "事业",
+        "学识",
+        "时代发展"
+      ],
+      "collocations": [
+        "发展一日千里",
+        "技术进步一日千里"
+      ],
+      "commonMistake": "常与“日新月异”辨析；前者重在“推进速度快”，后者重在“新事物层出不穷”。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "生成式大模型算法迭代可谓____，半年未曾跟进前沿动态，便可能难以理解最新的技术架构。",
+          "highlightClues": [
+            "算法迭代",
+            "半年未曾跟进",
+            "难以理解最新"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "突飞猛进",
+        "日新月异",
+        "风驰电掣"
+      ]
+    },
+    {
+      "id": "jin_fei_xi_bi",
+      "word": "今非昔比",
+      "pinyin": "jīn fēi xī bǐ",
+      "frequency": 4,
+      "coreMeaning": "现在和过去大不相同，多形容形势、实力或面貌发生了巨大的进步变化。",
+      "morphemeHint": {
+        "keyChar": "昔",
+        "explanation": "“昔”指过去；“非……比”指不是过去所能相比的，强调今昔纵向对比。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "综合实力",
+        "市场规模",
+        "城市面貌",
+        "地位"
+      ],
+      "collocations": [
+        "实力今非昔比",
+        "地位今非昔比",
+        "早已今非昔比"
+      ],
+      "commonMistake": "常与“不可同日而语”混用；“今非昔比”专指同一对象过去与现在的对比，后者可对比两个不同对象。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "经过十余年的生态修复，这片曾经荒漠化的河谷如今草木繁茂，生态承载力早已____。",
+          "highlightClues": [
+            "十余年的生态修复",
+            "曾经荒漠化",
+            "如今草木繁茂"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不可同日而语",
+        "刮目相看",
+        "物是人非"
+      ]
+    },
+    {
+      "id": "cang_hai_sang_tian",
+      "word": "沧海桑田",
+      "pinyin": "cāng hǎi sāng tián",
+      "frequency": 4,
+      "coreMeaning": "大海变成农田、农田变成大海，比喻世事、时代或环境发生极其巨大的变化。",
+      "morphemeHint": {
+        "keyChar": "桑",
+        "explanation": "“桑田”指种植桑树的农田；由海变田、由田变海，重在时间跨度长、变迁剧烈。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "历史变迁",
+        "世事",
+        "城市变迁",
+        "地理环境"
+      ],
+      "collocations": [
+        "历经沧海桑田",
+        "沧海桑田的巨变",
+        "世事沧海桑田"
+      ],
+      "commonMistake": "强调历经漫长岁月的历史性剧变，不宜用来形容短期内的微调或局部装修变化。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "站在古城墙遗址上远眺现代化的中央商务区，千年时光的流转让人深切感受到____的历史厚重感。",
+          "highlightClues": [
+            "古城墙遗址",
+            "现代化",
+            "千年时光的流转"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "翻天覆地",
+        "白驹过隙",
+        "时过境迁"
+      ]
+    },
+    {
+      "id": "fan_tian_fu_di",
+      "word": "翻天覆地",
+      "pinyin": "fān tiān fù dì",
+      "frequency": 4,
+      "coreMeaning": "形容变化极其巨大、彻底，有时也形容声势浩大、闹得极不安定。",
+      "morphemeHint": {
+        "keyChar": "覆",
+        "explanation": "“覆”指翻转；天地都翻转过来，极言变革的程度之深、范围之广。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "社会变化",
+        "生活面貌",
+        "改革成效",
+        "格局"
+      ],
+      "collocations": [
+        "发生翻天覆地的变化",
+        "翻天覆地的巨变"
+      ],
+      "commonMistake": "语义很重，若前文已出现“巨大”，再用“翻天覆地的巨大变化”则显语意重复。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "脱贫攻坚战全面胜利后，西部深山村落通了高速、接了宽带，群众的生产生活面貌发生了____的变化。",
+          "highlightClues": [
+            "脱贫攻坚",
+            "通了高速、接了宽带",
+            "生产生活面貌"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "天翻地覆",
+        "沧海桑田",
+        "焕然一新"
+      ]
+    },
+    {
+      "id": "tuo_tai_huan_gu",
+      "word": "脱胎换骨",
+      "pinyin": "tuō tāi huàn gǔ",
+      "frequency": 5,
+      "coreMeaning": "原指道家修炼成仙，现比喻从根本上彻底改变原来的旧面貌、旧本质。",
+      "morphemeHint": {
+        "keyChar": "骨",
+        "explanation": "连胎胞和骨骼都更换了，强调由内而外的本质性改造，而非表面涂抹。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "传统产业",
+        "体制机制",
+        "人的精神面貌",
+        "企业"
+      ],
+      "collocations": [
+        "实现脱胎换骨",
+        "脱胎换骨的改造",
+        "经历脱胎换骨的转型"
+      ],
+      "commonMistake": "强调实质性的彻底改造，与只换表面形式的“改头换面”形成鲜明反义对照。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "传统制造业不能止步于包装升级，必须依靠数字化智能化改造实现____，才能重塑核心竞争力。",
+          "highlightClues": [
+            "不能止步于包装升级",
+            "数字化智能化改造",
+            "重塑核心竞争力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "洗心革面",
+        "破茧成蝶",
+        "改头换面"
+      ]
+    },
+    {
+      "id": "huan_ran_yi_xin",
+      "word": "焕然一新",
+      "pinyin": "huàn rán yī xīn",
+      "frequency": 5,
+      "coreMeaning": "光彩夺目、面貌一新，形容整体呈现出全新的良好状态或景象。",
+      "morphemeHint": {
+        "keyChar": "焕",
+        "explanation": "“焕”指光明、鲜明；侧重经过整顿、改造或建设后展现出的全新气象。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "城市面貌",
+        "精神状态",
+        "体制",
+        "场馆"
+      ],
+      "collocations": [
+        "面貌焕然一新",
+        "令人焕然一新",
+        "城乡环境焕然一新"
+      ],
+      "commonMistake": "常与“耳目一新”混淆；“焕然一新”重在事物本身面貌变新，“耳目一新”重在旁观者听到看到后的新鲜感受。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "老旧小区加装电梯、规整管线并增设口袋公园后，整个社区的居住环境____，居民幸福感显著提升。",
+          "highlightClues": [
+            "老旧小区",
+            "加装电梯",
+            "居住环境"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "耳目一新",
+        "万象更新",
+        "面目一新"
+      ]
+    },
+    {
+      "id": "er_mu_yi_xin",
+      "word": "耳目一新",
+      "pinyin": "ěr mù yī xīn",
+      "frequency": 5,
+      "coreMeaning": "听到的、看到的都跟以前不一样，形容给人带来非常新鲜、良好的感受。",
+      "morphemeHint": {
+        "keyChar": "耳",
+        "explanation": "“耳目”指听觉和视觉；主语通常是受众、观众或读者，前面常带“令人”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "受众感受",
+        "观众",
+        "读者",
+        "文艺作品体验"
+      ],
+      "collocations": [
+        "令人耳目一新",
+        "使人耳目一新",
+        "让人耳目一新"
+      ],
+      "commonMistake": "不能直接说“城市耳目一新”，必须说“城市变化令人耳目一新”或直接用“焕然一新”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这部文博纪录片摒弃了生硬的说教，采用微距摄影与拟人化叙事讲述文物故事，令观众____。",
+          "highlightClues": [
+            "摒弃了生硬的说教",
+            "微距摄影",
+            "令观众"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "焕然一新",
+        "刮目相看",
+        "别开生面"
+      ]
+    },
+    {
+      "id": "wan_xiang_geng_xin",
+      "word": "万象更新",
+      "pinyin": "wàn xiàng gēng xīn",
+      "frequency": 3,
+      "coreMeaning": "宇宙间一切事物和景象都变得焕然一新，多形容新年或新时期展现新气象。",
+      "morphemeHint": {
+        "keyChar": "更",
+        "explanation": "“更”读 gēng，意为“改变、更换”；“万象”指万物景象，气势宏观。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "时代气象",
+        "大地",
+        "新春时节",
+        "社会面貌"
+      ],
+      "collocations": [
+        "大地万象更新",
+        "呈现万象更新的局面",
+        "一元复始，万象更新"
+      ],
+      "commonMistake": "格局宏大，不宜用于单一微小物品（如一件衣服、一台机器）的翻新。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "改革开放春风吹拂神州大地，神州处处展现出____的蓬勃气象，激发了亿万人民的创造活力。",
+          "highlightClues": [
+            "改革开放春风",
+            "神州处处",
+            "蓬勃气象"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "焕然一新",
+        "欣欣向荣",
+        "生机勃勃"
+      ]
+    },
+    {
+      "id": "ru_huo_ru_tu",
+      "word": "如火如荼",
+      "pinyin": "rú huǒ rú tú",
+      "frequency": 5,
+      "coreMeaning": "像火和荼一样盛大，现多形容大规模行动或事业气氛热烈、蓬勃兴旺。",
+      "morphemeHint": {
+        "keyChar": "荼",
+        "explanation": "“荼”指茅草的白花；原形容军容盛大，今专指开展得十分热烈兴旺、声势浩大。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "建设工程",
+        "比赛",
+        "群众活动",
+        "试点工作"
+      ],
+      "collocations": [
+        "开展得如火如荼",
+        "如火如荼地推进",
+        "如火如荼的建设现场"
+      ],
+      "commonMistake": "侧重“现场声势热烈”，不宜用于需要静谧氛围的思考、研究或消极的灾害蔓延。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "各地城市更新行动正开展得____，老厂房改造为文创园区、闲置空地变身运动场馆的场景随处可见。",
+          "highlightClues": [
+            "城市更新行动",
+            "开展得",
+            "随处可见"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "方兴未艾",
+        "热火朝天",
+        "轰轰烈烈"
+      ]
+    },
+    {
+      "id": "zheng_zheng_ri_shang",
+      "word": "蒸蒸日上",
+      "pinyin": "zhēng zhēng rì shàng",
+      "frequency": 4,
+      "coreMeaning": "像热气上升一样，形容事业、经济、生活等天天向上发展，越来越兴旺。",
+      "morphemeHint": {
+        "keyChar": "蒸",
+        "explanation": "“蒸”指水汽或云气上升；强调持续、稳步、向上的兴盛趋势。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "事业",
+        "企业发展",
+        "国家经济",
+        "民生水平"
+      ],
+      "collocations": [
+        "事业蒸蒸日上",
+        "蒸蒸日上的势头",
+        "日子蒸蒸日上"
+      ],
+      "commonMistake": "只表示持续上升的过程，不用于形容某项短期任务已经结束或取得巅峰成果。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "得益于营商环境的持续优化，该高新区民营经济呈现出____的良好态势，纳税总额连续五年保持两位数增长。",
+          "highlightClues": [
+            "良好态势",
+            "连续五年保持两位数增长"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "欣欣向荣",
+        "日新月异",
+        "方兴未艾"
+      ]
+    },
+    {
+      "id": "xin_xin_xiang_rong",
+      "word": "欣欣向荣",
+      "pinyin": "xīn xīn xiàng róng",
+      "frequency": 4,
+      "coreMeaning": "草木茂盛生机盎然，比喻事业蓬勃发展、国家或行业兴旺繁荣。",
+      "morphemeHint": {
+        "keyChar": "荣",
+        "explanation": "“荣”指草木繁茂；由自然界草木茂盛引申为经济社会繁荣兴盛的景象。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "国民经济",
+        "文艺创作",
+        "乡村面貌",
+        "市场生态"
+      ],
+      "collocations": [
+        "欣欣向荣的景象",
+        "一派欣欣向荣",
+        "呈现出欣欣向荣之势"
+      ],
+      "commonMistake": "侧重呈现出的繁荣兴旺面貌，很少用于修饰具体某一个人的身体或单一产品的性能。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在政策扶持与市场需求的双轮驱动下，国产科幻文学与影视创作正迎来____的黄金时期。",
+          "highlightClues": [
+            "双轮驱动",
+            "黄金时期"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "蒸蒸日上",
+        "生机勃勃",
+        "方兴未艾"
+      ]
+    }
+  ]
+}

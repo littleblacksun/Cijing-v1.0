@@ -1,0 +1,2070 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "peng_bi_sheng_hui",
+      "word": "蓬荜生辉",
+      "pinyin": "péng bì shēng huī",
+      "frequency": 5,
+      "coreMeaning": "谦辞，表示因贵宾光临或获赠墨宝而使自己简陋的居室增添光彩。",
+      "morphemeHint": {
+        "keyChar": "蓬荜",
+        "explanation": "“蓬门荜户”的简称，指贫寒简陋的居室，故只能用于自己家或本单位。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "自家居所",
+        "己方场所",
+        "谦辞礼仪"
+      ],
+      "collocations": [
+        "令寒舍蓬荜生辉",
+        "实乃蓬荜生辉"
+      ],
+      "commonMistake": "典型谦敬误用：只能用于别人来访使自己家生辉，不能用来形容自己去别人家或公共场馆。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "各位学界泰斗拨冗莅临我院学术沙龙，令这间小小资料室顿觉____，倍感荣幸。",
+          "highlightClues": [
+            "各位学界泰斗",
+            "拨冗莅临",
+            "小小资料室"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "虚左以待",
+        "门庭若市"
+      ]
+    },
+    {
+      "id": "pao_zhuan_yin_yu",
+      "word": "抛砖引玉",
+      "pinyin": "pāo zhuān yǐn yù",
+      "frequency": 5,
+      "coreMeaning": "谦辞，比喻先发表粗浅不成熟的意见，借以引出别人高明的见解。",
+      "morphemeHint": {
+        "keyChar": "砖",
+        "explanation": "把自己的言论谦称为“砖”，把别人的高见尊称为“玉”，主客不可倒置。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "己方发言",
+        "序言导语",
+        "学术探讨"
+      ],
+      "collocations": [
+        "权作抛砖引玉",
+        "抛砖引玉之言"
+      ],
+      "commonMistake": "典型谦敬误用：只能用于己方发言或先导性尝试，绝不可用来评价他人的发言或报告。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "我在专题研讨会上先汇报一点基层调研的粗浅体会，权当____，期待诸位专家不吝赐教。",
+          "highlightClues": [
+            "粗浅体会",
+            "权当",
+            "期待诸位专家不吝赐教"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不吝赐教",
+        "真知灼见"
+      ]
+    },
+    {
+      "id": "bu_qing_zhi_qing",
+      "word": "不情之请",
+      "pinyin": "bù qíng zhī qǐng",
+      "frequency": 5,
+      "coreMeaning": "谦辞，指不合情理的请求，常用来客气地向别人提出求助或要求。",
+      "morphemeHint": {
+        "keyChar": "不情",
+        "explanation": "原意为“不近人情”，后转化为求人之时的自谦套语，非指恶意无理要求。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "己方请求",
+        "信函致意",
+        "礼貌求助"
+      ],
+      "collocations": [
+        "冒昧提出不情之请",
+        "有个不情之请"
+      ],
+      "commonMistake": "典型谦敬误用：只能用于自己向别人提请求；若用于拒绝或斥责对方无理要求则属误用。",
+      "tags": [
+        "省考高频",
+        "谦敬误用",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "馆藏古籍整理工作人手紧缺，故冒昧向贵校文献研究所提出这一____，恳请协助校勘。",
+          "highlightClues": [
+            "冒昧",
+            "提出",
+            "恳请协助校勘"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "强人所难",
+        "绵薄之力"
+      ]
+    },
+    {
+      "id": "ding_li_xiang_zhu",
+      "word": "鼎力相助",
+      "pinyin": "dǐng lì xiāng zhù",
+      "frequency": 5,
+      "coreMeaning": "敬辞，指别人对自己给予大力帮助，常用于致谢或请求对方支持。",
+      "morphemeHint": {
+        "keyChar": "鼎力",
+        "explanation": "“鼎”象征极重之力，敬称他人提供的巨大帮助，不能用来吹嘘自己的援助。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "他人援助",
+        "友方支持",
+        "致谢公函"
+      ],
+      "collocations": [
+        "感谢贵方鼎力相助",
+        "恳请鼎力相助"
+      ],
+      "commonMistake": "典型谦敬误用：敬辞只能用于对方帮助自己，自己帮助别人时只能用“绵薄之力”或“全力以赴”。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这项重大科研攻关项目得以如期落地，离不开兄弟院所在关键技术环节的____。",
+          "highlightClues": [
+            "得以如期落地",
+            "离不开兄弟院所",
+            "关键技术环节"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "绵薄之力",
+        "倾囊相助"
+      ]
+    },
+    {
+      "id": "xi_er_gong_ting",
+      "word": "洗耳恭听",
+      "pinyin": "xǐ ěr gōng tīng",
+      "frequency": 4,
+      "coreMeaning": "敬辞，指专心致志、恭敬地倾听别人的讲话、意见或教诲。",
+      "morphemeHint": {
+        "keyChar": "恭",
+        "explanation": "把耳朵洗净恭敬地听，表达对说话者的尊重，主语只能是听者自己。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "己方倾听",
+        "请教场景",
+        "学术讲座"
+      ],
+      "collocations": [
+        "愿闻其详，洗耳恭听",
+        "定当洗耳恭听"
+      ],
+      "commonMistake": "典型谦敬误用：只能用来表示自己恭敬听别人讲，不能用来要求听众或下属听自己讲。",
+      "tags": [
+        "省考高频",
+        "谦敬误用",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "关于这部典籍的版本流变，先生考据多年，晚辈今日正好____，还望不吝指点。",
+          "highlightClues": [
+            "考据多年",
+            "晚辈",
+            "还望不吝指点"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "虚怀若谷",
+        "侧耳倾听"
+      ]
+    },
+    {
+      "id": "quan_ma_zhi_lao",
+      "word": "犬马之劳",
+      "pinyin": "quǎn mǎ zhī láo",
+      "frequency": 4,
+      "coreMeaning": "谦辞，比喻像犬马一样微薄的效劳，表示甘愿为对方尽力奔走服务。",
+      "morphemeHint": {
+        "keyChar": "犬马",
+        "explanation": "以犬马自比表示谦卑效忠，绝对不能用于形容他人对自己的帮助。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "己方效劳",
+        "表态承诺",
+        "古风书面语"
+      ],
+      "collocations": [
+        "愿效犬马之劳",
+        "效犬马之劳"
+      ],
+      "commonMistake": "典型谦敬误用：自谦之辞，只能说自己“愿效犬马之劳”，切忌说感谢他人“尽犬马之劳”。",
+      "tags": [
+        "省考高频",
+        "谦敬误用",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "只要能推动非遗抢救工程顺利开展，我辈从业者自当____，绝不推辞半分。",
+          "highlightClues": [
+            "推动非遗抢救工程",
+            "我辈从业者",
+            "绝不推辞"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "绵薄之力",
+        "鼎力相助"
+      ]
+    },
+    {
+      "id": "ban_men_nong_fu",
+      "word": "班门弄斧",
+      "pinyin": "bān mén nòng fǔ",
+      "frequency": 5,
+      "coreMeaning": "比喻在行家面前卖弄本领，现多用作在行家面前发言时的自谦语。",
+      "morphemeHint": {
+        "keyChar": "班",
+        "explanation": "“班”指古代巧匠鲁班；在鲁班门前耍斧头，自谦自己本领浅薄而对方是行家。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "己方自谦",
+        "批评卖弄",
+        "学术交流"
+      ],
+      "collocations": [
+        "不敢班门弄斧",
+        "有班门弄斧之嫌"
+      ],
+      "commonMistake": "谦敬与语境误用：用于自己属谦辞，用于他人则是批评“不自量力卖弄”；切勿用来恭维他人的展示。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在座各位皆是深耕词章学数十载的前辈，我谈古典诗律实在有____之嫌，权作汇报学习心得。",
+          "highlightClues": [
+            "深耕词章学数十载的前辈",
+            "汇报学习心得"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "贻笑大方",
+        "自不量力"
+      ]
+    },
+    {
+      "id": "yi_xiao_da_fang",
+      "word": "贻笑大方",
+      "pinyin": "yí xiào dà fāng",
+      "frequency": 5,
+      "coreMeaning": "指因见识浅薄或技艺粗陋而让内行人或有识之士见笑。",
+      "morphemeHint": {
+        "keyChar": "大方",
+        "explanation": "“大方”指大方之家（深明大道的行家），词中已含“被人笑话”之意。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "粗陋言行",
+        "学术失误",
+        "自谦防错"
+      ],
+      "collocations": [
+        "免得贻笑大方",
+        "恐贻笑大方"
+      ],
+      "commonMistake": "重复累赘与望文生义：不能说“被别人贻笑大方”或“让人贻笑大方”；且“大方”非指性格慷慨，而是行家。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "学术译著若连专有名词与历史纪年都频频出错，一旦付梓刊行，势必____。",
+          "highlightClues": [
+            "学术译著",
+            "频频出错",
+            "付梓刊行"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "班门弄斧",
+        "大方之家"
+      ]
+    },
+    {
+      "id": "tian_lie_men_qiang",
+      "word": "忝列门墙",
+      "pinyin": "tiǎn liè mén qiáng",
+      "frequency": 3,
+      "coreMeaning": "谦辞，表示自己才疏学浅，有愧于列入老师的门下学习或任职。",
+      "morphemeHint": {
+        "keyChar": "忝",
+        "explanation": "“忝”意为“辱没、有愧于”；“门墙”指师门，只能用于学生对老师的自谦。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "弟子自谦",
+        "师承致意",
+        "序跋致谢"
+      ],
+      "collocations": [
+        "自愧忝列门墙",
+        "忝列门墙多年"
+      ],
+      "commonMistake": "典型谦敬误用：只能自己说有愧列入恩师门下，不可用来指称别人，也不能用于非师承关系。",
+      "tags": [
+        "省考高频",
+        "谦敬误用",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "先生治学严谨，桃李皆成栋梁，而我____数载却建树寥寥，每念及此总觉惶愧。",
+          "highlightClues": [
+            "先生治学严谨",
+            "数载却建树寥寥",
+            "惶愧"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "蓬荜生辉",
+        "桃李满门"
+      ]
+    },
+    {
+      "id": "jing_xie_bu_min",
+      "word": "敬谢不敏",
+      "pinyin": "jìng xiè bù mǐn",
+      "frequency": 4,
+      "coreMeaning": "谦辞，表示自己能力不够、不够聪敏，恭敬地谢绝别人的邀请或委任。",
+      "morphemeHint": {
+        "keyChar": "不敏",
+        "explanation": "“谢”是推辞，“不敏”指不聪敏、没能力，意为“恭敬地以能力不足为由推辞”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "委婉推辞",
+        "辞谢聘任",
+        "公文书信"
+      ],
+      "collocations": [
+        "只好敬谢不敏",
+        "对此只能敬谢不敏"
+      ],
+      "commonMistake": "望文生义与谦敬误用：并非“感谢他人不敏捷”或“拒绝不积极”，而是自己表示推辞，不可用于他人。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对主编大型辞书的重任，这位老先生自谦精力不济，再三____，推荐年轻学者担纲。",
+          "highlightClues": [
+            "自谦精力不济",
+            "推荐年轻学者担纲"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "却之不恭",
+        "退避三舍"
+      ]
+    },
+    {
+      "id": "gu_wang_yan_zhi",
+      "word": "姑妄言之",
+      "pinyin": "gū wàng yán zhī",
+      "frequency": 3,
+      "coreMeaning": "谦辞，表示自己姑且随便说说，请对方随便听听，不必太当真。",
+      "morphemeHint": {
+        "keyChar": "妄",
+        "explanation": "“姑妄”意为姑且随便、不拘泥，是说话人自谦言论不成熟的委婉用语。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "己方议论",
+        "杂谈随笔",
+        "探讨试言"
+      ],
+      "collocations": [
+        "姑妄言之，姑妄听之",
+        "不过姑妄言之"
+      ],
+      "commonMistake": "谦敬与对象误用：自谦之辞，只能用于自己；若用来批评专家“姑妄言之”则变成贬斥对方胡说。",
+      "tags": [
+        "省考高频",
+        "谦敬误用",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "关于这段史料缺环的推演，尚缺乏出土文献佐证，我今日也只是____，姑妄听之即可。",
+          "highlightClues": [
+            "尚缺乏出土文献佐证",
+            "姑妄听之"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "抛砖引玉",
+        "信口开河"
+      ]
+    },
+    {
+      "id": "mian_bo_zhi_li",
+      "word": "绵薄之力",
+      "pinyin": "mián bó zhī lì",
+      "frequency": 5,
+      "coreMeaning": "谦辞，指微弱、菲薄的力量，常用于表示自己愿意略尽一份微薄的力气。",
+      "morphemeHint": {
+        "keyChar": "绵薄",
+        "explanation": "“绵”如丝绵，“薄”指微少，只用来形容自己的力量微不足道。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "己方帮助",
+        "捐赠援助",
+        "谦辞表态"
+      ],
+      "collocations": [
+        "愿尽绵薄之力",
+        "略尽绵薄之力"
+      ],
+      "commonMistake": "典型谦敬误用：只能自谦，绝不能说感谢别人“尽了绵薄之力”（否则贬低了别人的帮助）。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在乡村图书馆援建过程中，众多志愿者纷纷伸出援手，各自表示愿尽____。",
+          "highlightClues": [
+            "众多志愿者",
+            "伸出援手",
+            "各自表示愿尽"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鼎力相助",
+        "微不足道"
+      ]
+    },
+    {
+      "id": "bu_lin_ci_jiao",
+      "word": "不吝赐教",
+      "pinyin": "bù lìn cì jiào",
+      "frequency": 5,
+      "coreMeaning": "敬辞，指不吝惜自己的意见而给予指教，多用于虚心向他人征求批评建议。",
+      "morphemeHint": {
+        "keyChar": "赐教",
+        "explanation": "“赐”是敬辞，指赏赐、给予；“不吝”希望对方不要舍不得指导自己。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "请教专家",
+        "征求意见",
+        "文末致语"
+      ],
+      "collocations": [
+        "敬请不吝赐教",
+        "望诸君不吝赐教"
+      ],
+      "commonMistake": "典型谦敬误用：敬辞，只能请别人对自己指教，不能说自己对别人“不吝赐教”。",
+      "tags": [
+        "国考高频",
+        "谦敬误用",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "本报告在数据测算模型上仍有待完善之处，敬请学界同仁与一线工作者____。",
+          "highlightClues": [
+            "仍有待完善之处",
+            "敬请学界同仁"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "抛砖引玉",
+        "洗耳恭听"
+      ]
+    },
+    {
+      "id": "gao_tai_gui_shou",
+      "word": "高抬贵手",
+      "pinyin": "gāo tái guì shǒu",
+      "frequency": 4,
+      "coreMeaning": "敬辞，请求对方宽容、原谅或给予通融照应，多用于求人放过一马。",
+      "morphemeHint": {
+        "keyChar": "贵手",
+        "explanation": "尊称对方的手为“贵手”，把“抬手”喻为宽容放行，不可用于己方对他人。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "请求宽容",
+        "求情通融",
+        "人际交涉"
+      ],
+      "collocations": [
+        "恳请高抬贵手",
+        "还望高抬贵手"
+      ],
+      "commonMistake": "典型谦敬误用与语境误用：敬辞只能求人宽恕自己，不可说自己“高抬贵手”饶恕别人。",
+      "tags": [
+        "省考高频",
+        "谦敬误用",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对严格把关的质量审核流程，任何试图让监管部门____、网开一面的想法都行不通。",
+          "highlightClues": [
+            "严格把关",
+            "监管部门",
+            "网开一面"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "网开一面",
+        "宽宏大量"
+      ]
+    },
+    {
+      "id": "que_zhi_bu_gong",
+      "word": "却之不恭",
+      "pinyin": "què zhī bù gōng",
+      "frequency": 4,
+      "coreMeaning": "谦辞，指如果拒绝别人的邀请、馈赠或好意就显得不恭敬，常用于勉强接受。",
+      "morphemeHint": {
+        "keyChar": "却",
+        "explanation": "“却”意为推辞、拒绝；接受他人盛情时用此语表达领情与礼貌。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "接受馈赠",
+        "应允邀请",
+        "礼仪应酬"
+      ],
+      "collocations": [
+        "盛情难却，却之不恭",
+        "实难却之不恭"
+      ],
+      "commonMistake": "望文生义：不是“拒绝得不够恭敬”，而是“如果拒绝就不恭敬”，表示决定接受好意。",
+      "tags": [
+        "省考高频",
+        "谦敬误用",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对老教授执意相赠的珍贵手稿，他深感____，只得郑重收下并承诺妥善整理出版。",
+          "highlightClues": [
+            "执意相赠",
+            "郑重收下"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "敬谢不敏",
+        "盛情难却"
+      ]
+    },
+    {
+      "id": "han_niu_chong_dong",
+      "word": "汗牛充栋",
+      "pinyin": "hàn niú chōng dòng",
+      "frequency": 5,
+      "coreMeaning": "形容藏书、典籍或学术著作的数量非常多。",
+      "morphemeHint": {
+        "keyChar": "充栋",
+        "explanation": "运书使牛出汗，藏书满屋顶及栋梁，适用对象严格限定为书籍、文献、著作。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "藏书典籍",
+        "学术著作",
+        "文献档案"
+      ],
+      "collocations": [
+        "典籍汗牛充栋",
+        "相关著述汗牛充栋"
+      ],
+      "commonMistake": "典型对象误用：只能形容书籍文献极多，绝不能用来形容商品、人才、建筑或案件数量多。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "关于《红楼梦》的考证文章与研究专著可谓____，但真正能从文本肌理切入的新见仍显可贵。",
+          "highlightClues": [
+            "考证文章与研究专著",
+            "真正能从文本肌理切入"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "浩如烟海",
+        "卷帙浩繁"
+      ]
+    },
+    {
+      "id": "hao_ru_yan_hai",
+      "word": "浩如烟海",
+      "pinyin": "hào rú yān hǎi",
+      "frequency": 5,
+      "coreMeaning": "形容文献、典籍、资料等数量极其庞大、丰富得像茫茫大海。",
+      "morphemeHint": {
+        "keyChar": "烟海",
+        "explanation": "烟波浩渺的大海，行测中固定用于形容书籍、史料、数据资料的庞大繁富。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "历史文献",
+        "古籍档案",
+        "数据资料"
+      ],
+      "collocations": [
+        "史料浩如烟海",
+        "在浩如烟海的文献中"
+      ],
+      "commonMistake": "对象误用：专指书籍、文献、资料极为丰富，不宜用来形容人山人海或森林、建筑群等实体事物。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "借助人工智能检索技术，学者得以在____的明清地方志中迅速定位与水利治理相关的记载。",
+          "highlightClues": [
+            "检索技术",
+            "明清地方志中",
+            "迅速定位"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "汗牛充栋",
+        "卷帙浩繁"
+      ]
+    },
+    {
+      "id": "juan_zhi_hao_fan",
+      "word": "卷帙浩繁",
+      "pinyin": "juàn zhì hào fán",
+      "frequency": 4,
+      "coreMeaning": "形容书籍、文献或典籍篇幅极大、册数众多，显得繁浩宏富。",
+      "morphemeHint": {
+        "keyChar": "卷帙",
+        "explanation": "“卷”指书卷，“帙”指包书的布套，“卷帙”即指书籍，故仅能修饰书籍文献。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "大型丛书",
+        "历史典籍",
+        "多卷本著作"
+      ],
+      "collocations": [
+        "卷帙浩繁的典籍",
+        "部头大、卷帙浩繁"
+      ],
+      "commonMistake": "对象误用：只能形容书籍文献规模庞大，不能用来形容工程浩大或事务繁杂。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "《永乐大典》虽____，却在历代战火与流散中损毁大半，如今每一残卷的回归都牵动人心。",
+          "highlightClues": [
+            "《永乐大典》",
+            "每一残卷的回归"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "汗牛充栋",
+        "浩如烟海"
+      ]
+    },
+    {
+      "id": "xiang_jing_ru_bin",
+      "word": "相敬如宾",
+      "pinyin": "xiāng jìng rú bīn",
+      "frequency": 5,
+      "coreMeaning": "形容夫妻之间互相尊敬、礼貌相待，像对待贵宾一样敬重对方。",
+      "morphemeHint": {
+        "keyChar": "宾",
+        "explanation": "出自夫妻故事（冀缺夫妻），在现代汉语中适用对象严格限定为夫妻关系。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "夫妻关系",
+        "婚姻家庭"
+      ],
+      "collocations": [
+        "夫妻相敬如宾",
+        "半生相敬如宾"
+      ],
+      "commonMistake": "典型对象误用：不能用来形容朋友、同事、师生或合作双方互相尊重。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这对学者伉俪携手治学半个世纪，事业上彼此砥砺，生活中始终____，传为学林佳话。",
+          "highlightClues": [
+            "学者伉俪",
+            "生活中始终",
+            "传为学林佳话"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "举案齐眉",
+        "琴瑟和鸣"
+      ]
+    },
+    {
+      "id": "ju_an_qi_mei",
+      "word": "举案齐眉",
+      "pinyin": "jǔ àn qí méi",
+      "frequency": 4,
+      "coreMeaning": "送饭时把托盘举得跟眉毛一样高，形容夫妻之间互相敬重、礼让深情。",
+      "morphemeHint": {
+        "keyChar": "案",
+        "explanation": "“案”指有脚的托盘，典出东汉梁鸿与孟光，专门形容夫妻之间的敬重之礼。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "夫妻关系",
+        "传统家风"
+      ],
+      "collocations": [
+        "夫妻举案齐眉",
+        "过着举案齐眉的生活"
+      ],
+      "commonMistake": "典型对象误用与望文生义：“案”不是案件或桌案；且对象仅限夫妻，不能用于主宾或父子。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "古代家训文献常以____来寄托对夫妻和睦、长幼有序的伦理期许。",
+          "highlightClues": [
+            "古代家训文献",
+            "夫妻和睦"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相敬如宾",
+        "琴瑟和鸣"
+      ]
+    },
+    {
+      "id": "qing_mei_zhu_ma",
+      "word": "青梅竹马",
+      "pinyin": "qīng méi zhú mǎ",
+      "frequency": 4,
+      "coreMeaning": "形容男女儿童时期天真无邪、一起玩耍的亲密情谊与两小无猜的伴侣。",
+      "morphemeHint": {
+        "keyChar": "青梅",
+        "explanation": "典出李白《长干行》，适用对象特指幼年一同长大的男女玩伴或恋人。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "幼年男女玩伴",
+        "童年恋人"
+      ],
+      "collocations": [
+        "青梅竹马的玩伴",
+        "自幼青梅竹马"
+      ],
+      "commonMistake": "典型对象误用：不能用来形容成年后才相识的朋友或同性好友之间的深厚友情。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这部现实主义长篇小说以两位____的少年成长轨迹为线索，折射出江南市镇数十年的变迁。",
+          "highlightClues": [
+            "长篇小说",
+            "少年成长轨迹",
+            "自幼"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "两小无猜",
+        "莫逆之交"
+      ]
+    },
+    {
+      "id": "po_jing_chong_yuan",
+      "word": "破镜重圆",
+      "pinyin": "pò jìng chóng yuán",
+      "frequency": 4,
+      "coreMeaning": "比喻失散或决裂的夫妻重新团聚或重归于好。",
+      "morphemeHint": {
+        "keyChar": "镜",
+        "explanation": "典出徐德言与乐昌公主分镜重聚之事，适用对象专指夫妻离散后再团圆。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "离散夫妻",
+        "婚姻复合"
+      ],
+      "collocations": [
+        "终得破镜重圆",
+        "夫妻破镜重圆"
+      ],
+      "commonMistake": "典型对象误用：不能用来形容朋友重逢、失散兄弟相聚或分裂国家统一、文物修复。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "传统戏曲中“先离散、后团聚”的叙事母题，往往寄寓着人们对战乱夫妻____的朴素愿望。",
+          "highlightClues": [
+            "传统戏曲",
+            "战乱夫妻",
+            "先离散、后团聚"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "重归于好",
+        "珠联璧合"
+      ]
+    },
+    {
+      "id": "qin_se_he_ming",
+      "word": "琴瑟和鸣",
+      "pinyin": "qín sè hé míng",
+      "frequency": 3,
+      "coreMeaning": "比喻夫妻感情融洽、相处协调，如同琴与瑟共同奏出和谐乐声。",
+      "morphemeHint": {
+        "keyChar": "琴瑟",
+        "explanation": "源自《诗经》“妻子好合，如鼓瑟琴”，专门比喻夫妻感情和谐。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "夫妻感情",
+        "婚姻生活"
+      ],
+      "collocations": [
+        "夫妻琴瑟和鸣",
+        "祝愿琴瑟和鸣"
+      ],
+      "commonMistake": "对象误用：不可用来指代乐队演奏技巧高超，也不宜泛指商业合作伙伴关系融洽。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "明清江南文人画作中常描绘并蒂莲与双栖鸟，借以祝颂新婚夫妇白首偕老、____。",
+          "highlightClues": [
+            "新婚夫妇",
+            "白首偕老"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相敬如宾",
+        "举案齐眉"
+      ]
+    },
+    {
+      "id": "dou_kou_nian_hua",
+      "word": "豆蔻年华",
+      "pinyin": "dòu kòu nián huá",
+      "frequency": 5,
+      "coreMeaning": "专门指十三四岁正值青春初绽时期的少女。",
+      "morphemeHint": {
+        "keyChar": "豆蔻",
+        "explanation": "典出杜牧诗“娉娉袅袅十三余，豆蔻梢头二月初”，对象严格限定为十三四岁少女。"
+      },
+      "sentiment": "positive",
+      "intensity": "light",
+      "applicableObjects": [
+        "十三四岁少女"
+      ],
+      "collocations": [
+        "正值豆蔻年华",
+        "豆蔻年华的少女"
+      ],
+      "commonMistake": "典型对象误用：绝对不能用来形容少年男子，也不宜用来指二十多岁的成年女性。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "这部以二十世纪初女子学堂为背景的传记作品，细腻刻画了一群____的少女在时代浪潮中的觉醒。",
+          "highlightClues": [
+            "女子学堂",
+            "少女",
+            "时代浪潮"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "风华正茂",
+        "花季少女"
+      ]
+    },
+    {
+      "id": "xuan_hu_ji_shi",
+      "word": "悬壶济世",
+      "pinyin": "xuán hú jì shì",
+      "frequency": 4,
+      "coreMeaning": "指行医卖药以救济世人，赞颂医务工作者或中医名家救死扶伤之举。",
+      "morphemeHint": {
+        "keyChar": "壶",
+        "explanation": "古代卖药者常在店前挂葫芦（壶）为标记，故“悬壶”专指行医。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "医生",
+        "中医药行业",
+        "医馆药铺"
+      ],
+      "collocations": [
+        "一生悬壶济世",
+        "悬壶济世的情怀"
+      ],
+      "commonMistake": "典型对象误用：仅限医生及医药救治行业，不能用于教师、法官、慈善商人或科研人员。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "这位老中医扎根偏远山乡五十余载，坚持____、义诊赠药，深受当地群众敬重。",
+          "highlightClues": [
+            "老中医",
+            "义诊赠药"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "杏林春暖",
+        "救死扶伤"
+      ]
+    },
+    {
+      "id": "xing_lin_chun_nuan",
+      "word": "杏林春暖",
+      "pinyin": "xìng lín chūn nuǎn",
+      "frequency": 4,
+      "coreMeaning": "赞扬医生医术高明、医德高尚，惠及众多患者如春风温暖人心。",
+      "morphemeHint": {
+        "keyChar": "杏林",
+        "explanation": "典出董奉治病不取钱只令栽杏，因此“杏林”专指医学界（区别于教育界的“杏坛”）。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "医学界",
+        "医生医德",
+        "医院锦旗"
+      ],
+      "collocations": [
+        "赞誉杏林春暖",
+        "杏林春暖的佳话"
+      ],
+      "commonMistake": "典型对象误用：常与教育界的“杏坛”混淆；“杏林”专指医界，“杏坛”才指教育界。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "近年来，随着基层医疗保障体系不断完善，一批批扎根基层的全科医生谱写了____的新篇章。",
+          "highlightClues": [
+            "基层医疗保障体系",
+            "全科医生"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "悬壶济世",
+        "春风化雨"
+      ]
+    },
+    {
+      "id": "xue_fu_wu_che",
+      "word": "学富五车",
+      "pinyin": "xué fù wǔ chē",
+      "frequency": 5,
+      "coreMeaning": "形容人读书极多、学问渊博宏富，堪比五辆大车所载的书简。",
+      "morphemeHint": {
+        "keyChar": "学",
+        "explanation": "主语必须是“人”（学者、大家），形容人的学识渊博，而非形容图书馆藏书。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学者专家",
+        "饱学之士",
+        "人物评价"
+      ],
+      "collocations": [
+        "学富五车的大家",
+        "可谓学富五车"
+      ],
+      "commonMistake": "对象误用：只能修饰“人”，不可用来形容“图书馆藏书学富五车”或“某本书学富五车”。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "即便面对人工智能可以瞬间调取海量资料的时代，真正____的学者依然以其整合思想的能力不可替代。",
+          "highlightClues": [
+            "海量资料",
+            "学者",
+            "整合思想的能力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "汗牛充栋",
+        "博大精深"
+      ]
+    },
+    {
+      "id": "zhu_zuo_deng_shen",
+      "word": "著作等身",
+      "pinyin": "zhù zuò děng shēn",
+      "frequency": 4,
+      "coreMeaning": "形容学者、作家一生撰写的著作数量极多，叠起来几乎与身高相等。",
+      "morphemeHint": {
+        "keyChar": "等身",
+        "explanation": "著作堆叠与人同高，主语必须是创作者本人（学者/作家），而非书籍本身。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学者",
+        "作家",
+        "学术生涯评价"
+      ],
+      "collocations": [
+        "晚年著作等身",
+        "堪称著作等身"
+      ],
+      "commonMistake": "对象与语义误用：主语只能是著者本人；且强调长期积累的著述数量丰硕，不宜用于初出茅庐的青年。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这位毕生致力于中国古代科技史研究的泰斗虽已____，晚年仍坚持亲自审读青年学者的论文初稿。",
+          "highlightClues": [
+            "毕生致力于",
+            "泰斗",
+            "晚年仍坚持"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "汗牛充栋",
+        "学富五车"
+      ]
+    },
+    {
+      "id": "cai_gao_ba_dou",
+      "word": "才高八斗",
+      "pinyin": "cái gāo bā dǒu",
+      "frequency": 4,
+      "coreMeaning": "形容人极富文采才华，学识与创作才气远远超出常人。",
+      "morphemeHint": {
+        "keyChar": "才",
+        "explanation": "源自谢灵运称颂曹植“天下才共一石，曹子建独得八斗”，专指人极有文学艺术才华。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "文人作家",
+        "才俊人物",
+        "文艺评价"
+      ],
+      "collocations": [
+        "才高八斗的诗人",
+        "素以才高八斗著称"
+      ],
+      "commonMistake": "对象误用：多形容文学艺术才华出众的人，不宜用于形容体育健将、机器设备或风景名胜。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "魏晋南北朝文学史上群星璀璨，既有____的建安名士，也有寄情山水的田园诗宗。",
+          "highlightClues": [
+            "文学史上",
+            "建安名士",
+            "田园诗宗"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "学富五车",
+        "妙笔生花"
+      ]
+    },
+    {
+      "id": "tian_lun_zhi_le",
+      "word": "天伦之乐",
+      "pinyin": "tiān lún zhī lè",
+      "frequency": 5,
+      "coreMeaning": "专门指父母、子女、兄弟等家庭亲属团聚相处所享有的骨肉亲情之乐。",
+      "morphemeHint": {
+        "keyChar": "天伦",
+        "explanation": "“天伦”指天然形成的家庭伦理亲属关系，故只能用于家人亲属之间。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "家庭亲属",
+        "祖孙父母",
+        "居家团聚"
+      ],
+      "collocations": [
+        "尽享天伦之乐",
+        "共享天伦之乐"
+      ],
+      "commonMistake": "典型对象误用：绝不能用于朋友聚会、同事团建、师生联欢或同学郊游。",
+      "tags": [
+        "国考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "随着适老化社区服务与托育配套日益健全，更多多代同堂家庭得以在都市生活中从容享受____。",
+          "highlightClues": [
+            "多代同堂家庭",
+            "适老化",
+            "托育配套"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "其乐融融",
+        "欢聚一堂"
+      ]
+    },
+    {
+      "id": "zhen_zhi_zhuo_jian",
+      "word": "真知灼见",
+      "pinyin": "zhēn zhī zhuó jiàn",
+      "frequency": 5,
+      "coreMeaning": "指正确而透彻的认识与深刻独到的见解。",
+      "morphemeHint": {
+        "keyChar": "见",
+        "explanation": "“灼”意为明亮透彻，“见”即见解，故不可再搭配“的见解/的意见”造成重复。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学术观点",
+        "调研报告",
+        "评论文章"
+      ],
+      "collocations": [
+        "提出真知灼见",
+        "不乏真知灼见"
+      ],
+      "commonMistake": "重复累赘：常见错句为“提出了真知灼见的意见”，应直接用“提出真知灼见”或“不乏真知灼见”。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这场跨学科圆桌论坛汇聚了来自一线治理与人文领域的学者，在城市更新议题上贡献了诸多____。",
+          "highlightClues": [
+            "跨学科圆桌论坛",
+            "学者",
+            "贡献了诸多"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "微言大义",
+        "鞭辟入里"
+      ]
+    },
+    {
+      "id": "shen_shen_xue_zi",
+      "word": "莘莘学子",
+      "pinyin": "shēn shēn xué zǐ",
+      "frequency": 5,
+      "coreMeaning": "指众多的求学青年学生，强调学生数量众多、朝气蓬勃的群体形象。",
+      "morphemeHint": {
+        "keyChar": "莘莘",
+        "explanation": "“莘莘”本义就是“众多”，属于集合性名词短语，既不能用个体数词修饰，也不能再加“众多”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学生群体",
+        "高校教育",
+        "校园报道"
+      ],
+      "collocations": [
+        "激励莘莘学子",
+        "寄语莘莘学子",
+        "莘莘学子负笈求学"
+      ],
+      "commonMistake": "重复累赘与对象误用：严禁说“一位莘莘学子”或“众多莘莘学子”；且读音是 shēn shēn，非 xīn xīn。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "百年老校深厚的治学传统如灯塔般矗立，激励着一代又一代____在科学前沿勇攀高峰。",
+          "highlightClues": [
+            "百年老校",
+            "一代又一代",
+            "勇攀高峰"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "芸芸众生",
+        "青年才俊"
+      ]
+    },
+    {
+      "id": "qian_yi_mo_hua",
+      "word": "潜移默化",
+      "pinyin": "qián yí mò huà",
+      "frequency": 5,
+      "coreMeaning": "指人的思想或性格在不知不觉中受到环境、文化长期暗中影响而发生变化。",
+      "morphemeHint": {
+        "keyChar": "潜默",
+        "explanation": "“潜”“默”皆指暗中、不知不觉，故不可与“在不知不觉中”同时连用。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文化熏陶",
+        "家风教育",
+        "艺术感染"
+      ],
+      "collocations": [
+        "潜移默化的影响",
+        "发挥潜移默化的作用"
+      ],
+      "commonMistake": "重复累赘：避免写出“在不知不觉中潜移默化地影响”，其中“在不知不觉中”与词义重叠。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "优秀文艺作品的价值，往往在于通过审美共情对受众的价值观产生____的滋养。",
+          "highlightClues": [
+            "优秀文艺作品",
+            "审美共情",
+            "滋养"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "春风化雨",
+        "耳濡目染"
+      ]
+    },
+    {
+      "id": "jie_zhong_er_zhi",
+      "word": "接踵而至",
+      "pinyin": "jiē zhǒng ér zhì",
+      "frequency": 5,
+      "coreMeaning": "后面的人脚尖接着前面人的脚后跟到来，形容人或事件一个接一个连续不断。",
+      "morphemeHint": {
+        "keyChar": "踵",
+        "explanation": "“踵”指脚后跟，词中已有“连续不断”之意，不宜前加“陆续”或“连续”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "游客访客",
+        "科研成果",
+        "挑战问题"
+      ],
+      "collocations": [
+        "好消息接踵而至",
+        "质疑接踵而至"
+      ],
+      "commonMistake": "重复累赘：避免写成“连续不断地接踵而至”；既可用于喜讯成果，也可用于麻烦或危机。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "基础研究一旦实现关键原理突破，相关产业链上的应用创新便会如泉水般____。",
+          "highlightClues": [
+            "实现关键原理突破",
+            "应用创新",
+            "如泉水般"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "络绎不绝",
+        "纷至沓来"
+      ]
+    },
+    {
+      "id": "dang_wu_zhi_ji",
+      "word": "当务之急",
+      "pinyin": "dāng wù zhī jí",
+      "frequency": 5,
+      "coreMeaning": "当前所有应当做的事情中最紧迫、最需要优先解决的一件。",
+      "morphemeHint": {
+        "keyChar": "当",
+        "explanation": "“当”已包含“当前、目前”的时间限定，故前面绝对不可再加“目前的”“眼下的”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "政务决策",
+        "改革任务",
+        "危机处置"
+      ],
+      "collocations": [
+        "当务之急是……",
+        "乃当务之急"
+      ],
+      "commonMistake": "典型重复累赘：高频病句为“目前的当务之急是……”，去掉“目前的”方为规范书面表达。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "面对古籍数字化进程中的标准不统一问题，建立跨机构共享的著录规范乃是____。",
+          "highlightClues": [
+            "标准不统一",
+            "建立跨机构共享的著录规范"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "燃眉之急",
+        "重中之重"
+      ]
+    },
+    {
+      "id": "yun_yun_zhong_sheng",
+      "word": "芸芸众生",
+      "pinyin": "yún yún zhòng shēng",
+      "frequency": 4,
+      "coreMeaning": "原指佛教中的世间一切生命，现多指大千世界中数量众多的普通百姓。",
+      "morphemeHint": {
+        "keyChar": "芸芸",
+        "explanation": "“芸芸”意为众多纷繁，“众生”指众多的人，不能再前加“许多”或“众多”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "普通民众",
+        "市井人物",
+        "文学描写"
+      ],
+      "collocations": [
+        "芸芸众生的悲欢",
+        "置身于芸芸众生"
+      ],
+      "commonMistake": "重复累赘：切忌说“众多芸芸众生”或“这群芸芸众生中每一位都是芸芸众生”等叠加修饰。",
+      "tags": [
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "伟大的现实主义文学从不满足于空洞口号，而是将笔触深植于____的日常烟火与精神微光之中。",
+          "highlightClues": [
+            "现实主义文学",
+            "日常烟火"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "莘莘学子",
+        "黎民百姓"
+      ]
+    },
+    {
+      "id": "chong_dao_fu_zhe",
+      "word": "重蹈覆辙",
+      "pinyin": "chóng dǎo fù zhé",
+      "frequency": 5,
+      "coreMeaning": "再走翻过车子的老路，比喻不吸取历史或以往的教训而再次犯同样的错误。",
+      "morphemeHint": {
+        "keyChar": "重",
+        "explanation": "“重”已经表示“再次”，因此前面不可再叠加“再次”“又一次”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策失误",
+        "历史教训",
+        "治学误区"
+      ],
+      "collocations": [
+        "切忌重蹈覆辙",
+        "避免重蹈覆辙"
+      ],
+      "commonMistake": "重复累赘：行测常见语病为“再次重蹈覆辙”；且专指再犯坏的错误，不可用于重复成功经验。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "梳理近现代城市规划史上的得失教训，正是为了在新型城镇化建设中警惕短视行为，避免____。",
+          "highlightClues": [
+            "得失教训",
+            "警惕短视行为",
+            "避免"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "前车之鉴",
+        "步人后尘"
+      ]
+    },
+    {
+      "id": "xiang_xing_jian_chu",
+      "word": "相形见绌",
+      "pinyin": "xiāng xíng jiàn chù",
+      "frequency": 5,
+      "coreMeaning": "和同类的事物相互比较之后，就明显看出这一方的不足与劣势。",
+      "morphemeHint": {
+        "keyChar": "见",
+        "explanation": "“见”即显出、显得，因此前面绝不能再说“显得相形见绌”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "同类对比",
+        "技术水平",
+        "文化创作"
+      ],
+      "collocations": [
+        "相比之下相形见绌",
+        "令传统模式相形见绌"
+      ],
+      "commonMistake": "重复累赘：常见错句为“显得相形见绌”或“相比之下显得相形见绌”，均属语义重叠。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "当新一代大模型在多模态推理上展现惊人精度时，过去依赖单一规则的旧系统立刻____。",
+          "highlightClues": [
+            "展现惊人精度",
+            "过去依赖单一规则的旧系统"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "黯然失色",
+        "自惭形秽"
+      ]
+    },
+    {
+      "id": "bu_yan_er_yu",
+      "word": "不言而喻",
+      "pinyin": "bù yán ér yù",
+      "frequency": 5,
+      "coreMeaning": "不用说话解释就已经十分明白，形容事物的道理极其显而易见。",
+      "morphemeHint": {
+        "keyChar": "喻",
+        "explanation": "“不言”即不用说明，“喻”即明白；不能再前加“不用说就……”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "显明道理",
+        "重要意义",
+        "逻辑前提"
+      ],
+      "collocations": [
+        "其重要性不言而喻",
+        "道理不言而喻"
+      ],
+      "commonMistake": "重复累赘：常见语病是“不用多说，它的价值已经不言而喻”，应删去“不用多说”。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "在基础学科人才培养周期漫长的规律面前，建立长周期稳定评价机制的必要性____。",
+          "highlightClues": [
+            "培养周期漫长",
+            "必要性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "显而易见",
+        "毋庸置疑"
+      ]
+    },
+    {
+      "id": "nan_yan_zhi_yin",
+      "word": "难言之隐",
+      "pinyin": "nán yán zhī yǐn",
+      "frequency": 4,
+      "coreMeaning": "指藏在心里不好向人说出口的痛苦、难处或私密苦衷。",
+      "morphemeHint": {
+        "keyChar": "隐",
+        "explanation": "“隐”本身就是指隐情、苦衷，因此后面绝不能再接“的苦衷”或“的隐情”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人难处",
+        "企业困境",
+        "幕后原因"
+      ],
+      "collocations": [
+        "另有难言之隐",
+        "有着难言之隐"
+      ],
+      "commonMistake": "典型重复累赘：高频错句为“他也有难言之隐的苦衷”，与“苦衷”完全语义重叠。",
+      "tags": [
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "部分传统老字号之所以迟迟未能迈出数字化转型的第一步，背后往往存在人才断层与资金掣肘的____。",
+          "highlightClues": [
+            "迟迟未能迈出",
+            "背后往往存在"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "苦不堪言",
+        "不足为外人道"
+      ]
+    },
+    {
+      "id": "bian_ti_lin_shang",
+      "word": "遍体鳞伤",
+      "pinyin": "biàn tǐ lín shāng",
+      "frequency": 4,
+      "coreMeaning": "全身上下像鱼鳞一样布满密集的伤痕，形容受伤极重或遭受惨重打击。",
+      "morphemeHint": {
+        "keyChar": "遍体",
+        "explanation": "“遍体”即全身上下，因此前面绝对不可再加“浑身”或“全身”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "身体伤势",
+        "企业重创",
+        "生态破坏"
+      ],
+      "collocations": [
+        "撞得遍体鳞伤",
+        "变得遍体鳞伤"
+      ],
+      "commonMistake": "重复累赘：常见错句为“浑身上下被打得遍体鳞伤”，应删去“浑身上下”。",
+      "tags": [
+        "省考高频",
+        "重复累赘",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "过去粗放式的矿产开采曾让这片原本苍翠的山地____，如今经过十年生态修复才重披绿装。",
+          "highlightClues": [
+            "粗放式的矿产开采",
+            "生态修复才重披绿装"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "体无完肤",
+        "千疮百孔"
+      ]
+    },
+    {
+      "id": "luo_yi_bu_jue",
+      "word": "络绎不绝",
+      "pinyin": "luò yì bù jué",
+      "frequency": 5,
+      "coreMeaning": "形容行人、车马、船只或参观者前后相接、连续不断地往来。",
+      "morphemeHint": {
+        "keyChar": "不绝",
+        "explanation": "“络绎”指前后接连，“不绝”指不断绝，不可前加“不断”，且主语应为往来流动的实体。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "行人车马",
+        "参观游客",
+        "往来商旅"
+      ],
+      "collocations": [
+        "游人络绎不绝",
+        "车流络绎不绝"
+      ],
+      "commonMistake": "重复累赘与对象误用：不能说“不断地络绎不绝”；也不能用于静态排队人群或抽象思想。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "自这座融合非遗工坊与数字光影的历史街区焕新开放以来，每日慕名而来的海内外游客____。",
+          "highlightClues": [
+            "焕新开放以来",
+            "每日慕名而来",
+            "海内外游客"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "接踵而至",
+        "川流不息"
+      ]
+    },
+    {
+      "id": "zi_zhen_ju_zhuo",
+      "word": "字斟句酌",
+      "pinyin": "zì zhēn jù zhuó",
+      "frequency": 5,
+      "coreMeaning": "写文章或说话时对每一字每一句都仔细推敲斟酌，力求准确精当。",
+      "morphemeHint": {
+        "keyChar": "斟酌",
+        "explanation": "逐字逐句反复推敲打磨，侧重认真严谨的创作或公文修改态度（褒义）。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公文写作",
+        "文学创作",
+        "学术校订"
+      ],
+      "collocations": [
+        "字斟句酌地推敲",
+        "经过反复字斟句酌"
+      ],
+      "commonMistake": "褒贬误用：常与“咬文嚼字”混淆；前者重“精益求精地推敲”，多为褒义；后者多贬义，指死抠字眼。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "立法条文的起草必须经历多轮专家论证与____，才能避免因语义模糊而在执法中产生歧义。",
+          "highlightClues": [
+            "立法条文",
+            "避免因语义模糊"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "咬文嚼字",
+        "精雕细琢"
+      ]
+    },
+    {
+      "id": "yao_wen_jiao_zi",
+      "word": "咬文嚼字",
+      "pinyin": "yǎo wén jiáo zì",
+      "frequency": 5,
+      "coreMeaning": "形容过分地斟酌字句，多指死抠字眼而不领会精神实质，或卖弄学问。",
+      "morphemeHint": {
+        "keyChar": "咬嚼",
+        "explanation": "把文字放进嘴里硬咬细嚼，常含过分计较字面、拘泥迂腐的贬义色彩。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学究习气",
+        "死板解读",
+        "文字苛求"
+      ],
+      "collocations": [
+        "一味咬文嚼字",
+        "忌讳咬文嚼字"
+      ],
+      "commonMistake": "褒贬误用：多用于批评脱离主旨、死抠字眼的做法，若赞扬作者严谨推敲应选“字斟句酌”。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "经典阅读贵在把握思想脉络与历史语境，若只知在枝节处____，反而容易见木不见林。",
+          "highlightClues": [
+            "把握思想脉络",
+            "在枝节处",
+            "见木不见林"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "字斟句酌",
+        "寻章摘句"
+      ]
+    },
+    {
+      "id": "xun_zhang_zhai_ju",
+      "word": "寻章摘句",
+      "pinyin": "xún zhāng zhāi jù",
+      "frequency": 4,
+      "coreMeaning": "读书或写作时只搜寻摘取现成的辞章片段，而不深入研究全局义理。",
+      "morphemeHint": {
+        "keyChar": "寻摘",
+        "explanation": "只挑现成的章句拼凑引用，缺乏独立深思与融会贯通，多含贬义。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "治学误区",
+        "文章写作",
+        "应试八股"
+      ],
+      "collocations": [
+        "只会寻章摘句",
+        "脱离实际的寻章摘句"
+      ],
+      "commonMistake": "褒贬误用：常被误用来夸人“引经据典、博采众长”，实则批评只抄摘只言片语、缺乏创造性。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "理论研究必须直面时代真问题，绝不能沦为脱离现实土壤、只会____的书斋游戏。",
+          "highlightClues": [
+            "直面时代真问题",
+            "脱离现实土壤",
+            "书斋游戏"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "旁征博引",
+        "咬文嚼字"
+      ]
+    },
+    {
+      "id": "du_ju_jiang_xin",
+      "word": "独具匠心",
+      "pinyin": "dú jù jiàng xīn",
+      "frequency": 5,
+      "coreMeaning": "具有独到精巧的心思与构想，形容在艺术构思或技术设计上别具一格。",
+      "morphemeHint": {
+        "keyChar": "匠心",
+        "explanation": "“匠心”指能工巧匠般精巧的心思，多形容建筑、工艺、文章布局等精妙构思。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "设计构思",
+        "文艺作品",
+        "工艺美术"
+      ],
+      "collocations": [
+        "设计独具匠心",
+        "独具匠心的创意"
+      ],
+      "commonMistake": "对象与近义混用：侧重“精巧构思”，不宜用于自然风景；常与“别出心裁”“匠心独运”同台辨析。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这座遗址博物馆放弃了传统玻璃展柜的隔离方式，以光影复原考古地层，空间设计可谓____。",
+          "highlightClues": [
+            "放弃了传统",
+            "光影复原考古地层",
+            "空间设计"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "匠心独运",
+        "别出心裁"
+      ]
+    },
+    {
+      "id": "lu_huo_chun_qing",
+      "word": "炉火纯青",
+      "pinyin": "lú huǒ chún qīng",
+      "frequency": 5,
+      "coreMeaning": "比喻学问、技术或艺术造诣达到十分纯熟完美的境界。",
+      "morphemeHint": {
+        "keyChar": "纯青",
+        "explanation": "道家炼丹火候到家的标志，强调长期磨砺后技艺或功夫极为纯熟，多修饰技艺学问。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "技艺功夫",
+        "艺术造诣",
+        "学术修养"
+      ],
+      "collocations": [
+        "技艺炉火纯青",
+        "修炼到炉火纯青的境界"
+      ],
+      "commonMistake": "褒贬与对象误用：不能用来形容坏人作恶手段高明，也不能直接修饰具体实物（如建筑物本身）。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "经过三十余载临帖不辍与笔法体悟，这位书法家的行草创作已然达到____之境。",
+          "highlightClues": [
+            "三十余载临帖不辍",
+            "行草创作",
+            "之境"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "出神入化",
+        "登峰造极"
+      ]
+    },
+    {
+      "id": "chu_shen_ru_hua",
+      "word": "出神入化",
+      "pinyin": "chū shén rù huà",
+      "frequency": 5,
+      "coreMeaning": "形容文学、艺术或技艺极其高超，达到了神妙莫测、浑然化境的最高水平。",
+      "morphemeHint": {
+        "keyChar": "神化",
+        "explanation": "超越常理、进入神妙化境，专指文学艺术或技艺水平达到极高境界。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "艺术表演",
+        "文学笔法",
+        "精湛技艺"
+      ],
+      "collocations": [
+        "演技出神入化",
+        "画技出神入化"
+      ],
+      "commonMistake": "对象误用：不能用来形容自然风景、机械设备或坏事阴谋；程度极重，注意语境匹配。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "老艺术家在京剧折子戏中一个细微的眼神与水袖身段，将人物内心的波澜演绎得____。",
+          "highlightClues": [
+            "老艺术家",
+            "眼神与水袖身段",
+            "演绎得"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "炉火纯青",
+        "登峰造极"
+      ]
+    },
+    {
+      "id": "deng_feng_zao_ji",
+      "word": "登峰造极",
+      "pinyin": "dēng fēng zào jí",
+      "frequency": 5,
+      "coreMeaning": "登上最高峰、到达最高点，比喻学问、技艺或成就发展到了顶峰极限。",
+      "morphemeHint": {
+        "keyChar": "极",
+        "explanation": "“极”即顶点、极限，语意极重，常含“到达顶峰（甚至有时物极必反）”的极限义。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "艺术造诣",
+        "学术成就",
+        "时代工艺"
+      ],
+      "collocations": [
+        "达到登峰造极的高度",
+        "造诣登峰造极"
+      ],
+      "commonMistake": "语义轻重与褒贬误用：语意极重，不可用于刚起步的成果；偶见用于讽刺荒谬行为“登峰造极”。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "宋代瓷器在釉色温润与器型典雅上堪称中国制瓷史上的____之作，至今仍令世界惊艳。",
+          "highlightClues": [
+            "宋代瓷器",
+            "制瓷史上",
+            "至今仍令世界惊艳"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "炉火纯青",
+        "出神入化"
+      ]
+    },
+    {
+      "id": "pai_an_jiao_jue",
+      "word": "拍案叫绝",
+      "pinyin": "pāi àn jiào jué",
+      "frequency": 4,
+      "coreMeaning": "拍着桌子连声称赞绝妙，形容对极精彩的文章、言论或表演非常赞赏。",
+      "morphemeHint": {
+        "keyChar": "案",
+        "explanation": "“案”指几案、桌子；主语是“听众、读者或观众”，而非作品本身。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "读者观众",
+        "评价反响",
+        "文艺鉴赏"
+      ],
+      "collocations": [
+        "令人拍案叫绝",
+        "读者拍案叫绝"
+      ],
+      "commonMistake": "对象与语法误用：主语应该是人（令人拍案叫绝），不能说“这部小说本身拍案叫绝”。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "这位史学家仅凭几行碑刻残字便推翻了流传百年的旧说，其缜密考证令同侪____。",
+          "highlightClues": [
+            "推翻了流传百年的旧说",
+            "缜密考证",
+            "令同侪"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "赞不绝口",
+        "忍俊不禁"
+      ]
+    }
+  ]
+}

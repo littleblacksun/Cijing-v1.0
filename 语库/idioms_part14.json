@@ -1,0 +1,2208 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "xue_zhong_song_tan",
+      "word": "雪中送炭",
+      "pinyin": "xuě zhōng sòng tàn",
+      "frequency": 5,
+      "coreMeaning": "在雪天送去木炭，比喻在别人最困难急需时给予真诚帮助。",
+      "morphemeHint": {
+        "keyChar": "雪中",
+        "explanation": "“雪中”象征极度困难的境地，“炭”象征最迫切需要的支持；与“锦上添花”构成经典对比。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "政策扶持",
+        "资金救助",
+        "社会帮扶",
+        "科研资助"
+      ],
+      "collocations": [
+        "犹如雪中送炭",
+        "多做雪中送炭的事",
+        "雪中送炭式的帮扶"
+      ],
+      "commonMistake": "必须对应“受助方正处于困境或急需救助”的前提；如果对方本来就顺风顺水，只能用“锦上添花”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "对于处在“死亡谷”阶段、缺乏商业营收的硬科技初创团队而言，政府引导基金的早期耐心注资无疑是____。",
+          "highlightClues": [
+            "处在“死亡谷”阶段",
+            "缺乏商业营收",
+            "早期耐心注资"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "锦上添花",
+        "雪上加霜",
+        "解囊相助"
+      ]
+    },
+    {
+      "id": "jin_shang_tian_hua",
+      "word": "锦上添花",
+      "pinyin": "jǐn shàng tiān huā",
+      "frequency": 5,
+      "coreMeaning": "在锦缎上再绣花，比喻好上加好，常与“雪中送炭”对举。",
+      "morphemeHint": {
+        "keyChar": "添花",
+        "explanation": "原本已经是织锦，再添花纹只是更好；本身中性偏褒，但在政论语境中常用来对比凸显“雪中送炭”的更可贵。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "荣誉加持",
+        "资本追捧",
+        "资源倾斜",
+        "艺术点缀"
+      ],
+      "collocations": [
+        "只是锦上添花",
+        "可谓锦上添花",
+        "多是锦上添花少有雪中送炭"
+      ],
+      "commonMistake": "行测常考“锦上添花易，雪中送炭难”的对照结构，考查对两种帮扶时机的准确区分。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "普惠金融应着力向小微实体倾斜，不能总是围着已经盈利丰厚的头部大企业转，只做____的买卖。",
+          "highlightClues": [
+            "向小微实体倾斜",
+            "不能总是",
+            "盈利丰厚的头部大企业"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雪中送炭",
+        "画龙点睛",
+        "精益求精"
+      ]
+    },
+    {
+      "id": "ying_nan_er_shang",
+      "word": "迎难而上",
+      "pinyin": "yíng nán ér shàng",
+      "frequency": 5,
+      "coreMeaning": "面对困难不退缩，反而迎着困难积极向上进取、主动解决。",
+      "morphemeHint": {
+        "keyChar": "迎",
+        "explanation": "“迎”指迎面直面、不回避；形容不畏艰险、敢于担当和挑战的精神状态。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革者",
+        "科研团队",
+        "青年干部",
+        "企业精神"
+      ],
+      "collocations": [
+        "勇于迎难而上",
+        "迎难而上攻克难关",
+        "秉持迎难而上的勇气"
+      ],
+      "commonMistake": "不要与“知难而进”重复连用；两者意思极近，“迎难而上”偏主动直面，“知难而进”偏清醒认识难度后仍坚定前行。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "面对关键基础软件长期受制于人的被动局面，研发团队没有抱怨等靠，而是____，历时五年攻克核心内核代码。",
+          "highlightClues": [
+            "受制于人",
+            "没有抱怨等靠",
+            "而是",
+            "攻克"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "知难而进",
+        "攻坚克难",
+        "知难而退"
+      ]
+    },
+    {
+      "id": "zhi_nan_er_jin",
+      "word": "知难而进",
+      "pinyin": "zhī nán ér jìn",
+      "frequency": 4,
+      "coreMeaning": "明知道前面困难重重却毫不退缩，依然坚定地向前推进。",
+      "morphemeHint": {
+        "keyChar": "知/进",
+        "explanation": "“知”指清醒认识到艰巨性，“进”指继续前行；比盲目乐观更具理性与坚韧感。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革实践",
+        "科学探索",
+        "创业团队"
+      ],
+      "collocations": [
+        "越是艰险越知难而进",
+        "敢于知难而进",
+        "知难而进的韧劲"
+      ],
+      "commonMistake": "常与“知难而退”成对出现，强调对困难有充分预估却不怯步。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "越是面对全球贸易保护主义抬头的逆风挑战，高水平对外开放越要____，以制度型开放拓展合作新空间。",
+          "highlightClues": [
+            "越是面对",
+            "逆风挑战",
+            "越要"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "迎难而上",
+        "知难而退",
+        "勇往直前"
+      ]
+    },
+    {
+      "id": "pi_jing_zhan_ji",
+      "word": "披荆斩棘",
+      "pinyin": "pī jīng zhǎn jí",
+      "frequency": 5,
+      "coreMeaning": "比喻在创业、开拓或前进道路上清除重重障碍、克服艰险。",
+      "morphemeHint": {
+        "keyChar": "披/斩",
+        "explanation": "“披”是拨开，“斩”是砍断，“荆棘”比喻前行路上的阻力和艰难险阻；带有鲜明的开辟开拓感。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "开拓者",
+        "创业历程",
+        "改革之路",
+        "探索进程"
+      ],
+      "collocations": [
+        "一路披荆斩棘",
+        "在创业路上披荆斩棘",
+        "披荆斩棘开辟新路"
+      ],
+      "commonMistake": "常与“乘风破浪”辨析：“披荆斩棘”偏陆地开拓、清除重重阻碍（突出艰辛开路），“乘风破浪”偏海上远航、借势突破（突出气势雄壮）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "从实验室理论突破到实现大规模量产应用，国产高端医疗影像设备走过了一条____的自主创新之路。",
+          "highlightClues": [
+            "实验室理论突破",
+            "大规模量产应用",
+            "自主创新之路"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "乘风破浪",
+        "攻坚克难",
+        "筚路蓝缕"
+      ]
+    },
+    {
+      "id": "po_fu_chen_zhou",
+      "word": "破釜沉舟",
+      "pinyin": "pò fǔ chén zhōu",
+      "frequency": 5,
+      "coreMeaning": "砸碎做饭的锅、凿沉渡河的船，比喻下定最大决心，不留退路，拼死决战到底。",
+      "morphemeHint": {
+        "keyChar": "破/沉",
+        "explanation": "典出项羽巨鹿之战；主动断绝退路以激发全部潜能，褒义且悲壮决绝。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "改革决心",
+        "技术攻关",
+        "决战勇气"
+      ],
+      "collocations": [
+        "以破釜沉舟的决心",
+        "破釜沉舟的勇气",
+        "破釜沉舟一搏"
+      ],
+      "commonMistake": "常与“孤注一掷”对比：两者都“不留退路”，但“破釜沉舟”褒扬坚定决心与血性勇气，“孤注一掷”贬斥赌博式盲目冒险。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "破除固化的利益藩篱需要有____的勇气与壮士断腕的魄力，决不能在既得利益者的阻挠下妥协退让。",
+          "highlightClues": [
+            "破除固化的利益藩篱",
+            "壮士断腕的魄力",
+            "妥协退让"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "背水一战",
+        "孤注一掷",
+        "壮士断腕"
+      ]
+    },
+    {
+      "id": "bei_shui_yi_zhan",
+      "word": "背水一战",
+      "pinyin": "bèi shuǐ yī zhàn",
+      "frequency": 4,
+      "coreMeaning": "背靠大河摆开阵势与敌决战，比喻处于绝境或没有退路时全力以赴进行决战。",
+      "morphemeHint": {
+        "keyChar": "背水",
+        "explanation": "典出韩信井陉之战；后方是河水无处可退，突出置之死地而后生的背水奋战态势。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "决胜时刻",
+        "竞争企业",
+        "体育赛事",
+        "改革关头"
+      ],
+      "collocations": [
+        "迎来背水一战",
+        "展开背水一战",
+        "只能背水一战"
+      ],
+      "commonMistake": "“背水一战”重在客观已无退路、必须全力拼这一战，“破釜沉舟”更强调主观上主动砸碎退路下决心。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "面对市场份额持续萎缩的生死关头，这家百年老字号企业决定____，全面砍掉低效副业，集中资源研发核心新品。",
+          "highlightClues": [
+            "生死关头",
+            "全面砍掉",
+            "集中资源"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "破釜沉舟",
+        "孤注一掷",
+        "绝地反击"
+      ]
+    },
+    {
+      "id": "gong_jian_ke_nan",
+      "word": "攻坚克难",
+      "pinyin": "gōng jiān kè nán",
+      "frequency": 5,
+      "coreMeaning": "攻克坚固的堡垒、克服艰难的阻碍，指集中力量解决最棘手的核心难题。",
+      "morphemeHint": {
+        "keyChar": "坚/难",
+        "explanation": "“坚”指最顽固难攻的环节，“克”是克服；政务、科技、脱贫等书面语中最常用的高频动词性成语。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "重大工程",
+        "科研攻关",
+        "深化改革",
+        "脱贫振兴"
+      ],
+      "collocations": [
+        "攻坚克难的精神",
+        "团结一心攻坚克难",
+        "进入攻坚克难阶段"
+      ],
+      "commonMistake": "注意不要写成“攻艰克难”；“坚”是坚固的堡垒/硬骨头，不能混作“艰”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易错字形"
+      ],
+      "examples": [
+        {
+          "sentence": "面对深地钻探的超高温高压极端环境，勘探队伍发扬____的优良作风，刷新了亚洲陆上最深井钻探纪录。",
+          "highlightClues": [
+            "超高温高压极端环境",
+            "刷新了",
+            "纪录"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "迎难而上",
+        "披荆斩棘",
+        "砥砺前行"
+      ]
+    },
+    {
+      "id": "di_li_qian_xing",
+      "word": "砥砺前行",
+      "pinyin": "dǐ lì qián xíng",
+      "frequency": 5,
+      "coreMeaning": "经历磨炼而不断提升自己并坚定地向前行进。",
+      "morphemeHint": {
+        "keyChar": "砥砺",
+        "explanation": "“砥”是细磨刀石，“砺”是粗磨刀石；本义为磨刀，引申为在困难与考验中磨炼意志、奋勇向前。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "奋斗者",
+        "科研人员",
+        "国家事业",
+        "青年群体"
+      ],
+      "collocations": [
+        "不忘初心砥砺前行",
+        "在风雨中砥砺前行",
+        "砥砺前行的力量"
+      ],
+      "commonMistake": "注意字形“砥砺”（皆从石旁）；不可误用为表示“相互勉励”的并列名词，它强调在磨炼中坚持向前。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易错字形"
+      ],
+      "examples": [
+        {
+          "sentence": "回望我国载人航天工程三十年发展历程，无数科技工作者在戈壁深处与实验室里____，铸就了举世瞩目的太空丰碑。",
+          "highlightClues": [
+            "三十年发展历程",
+            "戈壁深处与实验室里",
+            "铸就"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "攻坚克难",
+        "百折不挠",
+        "披荆斩棘"
+      ]
+    },
+    {
+      "id": "yong_wang_zhi_qian",
+      "word": "勇往直前",
+      "pinyin": "yǒng wǎng zhí qián",
+      "frequency": 4,
+      "coreMeaning": "勇敢地一直向前进，形容无所畏惧、果敢奋进的态度。",
+      "morphemeHint": {
+        "keyChar": "勇/直",
+        "explanation": "毫无犹豫地笔直前行；侧重面对未知挑战或危险时积极进取的勇气。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "先锋队",
+        "青年",
+        "奋斗精神",
+        "探索行动"
+      ],
+      "collocations": [
+        "鼓舞人们勇往直前",
+        "无所畏惧勇往直前",
+        "勇往直前的劲头"
+      ],
+      "commonMistake": "比“义无反顾”更泛用，“义无反顾”强调为了道义不回头；“勇往直前”强调面对艰险勇敢向前。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "在抢险救灾一线和科技攻关前沿，广大青年骨干始终冲锋在前，以____的锐气扛起时代赋予的重担。",
+          "highlightClues": [
+            "冲锋在前",
+            "锐气",
+            "扛起时代赋予的重担"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "迎难而上",
+        "义无反顾",
+        "一往无前"
+      ]
+    },
+    {
+      "id": "li_wan_kuang_lan",
+      "word": "力挽狂澜",
+      "pinyin": "lì wǎn kuáng lán",
+      "frequency": 5,
+      "coreMeaning": "用尽全力挽回汹涌的波涛，比喻在极度危险混乱的局势下扭转乾坤、挽救危局。",
+      "morphemeHint": {
+        "keyChar": "挽/澜",
+        "explanation": "“挽”是拉回、扭转，“狂澜”是巨大的波浪；专门用于形容局势即将崩溃时靠关键力量扭转回来。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "关键人物",
+        "重大举措",
+        "宏观政策",
+        "救援行动"
+      ],
+      "collocations": [
+        "成功力挽狂澜",
+        "在危局中力挽狂澜",
+        "起到力挽狂澜的作用"
+      ],
+      "commonMistake": "语义极重！必须有“危局极其险恶、几近溃败”的前提，不能用于普通的小修小补或日常改进。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在系统性金融危机蔓延、市场信心濒临崩溃的至暗时刻，央行果断出台流动性救助一揽子方案，成功____。",
+          "highlightClues": [
+            "系统性金融危机蔓延",
+            "濒临崩溃",
+            "成功"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "扭转乾坤",
+        "转危为安",
+        "起死回生"
+      ]
+    },
+    {
+      "id": "hua_xian_wei_yi",
+      "word": "化险为夷",
+      "pinyin": "huà xiǎn wéi yí",
+      "frequency": 5,
+      "coreMeaning": "把危险的状态转化为平安的状态，指凭借智慧或果断措施平安度过危机。",
+      "morphemeHint": {
+        "keyChar": "夷",
+        "explanation": "“险”是危险，“夷”在古汉语中指平坦、平安；强调主动“化解”危险使之平复。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "险情",
+        "危机",
+        "突发故障",
+        "谈判僵局"
+      ],
+      "collocations": [
+        "成功化险为夷",
+        "几次化险为夷",
+        "化险为夷的智慧"
+      ],
+      "commonMistake": "注意“夷”指平安、平坦（不要望文生义作蛮夷）；与“转危为安”近义，但“化险为夷”更突出人为的化解动作。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对突发强对流天气导致的电网电压骤降，调度中心依托智能微网毫秒级切负荷技术，迅速让主网____。",
+          "highlightClues": [
+            "突发",
+            "电压骤降",
+            "智能微网毫秒级切负荷技术"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "转危为安",
+        "绝处逢生",
+        "逢凶化吉"
+      ]
+    },
+    {
+      "id": "zhuan_wei_wei_an",
+      "word": "转危为安",
+      "pinyin": "zhuǎn wēi wéi ān",
+      "frequency": 5,
+      "coreMeaning": "从危险的境地转化为平安的状态，形容局势或病情等脱离危险趋于稳定。",
+      "morphemeHint": {
+        "keyChar": "转",
+        "explanation": "“危”转为“安”；既可用于人为努力的结果，也可客观描述病人、局势、生态等脱离险境后的状态。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "患者",
+        "企业",
+        "生态",
+        "局势"
+      ],
+      "collocations": [
+        "终于转危为安",
+        "使局面转危为安",
+        "逐步转危为安"
+      ],
+      "commonMistake": "注意“为”读 wéi；与“化险为夷”相比，“转危为安”更偏客观结果的描述，适用于病情、经济指标、局势等。",
+      "tags": [
+        "国考高频",
+        "近义辨析",
+        "字音易错"
+      ],
+      "examples": [
+        {
+          "sentence": "经过多学科医疗团队长达七十二小时的联合精准施治，这名重症患者的各项生命体征终于趋于平稳，宣告____。",
+          "highlightClues": [
+            "重症患者",
+            "生命体征终于趋于平稳"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "化险为夷",
+        "起死回生",
+        "绝处逢生"
+      ]
+    },
+    {
+      "id": "jue_chu_feng_sheng",
+      "word": "绝处逢生",
+      "pinyin": "jué chù féng shēng",
+      "frequency": 4,
+      "coreMeaning": "在走投无路的绝境中意外重新找到生路或转机。",
+      "morphemeHint": {
+        "keyChar": "逢生",
+        "explanation": "“绝处”读 jué chù 指毫无出路的绝境，“逢”是遇到；重在原本几乎无望却奇迹般获得生机。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "濒危企业",
+        "受困人员",
+        "传统工艺",
+        "绝境项目"
+      ],
+      "collocations": [
+        "奇迹般绝处逢生",
+        "在困境中绝处逢生",
+        "令人绝处逢生"
+      ],
+      "commonMistake": "前提必须是“已经陷入绝境（几乎没有生路）”，普通小困难迎来好转不宜滥用。",
+      "tags": [
+        "省考高频",
+        "语义轻重",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "曾因传统纸媒萎缩而一度停刊的地方文化刊物，通过转型深度音频纪实和文创研学，竟在数字时代____。",
+          "highlightClues": [
+            "一度停刊",
+            "竟",
+            "数字时代"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "柳暗花明",
+        "死里逃生",
+        "转危为安"
+      ]
+    },
+    {
+      "id": "liu_an_hua_ming",
+      "word": "柳暗花明",
+      "pinyin": "liǔ àn huā míng",
+      "frequency": 5,
+      "coreMeaning": "比喻在困境或疑难迷茫中突然出现新的转机与希望。",
+      "morphemeHint": {
+        "keyChar": "暗/明",
+        "explanation": "出自陆游“山重水复疑无路，柳暗花明又一村”；前有堵塞疑无路，后现豁然开朗的希望与新境界。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研瓶颈",
+        "文艺创作",
+        "发展困局",
+        "问题解决"
+      ],
+      "collocations": [
+        "迎来柳暗花明",
+        "出现柳暗花明的转机",
+        "从山穷水尽到柳暗花明"
+      ],
+      "commonMistake": "不仅可形容自然景色，在行测中更常用于比喻“困境过后豁然出现转机”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "当科学家跳出传统化学合成路径的思维定式、改用生物酶催化法后，困扰行业十余年的工艺难题终于迎来____。",
+          "highlightClues": [
+            "跳出",
+            "思维定式",
+            "困扰行业十余年",
+            "终于迎来"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "峰回路转",
+        "绝处逢生",
+        "豁然开朗"
+      ]
+    },
+    {
+      "id": "feng_hui_lu_zhuan",
+      "word": "峰回路转",
+      "pinyin": "fēng huí lù zhuǎn",
+      "frequency": 4,
+      "coreMeaning": "比喻事情经历了曲折波澜后突然出现新的转折或转机。",
+      "morphemeHint": {
+        "keyChar": "回/转",
+        "explanation": "原出《醉翁亭记》写山路曲折盘旋，现常比喻谈判、剧情、局势在僵持曲折之后峰回转折。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "谈判局势",
+        "案件侦破",
+        "改革进程",
+        "事件走向"
+      ],
+      "collocations": [
+        "局势峰回路转",
+        "迎来峰回路转的契机",
+        "突然峰回路转"
+      ],
+      "commonMistake": "常与“柳暗花明”区分：“峰回路转”突出事件走势曲折后发生关键转折（局势变化感强），“柳暗花明”突出陷入困顿迷茫后见到光明希望。",
+      "tags": [
+        "省考高频",
+        "近义辨析",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "原本因核心条款分歧过大而几近破裂的跨国技术标准谈判，在引入第三方独立评估机制后突然____。",
+          "highlightClues": [
+            "几近破裂",
+            "引入第三方独立评估机制后",
+            "突然"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "柳暗花明",
+        "柳暗花明又一村",
+        "转危为安"
+      ]
+    },
+    {
+      "id": "pi_ji_tai_lai",
+      "word": "否极泰来",
+      "pinyin": "pǐ jí tài lái",
+      "frequency": 4,
+      "coreMeaning": "坏运或困厄到了极点，好运和顺境就会随之到来，形容逆境终将向顺境转化。",
+      "morphemeHint": {
+        "keyChar": "否",
+        "explanation": "“否”读 pǐ，是《周易》中的卦名（表闭塞、坏运），“泰”表通畅、好运；切忌把“否”误读为 fǒu。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "命运起伏",
+        "行业周期",
+        "逆境处境"
+      ],
+      "collocations": [
+        "迎来否极泰来",
+        "终将否极泰来",
+        "从低谷走向否极泰来"
+      ],
+      "commonMistake": "字音高频考点：“否”必须读 pǐ；侧重“困苦极点后的周期性转好”，不同于主动作为的“力挽狂澜”。",
+      "tags": [
+        "国考高频",
+        "字音易错",
+        "近义辨析"
+      ],
+      "examples": [
+        {
+          "sentence": "经历连续两年的产能出清与库存消化后，该周期性行业正逐步走出寒冬，有望在明年迎来____的复苏拐点。",
+          "highlightClues": [
+            "走出寒冬",
+            "有望",
+            "复苏拐点"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "柳暗花明",
+        "物极必反",
+        "绝处逢生"
+      ]
+    },
+    {
+      "id": "qi_si_hui_sheng",
+      "word": "起死回生",
+      "pinyin": "qǐ sǐ huí shēng",
+      "frequency": 4,
+      "coreMeaning": "把快要死的人救活，比喻挽救濒临绝境或衰败的事业。",
+      "morphemeHint": {
+        "keyChar": "起/回",
+        "explanation": "使濒“死”者重“生”；常用来称赞改革方案、盘活举措或修复技艺具有极强的挽救效力。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "濒危企业",
+        "传统非遗",
+        "医术",
+        "受损文物"
+      ],
+      "collocations": [
+        "让老厂起死回生",
+        "起死回生的妙方",
+        "宛如起死回生"
+      ],
+      "commonMistake": "程度较重，适用对象须原本已处于“濒临消亡、几近失败”的境地，一般波动不宜使用。",
+      "tags": [
+        "省考高频",
+        "语义轻重",
+        "语境匹配"
+      ],
+      "examples": [
+        {
+          "sentence": "通过国潮设计赋能与现代柔性供应链改造，这家曾连续亏损停产的老牌国货日化厂竟奇迹般地____。",
+          "highlightClues": [
+            "曾连续亏损停产",
+            "竟奇迹般地"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "力挽狂澜",
+        "转危为安",
+        "枯木逢春"
+      ]
+    },
+    {
+      "id": "bo_luan_fan_zheng",
+      "word": "拨乱反正",
+      "pinyin": "bō luàn fǎn zhèng",
+      "frequency": 4,
+      "coreMeaning": "消除混乱局面，使之恢复正常秩序与正确轨道。",
+      "morphemeHint": {
+        "keyChar": "拨/反",
+        "explanation": "“拨”是治理、消除，“反”同“返”，恢复；专门用于纠正长期错乱的秩序、观念或制度导向。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "历史局面",
+        "行业秩序",
+        "学术风气",
+        "价值导向"
+      ],
+      "collocations": [
+        "实现拨乱反正",
+        "起到拨乱反正的作用",
+        "对行业生态拨乱反正"
+      ],
+      "commonMistake": "语义庄重且较重，常用于纠正根本性、系统性的混乱或错误倾向，不用于琐碎日常纠错。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "监管部门连续出台多项严厉规章清理资本无序扩张与恶意刷单，为电商平台生态起到了____的关键作用。",
+          "highlightClues": [
+            "清理资本无序扩张与恶意刷单",
+            "关键作用"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "正本清源",
+        "力挽狂澜",
+        "改弦更张"
+      ]
+    },
+    {
+      "id": "jie_ze_er_yu",
+      "word": "竭泽而渔",
+      "pinyin": "jié zé ér yú",
+      "frequency": 5,
+      "coreMeaning": "排干池水来捕鱼，比喻只顾眼前利益而破坏长远资源。",
+      "morphemeHint": {
+        "keyChar": "竭",
+        "explanation": "“竭”意为使尽、排干；“泽”指池沼。连起来指不留余地地索取，不顾后续发展。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "资源开发",
+        "生态保护",
+        "经济模式",
+        "经营做法"
+      ],
+      "collocations": [
+        "切忌竭泽而渔",
+        "绝不能竭泽而渔",
+        "摒弃竭泽而渔的做法"
+      ],
+      "commonMistake": "常与“杀鸡取卵”互换误用；“竭泽而渔”偏重宏观资源开发与长远生态，“杀鸡取卵”偏重微观利益。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "推动流域生态保护必须立足长远，如果只顾短期经济收益而____，最终只会招致生态系统的全面崩溃。",
+          "highlightClues": [
+            "立足长远",
+            "只顾短期经济收益",
+            "生态系统的全面崩溃"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "杀鸡取卵",
+        "饮鸩止渴",
+        "焚林而田"
+      ]
+    },
+    {
+      "id": "sha_ji_qu_luan",
+      "word": "杀鸡取卵",
+      "pinyin": "shā jī qǔ luǎn",
+      "frequency": 5,
+      "coreMeaning": "为取鸡蛋而杀掉母鸡，比喻贪图眼前小利而损害长远利益。",
+      "morphemeHint": {
+        "keyChar": "卵",
+        "explanation": "“卵”指蛋；杀掉能持续产卵的母鸡以求一时之得，凸显目光短浅。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "投资决策",
+        "企业经营",
+        "人才使用",
+        "税收政策"
+      ],
+      "collocations": [
+        "无异于杀鸡取卵",
+        "切莫杀鸡取卵",
+        "防止杀鸡取卵式开发"
+      ],
+      "commonMistake": "多用于形容破坏可持续收益源的行为，不宜用来单纯形容“浪费时间”或“工作失误”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "部分文旅景区盲目提高门票与餐饮价格，这种____的经营方式虽然短期增收，却严重透支了城市口碑。",
+          "highlightClues": [
+            "短期增收",
+            "严重透支了城市口碑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "竭泽而渔",
+        "因小失大",
+        "急功近利"
+      ]
+    },
+    {
+      "id": "xiu_yang_sheng_xi",
+      "word": "休养生息",
+      "pinyin": "xiū yǎng shēng xī",
+      "frequency": 5,
+      "coreMeaning": "指在战乱或过度开发后减轻负担、恢复元气与生机。",
+      "morphemeHint": {
+        "keyChar": "息",
+        "explanation": "“息”指繁衍、滋长；“休养”侧重停歇调养，“生息”侧重人口与生态的恢复繁衍。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "民众",
+        "社会",
+        "自然生态",
+        "江河湖海"
+      ],
+      "collocations": [
+        "让江河休养生息",
+        "实行休养生息政策",
+        "得以休养生息"
+      ],
+      "commonMistake": "现代政论中高频用于“生态恢复”（如长江十年禁渔），不可误认为只适用于古代民生。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "实施长江十年禁渔以来，水域生态环境持续向好，珍稀水生生物种群获得了宝贵的____之机。",
+          "highlightClues": [
+            "长江十年禁渔",
+            "生态环境持续向好",
+            "珍稀水生生物种群"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "养精蓄锐",
+        "韬光养晦",
+        "百废俱兴"
+      ]
+    },
+    {
+      "id": "shan_qing_shui_xiu",
+      "word": "山清水秀",
+      "pinyin": "shān qīng shuǐ xiù",
+      "frequency": 4,
+      "coreMeaning": "形容山水风景清幽秀丽，自然生态环境优良。",
+      "morphemeHint": {
+        "keyChar": "清",
+        "explanation": "“清”指山色青翠或澄澈，“秀”指水势秀美；写“山清水秀”时多作“清”，也作“青”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "自然风光",
+        "乡村面貌",
+        "生态空间"
+      ],
+      "collocations": [
+        "山清水秀的自然风光",
+        "守住山清水秀",
+        "山清水秀、生态宜居"
+      ],
+      "commonMistake": "仅用于描绘自然山水环境，不宜用来形容“城市高楼林立”或“人品高洁”。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "经过多年的矿山复绿与流域治理，这片曾经尘土飞扬的荒坡如今重现____的动人画卷。",
+          "highlightClues": [
+            "矿山复绿",
+            "流域治理",
+            "曾经尘土飞扬"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鸟语花香",
+        "风景如画",
+        "钟灵毓秀"
+      ]
+    },
+    {
+      "id": "niao_yu_hua_xiang",
+      "word": "鸟语花香",
+      "pinyin": "niǎo yǔ huā xiāng",
+      "frequency": 3,
+      "coreMeaning": "鸟儿啼鸣、花朵飘香，形容春天或优美环境中生机盎然的景象。",
+      "morphemeHint": {
+        "keyChar": "语",
+        "explanation": "“语”指鸟鸣声，“香”指花香气；通过听觉与嗅觉侧面衬托生态环境之优美。"
+      },
+      "sentiment": "positive",
+      "intensity": "light",
+      "applicableObjects": [
+        "公园绿地",
+        "乡村庭院",
+        "春天景色"
+      ],
+      "collocations": [
+        "一片鸟语花香",
+        "重现鸟语花香",
+        "营造鸟语花香的宜居环境"
+      ],
+      "commonMistake": "语义偏轻且富有生活气息，不宜用于描绘宏大荒凉的边塞或冬季雪景。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "城市口袋公园的普及让推窗见绿成为现实，市民在家门口就能感受到____的生态福利。",
+          "highlightClues": [
+            "城市口袋公园",
+            "推窗见绿",
+            "生态福利"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "山清水秀",
+        "草长莺飞",
+        "春意盎然"
+      ]
+    },
+    {
+      "id": "cao_zhang_ying_fei",
+      "word": "草长莺飞",
+      "pinyin": "cǎo zhǎng yīng fēi",
+      "frequency": 4,
+      "coreMeaning": "绿草生长、黄莺飞舞，形容江南暮春时节生机勃勃的秀丽景色。",
+      "morphemeHint": {
+        "keyChar": "长",
+        "explanation": "“长”读 zhǎng，意为生长；源自丘迟名句，专指春日万物滋长的美好季节。"
+      },
+      "sentiment": "positive",
+      "intensity": "light",
+      "applicableObjects": [
+        "春季景色",
+        "田园风光",
+        "湿地生态"
+      ],
+      "collocations": [
+        "草长莺飞的季节",
+        "处处草长莺飞",
+        "重现草长莺飞"
+      ],
+      "commonMistake": "具有明确的季节限定（春季），若文段描写秋冬季节则属误用。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "每逢____的阳春三月，修复后的湿地公园总会迎来大批南迁北归的候鸟栖息繁衍。",
+          "highlightClues": [
+            "阳春三月",
+            "湿地公园",
+            "候鸟栖息"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鸟语花香",
+        "生机勃勃",
+        "春意融融"
+      ]
+    },
+    {
+      "id": "chun_hua_qiu_shi",
+      "word": "春华秋实",
+      "pinyin": "chūn huá qiū shí",
+      "frequency": 4,
+      "coreMeaning": "春天开花、秋天结果，比喻长期耕耘终获丰硕成果，也指文采与德行兼备。",
+      "morphemeHint": {
+        "keyChar": "华",
+        "explanation": "“华”同“花”，指春日繁花；“实”指秋日果实。行测中多喻积累后的收获。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研成果",
+        "教育事业",
+        "生态建设",
+        "文化成就"
+      ],
+      "collocations": [
+        "迎来春华秋实",
+        "春华秋实的收获",
+        "历经春华秋实"
+      ],
+      "commonMistake": "“华”易被误解为“繁华”，实指花朵；若前文无“耕耘积累”之意而强用，则显突兀。",
+      "tags": [
+        "国考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "三北防护林工程跨越近半个世纪的接续奋斗，终于在塞外荒漠迎来了____的生态巨变。",
+          "highlightClues": [
+            "跨越近半个世纪的接续奋斗",
+            "终于",
+            "生态巨变"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "硕果累累",
+        "水到渠成",
+        "厚积薄发"
+      ]
+    },
+    {
+      "id": "sheng_sheng_bu_xi",
+      "word": "生生不息",
+      "pinyin": "shēng shēng bù xī",
+      "frequency": 5,
+      "coreMeaning": "不断地生长、繁殖或延续，形容生命力与精神传承永不停歇。",
+      "morphemeHint": {
+        "keyChar": "息",
+        "explanation": "第一个“生”为产生，第二个“生”为生命；“不息”指永不停止，侧重时间上的绵延。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "自然生态",
+        "中华文明",
+        "红色基因",
+        "民族精神"
+      ],
+      "collocations": [
+        "生生不息的动力",
+        "文明生生不息",
+        "保持生生不息的活力"
+      ],
+      "commonMistake": "与“生机勃勃”不同，“生生不息”重在“代代延续、循环不断”，而非单纯“当下热闹”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "森林湿地不仅是地球的“绿肺”，更是维系生物多样性____、保障人类永续发展的生态基石。",
+          "highlightClues": [
+            "生物多样性",
+            "保障人类永续发展"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生机勃勃",
+        "薪火相传",
+        "源远流长"
+      ]
+    },
+    {
+      "id": "yu_yu_cong_cong",
+      "word": "郁郁葱葱",
+      "pinyin": "yù yù cōng cōng",
+      "frequency": 3,
+      "coreMeaning": "形容草木苍翠茂盛，也比喻气象蓬勃兴旺。",
+      "morphemeHint": {
+        "keyChar": "郁",
+        "explanation": "“郁郁”指茂盛的样子，“葱葱”指青翠之色；主要描绘植被覆盖丰茂的视觉感受。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "森林植被",
+        "山林原野",
+        "城市绿化"
+      ],
+      "collocations": [
+        "郁郁葱葱的林海",
+        "变得郁郁葱葱",
+        "郁郁葱葱的群山"
+      ],
+      "commonMistake": "主要用于草木山林，比喻抽象事业或人物神态时不如“生机勃勃”自然。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "塞罕坝林场几代建设者接力造林，将荒沙秃岭变成了一望无际、____的百万亩人工林海。",
+          "highlightClues": [
+            "接力造林",
+            "荒沙秃岭",
+            "百万亩人工林海"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生机勃勃",
+        "欣欣向荣",
+        "枝繁叶茂"
+      ]
+    },
+    {
+      "id": "bao_tian_tian_wu",
+      "word": "暴殄天物",
+      "pinyin": "bào tiǎn tiān wù",
+      "frequency": 4,
+      "coreMeaning": "任意残害、糟蹋自然界赋予的珍贵物产，后泛指肆意挥霍浪费财物。",
+      "morphemeHint": {
+        "keyChar": "殄",
+        "explanation": "“暴”意为损害，“殄”意为灭绝、糟蹋；“天物”指天然物产，绝非仅指人造物品。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "自然资源",
+        "粮食水电",
+        "文化遗产",
+        "人才"
+      ],
+      "collocations": [
+        "无异于暴殄天物",
+        "严禁暴殄天物",
+        "绝不能暴殄天物"
+      ],
+      "commonMistake": "常被误写为“暴珍天物”；其语义程度很重，用于轻微的日常疏忽会显得大词小用。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "珍稀古树名木承载着生态记忆与历史印记，任何擅自砍伐或粗暴移植的行为都是对生态瑰宝的____。",
+          "highlightClues": [
+            "珍稀古树名木",
+            "擅自砍伐",
+            "生态瑰宝"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "挥霍无度",
+        "糟蹋浪费",
+        "竭泽而渔"
+      ]
+    },
+    {
+      "id": "cun_cao_bu_sheng",
+      "word": "寸草不生",
+      "pinyin": "cùn cǎo bù shēng",
+      "frequency": 4,
+      "coreMeaning": "连一寸长的草都不生长，形容土地极度贫瘠、荒凉或生态遭到毁灭性破坏。",
+      "morphemeHint": {
+        "keyChar": "寸",
+        "explanation": "“寸”极言微小之物亦不能存活，通过夸张手法凸显荒漠化或污染后的极端惨状。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "荒漠戈壁",
+        "矿区废墟",
+        "污染土地"
+      ],
+      "collocations": [
+        "变成寸草不生之地",
+        "曾经寸草不生",
+        "一片寸草不生"
+      ],
+      "commonMistake": "仅用于描述自然土地植被绝迹的惨状，不可比喻“文化荒漠”或“经济萧条”。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "重金属尾矿库若缺乏防渗封场措施，剧毒渗滤液一旦外泄，周边的良田便可能在短时间内沦为____的死地。",
+          "highlightClues": [
+            "剧毒渗滤液一旦外泄",
+            "良田",
+            "死地"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "赤地千里",
+        "不毛之地",
+        "满目疮痍"
+      ]
+    },
+    {
+      "id": "chi_di_qian_li",
+      "word": "赤地千里",
+      "pinyin": "chì dì qiān lǐ",
+      "frequency": 3,
+      "coreMeaning": "形容大片土地因旱灾、虫灾或生态破坏而荒芜空旷，庄稼草木绝迹。",
+      "morphemeHint": {
+        "keyChar": "赤",
+        "explanation": "“赤”指光秃、空无一物（非单纯红色）；“赤地”指没有植被覆盖的裸露土地。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "灾区农田",
+        "干旱地带",
+        "生态危机"
+      ],
+      "collocations": [
+        "造成赤地千里",
+        "昔日赤地千里",
+        "赤地千里的惨象"
+      ],
+      "commonMistake": "“赤”易被望文生义误解为“红土地”或“战火烧红”，实指草木尽枯的空地。",
+      "tags": [
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "极端气候引发的持续特大干旱曾使该流域农田龟裂、____，凸显出建设高标准农田水利的紧迫性。",
+          "highlightClues": [
+            "持续特大干旱",
+            "农田龟裂",
+            "农田水利"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "寸草不生",
+        "哀鸿遍野",
+        "生灵涂炭"
+      ]
+    },
+    {
+      "id": "tian_ren_he_yi",
+      "word": "天人合一",
+      "pinyin": "tiān rén hé yī",
+      "frequency": 4,
+      "coreMeaning": "自然规律与人类社会和谐统一，体现尊重自然、顺应自然的哲学理念。",
+      "morphemeHint": {
+        "keyChar": "合",
+        "explanation": "“天”指自然界与客观规律，“人”指人类实践；强调人与自然共融而非主客对立。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "生态文明",
+        "传统文化",
+        "城市规划",
+        "建筑设计"
+      ],
+      "collocations": [
+        "蕴含天人合一的理念",
+        "秉持天人合一",
+        "天人合一的生态智慧"
+      ],
+      "commonMistake": "多用于文化阐释与生态哲学高度，日常琐事中使用会显得拔高过度。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "中国传统园林讲求依山就势、借景入园，深刻体现了古人____、道法自然的生态哲学智慧。",
+          "highlightClues": [
+            "依山就势",
+            "道法自然",
+            "生态哲学智慧"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相辅相成",
+        "休戚与共",
+        "水乳交融"
+      ]
+    },
+    {
+      "id": "sheng_ling_tu_tan",
+      "word": "生灵涂炭",
+      "pinyin": "shēng líng tú tàn",
+      "frequency": 4,
+      "coreMeaning": "百姓像陷在泥淖和炭火中一样，形容人民处于极端困苦悲惨的境地。",
+      "morphemeHint": {
+        "keyChar": "涂",
+        "explanation": "“生灵”指百姓，“涂”指泥泞，“炭”指炭火；极言战乱或苛政给人民带来的深重灾难。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "战乱年代",
+        "暴政后果",
+        "特大灾荒"
+      ],
+      "collocations": [
+        "导致生灵涂炭",
+        "免于生灵涂炭",
+        "致使生灵涂炭"
+      ],
+      "commonMistake": "语义极重，专指大规模战乱或暴政下的民众惨祸，不可用于个别企业的亏损或小挫折。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "历史上每一次大规模战乱都会导致田园荒芜、____，这更反衬出和平发展环境的来之不易。",
+          "highlightClues": [
+            "大规模战乱",
+            "田园荒芜",
+            "和平发展环境"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "水深火热",
+        "民不聊生",
+        "哀鸿遍野"
+      ]
+    },
+    {
+      "id": "man_mu_chuang_yi",
+      "word": "满目疮痍",
+      "pinyin": "mǎn mù chuāng yí",
+      "frequency": 5,
+      "coreMeaning": "放眼望去全是创伤和破坏，形容遭受战乱、灾害或污染后的破败景象。",
+      "morphemeHint": {
+        "keyChar": "疮",
+        "explanation": "“疮痍”原指刀伤创口，引申为灾后残破景象；强调视觉所及的全面毁坏。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "灾后现场",
+        "废弃矿区",
+        "战后城市",
+        "受损生态"
+      ],
+      "collocations": [
+        "一片满目疮痍",
+        "昔日满目疮痍",
+        "面对满目疮痍的景象"
+      ],
+      "commonMistake": "偏重具体可见的破败景象，不宜用于形容“制度不完善”或“思想混乱”等抽象事物。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "特大洪涝退去后，昔日繁华的乡镇一度____，但在全国救援力量驰援下很快恢复了重建秩序。",
+          "highlightClues": [
+            "特大洪涝退去后",
+            "昔日繁华",
+            "恢复了重建秩序"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "百孔千疮",
+        "断壁残垣",
+        "民生凋敝"
+      ]
+    },
+    {
+      "id": "bai_fei_dai_xing",
+      "word": "百废待兴",
+      "pinyin": "bǎi fèi dài xīng",
+      "frequency": 5,
+      "coreMeaning": "许多被废置或破坏的事业等待兴办恢复，多形容战后或灾后亟待建设的局面。",
+      "morphemeHint": {
+        "keyChar": "待",
+        "explanation": "“待”意为等待、亟需；与“百废俱兴”的关键区别在于尚未展开，处于起步之前。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "新中国初期",
+        "灾后重建",
+        "停滞后的行业"
+      ],
+      "collocations": [
+        "处于百废待兴之际",
+        "在百废待兴之时",
+        "面对百废待兴的局面"
+      ],
+      "commonMistake": "最常与“百废俱兴”混淆；“待兴”表未然（等待兴起），“俱兴”表已然（全都兴起）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "新中国成立之初，国民经济千疮百孔、____，老一辈建设者白手起家筑牢了工业体系根基。",
+          "highlightClues": [
+            "成立之初",
+            "千疮百孔",
+            "白手起家"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "百废俱兴",
+        "千疮百孔",
+        "蓄势待发"
+      ]
+    },
+    {
+      "id": "bai_fei_ju_xing",
+      "word": "百废俱兴",
+      "pinyin": "bǎi fèi jù xīng",
+      "frequency": 5,
+      "coreMeaning": "各种曾经废置的事业全都兴办起来，形容建设全面推进、蓬勃发展的景象。",
+      "morphemeHint": {
+        "keyChar": "俱",
+        "explanation": "“俱”意为全部、都；强调诸多事业已经同步恢复并兴旺发展，而非尚待开展。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革开放",
+        "灾后复苏",
+        "行业振兴",
+        "社会建设"
+      ],
+      "collocations": [
+        "迎来百废俱兴",
+        "呈现百废俱兴的新气象",
+        "百废俱兴的时代"
+      ],
+      "commonMistake": "常误用于“还没开始建设”的语境；若前文强调困境待解，应用“百废待兴”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "政策扶持与资金注入落地不到两年，这座曾经沉寂的工业老城便迅速呈现出____的复苏图景。",
+          "highlightClues": [
+            "落地不到两年",
+            "迅速呈现出",
+            "复苏图景"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "百废待兴",
+        "欣欣向荣",
+        "政通人和"
+      ]
+    },
+    {
+      "id": "an_ju_le_ye",
+      "word": "安居乐业",
+      "pinyin": "ān jū lè yè",
+      "frequency": 5,
+      "coreMeaning": "安定地生活居住，愉快地从事各自职业，形容社会太平、民生幸福。",
+      "morphemeHint": {
+        "keyChar": "乐",
+        "explanation": "“安”指住所稳固，“乐”指对生计职业感到满意；双音并列涵盖住与业两大民生核心。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "人民群众",
+        "移民群体",
+        "社区居民"
+      ],
+      "collocations": [
+        "人民安居乐业",
+        "实现安居乐业",
+        "保障群众安居乐业"
+      ],
+      "commonMistake": "主语必须是具体的“人民/百姓/群众”，不能说“经济安居乐业”或“城市安居乐业”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "易地扶贫搬迁不仅要让群众搬得出，更要通过完善就业帮扶与公共服务，确保他们稳得住、____。",
+          "highlightClues": [
+            "易地扶贫搬迁",
+            "就业帮扶",
+            "公共服务"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "丰衣足食",
+        "国泰民安",
+        "休养生息"
+      ]
+    },
+    {
+      "id": "guo_tai_min_an",
+      "word": "国泰民安",
+      "pinyin": "guó tài mín ān",
+      "frequency": 4,
+      "coreMeaning": "国家太平安定，人民安居乐业，形容国家治理良好、社会长治久安。",
+      "morphemeHint": {
+        "keyChar": "泰",
+        "explanation": "“泰”指安定、通达；兼顾国家宏观稳定与百姓微观安宁，格局宏大。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "国家",
+        "社会",
+        "盛世景象"
+      ],
+      "collocations": [
+        "祈愿国泰民安",
+        "守护国泰民安",
+        "国泰民安的盛世"
+      ],
+      "commonMistake": "属于宏观治国语境用词，不可用于形容某一家企业或某个小家庭的状况。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "健全的国家安全体系与高效的基层治理机制，正是筑牢____社会根基的关键所在。",
+          "highlightClues": [
+            "国家安全体系",
+            "基层治理机制",
+            "社会根基"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "政通人和",
+        "安居乐业",
+        "长治久安"
+      ]
+    },
+    {
+      "id": "feng_tiao_yu_shun",
+      "word": "风调雨顺",
+      "pinyin": "fēng tiáo yǔ shùn",
+      "frequency": 4,
+      "coreMeaning": "风雨及时而适量，非常适合农作物生长，比喻气候宜人或条件顺遂。",
+      "morphemeHint": {
+        "keyChar": "调",
+        "explanation": "“调”指和谐适度，“顺”指应时顺畅；本义紧扣农业气象，后偶喻外界条件顺利。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "农业生产",
+        "自然气候",
+        "丰收年份"
+      ],
+      "collocations": [
+        "祈求风调雨顺",
+        "连年风调雨顺",
+        "风调雨顺的年景"
+      ],
+      "commonMistake": "不能仅靠“风调雨顺”解释现代农业丰收时，常用于与“科技兴农”形成递进或对比。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "保障粮食安全不能单纯寄望于老天爷____，更要依靠种业振兴与农田水利筑牢防灾底线。",
+          "highlightClues": [
+            "保障粮食安全",
+            "老天爷",
+            "种业振兴"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "国泰民安",
+        "五谷丰登",
+        "物阜民丰"
+      ]
+    },
+    {
+      "id": "feng_yi_zu_shi",
+      "word": "丰衣足食",
+      "pinyin": "fēng yī zú shí",
+      "frequency": 4,
+      "coreMeaning": "穿的丰富、吃的充足，形容人们的基本物质生活富裕充实。",
+      "morphemeHint": {
+        "keyChar": "足",
+        "explanation": "“丰”指充足丰富，“足”指满足无缺；侧重衣食等物质温饱层面得到充分满足。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "百姓生活",
+        "家庭",
+        "脱贫群众"
+      ],
+      "collocations": [
+        "过上丰衣足食的日子",
+        "实现丰衣足食",
+        "丰衣足食的生活"
+      ],
+      "commonMistake": "侧重基础物质温饱，若语境强调“精神文化富足”或“社会治安良好”，则贴合度不如“安居乐业”。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "从昔日吃水难、行路难到如今家家户户____，脱贫攻坚战彻底改写了这片山区的命运底色。",
+          "highlightClues": [
+            "昔日吃水难、行路难",
+            "脱贫攻坚战"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "安居乐业",
+        "富足美满",
+        "衣食无忧"
+      ]
+    },
+    {
+      "id": "min_sheng_diao_bi",
+      "word": "民生凋敝",
+      "pinyin": "mín shēng diāo bì",
+      "frequency": 4,
+      "coreMeaning": "社会经济衰败，人民生活极其穷困艰难。",
+      "morphemeHint": {
+        "keyChar": "凋",
+        "explanation": "“凋敝”指草木凋零、生活困顿破败；专指社会层面的民众生活整体陷入困窘。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "社会状况",
+        "历史时期",
+        "战乱后经济"
+      ],
+      "collocations": [
+        "致使民生凋敝",
+        "民生凋敝的困境",
+        "改变民生凋敝局面"
+      ],
+      "commonMistake": "本身已包含“民生（人民生活）”含义，前面不可再加“人民的民生凋敝”，以免重复累赘。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "晚清时期外患频仍、内政腐败，导致国库空虚、____，社会矛盾积重难返。",
+          "highlightClues": [
+            "外患频仍、内政腐败",
+            "国库空虚",
+            "社会矛盾"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "民不聊生",
+        "水深火热",
+        "满目疮痍"
+      ]
+    },
+    {
+      "id": "shui_shen_huo_re",
+      "word": "水深火热",
+      "pinyin": "shuǐ shēn huǒ rè",
+      "frequency": 4,
+      "coreMeaning": "像处在大水淹没、烈火焚烧之中，比喻人民生活极其痛苦悲惨。",
+      "morphemeHint": {
+        "keyChar": "深",
+        "explanation": "水越来越深、火越来越热，形象描绘民众在压迫与苦难中毫无喘息之机。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "受压迫民众",
+        "战乱地区",
+        "苦难群体"
+      ],
+      "collocations": [
+        "处于水深火热之中",
+        "拯救于水深火热",
+        "在水深火热中挣扎"
+      ],
+      "commonMistake": "语义极重，仅指深受压迫或战乱的苦难境地，不可用来调侃日常工作忙碌或学习辛苦。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "地区冲突的持续升级令当地平民长期挣扎在____的境地，人道主义救援通道亟待畅通。",
+          "highlightClues": [
+            "地区冲突",
+            "平民",
+            "人道主义救援"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生灵涂炭",
+        "民不聊生",
+        "苦不堪言"
+      ]
+    },
+    {
+      "id": "yuan_sheng_zai_dao",
+      "word": "怨声载道",
+      "pinyin": "yuàn shēng zài dào",
+      "frequency": 5,
+      "coreMeaning": "怨恨的声音充满道路，形容广大群众对恶劣政策或行为普遍不满。",
+      "morphemeHint": {
+        "keyChar": "载",
+        "explanation": "“载”意为充满、满载；强调不满情绪已从私下蔓延至公开且范围极广。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "民众情绪",
+        "社会舆论",
+        "政策恶果"
+      ],
+      "collocations": [
+        "引发怨声载道",
+        "弄得怨声载道",
+        "百姓怨声载道"
+      ],
+      "commonMistake": "施动者必须是“广大群众/民众”，不可用于形容“个别员工私下抱怨”或“一个人”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "部分地方政府在推进改造时搞“一刀切”，忽视居民实际诉求，结果不仅没办成好事，反而弄得____。",
+          "highlightClues": [
+            "搞“一刀切”",
+            "忽视居民实际诉求",
+            "没办成好事"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "人声鼎沸",
+        "众怒难犯",
+        "人心惶惶"
+      ]
+    },
+    {
+      "id": "ai_hong_bian_ye",
+      "word": "哀鸿遍野",
+      "pinyin": "āi hóng biàn yě",
+      "frequency": 4,
+      "coreMeaning": "比喻在天灾人祸中流离失所、悲苦呻吟的灾民到处都是。",
+      "morphemeHint": {
+        "keyChar": "鸿",
+        "explanation": "“哀鸿”指悲鸣的大雁，古典诗文中常喻指无家可归、流离失所的饥民与灾民。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "灾荒年代",
+        "战乱流民",
+        "社会惨象"
+      ],
+      "collocations": [
+        "呈现哀鸿遍野的惨状",
+        "昔日哀鸿遍野",
+        "灾区哀鸿遍野"
+      ],
+      "commonMistake": "“哀鸿”专门比喻流离失所的“灾民”，而非普通失败者，不可用于形容股市下跌或考试失利。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在缺乏现代防灾体系的古代社会，每逢大旱大涝往往便是赤地千里、____，民生安全毫无保障。",
+          "highlightClues": [
+            "缺乏现代防灾体系",
+            "大旱大涝",
+            "赤地千里"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "生灵涂炭",
+        "流离失所",
+        "民不聊生"
+      ]
+    },
+    {
+      "id": "min_bu_liao_sheng",
+      "word": "民不聊生",
+      "pinyin": "mín bù liáo shēng",
+      "frequency": 4,
+      "coreMeaning": "老百姓无以为生，活不下去，形容人民生活陷入绝境。",
+      "morphemeHint": {
+        "keyChar": "聊",
+        "explanation": "“聊”意为依赖、凭借（注意并非“聊天”）；“不聊生”指没有赖以维持生存的条件。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "旧社会",
+        "战乱地区",
+        "苛政后果"
+      ],
+      "collocations": [
+        "弄得民不聊生",
+        "导致民不聊生",
+        "百姓民不聊生"
+      ],
+      "commonMistake": "“民”已包含百姓，不可再说“百姓民不聊生”造成语意重复；也常误解“聊”的意思。",
+      "tags": [
+        "省考高频",
+        "易望文生义",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "军阀混战、苛捐杂税叠加的年代，底层劳动者终年劳作仍难果腹，可谓到了____的境地。",
+          "highlightClues": [
+            "军阀混战",
+            "苛捐杂税",
+            "仍难果腹"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "民生凋敝",
+        "生灵涂炭",
+        "水深火热"
+      ]
+    },
+    {
+      "id": "dian_pei_liu_li",
+      "word": "颠沛流离",
+      "pinyin": "diān pèi liú lí",
+      "frequency": 4,
+      "coreMeaning": "生活艰难困顿，到处流浪飘零、没有固定安身之处。",
+      "morphemeHint": {
+        "keyChar": "沛",
+        "explanation": "“颠沛”指跌倒困顿、遭受挫折，“流离”指离散飘泊；兼指处境艰难与居无定所。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "难民",
+        "战乱百姓",
+        "历史人物"
+      ],
+      "collocations": [
+        "过着颠沛流离的生活",
+        "沦落至颠沛流离",
+        "颠沛流离的岁月"
+      ],
+      "commonMistake": "多形容人因战乱灾祸而长期辗转流浪，偶尔也可拟人化形容珍贵文物，但不宜形容正常出差。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "抗战时期大批高校师生携带图书仪器西迁，虽一路____、条件艰苦，却始终坚守学术火种。",
+          "highlightClues": [
+            "西迁",
+            "条件艰苦",
+            "坚守学术火种"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "流离失所",
+        "背井离乡",
+        "风餐露宿"
+      ]
+    },
+    {
+      "id": "liu_li_shi_suo",
+      "word": "流离失所",
+      "pinyin": "liú lí shī suǒ",
+      "frequency": 4,
+      "coreMeaning": "因灾祸或战乱失去安身立命之所，到处流浪漂泊。",
+      "morphemeHint": {
+        "keyChar": "所",
+        "explanation": "“所”指住所、安身之处；强调失去固定居所这一客观后果，常与安置政策对照。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "受灾群众",
+        "战乱难民",
+        "拆迁问题"
+      ],
+      "collocations": [
+        "导致群众流离失所",
+        "避免民众流离失所",
+        "流离失所的难民"
+      ],
+      "commonMistake": "强调“失去住所无家可归”，如果仅仅是主动外出打工或旅游，不能使用该词。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "地震发生后，应急部门连夜调运帐篷与救灾物资，迅速妥善安置受灾群众，绝不让一人____。",
+          "highlightClues": [
+            "地震发生后",
+            "调运帐篷",
+            "妥善安置受灾群众"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "颠沛流离",
+        "无家可归",
+        "安土重迁"
+      ]
+    },
+    {
+      "id": "guang_ming_lei_luo",
+      "word": "光明磊落",
+      "pinyin": "guāng míng lěi luò",
+      "frequency": 5,
+      "coreMeaning": "形容胸怀坦白、心地纯正，行事毫无私心与不可告人之处。",
+      "morphemeHint": {
+        "keyChar": "磊",
+        "explanation": "“磊落”原指石头众多坦荡之貌，引申为胸怀坦荡正大，毫无阴暗隐秘。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人物品格",
+        "处事态度",
+        "作风"
+      ],
+      "collocations": [
+        "为人光明磊落",
+        "行事光明磊落",
+        "光明磊落的品格"
+      ],
+      "commonMistake": "多用于形容人的心胸与品行作风，不宜直接用来修饰“规则条文”或“房间采光”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "党员干部在面对监督与质疑时应当保持____的坦荡姿态，自觉将权力置于阳光之下运行。",
+          "highlightClues": [
+            "面对监督与质疑",
+            "坦荡姿态",
+            "置于阳光之下"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "襟怀坦白",
+        "坦坦荡荡",
+        "正大光明"
+      ]
+    },
+    {
+      "id": "jin_huai_tan_bai",
+      "word": "襟怀坦白",
+      "pinyin": "jīn huái tǎn bái",
+      "frequency": 4,
+      "coreMeaning": "心胸开阔诚实，思想态度纯正无私，不掩饰、不隐瞒。",
+      "morphemeHint": {
+        "keyChar": "襟",
+        "explanation": "“襟怀”指胸怀、抱负；“坦白”在此指真诚直率、毫无私心，而非坦白罪行。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "党员干部",
+        "知识分子",
+        "交友之道"
+      ],
+      "collocations": [
+        "襟怀坦白的君子",
+        "做到襟怀坦白",
+        "对党襟怀坦白"
+      ],
+      "commonMistake": "“坦白”在现代口语中常带交代过错义，但在“襟怀坦白”中纯为高度褒义。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "真正的学术讨论应当建立在____、实事求是的基础上，既勇于坚持真理，也敢于修正错误。",
+          "highlightClues": [
+            "学术讨论",
+            "实事求是",
+            "修正错误"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "光明磊落",
+        "开诚布公",
+        "问心无愧"
+      ]
+    },
+    {
+      "id": "wen_xin_wu_kui",
+      "word": "问心无愧",
+      "pinyin": "wèn xīn wú kuì",
+      "frequency": 4,
+      "coreMeaning": "扪心自问没有任何惭愧之处，形容做事坦荡尽责、合乎道义。",
+      "morphemeHint": {
+        "keyChar": "愧",
+        "explanation": "“愧”指惭愧悔恨；强调经过自我道德审视后的坦然与无憾，主语为人。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人操守",
+        "履职尽责",
+        "晚年回顾"
+      ],
+      "collocations": [
+        "做到问心无愧",
+        "俯仰之间问心无愧",
+        "对得起群众、问心无愧"
+      ],
+      "commonMistake": "偏重主观自我审视后的无憾感，若文段强调“客观结果圆满成功”则不宜用此词。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "无论身处何种岗位，只要脚踏实地把每一件民生小事办实办好，就能在岁月检验中做到____。",
+          "highlightClues": [
+            "脚踏实地",
+            "办实办好",
+            "岁月检验"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "光明磊落",
+        "心安理得",
+        "当之无愧"
+      ]
+    }
+  ]
+}

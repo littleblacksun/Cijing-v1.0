@@ -1,0 +1,2124 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "seng_duo_zhou_shao",
+      "word": "僧多粥少",
+      "pinyin": "sēng duō zhōu shǎo",
+      "frequency": 4,
+      "coreMeaning": "和尚多而稀饭少，比喻需求的人或单位多而资源稀少，不够分配。",
+      "morphemeHint": {
+        "keyChar": "粥",
+        "explanation": "直接点出“分配主体多、可分资源少”的供需失衡与分配矛盾。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "名额",
+        "资金",
+        "资源",
+        "岗位"
+      ],
+      "collocations": [
+        "面临僧多粥少的局面",
+        "缓解僧多粥少"
+      ],
+      "commonMistake": "偏重“分配比例失衡导致竞争激烈或不够分”，若仅指市场商品脱销则宜用“供不应求”。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "优质公立普惠托育学位长期处于____状态，客观上推高了年轻家庭的育儿成本，亟需加快扩容增量。",
+          "highlightClues": [
+            "优质公立普惠托育学位",
+            "加快扩容增量"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "供不应求",
+        "捉襟见肘"
+      ]
+    },
+    {
+      "id": "gong_bu_ying_qiu",
+      "word": "供不应求",
+      "pinyin": "gōng bù yìng qiú",
+      "frequency": 4,
+      "coreMeaning": "供给不能满足需求，形容产品、服务或人才市场需求旺盛而数量短缺。",
+      "morphemeHint": {
+        "keyChar": "应",
+        "explanation": "“应”读 yìng，意为满足、应付；标准经济学术语式成语，适用市场与公共服务供给。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "产品",
+        "芯片",
+        "人才",
+        "学位"
+      ],
+      "collocations": [
+        "长期供不应求",
+        "市场供不应求"
+      ],
+      "commonMistake": "不能反写成“求不应供”，且强调“产需之间存在缺口”，不用于形容无人问津。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "伴随全球算力需求爆发式增长，高端人工智能芯片产能持续吃紧，市场一度出现____的局面。",
+          "highlightClues": [
+            "算力需求爆发式增长",
+            "产能持续吃紧",
+            "市场"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "僧多粥少",
+        "门庭若市"
+      ]
+    },
+    {
+      "id": "liao_sheng_yu_wu",
+      "word": "聊胜于无",
+      "pinyin": "liáo shèng yú wú",
+      "frequency": 4,
+      "coreMeaning": "姑且比完全没有稍微好一点儿，形容成效、数量或帮助非常有限。",
+      "morphemeHint": {
+        "keyChar": "聊",
+        "explanation": "“聊”意为姑且、勉强；常带有一丝无奈或批评微弱成效之意。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "补贴",
+        "措施",
+        "进展",
+        "回报"
+      ],
+      "collocations": [
+        "不过聊胜于无",
+        "作用聊胜于无"
+      ],
+      "commonMistake": "带有“虽然有但太少了、不理想”的评价色彩，不可当作纯粹的正面夸赞使用。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "如果不从源头上规范平台算法定价，仅仅依靠事后小额优惠券进行补偿，对保障劳动者权益而言往往只是____。",
+          "highlightClues": [
+            "不从源头上规范",
+            "事后小额优惠券"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "微乎其微",
+        "杯水车薪"
+      ]
+    },
+    {
+      "id": "tan_wan_zhi_di",
+      "word": "弹丸之地",
+      "pinyin": "dàn wán zhī dì",
+      "frequency": 5,
+      "coreMeaning": "像弹丸那样小的地盘，形容区域、国土或场地面积极其狭小。",
+      "morphemeHint": {
+        "keyChar": "弹",
+        "explanation": "“弹”读 dàn，指弹弓用的泥丸或枪弹；专指地域面积狭小，常用于地理或历史对比。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "地区",
+        "小国",
+        "岛屿",
+        "城区"
+      ],
+      "collocations": [
+        "固守弹丸之地",
+        "虽为弹丸之地"
+      ],
+      "commonMistake": "注意“弹”不读 tán；只修饰“土地、地域”，不能用来形容房间狭小或心胸狭窄。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "新加坡虽是国土面积仅七百余平方公里的____，却凭借自由港优势与高效治理成长为全球重要航运与金融枢纽。",
+          "highlightClues": [
+            "国土面积仅七百余平方公里",
+            "全球重要航运与金融枢纽"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "立锥之地",
+        "偏安一隅"
+      ]
+    },
+    {
+      "id": "yi_xi_zhi_di",
+      "word": "一席之地",
+      "pinyin": "yī xí zhī dì",
+      "frequency": 5,
+      "coreMeaning": "放一张席子的地方，比喻在某个领域、市场或历史中占有的微薄或重要地位。",
+      "morphemeHint": {
+        "keyChar": "席",
+        "explanation": "“席”指坐席；在行测中极少指物理土地，几乎都喻指“竞争中的位置或份额”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "市场",
+        "行业",
+        "文坛",
+        "国际舞台"
+      ],
+      "collocations": [
+        "占有一席之地",
+        "赢得一席之地"
+      ],
+      "commonMistake": "常与“立锥之地”混淆：“一席之地”重在比喻“地位、份额”；“立锥之地”重在形容“处境极困窘或面积极小”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "国产科幻影视作品唯有扎根中华文化沃土并打磨工业化制作水准，才能在世界影视版图中真正赢得____。",
+          "highlightClues": [
+            "世界影视版图",
+            "真正赢得"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "立锥之地",
+        "举足轻重"
+      ]
+    },
+    {
+      "id": "li_zhui_zhi_di",
+      "word": "立锥之地",
+      "pinyin": "lì zhuī zhī dì",
+      "frequency": 4,
+      "coreMeaning": "插得下一根锥子的地方，形容极小的一块地方，多用于否定表示毫无容身之处。",
+      "morphemeHint": {
+        "keyChar": "锥",
+        "explanation": "锥尖极细，连锥尖都站不住（常与“无”连用：无立锥之地），极言贫穷或空间逼仄。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "空间",
+        "居住地",
+        "生存空间",
+        "市场空间"
+      ],
+      "collocations": [
+        "无立锥之地",
+        "连立锥之地都没有"
+      ],
+      "commonMistake": "多用于否定句“无立锥之地”，若表达“在行业中争取地位”应选“一席之地”。",
+      "tags": [
+        "省考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "随着平台监管规则不断织密，过去靠刷单炒信、制假售假野蛮生长的灰色产业链在市场上已渐趋____。",
+          "highlightClues": [
+            "监管规则不断织密",
+            "灰色产业链",
+            "已渐趋无"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一席之地",
+        "弹丸之地"
+      ]
+    },
+    {
+      "id": "pian_an_yi_yu",
+      "word": "偏安一隅",
+      "pinyin": "piān ān yī yú",
+      "frequency": 4,
+      "coreMeaning": "在局部小区域暂保安定而不思进取，形容格局狭小、缺乏全局视野。",
+      "morphemeHint": {
+        "keyChar": "隅",
+        "explanation": "“隅”指角落；原指割据政权苟安南方，现常引申指企业或地方局限于本地市场。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政权",
+        "企业",
+        "产业",
+        "文化视角"
+      ],
+      "collocations": [
+        "切忌偏安一隅",
+        "不能满足于偏安一隅"
+      ],
+      "commonMistake": "含消极贬义（安于现状、不图拓展），不可用于褒扬地方静谧安宁。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对全国统一大市场建设的时代浪潮，区域特色产业不能满足于在本地市场____，而要主动融入全球产业链。",
+          "highlightClues": [
+            "全国统一大市场",
+            "不能满足于在本地市场",
+            "主动融入"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "弹丸之地",
+        "画地为牢"
+      ]
+    },
+    {
+      "id": "guang_mao_wu_yin",
+      "word": "广袤无垠",
+      "pinyin": "guǎng mào wú yín",
+      "frequency": 4,
+      "coreMeaning": "土地或空间极其辽阔宽广，望不到边界，形容空间尺度宏大。",
+      "morphemeHint": {
+        "keyChar": "袤",
+        "explanation": "东西为“广”，南北为“袤”，“无垠”即没有边际，多形容大地、草原、宇宙或海洋。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "疆域",
+        "戈壁",
+        "宇宙",
+        "海域"
+      ],
+      "collocations": [
+        "广袤无垠的大地",
+        "广袤无垠的星空"
+      ],
+      "commonMistake": "注意“袤”读 mào；侧重二维或三维的宏大物理空间，不可修饰抽象的时间或学识。",
+      "tags": [
+        "省考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在____的塔克拉玛干沙漠腹地，一座座光伏电站与一条条锁边林带正合力编织着绿色能源与生态屏障。",
+          "highlightClues": [
+            "塔克拉玛干沙漠腹地",
+            "光伏电站",
+            "锁边林带"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一望无际",
+        "浩瀚无边"
+      ]
+    },
+    {
+      "id": "yi_wang_wu_ji",
+      "word": "一望无际",
+      "pinyin": "yī wàng wú jì",
+      "frequency": 4,
+      "coreMeaning": "一眼望去看不见边际，形容平原、水面、田野或森林等极其辽阔。",
+      "morphemeHint": {
+        "keyChar": "望",
+        "explanation": "从视觉“一眼望去”出发强调开阔无边，画面感比“广袤无垠”更平实。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "农田",
+        "草原",
+        "海面",
+        "林海"
+      ],
+      "collocations": [
+        "一望无际的麦田",
+        "一望无际的草原"
+      ],
+      "commonMistake": "仅用于视觉可及的开阔平面景观，不可用于形容深邃的洞穴或思想境界。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "金秋十月，三江平原上____的稻田泛起金色波浪，大型联合收割机穿梭其间，绘就丰收画卷。",
+          "highlightClues": [
+            "三江平原",
+            "稻田泛起金色波浪"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "广袤无垠",
+        "漫山遍野"
+      ]
+    },
+    {
+      "id": "jin_zai_zhi_chi",
+      "word": "近在咫尺",
+      "pinyin": "jìn zài zhǐ chǐ",
+      "frequency": 5,
+      "coreMeaning": "距离就在八寸或一尺之内，形容物理距离或目标节点非常接近。",
+      "morphemeHint": {
+        "keyChar": "咫",
+        "explanation": "周制八寸为“咫”，十寸为“尺”；既可指空间极近，也可比喻目标即将实现。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "距离",
+        "目标",
+        "危机",
+        "未来"
+      ],
+      "collocations": [
+        "看似近在咫尺",
+        "胜利近在咫尺"
+      ],
+      "commonMistake": "常与“咫尺天涯”混淆：前者强调真得很近，后者转折强调虽近却难相通。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "核聚变发电的商业化门槛一度看似____，但等离子体稳态约束的工程难题仍提醒科学界需保持审慎与耐心。",
+          "highlightClues": [
+            "看似",
+            "工程难题仍提醒……需保持审慎"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "触手可及",
+        "咫尺天涯"
+      ]
+    },
+    {
+      "id": "chu_shou_ke_ji",
+      "word": "触手可及",
+      "pinyin": "chù shǒu kě jí",
+      "frequency": 5,
+      "coreMeaning": "一伸手就能碰到，形容距离极近，或服务、技术、机遇极易获取体验。",
+      "morphemeHint": {
+        "keyChar": "触",
+        "explanation": "“触手”凸显伸手可及的便利感与可感性，行测中常形容公共服务或数字技术贴近生活。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "服务",
+        "知识",
+        "风景",
+        "梦想"
+      ],
+      "collocations": [
+        "变得触手可及",
+        "让优质医疗触手可及"
+      ],
+      "commonMistake": "不可与“唾手可得”混同：“触手可及”侧重距离近、方便感知或使用，“唾手可得”侧重不费力就能得到。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "数字博物馆打破了时空阻隔，让原本深藏于库房的国宝文物化作屏幕上____的高清三维影像。",
+          "highlightClues": [
+            "打破了时空阻隔",
+            "屏幕上",
+            "高清三维影像"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "近在咫尺",
+        "唾手可得"
+      ]
+    },
+    {
+      "id": "zhi_chi_tian_ya",
+      "word": "咫尺天涯",
+      "pinyin": "zhǐ chǐ tiān yá",
+      "frequency": 4,
+      "coreMeaning": "距离虽然很近，却像隔在天边一样难以相见或沟通，形容隔阂之深。",
+      "morphemeHint": {
+        "keyChar": "涯",
+        "explanation": "“咫尺”与“天涯”形成强烈反差，重点落脚在“心理、机制或沟通上的遥远隔阂”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人际关系",
+        "数据孤岛",
+        "城乡文化",
+        "邻里"
+      ],
+      "collocations": [
+        "却如咫尺天涯",
+        "沦为咫尺天涯"
+      ],
+      "commonMistake": "望文生义易误以为只是指物理距离，其实核心是“身近而心远”或“物理相邻却无法连通”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "部分政务系统各自为政、互不兼容，同一栋楼里的窗口数据竟陷入____的窘境，让办事群众多头跑路。",
+          "highlightClues": [
+            "各自为政、互不兼容",
+            "同一栋楼里",
+            "多头跑路"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "近在咫尺",
+        "遥不可及"
+      ]
+    },
+    {
+      "id": "yao_bu_ke_ji",
+      "word": "遥不可及",
+      "pinyin": "yáo bù kě jí",
+      "frequency": 5,
+      "coreMeaning": "非常遥远而不可企及，形容空间极远或目标、理想难以实现。",
+      "morphemeHint": {
+        "keyChar": "遥",
+        "explanation": "“遥”指路途远或差距大；不仅远，且强调“无法达到”，常与“曾几何时”构成对比。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "星辰",
+        "目标",
+        "梦想",
+        "技术前沿"
+      ],
+      "collocations": [
+        "看似遥不可及",
+        "曾经遥不可及"
+      ],
+      "commonMistake": "常与“望尘莫及”混淆：“遥不可及”重在距离/目标太远够不到；“望尘莫及”重在实力差距大追不上领先者。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "曾被视作____的量子计算实用化探索，如今正随着纠错码理论与超导比特技术的突破逐步走向现实。",
+          "highlightClues": [
+            "曾被视作",
+            "逐步走向现实"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "望尘莫及",
+        "鞭长莫及"
+      ]
+    },
+    {
+      "id": "wang_chen_mo_ji",
+      "word": "望尘莫及",
+      "pinyin": "wàng chén mò jí",
+      "frequency": 5,
+      "coreMeaning": "望着前面人马扬起的尘土却追赶不上，比喻实力或水平远远落后。",
+      "morphemeHint": {
+        "keyChar": "尘",
+        "explanation": "“莫及”意为赶不上；必须存在明确的“追赶者与领先者”对比关系。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "竞争对手",
+        "水平",
+        "速度",
+        "业绩"
+      ],
+      "collocations": [
+        "令对手望尘莫及",
+        "让人望尘莫及"
+      ],
+      "commonMistake": "高频陷阱：与“鞭长莫及”仅一字之差。“望尘莫及”指水平差距太大追不上；“鞭长莫及”指距离太远管不到。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "他在敦煌壁画临摹领域深耕四十余载，其线条功力与对古人神韵的把握已臻化境，令后来者____。",
+          "highlightClues": [
+            "深耕四十余载",
+            "已臻化境",
+            "后来者"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鞭长莫及",
+        "遥不可及"
+      ]
+    },
+    {
+      "id": "bian_chang_mo_ji",
+      "word": "鞭长莫及",
+      "pinyin": "biān cháng mò jí",
+      "frequency": 5,
+      "coreMeaning": "马鞭虽长却打不到马肚子，比喻距离过远或权限有限而无力管辖。",
+      "morphemeHint": {
+        "keyChar": "鞭",
+        "explanation": "原指管辖范围超出力量所及之处，核心语义是“管控力或影响达不到”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "监管",
+        "治理",
+        "权力",
+        "政策覆盖"
+      ],
+      "collocations": [
+        "监管鞭长莫及",
+        "往往鞭长莫及"
+      ],
+      "commonMistake": "常与“望尘莫及”混淆：“鞭长莫及”指相隔太远而力不能及（管不到），不是水平落后（追不上）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "跨境电商贸易链条横跨多个法域，传统属地监管模式在面对海外平台违规行为时常常显得____。",
+          "highlightClues": [
+            "横跨多个法域",
+            "传统属地监管模式",
+            "海外平台"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "望尘莫及",
+        "遥不可及"
+      ]
+    },
+    {
+      "id": "yi_bu_zhi_yao",
+      "word": "一步之遥",
+      "pinyin": "yī bù zhī yáo",
+      "frequency": 4,
+      "coreMeaning": "只差一步的距离，形容与成功、目标或边界之间相距极其微小。",
+      "morphemeHint": {
+        "keyChar": "遥",
+        "explanation": "“遥”指距离；“一步”与“遥”反衬，既可指物理极近，也常喻关键的临门一脚。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "目标",
+        "成功",
+        "突破",
+        "底线"
+      ],
+      "collocations": [
+        "仅一步之遥",
+        "只有一步之遥"
+      ],
+      "commonMistake": "强调“只差最后一点距离”，不可用来形容遥远漫长的征程。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "从实验室样机验证走向大规模商业量产看似只有____，实则要跨越良率控制、成本压降与供应链磨合等多重难关。",
+          "highlightClues": [
+            "看似只有",
+            "实则要跨越……多重难关"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "近在咫尺",
+        "咫尺天涯"
+      ]
+    },
+    {
+      "id": "tuo_shou_ke_de",
+      "word": "唾手可得",
+      "pinyin": "tuò shǒu kě dé",
+      "frequency": 4,
+      "coreMeaning": "往手上吐口唾沫就能拿取，形容极容易、毫不费力地就能得到。",
+      "morphemeHint": {
+        "keyChar": "唾",
+        "explanation": "“唾手”指往手里吐唾沫准备干活，喻指行动极其轻松就能达成目标。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "成功",
+        "成果",
+        "胜利",
+        "机会"
+      ],
+      "collocations": [
+        "并非唾手可得",
+        "胜利唾手可得"
+      ],
+      "commonMistake": "常与“触手可及”混用：“唾手可得”重在“极易取得（不费力）”，“触手可及”重在“距离极近”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "核心关键技术从来不是____的便宜买卖，唯有坐得住冷板凳、持续投入基础研发，才能把创新主动权握在手中。",
+          "highlightClues": [
+            "从来不是",
+            "坐得住冷板凳",
+            "持续投入基础研发"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "触手可及",
+        "一蹴而就"
+      ]
+    },
+    {
+      "id": "ye_yi_ji_ri",
+      "word": "夜以继日",
+      "pinyin": "yè yǐ jì rì",
+      "frequency": 5,
+      "coreMeaning": "用夜晚的时间接续白天的劳作，形容日夜不停地加紧工作或学习。",
+      "morphemeHint": {
+        "keyChar": "继",
+        "explanation": "“继”指接续；以夜继日，突出时间利用的连续性与攻关、抢险的紧迫感。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "科研攻关",
+        "抢险救灾",
+        "建设者",
+        "备考"
+      ],
+      "collocations": [
+        "夜以继日地攻关",
+        "夜以继日地奋战"
+      ],
+      "commonMistake": "易错写成“日以继夜”混用（虽也有“日以继夜”，但标准常用“夜以继日”）；多偏褒义或中性勤奋，不适合悠闲活动。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "科研团队在高原实验站____地调试观测设备，历经数百次参数校准后，终于捕捉到清晰稳定的天文信号。",
+          "highlightClues": [
+            "调试观测设备",
+            "历经数百次参数校准"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "废寝忘食",
+        "孜孜不倦"
+      ]
+    },
+    {
+      "id": "qian_zai_nan_feng",
+      "word": "千载难逢",
+      "pinyin": "qiān zǎi nán féng",
+      "frequency": 5,
+      "coreMeaning": "一千年里也难以遇到一次，形容机遇极其难得、罕见而宝贵。",
+      "morphemeHint": {
+        "keyChar": "载",
+        "explanation": "“载”读 zǎi，指年；“逢”指遇到；多搭配“机遇、良机、契机”等积极对象。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "历史机遇",
+        "发展契机",
+        "天象奇观",
+        "机缘"
+      ],
+      "collocations": [
+        "千载难逢的机遇",
+        "千载难逢的良机"
+      ],
+      "commonMistake": "注意“载”读 zǎi；含褒义或珍视意味，不可用来形容灾难、危机或恶性事件。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "新一轮科技革命与产业变革同我国加快转变经济发展方式形成历史性交汇，为我们创造了____的时代机遇。",
+          "highlightClues": [
+            "历史性交汇",
+            "时代机遇"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "百年不遇",
+        "绝无仅有"
+      ]
+    },
+    {
+      "id": "bai_nian_bu_yu",
+      "word": "百年不遇",
+      "pinyin": "bǎi nián bù yù",
+      "frequency": 4,
+      "coreMeaning": "一百年都很难遇到一次，形容极少见、极罕见的重大事件或异常情况。",
+      "morphemeHint": {
+        "keyChar": "遇",
+        "explanation": "侧重事件发生的低概率与罕见度，既可用于重大机遇，也常用于极端天气或变局。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "特大暴雨",
+        "历史变局",
+        "盛会",
+        "奇观"
+      ],
+      "collocations": [
+        "遭遇百年不遇的洪水",
+        "百年不遇的盛况"
+      ],
+      "commonMistake": "与“千载难逢”不同，“百年不遇”中性，可用于自然灾害；“千载难逢”则偏重珍贵良机。",
+      "tags": [
+        "省考高频",
+        "褒贬易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "近年来全球气候变化加剧，过去所谓“____”的极端强降雨与持续高温热浪在多地频繁突破历史极值。",
+          "highlightClues": [
+            "极端强降雨与持续高温热浪",
+            "突破历史极值"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "千载难逢",
+        "前所未有"
+      ]
+    },
+    {
+      "id": "qian_suo_wei_you",
+      "word": "前所未有",
+      "pinyin": "qián suǒ wèi yǒu",
+      "frequency": 5,
+      "coreMeaning": "从前从来没有过的，形容事物在规模、程度、意义上处于历史最高或最新水平。",
+      "morphemeHint": {
+        "keyChar": "前",
+        "explanation": "只向过去回溯比较（以前没有过），不限制未来是否会出现，语境适配面极广。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "机遇",
+        "挑战",
+        "规模",
+        "变革"
+      ],
+      "collocations": [
+        "迎来前所未有的机遇",
+        "面临前所未有的挑战"
+      ],
+      "commonMistake": "常与“空前绝后”混淆：“前所未有”只管过去；“空前绝后”还断定未来也不会再有。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "当前全球人工智能治理面临着技术演进速度与制度供给周期错位的____挑战，亟待各国携手凝聚共识。",
+          "highlightClues": [
+            "技术演进速度与制度供给周期错位",
+            "挑战"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "史无前例",
+        "空前绝后"
+      ]
+    },
+    {
+      "id": "shi_wu_qian_li",
+      "word": "史无前例",
+      "pinyin": "shǐ wú qián lì",
+      "frequency": 5,
+      "coreMeaning": "历史上从来没有过先例，形容规模、壮举或事件在历史记载中首次出现。",
+      "morphemeHint": {
+        "keyChar": "例",
+        "explanation": "“史”强调历史尺度，“例”指先例；通常修饰宏大的工程、改革、危机或成就。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "工程",
+        "变革",
+        "危机",
+        "突破"
+      ],
+      "collocations": [
+        "史无前例的壮举",
+        "规模史无前例"
+      ],
+      "commonMistake": "语义极为厚重，不可用于修饰个人日常琐事或小规模尝试，避免大词小用。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "嫦娥六号任务实现了人类历史上首次月球背面采样返回，这一____的航天壮举为月幔演化研究开启全新窗口。",
+          "highlightClues": [
+            "人类历史上首次",
+            "航天壮举"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "前所未有",
+        "空前绝后"
+      ]
+    },
+    {
+      "id": "kong_qian_jue_hou",
+      "word": "空前绝后",
+      "pinyin": "kōng qián jué hòu",
+      "frequency": 4,
+      "coreMeaning": "从前没有过，今后也不会再有，形容成就、盛况或事物达到极致水平。",
+      "morphemeHint": {
+        "keyChar": "绝",
+        "explanation": "“空前”指以前无，“绝后”指以后再无；含夸赞卓越或极其罕见之意。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "艺术巅峰",
+        "盛况",
+        "历史伟业",
+        "杰作"
+      ],
+      "collocations": [
+        "堪称空前绝后",
+        "空前绝后的成就"
+      ],
+      "commonMistake": "既否定过去也否定将来，用于发展中的科技成就或日常改革举措往往不合逻辑（未来还会进步）。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "有学者评价，这部集先秦至两汉天文历法与医学精华于一体的孤本帛书，在出土文献史上实属____的文化重器。",
+          "highlightClues": [
+            "孤本帛书",
+            "出土文献史上",
+            "文化重器"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "前所未有",
+        "史无前例"
+      ]
+    },
+    {
+      "id": "shun_xi_wan_bian",
+      "word": "瞬息万变",
+      "pinyin": "shùn xī wàn biàn",
+      "frequency": 5,
+      "coreMeaning": "一眨眼一呼吸之间就发生千变万化，形容局势或市场在极短时间内剧烈变化。",
+      "morphemeHint": {
+        "keyChar": "瞬",
+        "explanation": "“瞬”指眨眼，“息”指呼吸；突出变化速度极快且形态多样、难以预测。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "市场",
+        "国际局势",
+        "技术浪潮",
+        "战场"
+      ],
+      "collocations": [
+        "市场瞬息万变",
+        "瞬息万变的时代"
+      ],
+      "commonMistake": "常与“日新月异”混淆：“瞬息万变”偏中性客观、强调快而多变（常含不确定性）；“日新月异”偏褒义、强调每天都在更新进步。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在____的全球供应链竞争中，制造企业唯有构建敏捷柔性的数字化响应体系，才能有效对冲外部波动风险。",
+          "highlightClues": [
+            "敏捷柔性",
+            "对冲外部波动风险"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "日新月异",
+        "风云变幻"
+      ]
+    },
+    {
+      "id": "bai_ju_guo_xi",
+      "word": "白驹过隙",
+      "pinyin": "bái jū guò xì",
+      "frequency": 5,
+      "coreMeaning": "小白马在门缝前一闪而过，形容时间过得飞快，光阴极易消逝。",
+      "morphemeHint": {
+        "keyChar": "隙",
+        "explanation": "“白驹”原指日影（常喻骏马），“隙”指缝隙；专指时间流逝之快，不可修饰具体变化。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "岁月",
+        "光阴",
+        "时光",
+        "年华"
+      ],
+      "collocations": [
+        "时光如白驹过隙",
+        "岁月宛若白驹过隙"
+      ],
+      "commonMistake": "只能用来感叹时间飞逝，不能用来形容“灵感消失”或“事物刚出现就灭亡”（后者用“转瞬即逝”或“昙花一现”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "回望十余载深空探测征程，时光宛若____，但一代代航天人攻坚克难留下的奋斗足迹却愈发清晰厚重。",
+          "highlightClues": [
+            "十余载",
+            "时光宛若"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "转瞬即逝",
+        "弹指之间"
+      ]
+    },
+    {
+      "id": "zhuan_shun_ji_shi",
+      "word": "转瞬即逝",
+      "pinyin": "zhuǎn shùn jí shì",
+      "frequency": 5,
+      "coreMeaning": "一眨眼就消失不见，形容时间、机遇、灵感或状态极易在瞬间失去。",
+      "morphemeHint": {
+        "keyChar": "逝",
+        "explanation": "“逝”指消逝、失去；比“白驹过隙”适用对象更广，可用于机遇、灵感、生命或窗口期。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "机遇",
+        "灵感",
+        "窗口期",
+        "时光"
+      ],
+      "collocations": [
+        "机遇转瞬即逝",
+        "灵感转瞬即逝"
+      ],
+      "commonMistake": "常与“昙花一现”混用：“转瞬即逝”重在来不及抓住就消失，“昙花一现”重在曾经繁盛却很快凋落。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "技术迭代的战略窗口期往往____，企业若在关键路径抉择上犹豫不决，极易错失弯道超车的良机。",
+          "highlightClues": [
+            "战略窗口期",
+            "犹豫不决",
+            "错失良机"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "白驹过隙",
+        "昙花一现"
+      ]
+    },
+    {
+      "id": "tan_zhi_zhi_jian",
+      "word": "弹指之间",
+      "pinyin": "tán zhǐ zhī jiān",
+      "frequency": 4,
+      "coreMeaning": "弹一下手指头的工夫，形容时间极短，变化或完成得非常迅速。",
+      "morphemeHint": {
+        "keyChar": "弹",
+        "explanation": "“弹”读 tán；借细微动作喻指刹那之间，既可感叹岁月短促，也可形容过程极快。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "时间",
+        "变迁",
+        "传输",
+        "年代跨度"
+      ],
+      "collocations": [
+        "弹指之间完成",
+        "仿佛弹指之间"
+      ],
+      "commonMistake": "多作时间状语或宾语，注意不可将“弹”误读为 dàn。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "依托高速光通信与算力调度网络，海量气象演算数据可在____跨越数千公里完成同步传输与分析预警。",
+          "highlightClues": [
+            "高速光通信",
+            "跨越数千公里完成同步传输"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "白驹过隙",
+        "转瞬即逝"
+      ]
+    },
+    {
+      "id": "yu_ri_ju_zeng",
+      "word": "与日俱增",
+      "pinyin": "yǔ rì jù zēng",
+      "frequency": 5,
+      "coreMeaning": "随着时间推移一天天不断增长，形容数量、程度、影响或需求持续上升。",
+      "morphemeHint": {
+        "keyChar": "增",
+        "explanation": "“俱”指一起，“增”指增加；只能用于向上增长的趋势，绝不能用于下降或减少。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "需求",
+        "影响",
+        "压力",
+        "认同感"
+      ],
+      "collocations": [
+        "影响力与日俱增",
+        "需求与日俱增"
+      ],
+      "commonMistake": "自身已含“不断增长”义，不可再与“不断”“日益”叠加，也不可修饰具体固定物体的长度或重量。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "随着全社会生态环保意识____，绿色低碳产品在消费市场上的认可度与溢价能力正稳步提升。",
+          "highlightClues": [
+            "绿色低碳产品",
+            "稳步提升"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "日积月累",
+        "日新月异"
+      ]
+    },
+    {
+      "id": "kuang_ri_chi_jiu",
+      "word": "旷日持久",
+      "pinyin": "kuàng rì chí jiǔ",
+      "frequency": 5,
+      "coreMeaning": "荒废时日、拖延很久，形容事情持续时间过长且耗费精力，多带消极意味。",
+      "morphemeHint": {
+        "keyChar": "旷",
+        "explanation": "“旷”原指空废、耽搁（如旷工）；因此常带有“耗时太久、拖沓消耗”的负面或无奈色彩。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "争端",
+        "诉讼",
+        "谈判",
+        "拉锯战"
+      ],
+      "collocations": [
+        "陷入旷日持久的争端",
+        "旷日持久的诉讼"
+      ],
+      "commonMistake": "重要考点！不可当作中性“时间很长”去赞美科研坚持或文化传承（赞美长期坚持应用“经年累月”“持之以恒”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "某跨国专利纠纷案陷入了____的司法拉锯，不仅耗费了巨额诉讼成本，也延缓了相关绿色技术的商业化推广。",
+          "highlightClues": [
+            "司法拉锯",
+            "耗费了巨额诉讼成本",
+            "延缓了"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "经年累月",
+        "持之以恒"
+      ]
+    },
+    {
+      "id": "jing_nian_lei_yue",
+      "word": "经年累月",
+      "pinyin": "jīng nián lěi yuè",
+      "frequency": 5,
+      "coreMeaning": "经历许多年月，形容所花时间非常长久，突出长期经历或逐步形成的过程。",
+      "morphemeHint": {
+        "keyChar": "累",
+        "explanation": "“累”读 lěi，意为积累、连续；中性词，重在客观陈述“历经长久岁月”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "坚守",
+        "沉积",
+        "积淀",
+        "探索"
+      ],
+      "collocations": [
+        "经年累月的积淀",
+        "经年累月的坚守"
+      ],
+      "commonMistake": "注意“累”读 lěi；与“日积月累”相比，“经年累月”更侧重时间跨度漫长，“日积月累”更侧重每天一点点攒积。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "黄土高原沟壑纵横的地貌格局，是风沙搬运与流水侵蚀____共同塑造的自然奇观。",
+          "highlightClues": [
+            "风沙搬运与流水侵蚀",
+            "自然奇观"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "日积月累",
+        "旷日持久"
+      ]
+    },
+    {
+      "id": "gen_shen_di_gu",
+      "word": "根深蒂固",
+      "pinyin": "gēn shēn dì gù",
+      "frequency": 5,
+      "coreMeaning": "根基深厚、花蒂牢固，比喻长期形成的思想、观念、习俗或势力极难动摇。",
+      "morphemeHint": {
+        "keyChar": "蒂",
+        "explanation": "“蒂”指花或瓜果跟枝茎相连的部分；中性偏贬较多，常形容陈旧观念或顽疾难以根除。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "观念",
+        "偏见",
+        "陋习",
+        "基础"
+      ],
+      "collocations": [
+        "根深蒂固的偏见",
+        "观念根深蒂固"
+      ],
+      "commonMistake": "常与“牢不可破”混淆：“根深蒂固”侧重长期积累形成、不易动摇（多指观念/势力）；“牢不可破”偏重关系、防线坚固。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "破除“唯论文、唯职称”的____评价惯性，必须建立以创新能力、质量与实际贡献为导向的人才评价体系。",
+          "highlightClues": [
+            "破除",
+            "评价惯性",
+            "人才评价体系"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "顽固不化",
+        "源远流长"
+      ]
+    },
+    {
+      "id": "gen_gu_bu_bian",
+      "word": "亘古不变",
+      "pinyin": "gèn gǔ bù biàn",
+      "frequency": 4,
+      "coreMeaning": "从远古一直到今天都没有改变，形容真理、规律、信念或传统恒久不变。",
+      "morphemeHint": {
+        "keyChar": "亘",
+        "explanation": "“亘”读 gèn，意为绵延不断；注意不要误写为“恒古不变”！"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "真理",
+        "法则",
+        "山河",
+        "主题"
+      ],
+      "collocations": [
+        "亘古不变的道理",
+        "并非亘古不变"
+      ],
+      "commonMistake": "高频错别字陷阱：首字是“亘”（gèn），不是“恒”；行测中也常用于否定语境“没有一成不变/亘古不变的模式”。",
+      "tags": [
+        "省考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "人类探索未知宇宙的好奇心或许是____的精神底色，正是这种追问驱动着科学理论不断突破边界。",
+          "highlightClues": [
+            "探索未知宇宙的好奇心",
+            "精神底色"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一成不变",
+        "历久弥新"
+      ]
+    },
+    {
+      "id": "ri_ji_yue_lei",
+      "word": "日积月累",
+      "pinyin": "rì jī yuè lěi",
+      "frequency": 5,
+      "coreMeaning": "一天天、一月月地不断积累，形容长期点滴积聚而形成丰厚成果。",
+      "morphemeHint": {
+        "keyChar": "积",
+        "explanation": "“累”读 lěi；既强调持续不断的时间维度，也强调“由少到多”的积聚过程。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "知识",
+        "经验",
+        "口碑",
+        "功底"
+      ],
+      "collocations": [
+        "靠日积月累",
+        "日积月累的沉淀"
+      ],
+      "commonMistake": "中性偏褒义，一般不用于形容不良问题的逐步恶化（问题累积多用“积重难返”或“日积月累”慎用，行测多配正面积累）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "语言文字功底与审美判断力绝非考前突击就能获得，而离不开广泛阅读与独立思考的____。",
+          "highlightClues": [
+            "绝非考前突击",
+            "广泛阅读与独立思考"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "经年累月",
+        "聚沙成塔"
+      ]
+    },
+    {
+      "id": "di_shui_chuan_shi",
+      "word": "滴水穿石",
+      "pinyin": "dī shuǐ chuān shí",
+      "frequency": 5,
+      "coreMeaning": "水滴长期不断滴落竟能把石头滴穿，比喻只要目标专一、持之以恒就能成功。",
+      "morphemeHint": {
+        "keyChar": "穿",
+        "explanation": "弱小的水滴战胜坚硬的石头，核心在于“以小见大、久久坚持”克服硬骨头。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "精神",
+        "韧劲",
+        "扶贫攻坚",
+        "科研攻关"
+      ],
+      "collocations": [
+        "发扬滴水穿石精神",
+        "靠滴水穿石的韧劲"
+      ],
+      "commonMistake": "常与“绳锯木断”并列，强调长期坚持攻坚克难，不宜用于形容一朝一夕的突发奇效。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "生态环境治理不可能毕其功于一役，必须发扬____的韧劲，一茬接着一茬干，才能换来长久的绿水青山。",
+          "highlightClues": [
+            "不可能毕其功于一役",
+            "一茬接着一茬干"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "绳锯木断",
+        "锲而不舍"
+      ]
+    },
+    {
+      "id": "sheng_ju_mu_duan",
+      "word": "绳锯木断",
+      "pinyin": "shéng jù mù duàn",
+      "frequency": 4,
+      "coreMeaning": "用绳子不断拉锯也能把木头锯断，比喻力量虽小但只要坚持不懈就能办成难事。",
+      "morphemeHint": {
+        "keyChar": "锯",
+        "explanation": "软绳锯硬木，与“滴水穿石”同源同义，常与“水滴石穿”对举出现在政论中。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "恒心",
+        "治沙",
+        "作风建设",
+        "基础研究"
+      ],
+      "collocations": [
+        "凭绳锯木断之功",
+        "犹如绳锯木断"
+      ],
+      "commonMistake": "注意“锯”字，核心是“持续用力战胜困难”，不可误用为“一点一滴积攒数量”（积攒用“聚沙成塔”）。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "啃下制约产业自主可控的“硬骨头”，既需要顶层设计的系统谋划，更离不开____、水滴石穿的长期坚持。",
+          "highlightClues": [
+            "“硬骨头”",
+            "水滴石穿的长期坚持"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "滴水穿石",
+        "锲而不舍"
+      ]
+    },
+    {
+      "id": "ju_sha_cheng_ta",
+      "word": "聚沙成塔",
+      "pinyin": "jù shā chéng tǎ",
+      "frequency": 4,
+      "coreMeaning": "把细沙聚拢起来堆成宝塔，比喻把零散微小的力量或资源积聚成宏大成果。",
+      "morphemeHint": {
+        "keyChar": "聚",
+        "explanation": "侧重“由散到整、积少成多”的数量集聚效应，常用于数据汇聚、公益募捐或知识积累。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公益",
+        "数据",
+        "节能降碳",
+        "知识积累"
+      ],
+      "collocations": [
+        "聚沙成塔效应",
+        "实现聚沙成塔"
+      ],
+      "commonMistake": "偏重“零星小份额汇聚成大总量”，与“绳锯木断”（持续攻坚）侧重点不同。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "每个家庭节约一度电、少用一个塑料袋看似微末，但亿万公众的绿色行动____，便能形成可观的减碳效益。",
+          "highlightClues": [
+            "看似微末",
+            "亿万公众",
+            "可观的减碳效益"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "集腋成裘",
+        "日积月累"
+      ]
+    },
+    {
+      "id": "ji_ye_cheng_qiu",
+      "word": "集腋成裘",
+      "pinyin": "jí yè chéng qiú",
+      "frequency": 5,
+      "coreMeaning": "聚集狐狸腋下小块纯白皮毛缝制成皮袄，比喻积少成多、聚小成大。",
+      "morphemeHint": {
+        "keyChar": "腋",
+        "explanation": "“腋”指动物腋下极小块的毛皮，“裘”指珍贵皮衣；常隐含“精选汇聚、成就不凡”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "语料",
+        "史料",
+        "资金",
+        "研究成果"
+      ],
+      "collocations": [
+        "集腋成裘的功夫",
+        "通过集腋成裘"
+      ],
+      "commonMistake": "注意“腋”与“裘”的字形；褒义词，不可用于形容贪污受贿、问题隐患等负面事物积少成多。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "大型方言词典的编纂历经三代学者田野采风，从千村百镇零散词条中____，方才留住乡音文脉的全貌。",
+          "highlightClues": [
+            "千村百镇零散词条",
+            "留住乡音文脉的全貌"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "聚沙成塔",
+        "积少成多"
+      ]
+    },
+    {
+      "id": "yi_zhao_yi_xi",
+      "word": "一朝一夕",
+      "pinyin": "yī zhāo yī xī",
+      "frequency": 5,
+      "coreMeaning": "一个早晨或一个晚上，形容非常短的时间，常用于否定句表非短期可达。",
+      "morphemeHint": {
+        "keyChar": "朝",
+        "explanation": "“朝”读 zhāo（早晨），“夕”指傍晚；几乎固定用于“非一朝一夕之功”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "light",
+      "applicableObjects": [
+        "积累",
+        "改革",
+        "治理",
+        "品牌培育"
+      ],
+      "collocations": [
+        "非一朝一夕之功",
+        "并非一朝一夕所能完成"
+      ],
+      "commonMistake": "极少直接用于肯定句赞美速度快，90%以上考法是“绝非一朝一夕之功/能解决”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "城市地下管网更新改造涉及多部门管线迁改与交通疏解，绝非____之功，需要科学统筹与长效推进。",
+          "highlightClues": [
+            "绝非",
+            "科学统筹与长效推进"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一蹴而就",
+        "毕其功于一役"
+      ]
+    },
+    {
+      "id": "zhao_qin_mu_chu",
+      "word": "朝秦暮楚",
+      "pinyin": "zhāo qín mù chǔ",
+      "frequency": 5,
+      "coreMeaning": "早晨依附秦国、晚上倒向楚国，比喻人反复无常、立场不坚定或缺乏忠诚度。",
+      "morphemeHint": {
+        "keyChar": "秦",
+        "explanation": "源自战国纵横格局中依附强国的摇摆行为，侧重“立场、阵营或情感对象经常改变”。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "立场",
+        "态度",
+        "投资者",
+        "合作伙伴"
+      ],
+      "collocations": [
+        "不能朝秦暮楚",
+        "批评朝秦暮楚之举"
+      ],
+      "commonMistake": "不能用于形容政策文件多变（应用“朝令夕改”），也不要用来形容在多种正当兴趣之间切换。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "产业资本应当秉持长期主义陪跑实体经济，而不能只盯着短期套利风口____，否则既损产业根基也伤自身信誉。",
+          "highlightClues": [
+            "秉持长期主义",
+            "只盯着短期套利风口"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "朝三暮四",
+        "朝令夕改"
+      ]
+    },
+    {
+      "id": "zhao_san_mu_si",
+      "word": "朝三暮四",
+      "pinyin": "zhāo sān mù sì",
+      "frequency": 5,
+      "coreMeaning": "原指玩弄手法欺骗人，现多指人主意多变、反复无常、拿不定主意。",
+      "morphemeHint": {
+        "keyChar": "三",
+        "explanation": "原典“狙公赋芧”本指用花招欺骗（实质未变），现代高频义项转为“心意反复不专一”。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "想法",
+        "决策",
+        "态度",
+        "选择"
+      ],
+      "collocations": [
+        "切忌朝三暮四",
+        "做事朝三暮四"
+      ],
+      "commonMistake": "注意其兼有“玩弄花招欺骗”与“反复无常”两义，但在行测现代语境中多考查“不专一、常变卦”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "地方产业转型最怕在赛道选择上____，今天追风口、明天换项目，最终只会错失形成规模优势的最佳时机。",
+          "highlightClues": [
+            "今天追风口、明天换项目",
+            "形成规模优势"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "朝秦暮楚",
+        "见异思迁"
+      ]
+    },
+    {
+      "id": "ban_tu_er_fei",
+      "word": "半途而废",
+      "pinyin": "bàn tú ér fèi",
+      "frequency": 5,
+      "coreMeaning": "路才走了一半就停止下来，比喻做事情没有恒心，没完成就中途放弃。",
+      "morphemeHint": {
+        "keyChar": "废",
+        "explanation": "“废”指停止、放弃；核心在于“中途停下”，常与“善始善终”“持之以恒”反义呼应。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "改革",
+        "学业",
+        "工程",
+        "治理行动"
+      ],
+      "collocations": [
+        "切忌半途而废",
+        "防止半途而废"
+      ],
+      "commonMistake": "常与“功亏一篑”混淆：“半途而废”强调走到一半主动或无恒心放弃；“功亏一篑”强调快大功告成时差最后一步失败。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "污染防治攻坚战正处于爬坡过坎的关键阶段，此时若心生松懈、____，前期的巨大生态投入就可能付诸东流。",
+          "highlightClues": [
+            "爬坡过坎",
+            "心生松懈",
+            "付诸东流"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "功亏一篑",
+        "有始无终"
+      ]
+    },
+    {
+      "id": "chi_zhi_yi_heng",
+      "word": "持之以恒",
+      "pinyin": "chí zhī yǐ héng",
+      "frequency": 5,
+      "coreMeaning": "长久地坚持下去，形容做事情有恒心、有毅力、不半途而废。",
+      "morphemeHint": {
+        "keyChar": "恒",
+        "explanation": "“持”指坚持，“恒”指恒心；通用性最强的长期坚持类褒义成语。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "努力",
+        "训练",
+        "监管",
+        "精神"
+      ],
+      "collocations": [
+        "持之以恒地推进",
+        "贵在持之以恒"
+      ],
+      "commonMistake": "不可搭配消极或违法行为（如“持之以恒地造假”属褒贬误用）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "整治形式主义为基层减负，贵在____、常抓不懈，绝不能一阵风过后又让旧问题反弹回潮。",
+          "highlightClues": [
+            "常抓不懈",
+            "不能一阵风过后……反弹回潮"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "坚持不懈",
+        "久久为功"
+      ]
+    },
+    {
+      "id": "jian_chi_bu_xie",
+      "word": "坚持不懈",
+      "pinyin": "jiān chí bù xiè",
+      "frequency": 5,
+      "coreMeaning": "坚决保持下去、一点也不松懈，形容克服懈怠持续努力到底。",
+      "morphemeHint": {
+        "keyChar": "懈",
+        "explanation": "“懈”指松懈、松劲；核心强调“自始至终保持紧绷的努力状态，毫不放松”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "奋斗",
+        "努力",
+        "探索",
+        "斗争"
+      ],
+      "collocations": [
+        "坚持不懈地探索",
+        "经过坚持不懈的努力"
+      ],
+      "commonMistake": "不可与“顽固不化”混同，其语境必然是正面事业、理想或正当努力。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "经过三代治沙人____的接力奋斗，毛乌素沙地实现了从“沙进人退”到“绿进沙退”的历史性逆转。",
+          "highlightClues": [
+            "三代治沙人",
+            "接力奋斗",
+            "历史性逆转"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "持之以恒",
+        "锲而不舍"
+      ]
+    },
+    {
+      "id": "jian_ding_bu_yi",
+      "word": "坚定不移",
+      "pinyin": "jiān dìng bù yí",
+      "frequency": 5,
+      "coreMeaning": "稳定坚强，毫不动摇，形容立场、方针、方向或信念极其坚决。",
+      "morphemeHint": {
+        "keyChar": "移",
+        "explanation": "“移”指动摇、改变方向；常用于政治立场、改革方向、发展战略等宏大主语。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "方向",
+        "方针",
+        "立场",
+        "推进改革"
+      ],
+      "collocations": [
+        "坚定不移推进",
+        "坚定不移走……道路"
+      ],
+      "commonMistake": "常与“矢志不渝”辨析：“坚定不移”多修饰政策方向、立场推进（可作状语修饰“推进、走”）；“矢志不渝”偏重立誓不改初衷。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "无论外部国际环境如何风云变幻，中国都将继续____扩大高水平对外开放，以自身确定性为世界注入稳定性。",
+          "highlightClues": [
+            "外部国际环境如何风云变幻",
+            "扩大高水平对外开放"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "矢志不渝",
+        "坚韧不拔"
+      ]
+    },
+    {
+      "id": "bai_zhe_bu_nao",
+      "word": "百折不挠",
+      "pinyin": "bǎi zhé bù náo",
+      "frequency": 5,
+      "coreMeaning": "遭受无数次挫折仍然不屈服、不退缩，形容面对磨难时意志极为顽强。",
+      "morphemeHint": {
+        "keyChar": "挠",
+        "explanation": "“折”指挫折，“挠”指弯曲、屈服；必须存在“经受磨难/挫折/失败”的语境前提。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "意志",
+        "斗志",
+        "民族精神",
+        "探险者"
+      ],
+      "collocations": [
+        "百折不挠的精神",
+        "百折不挠地抗争"
+      ],
+      "commonMistake": "注意“挠”读 náo；语境中通常要有挫折、逆境或苦难，若一帆风顺则不宜使用。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对实验一次次推倒重来与核心器件长期封锁的困境，科研团队凭借____的骨气最终攻克了高精密光刻难题。",
+          "highlightClues": [
+            "一次次推倒重来",
+            "长期封锁的困境",
+            "最终攻克"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "坚韧不拔",
+        "坚持不懈"
+      ]
+    },
+    {
+      "id": "jian_ren_bu_ba",
+      "word": "坚韧不拔",
+      "pinyin": "jiān rèn bù bá",
+      "frequency": 5,
+      "coreMeaning": "意志坚定而有韧性，不可动摇、不可拔除，形容在艰难环境中持久抗压的品格。",
+      "morphemeHint": {
+        "keyChar": "韧",
+        "explanation": "“坚”指刚强，“韧”指柔韧耐折；既强调不屈，也突出承受长期压力的韧性。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "意志",
+        "毅力",
+        "品格",
+        "精神"
+      ],
+      "collocations": [
+        "坚韧不拔的意志",
+        "坚韧不拔的毅力"
+      ],
+      "commonMistake": "常直接修饰“意志、毅力、品格”，不能用来修饰政策文件或物理建筑材料。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "穿越无人区进行冰川科考，不仅考验队员的专业素养，更考验他们在高寒缺氧环境下____的心理素质与顽强毅力。",
+          "highlightClues": [
+            "高寒缺氧环境下",
+            "心理素质与顽强毅力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "百折不挠",
+        "坚定不移"
+      ]
+    },
+    {
+      "id": "qie_er_bu_she",
+      "word": "锲而不舍",
+      "pinyin": "qiè ér bù shě",
+      "frequency": 5,
+      "coreMeaning": "不停地雕刻不放弃，比喻做学问、搞研究或推进工作有恒心、有毅力。",
+      "morphemeHint": {
+        "keyChar": "锲",
+        "explanation": "“锲”读 qiè，指雕刻，“舍”读 shě，指放弃；侧重“专注钻研、持续用功”的韧劲。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "钻研",
+        "追求",
+        "监督",
+        "工匠精神"
+      ],
+      "collocations": [
+        "锲而不舍地钻研",
+        "锲而不舍落实规定"
+      ],
+      "commonMistake": "注意字形左边是“钅”（锲），常被错写成“契”；读音为 qiè ér bù shě。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "只有秉持____的钻研精神，在微米级工艺上反复打磨校准，中国精密制造才能真正挺起产业脊梁。",
+          "highlightClues": [
+            "微米级工艺上反复打磨校准",
+            "钻研精神"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "坚持不懈",
+        "孜孜不倦"
+      ]
+    },
+    {
+      "id": "zi_zi_bu_juan",
+      "word": "孜孜不倦",
+      "pinyin": "zī zī bù juàn",
+      "frequency": 5,
+      "coreMeaning": "勤勉努力而不知疲倦，形容对学业、科研、创作或事业极其勤奋专注。",
+      "morphemeHint": {
+        "keyChar": "孜",
+        "explanation": "“孜孜”指勤奋不懈，“倦”指疲倦；偏重内在主动的热爱与勤勉，而非被动加班。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "求学",
+        "治学",
+        "探索",
+        "创作"
+      ],
+      "collocations": [
+        "孜孜不倦地探索",
+        "孜孜不倦地求知"
+      ],
+      "commonMistake": "褒义词，仅用于学习、钻研、探索或工作奉献等积极事务，不能用于娱乐或投机钻营。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这位年逾八旬的古文字学家依然每天伏案释读甲骨残片，数十年如一日____地破解中华文明源头的密码。",
+          "highlightClues": [
+            "每天伏案",
+            "数十年如一日",
+            "破解中华文明源头的密码"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "废寝忘食",
+        "锲而不舍"
+      ]
+    },
+    {
+      "id": "fei_qin_wang_shi",
+      "word": "废寝忘食",
+      "pinyin": "fèi qǐn wàng shí",
+      "frequency": 5,
+      "coreMeaning": "顾不上睡觉也忘了吃饭，形容极度专心投入工作、学习或科研攻关。",
+      "morphemeHint": {
+        "keyChar": "废",
+        "explanation": "“废”指停止；通过省略睡眠与饮食来极言专注程度之深、投入之忘我。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "攻关",
+        "研读",
+        "创作",
+        "救治"
+      ],
+      "collocations": [
+        "废寝忘食地工作",
+        "废寝忘食地钻研"
+      ],
+      "commonMistake": "语意较重且带有强烈赞许色彩，不能用来形容沉迷电子游戏或熬夜刷短视频。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "疫苗紧急研发阶段，实验室灯火通明，研究人员____地比对海量测序数据，只为抢在病毒扩散前筑牢免疫防线。",
+          "highlightClues": [
+            "灯火通明",
+            "紧急研发",
+            "比对海量测序数据"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "夜以继日",
+        "孜孜不倦"
+      ]
+    },
+    {
+      "id": "po_zai_mei_jie",
+      "word": "迫在眉睫",
+      "pinyin": "pò zài méi jié",
+      "frequency": 5,
+      "coreMeaning": "比喻事情已经到了眼前，十分紧迫，必须立即着手处理。",
+      "morphemeHint": {
+        "keyChar": "眉睫",
+        "explanation": "“眉”是眉毛，“睫”是眼睫毛；近在眉毛睫毛之间，形容距离极近、时间极紧迫。"
+      },
+      "sentiment": "neutral",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "改革",
+        "转型",
+        "治理任务",
+        "问题"
+      ],
+      "collocations": [
+        "转型迫在眉睫",
+        "解决……迫在眉睫",
+        "显得尤为迫在眉睫"
+      ],
+      "commonMistake": "常考与“燃眉之急”的搭配区别：“迫在眉睫”作谓语/定语，“燃眉之急”是名词性短语，多作宾语或主语。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语法功能"
+      ],
+      "examples": [
+        {
+          "sentence": "随着全球气候变暖和极端天气频发，推进能源结构低碳转型已是____的重大课题。",
+          "highlightClues": [
+            "极端天气频发",
+            "低碳转型",
+            "重大课题"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "燃眉之急",
+        "刻不容缓",
+        "当务之急"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2183 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "jie_shen_zi_hao",
+      "word": "洁身自好",
+      "pinyin": "jié shēn zì hào",
+      "frequency": 5,
+      "coreMeaning": "保持自身清白纯洁，不同流合污；有时也指只顾自己、不管他人是非。",
+      "morphemeHint": {
+        "keyChar": "好",
+        "explanation": "“好”读 hào，意为喜爱、重视；本义是保持自身品格高洁，注意语境中的褒贬切换。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公职人员",
+        "文人学者",
+        "社会公民"
+      ],
+      "collocations": [
+        "严以修身、洁身自好",
+        "不能只顾洁身自好",
+        "清廉自守、洁身自好"
+      ],
+      "commonMistake": "兼有褒义（不与恶势力同流合污）与轻度贬义（只顾个人清白而回避集体斗争），需依上下文判定。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "领导干部不仅要自己____、守住廉洁底线，还要管好亲属和身边工作人员，坚决抵制围猎腐蚀。",
+          "highlightClues": [
+            "守住廉洁底线",
+            "管好亲属",
+            "抵制围猎腐蚀"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独善其身",
+        "清正廉洁",
+        "同流合污"
+      ]
+    },
+    {
+      "id": "du_shan_qi_shen",
+      "word": "独善其身",
+      "pinyin": "dú shàn qí shēn",
+      "frequency": 5,
+      "coreMeaning": "在逆境中独自保持个人品格修养；后也指只顾自己而不关心他人与社会。",
+      "morphemeHint": {
+        "keyChar": "独",
+        "explanation": "出自《孟子》“穷则独善其身，达则兼济天下”；现代政论多用于批判“缺乏担当、各人自扫门前雪”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人选择",
+        "国家立场",
+        "社会担当"
+      ],
+      "collocations": [
+        "无法独善其身",
+        "绝不独善其身",
+        "既要独善其身更要兼济天下"
+      ],
+      "commonMistake": "常出现在“没有哪个国家能够____”的政论句式中，此时带否定意味，指不能脱离大局只顾自身。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在全球产业链深度嵌套的今天，面对气候危机与公共卫生风险，任何国家都无法置身事外、____。",
+          "highlightClues": [
+            "全球产业链深度嵌套",
+            "置身事外",
+            "任何国家都无法"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "洁身自好",
+        "兼济天下",
+        "明哲保身"
+      ]
+    },
+    {
+      "id": "jian_ji_tian_xia",
+      "word": "兼济天下",
+      "pinyin": "jiān jì tiān xià",
+      "frequency": 4,
+      "coreMeaning": "在自己具备条件时广泛救济天下百姓、造福社会，体现宏大的社会责任感。",
+      "morphemeHint": {
+        "keyChar": "济",
+        "explanation": "“兼”意为同时顾及他人，“济”意为接济、造福；常与“独善其身”构成对举。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "仁人志士",
+        "企业家",
+        "知识分子"
+      ],
+      "collocations": [
+        "兼济天下的情怀",
+        "胸怀兼济天下之志",
+        "从独善其身到兼济天下"
+      ],
+      "commonMistake": "格局宏大，专指胸怀苍生、造福公众的远大抱负，不宜用于夸赞一般的邻里帮忙。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "优秀的企业家不仅追求商业利润，更应秉持____的家国情怀，积极投身公益与共同富裕事业。",
+          "highlightClues": [
+            "家国情怀",
+            "投身公益",
+            "共同富裕"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独善其身",
+        "心怀天下",
+        "济世安民"
+      ]
+    },
+    {
+      "id": "bu_bei_bu_kang",
+      "word": "不卑不亢",
+      "pinyin": "bù bēi bù kàng",
+      "frequency": 5,
+      "coreMeaning": "既不自卑退缩，也不傲慢狂妄，形容待人接物态度得体、分寸恰当。",
+      "morphemeHint": {
+        "keyChar": "亢",
+        "explanation": "“卑”指低微谄媚，“亢”指高傲过分；双向否定划定出自信平和的交往尺度。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "外交姿态",
+        "人际沟通",
+        "文化交流"
+      ],
+      "collocations": [
+        "态度不卑不亢",
+        "保持不卑不亢",
+        "不卑不亢地回应"
+      ],
+      "commonMistake": "注意“亢”勿误写作“抗”；多形容面对强者、外宾或质疑时的从容态度。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对部分外媒的刻意刁难，发言人始终保持____的从容气度，用翔实数据有理有据地澄清了事实。",
+          "highlightClues": [
+            "刻意刁难",
+            "从容气度",
+            "有理有据"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "平易近人",
+        "落落大方",
+        "卑躬屈膝"
+      ]
+    },
+    {
+      "id": "yi_wu_fan_gu",
+      "word": "义无反顾",
+      "pinyin": "yì wú fǎn gù",
+      "frequency": 5,
+      "coreMeaning": "为了道义与使命勇往直前，绝不因私利或危险而犹豫回头。",
+      "morphemeHint": {
+        "keyChar": "反",
+        "explanation": "“义”指道义责任，“反顾”指回头看；强调在重大抉择面前的坚定与奉献精神。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "逆行者",
+        "科研先锋",
+        "志士仁人"
+      ],
+      "collocations": [
+        "义无反顾地奔赴",
+        "义无反顾地投身",
+        "做出义无反顾的选择"
+      ],
+      "commonMistake": "具有崇高的道义色彩（“义”字当头），不能用于形容坏事或纯商业逐利行为（如“义无反顾地欺诈”）。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对突如其来的山火险情，消防指战员与当地党员突击队____地逆行冲向火线，全力守护群众家园。",
+          "highlightClues": [
+            "山火险情",
+            "逆行冲向火线",
+            "守护群众家园"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "勇往直前",
+        "奋不顾身",
+        "破釜沉舟"
+      ]
+    },
+    {
+      "id": "gao_feng_liang_jie",
+      "word": "高风亮节",
+      "pinyin": "gāo fēng liàng jié",
+      "frequency": 4,
+      "coreMeaning": "高尚的风范、坚贞的节操，形容人的品德极其崇高纯洁。",
+      "morphemeHint": {
+        "keyChar": "亮",
+        "explanation": "“风”指品格风范，“亮”意为光明、坚贞，“节”指节操气节。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "老一辈革命家",
+        "德高望重者",
+        "让贤榜样"
+      ],
+      "collocations": [
+        "展现高风亮节",
+        "高风亮节的品格",
+        "令人敬仰的高风亮节"
+      ],
+      "commonMistake": "敬辞性质较强，多用于赞颂他人特别是德高望重者，不宜用于自夸（谦敬失当）。",
+      "tags": [
+        "省考高频",
+        "谦敬误用"
+      ],
+      "examples": [
+        {
+          "sentence": "老科学家主动将科研项目负责人位置让给青年骨干，甘为人梯、不计名利的____赢得学界广泛赞誉。",
+          "highlightClues": [
+            "让给青年骨干",
+            "甘为人梯",
+            "不计名利"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "德高望重",
+        "两袖清风",
+        "光明磊落"
+      ]
+    },
+    {
+      "id": "de_cai_jian_bei",
+      "word": "德才兼备",
+      "pinyin": "dé cái jiān bèi",
+      "frequency": 5,
+      "coreMeaning": "既有高尚的道德品质，又具备出色的业务能力，是选人用人的重要标准。",
+      "morphemeHint": {
+        "keyChar": "兼",
+        "explanation": "“德”为立身之本，“才”为成事之基，“兼备”指品德与才能二者同时具备、缺一不可。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "干部选拔",
+        "人才培养",
+        "优秀青年"
+      ],
+      "collocations": [
+        "培养德才兼备的人才",
+        "坚持德才兼备",
+        "德才兼备、以德为先"
+      ],
+      "commonMistake": "在政论选人用人语境中常与“以德为先”连用，注意“德”与“才”的并重与主次逻辑。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "新时代干部选拔任用必须坚持正确导向，把政治标准放在首位，着力锻造一支____的高素质专业化队伍。",
+          "highlightClues": [
+            "干部选拔任用",
+            "政治标准放在首位",
+            "高素质专业化"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "品学兼优",
+        "才德兼备",
+        "文武双全"
+      ]
+    },
+    {
+      "id": "yan_yu_lv_ji",
+      "word": "严于律己",
+      "pinyin": "yán yú lǜ jǐ",
+      "frequency": 5,
+      "coreMeaning": "严格地约束和要求自己，常与“宽以待人”相对。",
+      "morphemeHint": {
+        "keyChar": "律",
+        "explanation": "“律”意为约束、规范；强调自我监督与自我要求的高标准。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "党员干部",
+        "公众人物",
+        "普通个人"
+      ],
+      "collocations": [
+        "坚持严于律己",
+        "严于律己、宽以待人",
+        "在作风上严于律己"
+      ],
+      "commonMistake": "常在句子中与“自我约束”同时出现导致语义重复；注意“律”与“己”的搭配方向。",
+      "tags": [
+        "国考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "抓好党风廉政建设，需要领导干部从小事小节守起，始终做到____、清正修身，发挥头雁示范效应。",
+          "highlightClues": [
+            "从小事小节守起",
+            "清正修身",
+            "头雁示范效应"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "洁身自好",
+        "克己奉公",
+        "以身作则"
+      ]
+    },
+    {
+      "id": "ren_yan_ke_wei",
+      "word": "人言可畏",
+      "pinyin": "rén yán kě wèi",
+      "frequency": 4,
+      "coreMeaning": "指社会上的流言蜚语和议论非常可怕，能给人带来巨大精神压力或伤害。",
+      "morphemeHint": {
+        "keyChar": "畏",
+        "explanation": "“人言”指旁人的风言风语，“可畏”指令人惧怕；强调舆论非议对当事人的威慑力。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "流言蜚语",
+        "舆论压力",
+        "网络暴力"
+      ],
+      "collocations": [
+        "感叹人言可畏",
+        "面对人言可畏",
+        "不惧人言可畏"
+      ],
+      "commonMistake": "侧重个体对流言蜚语的畏惧感，不可用来指客观的“公众监督”或“民主评议”。",
+      "tags": [
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "完善网络诽谤治理机制十分必要，若放任恶意中伤的帖子肆意扩散，只会在虚拟空间中重演____的悲剧。",
+          "highlightClues": [
+            "网络诽谤",
+            "恶意中伤",
+            "悲剧"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "众口铄金",
+        "捕风捉影",
+        "流言蜚语"
+      ]
+    },
+    {
+      "id": "kou_mi_fu_jian",
+      "word": "口蜜腹剑",
+      "pinyin": "kǒu mì fù jiàn",
+      "frequency": 4,
+      "coreMeaning": "嘴上说得甜美动听，心里却怀着害人的阴险算计，形容人阴险狡诈。",
+      "morphemeHint": {
+        "keyChar": "腹",
+        "explanation": "“口蜜”指表面言辞甜蜜，“腹剑”指内心暗藏杀机；出自唐代李林甫典故。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "两面派",
+        "奸佞小人",
+        "职场倾轧"
+      ],
+      "collocations": [
+        "口蜜腹剑之徒",
+        "警惕口蜜腹剑",
+        "表面热情实则口蜜腹剑"
+      ],
+      "commonMistake": "语义极重，包含明确的恶意害人意图，不可用来形容仅仅“嘴甜不诚恳”的普通客套。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "选拔任用干部必须擦亮双眼、听言观行，严防那些当面奉承、背后拆台的____之徒混入关键岗位。",
+          "highlightClues": [
+            "当面奉承、背后拆台",
+            "听言观行"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "笑里藏刀",
+        "两面三刀",
+        "表里不一"
+      ]
+    },
+    {
+      "id": "xiao_li_cang_dao",
+      "word": "笑里藏刀",
+      "pinyin": "xiào lǐ cáng dāo",
+      "frequency": 4,
+      "coreMeaning": "表面上和颜悦色、笑脸相迎，暗地里却阴险狠毒、随时准备伤人。",
+      "morphemeHint": {
+        "keyChar": "藏",
+        "explanation": "以和善微笑掩饰敌意与阴谋，与“口蜜腹剑”语义相近，前者偏重神态伪装，后者偏重言辞伪装。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "伪善者",
+        "阴谋家",
+        "恶性竞争"
+      ],
+      "collocations": [
+        "提防笑里藏刀",
+        "笑里藏刀的做派",
+        "惯于笑里藏刀"
+      ],
+      "commonMistake": "专指怀有恶意暗算他人，不可用于形容温和的批评或善意的玩笑。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "商业竞争固然讲求策略，但倘若表面合作共赢、暗中却____地窃取对手核心机密，终将受到法律严惩。",
+          "highlightClues": [
+            "表面合作共赢",
+            "暗中",
+            "窃取对手核心机密"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "口蜜腹剑",
+        "两面三刀",
+        "居心叵测"
+      ]
+    },
+    {
+      "id": "liang_mian_san_dao",
+      "word": "两面三刀",
+      "pinyin": "liǎng miàn sān dāo",
+      "frequency": 5,
+      "coreMeaning": "当面一套、背后一套，玩弄两面派手法挑拨是非、虚伪欺诈。",
+      "morphemeHint": {
+        "keyChar": "两",
+        "explanation": "“两面”指当面与背地截然不同的表现，“三刀”形容手段狡诈多端。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "两面派官员",
+        "投机分子",
+        "不诚信者"
+      ],
+      "collocations": [
+        "搞两面三刀",
+        "两面三刀的两面派",
+        "坚决反对两面三刀"
+      ],
+      "commonMistake": "政论中高频用于批判“政治上的两面人”，强调言行背离、阳奉阴违。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "对党忠诚必须表里如一、知行合一，绝不允许在重大原则问题上搞____、当“两面人”。",
+          "highlightClues": [
+            "表里如一、知行合一",
+            "当“两面人”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "阳奉阴违",
+        "口蜜腹剑",
+        "表里不一"
+      ]
+    },
+    {
+      "id": "e_yu_feng_cheng",
+      "word": "阿谀奉承",
+      "pinyin": "ē yú fèng chéng",
+      "frequency": 4,
+      "coreMeaning": "曲意迎合、用好听的话巴结讨好有权势或有地位的人。",
+      "morphemeHint": {
+        "keyChar": "阿",
+        "explanation": "“阿”读 ē，意为迎合；“阿谀”与“奉承”同义叠加，突出言语上的肉麻吹捧。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "职场风气",
+        "官场攀附",
+        "吹捧行为"
+      ],
+      "collocations": [
+        "一味阿谀奉承",
+        "阿谀奉承之辈",
+        "绝不阿谀奉承"
+      ],
+      "commonMistake": "注意“阿”读 ē（非 ā）；偏重用语言吹捧讨好，程度略轻于“奴颜婢膝”。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "健康的组织氛围应当鼓励直抒胸臆的理性建言，让唯唯诺诺、____的不良风气无处容身。",
+          "highlightClues": [
+            "直抒胸臆的理性建言",
+            "唯唯诺诺",
+            "不良风气"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "奴颜婢膝",
+        "趋炎附势",
+        "卑躬屈膝"
+      ]
+    },
+    {
+      "id": "nu_yan_bi_xi",
+      "word": "奴颜婢膝",
+      "pinyin": "nú yán bì xī",
+      "frequency": 4,
+      "coreMeaning": "像奴婢一样满脸谄媚、屈膝下跪，形容极其卑鄙无耻地巴结奉承。",
+      "morphemeHint": {
+        "keyChar": "婢",
+        "explanation": "“奴颜”指谄媚的脸色，“婢膝”指动辄屈膝的姿态；形象刻画丧失尊严的丑态。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "媚外势力",
+        "攀附小人",
+        "丧权辱国姿态"
+      ],
+      "collocations": [
+        "一副奴颜婢膝的嘴脸",
+        "奴颜婢膝地讨好",
+        "痛斥奴颜婢膝"
+      ],
+      "commonMistake": "贬义程度极重，不可用于形容正常的礼貌谦让或下级对上级的规范汇报。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "部分文化买办在西方话语霸权面前自甘矮化、____，完全丧失了应有的民族文化自信与独立思考。",
+          "highlightClues": [
+            "自甘矮化",
+            "丧失了应有的民族文化自信"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "卑躬屈膝",
+        "阿谀奉承",
+        "摇尾乞怜"
+      ]
+    },
+    {
+      "id": "bei_gong_qu_xi",
+      "word": "卑躬屈膝",
+      "pinyin": "bēi gōng qū xī",
+      "frequency": 5,
+      "coreMeaning": "低头弯腰、屈膝下跪，形容毫无骨气地向权势或强敌谄媚求饶。",
+      "morphemeHint": {
+        "keyChar": "躬",
+        "explanation": "“卑躬”指低身弯腰，“屈膝”指弯曲膝盖；常与“不卑不亢”“宁折不弯”形成鲜明反义对照。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "软弱妥协",
+        "谄媚权贵",
+        "丧失立场"
+      ],
+      "collocations": [
+        "绝不卑躬屈膝",
+        "卑躬屈膝地求全",
+        "一味卑躬屈膝"
+      ],
+      "commonMistake": "注意“躬”勿误作“恭”；强调丧失原则与人格尊严，与正常谦虚有本质区别。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "面对外部势力在核心技术上的极限施压，我们既不盲目冒进，也绝不会放弃自主创新原则、____。",
+          "highlightClues": [
+            "极限施压",
+            "绝不会放弃自主创新原则"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "奴颜婢膝",
+        "阿谀奉承",
+        "不卑不亢"
+      ]
+    },
+    {
+      "id": "biao_li_bu_yi",
+      "word": "表里不一",
+      "pinyin": "biǎo lǐ bù yī",
+      "frequency": 4,
+      "coreMeaning": "外表呈现出的言行与内心真实想法完全不一致，形容虚伪做作。",
+      "morphemeHint": {
+        "keyChar": "一",
+        "explanation": "“表”指外在言行，“里”指内心实质，“不一”即不统一；范围广、程度相对适中。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "个人品行",
+        "企业宣传",
+        "作品形式与内容"
+      ],
+      "collocations": [
+        "言行表里不一",
+        "切忌表里不一",
+        "批判表里不一的行为"
+      ],
+      "commonMistake": "相比“口蜜腹剑”“两面三刀”，语义程度更偏中等，也可偶用于“产品宣传与质量不符”。",
+      "tags": [
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "部分商家高喊“绿色环保”口号吸引消费者，背地里却违规排污，这种____的“漂绿”行径必须严厉打击。",
+          "highlightClues": [
+            "高喊“绿色环保”口号",
+            "背地里却违规排污",
+            "“漂绿”行径"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "两面三刀",
+        "言行不一",
+        "名不副实"
+      ]
+    },
+    {
+      "id": "tong_liu_he_wu",
+      "word": "同流合污",
+      "pinyin": "tóng liú hé wū",
+      "frequency": 5,
+      "coreMeaning": "随同坏人一起干坏事，形容丧失原则而与腐朽恶势力混在一起。",
+      "morphemeHint": {
+        "keyChar": "污",
+        "explanation": "“流”指流俗派别，“污”指污浊腐败；专指与不良风气或违法群体沆瀣一气。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "官员腐败",
+        "利益团伙",
+        "行业乱象"
+      ],
+      "collocations": [
+        "绝不同流合污",
+        "与不法分子同流合污",
+        "拒绝同流合污"
+      ],
+      "commonMistake": "带有强烈的道德与法纪批判色彩，绝不可用来形容“大家一起共患难”或“融入普通群众”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "面对行业内长期存在的造假潜规则，青年科研人员唯有守住学术底线，才能避免在利益诱惑下____。",
+          "highlightClues": [
+            "造假潜规则",
+            "守住学术底线",
+            "利益诱惑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "沆瀣一气",
+        "狼狈为奸",
+        "洁身自好"
+      ]
+    },
+    {
+      "id": "jian_feng_shi_duo",
+      "word": "见风使舵",
+      "pinyin": "jiàn fēng shǐ duò",
+      "frequency": 5,
+      "coreMeaning": "看风向来操纵船舵，比喻毫无原则地看形势变化而随机应变、投机讨好。",
+      "morphemeHint": {
+        "keyChar": "舵",
+        "explanation": "“舵”指控制航向的装置；本为航海术语，今喻立场不稳、随风倒的投机行为。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "墙头草",
+        "投机者",
+        "立场摇摆者"
+      ],
+      "collocations": [
+        "惯于见风使舵",
+        "见风使舵的态度",
+        "摒弃见风使舵"
+      ],
+      "commonMistake": "行测常将其作为贬义干扰项与“审时度势”（褒义）区分，前者无原则投机，后者顺应客观大势。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "真正的战略定力意味着认准方向后久久为功，绝不能遇到一点舆情波动就左右摇摆、____。",
+          "highlightClues": [
+            "战略定力",
+            "久久为功",
+            "左右摇摆"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "审时度势",
+        "随波逐流",
+        "趋炎附势"
+      ]
+    },
+    {
+      "id": "tou_ji_qu_qiao",
+      "word": "投机取巧",
+      "pinyin": "tóu jī qǔ qiǎo",
+      "frequency": 5,
+      "coreMeaning": "不踏实付出努力，专门利用漏洞或耍小聪明去谋取不正当利益。",
+      "morphemeHint": {
+        "keyChar": "巧",
+        "explanation": "“投机”指趁机钻空子，“取巧”指耍滑头讨便宜；与脚踏实地、真抓实干相对。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研作风",
+        "市场监管",
+        "考试作弊",
+        "基层工作"
+      ],
+      "collocations": [
+        "严禁投机取巧",
+        "杜绝投机取巧心理",
+        "绝不能投机取巧"
+      ],
+      "commonMistake": "常与褒义词“另辟蹊径”“巧妙变通”混用；凡用“投机取巧”必含不正当钻空子之意。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "核心技术攻关是一场持久战，来不得半点虚假与____，唯有坐稳“冷板凳”才能实现从零到一的突破。",
+          "highlightClues": [
+            "持久战",
+            "来不得半点虚假",
+            "坐稳“冷板凳”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "弄虚作假",
+        "钻空子",
+        "另辟蹊径"
+      ]
+    },
+    {
+      "id": "er_yu_wo_zha",
+      "word": "尔虞我诈",
+      "pinyin": "ěr yú wǒ zhà",
+      "frequency": 4,
+      "coreMeaning": "你欺骗我、我算计你，形容人与人或团体之间互相猜忌欺诈的恶劣关系。",
+      "morphemeHint": {
+        "keyChar": "虞",
+        "explanation": "“尔”指你，“虞”指欺骗猜疑，“诈”指欺诈；体现毫无互信的恶性博弈氛围。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "宫廷内斗",
+        "恶性竞争",
+        "国际霸权博弈"
+      ],
+      "collocations": [
+        "摒弃尔虞我诈",
+        "陷入尔虞我诈",
+        "充满尔虞我诈"
+      ],
+      "commonMistake": "必须用于“双向互相欺骗”的群体或双方关系，不能只用来形容单方面被骗。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "新型国际关系倡导对话而不对抗、结伴而不结盟，坚决摒弃零和博弈与____的冷战旧思维。",
+          "highlightClues": [
+            "对话而不对抗",
+            "零和博弈",
+            "冷战旧思维"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "勾心斗角",
+        "明争暗斗",
+        "以诚相待"
+      ]
+    },
+    {
+      "id": "gou_xin_dou_jiao",
+      "word": "勾心斗角",
+      "pinyin": "gōu xīn dòu jiǎo",
+      "frequency": 4,
+      "coreMeaning": "原形容宫室建筑结构精巧交错，现比喻各用心机、互相排挤倾轧。",
+      "morphemeHint": {
+        "keyChar": "角",
+        "explanation": "出自杜牧《阿房宫赋》，本指建筑飞檐斗拱（中性），现代汉语固定转义为贬义内耗倾轧。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "职场内耗",
+        "派系争斗",
+        "古代宫室建筑"
+      ],
+      "collocations": [
+        "内部勾心斗角",
+        "杜绝勾心斗角",
+        "不再勾心斗角"
+      ],
+      "commonMistake": "注意其古今词义演变：现代语境绝大多为贬义内斗，但在描写古建筑结构时可作中性本义考。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "科研团队之所以能屡克难关，关键在于成员间精诚协作，把全部精力用在攻关上而非内部____。",
+          "highlightClues": [
+            "精诚协作",
+            "把全部精力用在攻关上",
+            "而非内部"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "尔虞我诈",
+        "明争暗斗",
+        "同心协力"
+      ]
+    },
+    {
+      "id": "ge_ge_bu_ru",
+      "word": "格格不入",
+      "pinyin": "gé gé bù rù",
+      "frequency": 5,
+      "coreMeaning": "形容彼此思想、性格、制度或风格互相抵触，完全融洽不到一起。",
+      "morphemeHint": {
+        "keyChar": "格",
+        "explanation": "“格格”拟声或形容抵触阻碍之貌；强调事物之间存在根本性的不兼容或排斥。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文化冲突",
+        "建筑风貌",
+        "人际理念",
+        "制度移植"
+      ],
+      "collocations": [
+        "与周围环境格格不入",
+        "显得格格不入",
+        "同主流格格不入"
+      ],
+      "commonMistake": "常与“大相径庭”混淆；“大相径庭”侧重差距极大，“格格不入”侧重无法融合、相互排斥。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "古城更新切忌盲目照搬现代玻璃幕墙摩天楼模式，否则新建建筑将与传统街巷肌理显得____。",
+          "highlightClues": [
+            "古城更新",
+            "玻璃幕墙摩天楼",
+            "传统街巷肌理"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "大相径庭",
+        "水火不容",
+        "融为一体"
+      ]
+    },
+    {
+      "id": "fen_dao_yang_biao",
+      "word": "分道扬镳",
+      "pinyin": "fēn dào yáng biāo",
+      "frequency": 5,
+      "coreMeaning": "分路而行，比喻因志趣、目标或利益不同而各走各的路，不再合作。",
+      "morphemeHint": {
+        "keyChar": "镳",
+        "explanation": "“镳”指马嚼子，扬鞭策马分道前行；中性词，重在“原本同行，后来各奔前程”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "合作伙伴",
+        "学术流派",
+        "政策路径"
+      ],
+      "collocations": [
+        "最终分道扬镳",
+        "与昔日伙伴分道扬镳",
+        "走向分道扬镳"
+      ],
+      "commonMistake": "常与“背道而驰”混淆！“分道扬镳”只是走向不同方向（未必完全对立），“背道而驰”是方向完全相反。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "两位创始人最初因共同的教育理想携手创业，但随着企业规模扩大，双方在商业化路径上产生分歧并最终____。",
+          "highlightClues": [
+            "携手创业",
+            "产生分歧",
+            "最终"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "背道而驰",
+        "志同道合",
+        "各奔前程"
+      ]
+    },
+    {
+      "id": "yi_cheng_xiang_dai",
+      "word": "以诚相待",
+      "pinyin": "yǐ chéng xiāng dài",
+      "frequency": 4,
+      "coreMeaning": "用真诚坦率的态度去对待别人，形容人与人或团体之间交往毫无虚伪。",
+      "morphemeHint": {
+        "keyChar": "诚",
+        "explanation": "“以”为用，“诚”为真心实意，“相待”指相互对待；体现信任合作的基础原则。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "朋友交往",
+        "国与国关系",
+        "医患沟通",
+        "干群关系"
+      ],
+      "collocations": [
+        "彼此以诚相待",
+        "坚持以诚相待",
+        "以诚相待、互利共赢"
+      ],
+      "commonMistake": "语气平和诚恳，属于积极交往准则，不宜在带有敌意欺诈的语境下反讽使用。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "在对外交往与文化交流中，唯有做到尊重差异、____，才能消弭误解隔阂，架起民心相通的桥梁。",
+          "highlightClues": [
+            "尊重差异",
+            "消弭误解隔阂",
+            "民心相通"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "诚心诚意",
+        "推心置腹",
+        "坦诚相见"
+      ]
+    },
+    {
+      "id": "cheng_xin_cheng_yi",
+      "word": "诚心诚意",
+      "pinyin": "chéng xīn chéng yì",
+      "frequency": 4,
+      "coreMeaning": "心意极其真诚恳切，没有丝毫虚情假意或敷衍成分。",
+      "morphemeHint": {
+        "keyChar": "意",
+        "explanation": "“心”与“意”叠用加强语势，突出主观态度上的真挚与实在。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "服务群众",
+        "认错道歉",
+        "合作邀请"
+      ],
+      "collocations": [
+        "诚心诚意地服务",
+        "诚心诚意地接受监督",
+        "诚心诚意合作"
+      ],
+      "commonMistake": "常与“全心全意”搭配或辨析；“诚心诚意”重在态度真挚不作伪，“全心全意”重在精力全部投入。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "只有俯下身子倾听百姓呼声，____地为群众排忧解难，基层调解工作才能真正做到群众心坎上。",
+          "highlightClues": [
+            "倾听百姓呼声",
+            "排忧解难",
+            "做到群众心坎上"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "以诚相待",
+        "全心全意",
+        "虚情假意"
+      ]
+    },
+    {
+      "id": "tui_xin_zhi_fu",
+      "word": "推心置腹",
+      "pinyin": "tuī xīn zhì fù",
+      "frequency": 5,
+      "coreMeaning": "把赤诚之心放到别人的腹中，比喻以真心待人、毫无保留地坦诚交谈。",
+      "morphemeHint": {
+        "keyChar": "置",
+        "explanation": "“推”是奉献出，“置”是安放；源自《后汉书》光武帝典故，重在真诚信任与深度交心。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "谈心谈话",
+        "深交挚友",
+        "团结统战"
+      ],
+      "collocations": [
+        "推心置腹地交谈",
+        "与人才推心置腹",
+        "推心置腹的挚友"
+      ],
+      "commonMistake": "仅用于真诚深度的沟通交流，不可用来形容“推卸责任”或“公开批评斥责”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "面对团队内部的意见分歧，与其隔空猜忌，不如坐下来____地开展一次坦诚对话，在交流中凝聚共识。",
+          "highlightClues": [
+            "意见分歧",
+            "坦诚对话",
+            "凝聚共识"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "肝胆相照",
+        "披肝沥胆",
+        "开诚布公"
+      ]
+    },
+    {
+      "id": "gan_dan_xiang_zhao",
+      "word": "肝胆相照",
+      "pinyin": "gān dǎn xiāng zhào",
+      "frequency": 5,
+      "coreMeaning": "以真心相见，比喻彼此之间极为忠诚信任、坦诚相待、休戚与共。",
+      "morphemeHint": {
+        "keyChar": "照",
+        "explanation": "“肝胆”喻赤诚之心，“相照”指互相映照；政论中常专指中国共产党与各民主党派的关系。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "多党合作",
+        "战友情谊",
+        "生死挚友"
+      ],
+      "collocations": [
+        "肝胆相照、荣辱与共",
+        "肝胆相照的朋友",
+        "保持肝胆相照"
+      ],
+      "commonMistake": "语义极重，强调长期深厚的忠诚与互信，不宜用于萍水相逢的普通商业客套关系。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "我国新型政党制度坚持长期共存、互相监督、____、荣辱与共，展现出独特的政治优势与制度活力。",
+          "highlightClues": [
+            "新型政党制度",
+            "长期共存、互相监督",
+            "荣辱与共"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "披肝沥胆",
+        "推心置腹",
+        "患难与共"
+      ]
+    },
+    {
+      "id": "pi_gan_li_dan",
+      "word": "披肝沥胆",
+      "pinyin": "pī gān lì dǎn",
+      "frequency": 4,
+      "coreMeaning": "剖开肝脏、滴出胆汁，比喻竭尽忠诚、毫无保留地倾诉真情或效忠献身。",
+      "morphemeHint": {
+        "keyChar": "沥",
+        "explanation": "“披”意为剖开，“沥”意为滴下；比“肝胆相照”更偏重单方向某对象极尽忠诚与直言。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "忠臣良将",
+        "楷模人物",
+        "建言献策"
+      ],
+      "collocations": [
+        "披肝沥胆地进言",
+        "一片披肝沥胆的忠心",
+        "披肝沥胆、鞠躬尽瘁"
+      ],
+      "commonMistake": "注意区别方向：“肝胆相照”是双向互动，“披肝沥胆”重在一方极尽忠忱与赤诚。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "老一辈农业专家们____，数十年如一日扎根盐碱地改良一线，只为让中国人的饭碗端得更稳更牢。",
+          "highlightClues": [
+            "老一辈农业专家",
+            "数十年如一日",
+            "盐碱地改良"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "肝胆相照",
+        "推心置腹",
+        "赤胆忠心"
+      ]
+    },
+    {
+      "id": "xiang_ru_yi_mo",
+      "word": "相濡以沫",
+      "pinyin": "xiāng rú yǐ mò",
+      "frequency": 5,
+      "coreMeaning": "泉水干涸时鱼互相吐沫润湿，比喻在困境中用微薄力量互相救助扶持。",
+      "morphemeHint": {
+        "keyChar": "濡",
+        "explanation": "“濡”意为沾湿，“沫”指唾沫；出自《庄子》，必须包含“处于共同困境中互相扶持”的前提。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "患难夫妻",
+        "困顿伙伴",
+        "共克时艰"
+      ],
+      "collocations": [
+        "一路相濡以沫",
+        "患难中相濡以沫",
+        "相濡以沫的深情"
+      ],
+      "commonMistake": "常被误用在顺境富贵中；它必须以“困境/艰难”为背景，否则不如用“锦上添花”或“相敬如宾”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在抗击极端暴雪灾害的日夜里，滞留旅客与沿线村民____、共享有限的热水与干粮，书写了动人的温情。",
+          "highlightClues": [
+            "极端暴雪灾害",
+            "滞留旅客",
+            "共享有限的热水与干粮"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "守望相助",
+        "患难与共",
+        "相敬如宾"
+      ]
+    },
+    {
+      "id": "tong_zhou_gong_ji",
+      "word": "同舟共济",
+      "pinyin": "tóng zhōu gòng jì",
+      "frequency": 5,
+      "coreMeaning": "坐同一条船渡过险河，比喻在困难与风浪面前团结一致、共同克服难关。",
+      "morphemeHint": {
+        "keyChar": "济",
+        "explanation": "“济”意为渡水（非救济）；强调处于同一环境或危机中合力应对、共渡难关。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "国际合作",
+        "抗灾救险",
+        "政企协作",
+        "民族团结"
+      ],
+      "collocations": [
+        "秉持同舟共济的精神",
+        "同舟共济、共克时艰",
+        "携手同舟共济"
+      ],
+      "commonMistake": "常在句子中与“共渡难关”重复搭配；注意“济”即“渡过”，与“和衷共济”语义有细微侧重差。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "面对世纪疫情与世界经济复苏乏力的双重考验，唯有发扬____的伙伴精神，才能驶向更加光明的未来。",
+          "highlightClues": [
+            "双重考验",
+            "伙伴精神",
+            "驶向"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "和衷共济",
+        "风雨同舟",
+        "患难与共"
+      ]
+    },
+    {
+      "id": "he_zhong_gong_ji",
+      "word": "和衷共济",
+      "pinyin": "hé zhōng gòng jì",
+      "frequency": 5,
+      "coreMeaning": "大家一条心、共同渡过江河，比喻同心协力克服困难、完成大业。",
+      "morphemeHint": {
+        "keyChar": "衷",
+        "explanation": "“和衷”指内心想法协调一致，“共济”指共同渡河；侧重“心理共识与团结协作”。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "多部门协作",
+        "政党团结",
+        "社会各界"
+      ],
+      "collocations": [
+        "和衷共济、团结奋斗",
+        "各界和衷共济",
+        "发扬和衷共济传统"
+      ],
+      "commonMistake": "注意“衷”不可误写为“中”或“忠”；与“同舟共济”相比，“和衷共济”多一层“心意一致、消除内耗”之意。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "跨省流域水污染联防联控机制打破了行政壁垒，让上下游省市得以____，共同守护一江碧水东流。",
+          "highlightClues": [
+            "打破了行政壁垒",
+            "上下游省市",
+            "共同守护"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "同舟共济",
+        "同心同德",
+        "齐心协力"
+      ]
+    },
+    {
+      "id": "shou_wang_xiang_zhu",
+      "word": "守望相助",
+      "pinyin": "shǒu wàng xiāng zhù",
+      "frequency": 5,
+      "coreMeaning": "为了防备外患灾害而相互警戒瞭望，并在彼此需要时积极提供帮助。",
+      "morphemeHint": {
+        "keyChar": "望",
+        "explanation": "出自《孟子》“出入相友，守望相助”；凸显邻里、社区或邻国间的互助防卫与日常照应。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "社区邻里",
+        "乡村治理",
+        "周边邻国",
+        "抢险救灾"
+      ],
+      "collocations": [
+        "守望相助的传统美德",
+        "邻里守望相助",
+        "深化守望相助"
+      ],
+      "commonMistake": "常误解为“默默看着彼此”，实指“互相警戒守卫、互相帮助”，行动性很强。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "重塑现代城市熟人社区温度，需要通过志愿服务与邻里议事会，重新激活居民之间____的互助传统。",
+          "highlightClues": [
+            "城市熟人社区",
+            "邻里议事会",
+            "互助传统"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "相濡以沫",
+        "同舟共济",
+        "患难与共"
+      ]
+    },
+    {
+      "id": "huan_nan_yu_gong",
+      "word": "患难与共",
+      "pinyin": "huàn nàn yǔ gòng",
+      "frequency": 4,
+      "coreMeaning": "共同承受艰难困苦与危险，形容彼此情谊深厚、在逆境中不离不弃。",
+      "morphemeHint": {
+        "keyChar": "患",
+        "explanation": "“患难”指灾祸困苦，“与共”指共同承担；考验关系的试金石在于逆境共担。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "战友亲人",
+        "中非友好关系",
+        "创业团队"
+      ],
+      "collocations": [
+        "患难与共的真挚情谊",
+        "患难与共、生死相依",
+        "历来患难与共"
+      ],
+      "commonMistake": "必须发生在“逆境、困难、灾难”的语境中，平时顺境共享荣誉不能用此词。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "无论国际风云如何变幻，那些在历史紧要关头曾经____的友好国家，始终珍视这份经受住考验的深厚情谊。",
+          "highlightClues": [
+            "历史紧要关头",
+            "经受住考验",
+            "深厚情谊"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "同甘共苦",
+        "风雨同舟",
+        "同舟共济"
+      ]
+    },
+    {
+      "id": "feng_yu_tong_zhou",
+      "word": "风雨同舟",
+      "pinyin": "fēng yǔ tóng zhōu",
+      "frequency": 5,
+      "coreMeaning": "在狂风暴雨中同乘一条船共度险境，比喻在艰难险阻中共患难、共进退。",
+      "morphemeHint": {
+        "keyChar": "风",
+        "explanation": "相比“同舟共济”，“风雨”二字更渲染外部环境的严峻动荡与风险压力。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "民族团结",
+        "党群关系",
+        "企业员工",
+        "伙伴"
+      ],
+      "collocations": [
+        "风雨同舟的历程",
+        "与人民风雨同舟",
+        "风雨同舟、砥砺前行"
+      ],
+      "commonMistake": "多用于宏大历史叙事或严重危机考验，避免在轻松娱乐或无风波日常中误用。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "百年奋斗征程中，党始终与人民群众____、生死与共，筑起了任何风浪都无法撼动的钢铁长城。",
+          "highlightClues": [
+            "百年奋斗征程",
+            "生死与共",
+            "任何风浪"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "同舟共济",
+        "患难与共",
+        "休戚与共"
+      ]
+    },
+    {
+      "id": "zhi_tong_dao_he",
+      "word": "志同道合",
+      "pinyin": "zhì tóng dào hé",
+      "frequency": 5,
+      "coreMeaning": "彼此理想志向相同，行动道路与处事原则也一致，形容高度契合的同盟或伙伴。",
+      "morphemeHint": {
+        "keyChar": "志",
+        "explanation": "“志”指理想抱负，“道”指方向原则；区别于纯粹因利益绑定的临时合伙。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "革命同志",
+        "科研团队",
+        "合作伙伴",
+        "挚友"
+      ],
+      "collocations": [
+        "志同道合的伙伴",
+        "聚集一批志同道合者",
+        "因为志同道合而相聚"
+      ],
+      "commonMistake": "注意感情色彩一般为积极正向（理想信念相投），坏人勾结不可用“志同道合”，应用“臭味相投”。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "真正稳固的跨学科科研攻关平台，不仅依靠项目经费维系，更依赖于一群____的学者对科学真理的共同追寻。",
+          "highlightClues": [
+            "科研攻关平台",
+            "共同追寻",
+            "不仅依靠项目经费"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "分道扬镳",
+        "同心同德",
+        "臭味相投"
+      ]
+    },
+    {
+      "id": "zhong_zhi_cheng_cheng",
+      "word": "众志成城",
+      "pinyin": "zhòng zhì chéng chéng",
+      "frequency": 5,
+      "coreMeaning": "万众一心的意志如城墙般坚固，比喻团结一致具有强大力量。",
+      "morphemeHint": {
+        "keyChar": "城",
+        "explanation": "“城”指坚固的城池堡垒；通过比喻凸显群众团结后形成无坚不摧的屏障力量。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "抗洪抢险",
+        "疫情防控",
+        "全民防线",
+        "集体攻坚"
+      ],
+      "collocations": [
+        "凝聚起众志成城的伟力",
+        "众志成城抗击灾害",
+        "万众一心、众志成城"
+      ],
+      "commonMistake": "常用于抗击灾害、外敌或重大危机时的集体防御与精神凝聚，主语多为广大群体。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "面对特大暴雨洪涝袭击，军民携手筑堤、八方物资驰援，充分展现了中华民族危难时刻____的精神伟力。",
+          "highlightClues": [
+            "特大暴雨洪涝",
+            "军民携手",
+            "精神伟力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "万众一心",
+        "铜墙铁壁",
+        "齐心协力"
+      ]
+    },
+    {
+      "id": "wan_zhong_yi_xin",
+      "word": "万众一心",
+      "pinyin": "wàn zhòng yī xīn",
+      "frequency": 4,
+      "coreMeaning": "千千万万人怀有同一条心，形容全国上下或全体民众高度团结一致。",
+      "morphemeHint": {
+        "keyChar": "万",
+        "explanation": "“万众”极言人数众多，“一心”极言思想高度统一；适用规模比“齐心协力”更宏大。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "全国人民",
+        "全民族",
+        "大型动员"
+      ],
+      "collocations": [
+        "万众一心加油干",
+        "激发万众一心的干劲",
+        "全党全军全国各族人民万众一心"
+      ],
+      "commonMistake": "涵盖人数极广，一般用于“全国人民/群众/各界”，不宜用来形容“两三个人商量小事”。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "脱贫攻坚伟业之所以能够如期打赢，归根结底在于全国上下____、咬定目标、尽锐出战的磅礴合力。",
+          "highlightClues": [
+            "脱贫攻坚",
+            "全国上下",
+            "磅礴合力"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "众志成城",
+        "同心同德",
+        "齐心协力"
+      ]
+    },
+    {
+      "id": "qi_xin_xie_li",
+      "word": "齐心协力",
+      "pinyin": "qí xīn xié lì",
+      "frequency": 5,
+      "coreMeaning": "思想认识保持一致，行动上共同出力，形容大家团结合作把事情办好。",
+      "morphemeHint": {
+        "keyChar": "协",
+        "explanation": "“齐心”指心意统一，“协力”指行动配合出力；适用范围最广，从团队到国家皆可用。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "工作团队",
+        "部门协同",
+        "社会治理",
+        "社区建设"
+      ],
+      "collocations": [
+        "齐心协力推进",
+        "各方齐心协力",
+        "齐心协力攻克难关"
+      ],
+      "commonMistake": "常见误写为“齐心合力”（标准写法为“协力”）；可修饰具体做事过程，行动感较强。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "老旧小区加装电梯涉及多方利益诉求，唯有街道、物业与居民____、充分协商，才能真正跑通“最后一米”。",
+          "highlightClues": [
+            "街道、物业与居民",
+            "充分协商",
+            "跑通“最后一米”"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "同心协力",
+        "群策群力",
+        "通力合作"
+      ]
+    },
+    {
+      "id": "tong_xin_tong_de",
+      "word": "同心同德",
+      "pinyin": "tóng xīn tóng dé",
+      "frequency": 5,
+      "coreMeaning": "思想一致，信念与道德准则一致，形容为了共同理想和事业高度团结。",
+      "morphemeHint": {
+        "keyChar": "德",
+        "explanation": "“心”指思想意愿，“德”指政治信念或共同准则；格调庄重，多用于政治与思想层面团结。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "全党全国",
+        "统战工作",
+        "领导班子"
+      ],
+      "collocations": [
+        "同心同德谋发展",
+        "同心同德、群策群力",
+        "始终同心同德"
+      ],
+      "commonMistake": "注意“德”赋予了该词浓厚的政治或理想原则色彩，琐碎日常协作不宜大词小用。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "面对复杂多变的改革发展任务，只有全社会____、同向同行，才能把制度优势源源不断转化为治理效能。",
+          "highlightClues": [
+            "改革发展任务",
+            "同向同行",
+            "治理效能"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "志同道合",
+        "和衷共济",
+        "万众一心"
+      ]
+    },
+    {
+      "id": "ji_si_guang_yi",
+      "word": "集思广益",
+      "pinyin": "jí sī guǎng yì",
+      "frequency": 5,
+      "coreMeaning": "广泛汇集众人的智慧和意见，以获得更好更完善的方案或效益。",
+      "morphemeHint": {
+        "keyChar": "思",
+        "explanation": "“思”指思考意见，“益”指好处效果；源于诸葛亮《教与军师长史参军掾属》，专指集中智力。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科学决策",
+        "政策制定",
+        "学术研讨",
+        "征求意见"
+      ],
+      "collocations": [
+        "坚持集思广益",
+        "集思广益、科学决策",
+        "广泛集思广益"
+      ],
+      "commonMistake": "侧重“思想、意见、建议”的汇集，若后文强调“体力劳动/搬运/施工”，用“齐心协力”更恰当。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "五年规划编制过程中面向全社会开展网上意见征求活动，正是开门问策、____以提升政策科学性的生动实践。",
+          "highlightClues": [
+            "意见征求活动",
+            "开门问策",
+            "提升政策科学性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "群策群力",
+        "博采众长",
+        "广开言路"
+      ]
+    },
+    {
+      "id": "he_er_bu_tong",
+      "word": "和而不同",
+      "pinyin": "hé ér bù tóng",
+      "frequency": 5,
+      "coreMeaning": "在保持各自独立见解与特色的同时和谐共处，而不盲目附和趋同。",
+      "morphemeHint": {
+        "keyChar": "和",
+        "explanation": "出自《论语》“君子和而不同”；“和”是多元交融协调，“同”是简单复制雷同。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文明交流",
+        "学术争鸣",
+        "人际交往",
+        "团队文化"
+      ],
+      "collocations": [
+        "秉持和而不同的理念",
+        "君子和而不同",
+        "和而不同、美美与共"
+      ],
+      "commonMistake": "不可误解为“表面和气其实不赞同”（那是貌合神离）；它赞美尊重差异下的包容共生。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "人类文明因多样而交流，因交流而互鉴，各国唯有秉持____、美美与共的胸怀，才能共同绘就世界文明百花园。",
+          "highlightClues": [
+            "多样",
+            "交流",
+            "美美与共"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "求同存异",
+        "兼收并蓄",
+        "格格不入"
+      ]
+    },
+    {
+      "id": "qiu_tong_cun_yi",
+      "word": "求同存异",
+      "pinyin": "qiú tóng cún yì",
+      "frequency": 5,
+      "coreMeaning": "寻找彼此的共同点，同时保留各自的差异或分歧，以促进和平共处与合作。",
+      "morphemeHint": {
+        "keyChar": "存",
+        "explanation": "“求同”是凝聚合作交集，“存异”是暂搁或尊重分歧而不强求一律；重在外交与协商实践。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "外交谈判",
+        "国际会议",
+        "团队协调",
+        "多边合作"
+      ],
+      "collocations": [
+        "坚持求同存异",
+        "秉持求同存异原则",
+        "在求同存异中谋合作"
+      ],
+      "commonMistake": "与“和而不同”相比，“求同存异”更偏重处理已有“分歧/争议”时的务实协商策略。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "面对气候资金分担与减排节奏上的现实分歧，各缔约方唯有坚持____，才能推动全球气候治理取得实质进展。",
+          "highlightClues": [
+            "现实分歧",
+            "各缔约方",
+            "取得实质进展"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "和而不同",
+        "聚同化异",
+        "针锋相对"
+      ]
+    },
+    {
+      "id": "lu_li_tong_xin",
+      "word": "勠力同心",
+      "pinyin": "lù lì tóng xīn",
+      "frequency": 5,
+      "coreMeaning": "齐心合力、团结一致地为共同事业而努力奋斗。",
+      "morphemeHint": {
+        "keyChar": "勠",
+        "explanation": "“勠”读 lù，意为并、合；“勠力”即合力，是政论公文中最具书面庄重感的“齐心协力”表达。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "国家战略",
+        "政党合作",
+        "攻关团队"
+      ],
+      "collocations": [
+        "勠力同心共筑梦想",
+        "全党全社会勠力同心",
+        "勠力同心、勇毅前行"
+      ],
+      "commonMistake": "常见字形误写为“戮力同心”（现代规范一般用“勠”）；书面政论色彩极浓。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "实现高水平科技自立自强，需要科研院所、高校与领军企业____、协同攻关，打通产学研用全链条堵点。",
+          "highlightClues": [
+            "科研院所、高校与领军企业",
+            "协同攻关",
+            "打通产学研用全链条堵点"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "同心同德",
+        "齐心协力",
+        "和衷共济"
+      ]
+    },
+    {
+      "id": "xie_shou_bing_jin",
+      "word": "携手并进",
+      "pinyin": "xié shǒu bìng jìn",
+      "frequency": 4,
+      "coreMeaning": "拉着手一起向前迈进，比喻彼此团结合作、共同进步发展。",
+      "morphemeHint": {
+        "keyChar": "并",
+        "explanation": "“携手”喻联合合作，“并进”指共同向前发展；带有动态感与共赢色彩。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "区域协同",
+        "校企合作",
+        "国际伙伴"
+      ],
+      "collocations": [
+        "携手并进共创未来",
+        "与各方携手并进",
+        "区域携手并进"
+      ],
+      "commonMistake": "多用于平等主体之间的共同发展、互利共赢，不适合存在严厉敌我对抗或单方面帮扶场景。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "京津冀三地打破“一亩三分地”思维定式，在交通一体化与生态协同治理上____，跑出了区域发展加速度。",
+          "highlightClues": [
+            "打破“一亩三分地”",
+            "协同治理",
+            "区域发展加速度"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "并驾齐驱",
+        "同舟共济",
+        "齐头并进"
+      ]
+    },
+    {
+      "id": "zhong_qing_yi_ju",
+      "word": "众擎易举",
+      "pinyin": "zhòng qíng yì jǔ",
+      "frequency": 4,
+      "coreMeaning": "许多人一起向上托举就容易举起来，比喻只要大家齐心合力事情就容易办成。",
+      "morphemeHint": {
+        "keyChar": "擎",
+        "explanation": "“擎”意为向上托、举起；突出依靠众人合力去化解单个力量难以胜任的艰巨任务。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公益事业",
+        "社会共建",
+        "重大工程"
+      ],
+      "collocations": [
+        "深刻诠释众擎易举",
+        "众擎易举的合力",
+        "孤掌难鸣与众擎易举"
+      ],
+      "commonMistake": "注意“擎”读 qíng（勿误读误写）；常与“孤掌难鸣”“独木难支”形成正反对照。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "生态环境保护绝非生态环境部门一家的“独角戏”，只有全社会共同参与、____，才能汇聚成绿色发展的磅礴力量。",
+          "highlightClues": [
+            "“独角戏”",
+            "全社会共同参与",
+            "汇聚成"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "孤掌难鸣",
+        "独木难支",
+        "群策群力"
+      ]
+    },
+    {
+      "id": "gu_zhang_nan_ming",
+      "word": "孤掌难鸣",
+      "pinyin": "gū zhǎng nán míng",
+      "frequency": 4,
+      "coreMeaning": "一只手掌拍不出声音，比喻力量单薄孤立，没有协同配合难以成事。",
+      "morphemeHint": {
+        "keyChar": "孤",
+        "explanation": "“孤掌”即单手；形象说明单打独斗无法产生实效，重在呼吁协同与支持。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "政策推进",
+        "科研攻关",
+        "生态治理",
+        "个人创业"
+      ],
+      "collocations": [
+        "往往孤掌难鸣",
+        "避免孤掌难鸣",
+        "深刻体会孤掌难鸣"
+      ],
+      "commonMistake": "常与“独木难支”辨析；“孤掌难鸣”重在“缺少配合无法干成事”，“独木难支”重在“危局中一人支撑不住”。",
+      "tags": [
+        "国考高频",
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "未成年人网络保护是一项系统工程，学校、家庭与平台若缺少联动机制，任何一方单兵突进都难免____。",
+          "highlightClues": [
+            "系统工程",
+            "缺少联动机制",
+            "单兵突进"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独木难支",
+        "众擎易举",
+        "单打独斗"
+      ]
+    },
+    {
+      "id": "jing_cheng_tuan_jie",
+      "word": "精诚团结",
+      "pinyin": "jīng chéng tuán jié",
+      "frequency": 4,
+      "coreMeaning": "以至诚之心紧密团结在一起，形容内部毫无隔阂、高度凝心聚力。",
+      "morphemeHint": {
+        "keyChar": "精",
+        "explanation": "“精诚”指极其真诚纯洁；强调团结建立在高度互信与赤诚的基础上，而非表面凑数。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "领导班子",
+        "科研队伍",
+        "各族人民"
+      ],
+      "collocations": [
+        "保持精诚团结",
+        "全党精诚团结",
+        "精诚团结的局面"
+      ],
+      "commonMistake": "注意“精诚”不可误作“真诚团结”混淆搭配习惯，常与“通力合作”并列或呼应。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "重大科技基础设施的顺利建成，离不开参研单位打破门户之见、____、十年磨一剑的联合攻关。",
+          "highlightClues": [
+            "打破门户之见",
+            "参研单位",
+            "联合攻关"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "同心同德",
+        "通力合作",
+        "和衷共济"
+      ]
+    },
+    {
+      "id": "tong_li_he_zuo",
+      "word": "通力合作",
+      "pinyin": "tōng lì hé zuò",
+      "frequency": 4,
+      "coreMeaning": "各方不分彼此地贯通力量、共同配合完成某项任务。",
+      "morphemeHint": {
+        "keyChar": "通",
+        "explanation": "“通力”指把各方面的力量打通结合起来；侧重跨主体、跨环节的高效协作行动。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "跨部门联动",
+        "供应链上下游",
+        "国际联合行动"
+      ],
+      "collocations": [
+        "需要通力合作",
+        "各方通力合作",
+        "通力合作破除壁垒"
+      ],
+      "commonMistake": "不可误写为“同力合作”；主要强调行动与机制上的打通配合。",
+      "tags": [
+        "省考高频"
+      ],
+      "examples": [
+        {
+          "sentence": "打击跨区域非法倾倒固体废物犯罪，迫切需要公安、生态、交通等多部门____，实现线索移交与溯源追责无缝衔接。",
+          "highlightClues": [
+            "跨区域",
+            "多部门",
+            "无缝衔接"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "齐心协力",
+        "精诚团结",
+        "群策群力"
+      ]
+    },
+    {
+      "id": "xuan_bin_duo_zhu",
+      "word": "喧宾夺主",
+      "pinyin": "xuān bīn duó zhǔ",
+      "frequency": 5,
+      "coreMeaning": "客人的声音压倒主人，比喻次要的事物或外来的力量占了主要地位。",
+      "morphemeHint": {
+        "keyChar": "宾、主",
+        "explanation": "“宾”是客体、次要部分，“主”是主体、核心部分；强调用次要压倒了主要。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "形式与内容",
+        "配角与主角",
+        "辅助功能",
+        "装饰元素"
+      ],
+      "collocations": [
+        "切忌喧宾夺主",
+        "避免技术喧宾夺主",
+        "显得喧宾夺主"
+      ],
+      "commonMistake": "常与“本末倒置”混淆；前者侧重次要事物风头盖过主要事物，后者侧重把根本与枝节的位置颠倒。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "近年来部分文化类综艺过度依赖声光电特效，导致舞台包装____，反而冲淡了文化内核的深度表达。",
+          "highlightClues": [
+            "过度依赖声光电特效",
+            "舞台包装",
+            "冲淡了文化内核"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "本末倒置",
+        "舍本逐末",
+        "反客为主"
+      ]
+    },
+    {
+      "id": "mai_du_huan_zhu",
+      "word": "买椟还珠",
+      "pinyin": "mǎi dú huán zhū",
+      "frequency": 4,
+      "coreMeaning": "买下装珍珠的木匣，却退还珍珠，比喻没有眼光，取舍不当。",
+      "morphemeHint": {
+        "keyChar": "椟、珠",
+        "explanation": "“椟”指装宝物的木匣（外在形式），“珠”指珍珠（核心价值）；重在重形式而弃内容。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "审美判断",
+        "商品消费",
+        "政策执行",
+        "文化传播"
+      ],
+      "collocations": [
+        "避免买椟还珠",
+        "无异于买椟还珠",
+        "落入买椟还珠的误区"
+      ],
+      "commonMistake": "核心语义在于“重外在形式、轻内在价值”且缺乏鉴别力，不宜用于单纯的效率高低比较。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "过度精美的月饼礼盒推高了商品售价，让消费者为包装买单而忽略食品品质，难免让人有____之感。",
+          "highlightClues": [
+            "过度精美的月饼礼盒",
+            "为包装买单",
+            "忽略食品品质"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "舍本逐末",
+        "本末倒置",
+        "喧宾夺主"
+      ]
+    }
+  ]
+}

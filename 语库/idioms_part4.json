@@ -1,0 +1,2093 @@
+{
+  "type": "idioms",
+  "version": "1.0",
+  "items": [
+    {
+      "id": "kuai_zhi_ren_kou",
+      "word": "脍炙人口",
+      "pinyin": "kuài zhì rén kǒu",
+      "frequency": 5,
+      "coreMeaning": "像切细的肉片和烤肉一样人人爱吃，比喻美好的诗文或事物受到广泛称赞流传。",
+      "morphemeHint": {
+        "keyChar": "脍炙",
+        "explanation": "“脍”是细切肉，“炙”是烤肉；适用对象专指“诗文、歌曲、名言等优秀作品”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "诗词名句",
+        "经典歌曲",
+        "文艺佳作"
+      ],
+      "collocations": [
+        "脍炙人口的名篇",
+        "脍炙人口的经典"
+      ],
+      "commonMistake": "对象与褒贬误用：只能形容优秀文艺作品或美谈，绝不能用来形容美食本身、社会丑闻或流行病。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "唐宋诗词中之所以诞生了众多____的咏月名句，正因月亮承载了中国人共同的家国情思。",
+          "highlightClues": [
+            "唐宋诗词",
+            "咏月名句",
+            "共同的家国情思"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "喜闻乐见",
+        "雅俗共赏"
+      ]
+    },
+    {
+      "id": "ya_su_gong_shang",
+      "word": "雅俗共赏",
+      "pinyin": "yǎ sú gòng shǎng",
+      "frequency": 5,
+      "coreMeaning": "形容文艺作品既高雅又通俗，各种文化层次的人都能欣赏。",
+      "morphemeHint": {
+        "keyChar": "共赏",
+        "explanation": "兼顾高雅审美与大众通俗，主语是文艺作品（区别于受众感受“喜闻乐见”）。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文艺作品",
+        "文化节目",
+        "通俗读物"
+      ],
+      "collocations": [
+        "雅俗共赏的佳作",
+        "做到雅俗共赏"
+      ],
+      "commonMistake": "搭配与对象误用：侧重作品本身兼具高雅与通俗两种品质，不可用于低俗迎合或纯专业深奥著作。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "优秀的文化类电视节目能够把厚重的历史考据转化为生动叙事，真正实现学术性与观赏性并重、____。",
+          "highlightClues": [
+            "文化类电视节目",
+            "学术性与观赏性并重"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "喜闻乐见",
+        "脍炙人口"
+      ]
+    },
+    {
+      "id": "xi_wen_le_jian",
+      "word": "喜闻乐见",
+      "pinyin": "xǐ wén lè jiàn",
+      "frequency": 5,
+      "coreMeaning": "指受众非常喜欢听、乐意看，形容文艺形式或宣传内容深受广大群众欢迎。",
+      "morphemeHint": {
+        "keyChar": "闻见",
+        "explanation": "主语原本是“人（群众喜闻乐见）”，或构成“群众喜闻乐见的……”，不可直作“作品喜闻乐见”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "群众喜好的形式",
+        "文化活动",
+        "科普载体"
+      ],
+      "collocations": [
+        "群众喜闻乐见的形式",
+        "为大众所喜闻乐见"
+      ],
+      "commonMistake": "语法与搭配误用：不可直接说“这部电影喜闻乐见”，应说“群众喜闻乐见这部电影”或“群众喜闻乐见的作品”。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "各地博物馆纷纷用短视频与文物拟人漫画等年轻人____的方式，让馆藏国宝真正“活”起来。",
+          "highlightClues": [
+            "短视频与文物拟人漫画",
+            "年轻人",
+            "的方式"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雅俗共赏",
+        "脍炙人口"
+      ]
+    },
+    {
+      "id": "bu_jing_er_zou",
+      "word": "不胫而走",
+      "pinyin": "bù jìng ér zǒu",
+      "frequency": 5,
+      "coreMeaning": "没有小腿却能自己跑出去，形容消息、作品或传闻无需刻意推广便迅速传开。",
+      "morphemeHint": {
+        "keyChar": "胫",
+        "explanation": "“胫”指小腿；侧重信息、消息、名声传播极快，不用于具体物品丢失或人员失踪。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "消息传闻",
+        "名声口碑",
+        "文艺佳作"
+      ],
+      "collocations": [
+        "消息不胫而走",
+        "佳话不胫而走"
+      ],
+      "commonMistake": "望文生义：不能用来形容“商品没有脚却卖光了”或“文物不翼而飞”；那叫“不翼而飞”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在学术研讨会尚未正式刊发会议纪要之前，这项突破性考古发现的讯息便已在学界____。",
+          "highlightClues": [
+            "尚未正式刊发",
+            "发现的讯息",
+            "便已在学界"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "口耳相传",
+        "不翼而飞"
+      ]
+    },
+    {
+      "id": "kou_er_xiang_chuan",
+      "word": "口耳相传",
+      "pinyin": "kǒu ěr xiāng chuán",
+      "frequency": 5,
+      "coreMeaning": "口头说、耳朵听地代代传递，指没有书面文字记载而靠口头讲述传承下来。",
+      "morphemeHint": {
+        "keyChar": "口耳",
+        "explanation": "用嘴讲、用耳听，强调“非文字记录的口头传播”或“代际师徒言传身教”。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "民间故事",
+        "非遗技艺",
+        "方言歌谣"
+      ],
+      "collocations": [
+        "靠口耳相传保存",
+        "代代口耳相传"
+      ],
+      "commonMistake": "语境误用：多用于民间文学、非遗技艺或远古传说的流传，不宜用于依靠纸质出版或网络推送的传播。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "在文字尚未普及的漫长岁月里，少数民族英雄史诗主要依靠吟唱艺人的____得以跨越千年存续至今。",
+          "highlightClues": [
+            "文字尚未普及",
+            "吟唱艺人",
+            "跨越千年"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "薪火相传",
+        "不胫而走"
+      ]
+    },
+    {
+      "id": "xin_huo_xiang_chuan",
+      "word": "薪火相传",
+      "pinyin": "xīn huǒ xiāng chuán",
+      "frequency": 5,
+      "coreMeaning": "比喻学问、技艺、文化精神等代代相传、绵延不断。",
+      "morphemeHint": {
+        "keyChar": "薪火",
+        "explanation": "“薪”是柴，“火”喻光明与精神；专指优良文化、学术血脉或精神理念的代际延续。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "文化血脉",
+        "学术师承",
+        "工匠精神"
+      ],
+      "collocations": [
+        "让文脉薪火相传",
+        "精神薪火相传"
+      ],
+      "commonMistake": "褒贬误用：属于高度褒义的文化传承用语，不能用来指代腐败风气、犯罪手段或错误观念的延续。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "敦煌研究院几代学者扎根大漠、接力守护壁画，正是中华文化____的生动写照。",
+          "highlightClues": [
+            "几代学者",
+            "接力守护",
+            "中华文化"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "口耳相传",
+        "生生不息"
+      ]
+    },
+    {
+      "id": "li_jiu_mi_xin",
+      "word": "历久弥新",
+      "pinyin": "lì jiǔ mí xīn",
+      "frequency": 5,
+      "coreMeaning": "经历长久的时间考验不但没有陈旧过时，反而愈发显出崭新的生机与价值。",
+      "morphemeHint": {
+        "keyChar": "弥",
+        "explanation": "“弥”意为更加、越发；包含“经久不衰”与“常读常新”双重正向意义。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "经典文化",
+        "传统思想",
+        "精神品质"
+      ],
+      "collocations": [
+        "文化历久弥新",
+        "经典作品历久弥新"
+      ],
+      "commonMistake": "语义误用：不能用来修饰刚刚诞生的新事物（必须经历过“久”的沉淀），也不能用于顽固旧弊。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "《论语》等先秦典籍之所以能够____，正在于其对人性与伦理秩序的洞察至今仍能回应现代困惑。",
+          "highlightClues": [
+            "先秦典籍",
+            "至今仍能回应现代困惑"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "经久不衰",
+        "源远流长"
+      ]
+    },
+    {
+      "id": "bo_da_jing_shen",
+      "word": "博大精深",
+      "pinyin": "bó dà jīng shēn",
+      "frequency": 5,
+      "coreMeaning": "形容思想、学术理论、文化体系广博宏大而又精密深邃。",
+      "morphemeHint": {
+        "keyChar": "博精",
+        "explanation": "“博大”指范围广、内容丰，“精深”指程度深、学理透，专指思想文化与学术体系。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "传统文化",
+        "思想学说",
+        "哲学医学体系"
+      ],
+      "collocations": [
+        "中华文化博大精深",
+        "思想博大精深"
+      ],
+      "commonMistake": "对象误用：常与“源远流长”连用；前者重在“内容广度和深度”，后者重在“历史时间跨度长”。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "中医药学凝聚着深邃的哲学智慧与数千年临床实践，是一个____的传统生命科学宝库。",
+          "highlightClues": [
+            "深邃的哲学智慧",
+            "传统生命科学宝库"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "源远流长",
+        "微言大义"
+      ]
+    },
+    {
+      "id": "yuan_yuan_liu_chang",
+      "word": "源远流长",
+      "pinyin": "yuán yuǎn liú cháng",
+      "frequency": 5,
+      "coreMeaning": "河流源头很远、水流很长，比喻历史悠久、传统深厚且绵延不断。",
+      "morphemeHint": {
+        "keyChar": "源流",
+        "explanation": "时间维度上的“历史悠久、传承绵长”，区别于“博大精深”的空间与学理维度。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "历史文明",
+        "文化传统",
+        "民族友谊"
+      ],
+      "collocations": [
+        "历史源远流长",
+        "中华文明源远流长"
+      ],
+      "commonMistake": "对象与维度误用：侧重时间漫长与历史根基深厚，不宜用来形容新兴科技或当代短暂流行现象。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "三星堆与良渚考古实证了中华文明____、多元一体的历史演进脉络。",
+          "highlightClues": [
+            "考古实证",
+            "中华文明",
+            "历史演进脉络"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "博大精深",
+        "历久弥新"
+      ]
+    },
+    {
+      "id": "jing_jiu_bu_shuai",
+      "word": "经久不衰",
+      "pinyin": "jīng jiǔ bù shuāi",
+      "frequency": 5,
+      "coreMeaning": "经历很长的时间而不衰败、不失魅力，保持长久的生命力与吸引力。",
+      "morphemeHint": {
+        "keyChar": "不衰",
+        "explanation": "长久维持旺盛势头或受欢迎程度，多形容经典作品、艺术形式、品牌或理念。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "经典艺术",
+        "传统老字号",
+        "学术命题"
+      ],
+      "collocations": [
+        "魅力经久不衰",
+        "畅销且经久不衰"
+      ],
+      "commonMistake": "近义辨析：与“历久弥新”不同，“经久不衰”强调“始终保持不减当年”，未突出“愈发显新”。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "古典交响乐与传统山水画之所以能够____，正因为它们触及了人类共通的情感结构与审美理想。",
+          "highlightClues": [
+            "古典交响乐与传统山水画",
+            "共通的情感结构"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "历久弥新",
+        "久盛不衰"
+      ]
+    },
+    {
+      "id": "du_shu_yi_zhi",
+      "word": "独树一帜",
+      "pinyin": "dú shù yī zhì",
+      "frequency": 5,
+      "coreMeaning": "单独树起一面旗帜，比喻学术风格、艺术流派或方法体系独特新奇、自成一派。",
+      "morphemeHint": {
+        "keyChar": "帜",
+        "explanation": "“帜”指旗帜；偏重“形成鲜明独特的风格或学派”，常与“自成一家”互换辨析。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "艺术风格",
+        "学术流派",
+        "建筑设计"
+      ],
+      "collocations": [
+        "在画坛独树一帜",
+        "风格独树一帜"
+      ],
+      "commonMistake": "对象与语境误用：多用于正面称赞具有鲜明个性与开创性的流派风格，不宜用于日常琐事。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这位建筑师善于将江南民居的白墙黛瓦融入现代钢木结构，在当代东方美学建筑界____。",
+          "highlightClues": [
+            "融入现代钢木结构",
+            "当代东方美学建筑界"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "自成一家",
+        "别出心裁"
+      ]
+    },
+    {
+      "id": "ling_pi_xi_jing",
+      "word": "另辟蹊径",
+      "pinyin": "lìng pì xī jìng",
+      "frequency": 5,
+      "coreMeaning": "另外开辟新路，比喻不循旧轨而独创研究方法或解决途径。",
+      "morphemeHint": {
+        "keyChar": "辟径",
+        "explanation": "“辟”是开辟，“蹊径”是小路；行测中重点强调“方法、路径、视角”上的创新突破。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科研方法",
+        "文艺角度",
+        "改革路径"
+      ],
+      "collocations": [
+        "在研究方法上另辟蹊径",
+        "不妨另辟蹊径"
+      ],
+      "commonMistake": "近义辨析与读音：读音为 xī jìng（非 qī）；侧重“找新路子/新视角”，不强调已经形成流派。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "当传统化学合成路线遭遇能耗瓶颈时，该科研团队转而采用生物酶催化工艺，成功____。",
+          "highlightClues": [
+            "遭遇能耗瓶颈",
+            "转而采用",
+            "工艺"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独树一帜",
+        "别开生面"
+      ]
+    },
+    {
+      "id": "zi_cheng_yi_jia",
+      "word": "自成一家",
+      "pinyin": "zì chéng yī jiā",
+      "frequency": 4,
+      "coreMeaning": "在某种学问、书画或文学艺术上具有独创的见解与风格，独立成为一个流派。",
+      "morphemeHint": {
+        "keyChar": "一家",
+        "explanation": "形成一套完备成熟的个人体系与风格，需要较深厚的学术或艺术积淀。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "书画名家",
+        "学术大家",
+        "思想流派"
+      ],
+      "collocations": [
+        "书法自成一家",
+        "在史学界自成一家"
+      ],
+      "commonMistake": "语义轻重：比“别出心裁”程度更重，必须达到体系成熟、创立派别的高度，不能用于小创意。",
+      "tags": [
+        "省考高频",
+        "语义轻重",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "他在遍临唐楷宋行之后熔铸碑帖之长，终以雄浑苍劲又不失灵动的笔法在当代书坛____。",
+          "highlightClues": [
+            "遍临唐楷宋行",
+            "熔铸碑帖之长",
+            "当代书坛"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独树一帜",
+        "标新立异"
+      ]
+    },
+    {
+      "id": "biao_xin_li_yi",
+      "word": "标新立异",
+      "pinyin": "biāo xīn lì yì",
+      "frequency": 5,
+      "coreMeaning": "提出新奇主张以示不同，可指敢于创新或贬指刻意炫异。",
+      "morphemeHint": {
+        "keyChar": "标立",
+        "explanation": "原意中性偏褒，现代汉语常带贬义（刻意炫异、不顾实质），行测高频考感情色彩辨析。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学术观点",
+        "艺术潮流",
+        "形式创新"
+      ],
+      "collocations": [
+        "刻意标新立异",
+        "一味标新立异"
+      ],
+      "commonMistake": "褒贬易错：若语境批评“脱离规律、故作奇特、哗众取宠”，选“标新立异”；若纯褒义稳妥选“独树一帜/另辟蹊径”。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "学术创新应建立在扎实文献与严密论证之上，而不是为了吸引眼球而搞____的概念炒作。",
+          "highlightClues": [
+            "为了吸引眼球",
+            "概念炒作"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "别出心裁",
+        "独树一帜"
+      ]
+    },
+    {
+      "id": "wei_yan_da_yi",
+      "word": "微言大义",
+      "pinyin": "wēi yán dà yì",
+      "frequency": 4,
+      "coreMeaning": "包含在精微简练语言里的深刻而重大的道理与思想内涵。",
+      "morphemeHint": {
+        "keyChar": "微言",
+        "explanation": "“微”是精微、含蓄，“大义”是深远宏大的义理，专指经典文本言简意深的表达。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "经史典籍",
+        "古典诗文",
+        "思想著述"
+      ],
+      "collocations": [
+        "蕴含微言大义",
+        "《春秋》的微言大义"
+      ],
+      "commonMistake": "望文生义：“微言”不是“微不足道的言论”或“轻声细语”，而是“精微深刻的言辞”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "读懂先秦史传散文的关键，在于体味叙事笔法背后一字褒贬所蕴含的____。",
+          "highlightClues": [
+            "先秦史传散文",
+            "一字褒贬",
+            "蕴含的"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "言简意赅",
+        "真知灼见"
+      ]
+    },
+    {
+      "id": "ru_mu_san_fen",
+      "word": "入木三分",
+      "pinyin": "rù mù sān fēn",
+      "frequency": 5,
+      "coreMeaning": "原形容书法笔力极其遒劲，现多比喻分析问题、议论或刻画人物极其深刻透彻。",
+      "morphemeHint": {
+        "keyChar": "三分",
+        "explanation": "典出王羲之写字墨透木板三分，在现代语境中对象为“书法笔力”或“分析、刻画、评论”。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "书法笔力",
+        "评论剖析",
+        "人物刻画"
+      ],
+      "collocations": [
+        "分析得入木三分",
+        "刻画得入木三分"
+      ],
+      "commonMistake": "对象误用：不能用来形容“感情真挚、景色优美”或“刀刻石头很深”，它重在“笔力”与“洞察深度”。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这位评论家对当下流量化文艺创作倾向的剖析切中肯綮、____，引发业界广泛反思。",
+          "highlightClues": [
+            "剖析",
+            "切中肯綮"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鞭辟入里",
+        "力透纸背"
+      ]
+    },
+    {
+      "id": "si_si_ru_kou",
+      "word": "丝丝入扣",
+      "pinyin": "sī sī rù kòu",
+      "frequency": 5,
+      "coreMeaning": "比喻文章结构、推理逻辑或表演配合十分严密细致、无疏漏。",
+      "morphemeHint": {
+        "keyChar": "扣",
+        "explanation": "“扣”通“筘”（织布机定经线的器物），强调各环节衔接极为严密精准、毫无疏漏。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文章布局",
+        "逻辑推理",
+        "演出配合"
+      ],
+      "collocations": [
+        "逻辑丝丝入扣",
+        "衔接得丝丝入扣"
+      ],
+      "commonMistake": "望文生义与对象误用：非指“紧扣主题”或“衣服扣子系好”，而是“结构严密、环环相扣”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这篇学术论文从问题提出、实证检验到机制推演，全篇结构____，令人难以挑出逻辑破绽。",
+          "highlightClues": [
+            "结构",
+            "难以挑出逻辑破绽"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "天衣无缝",
+        "环环相扣"
+      ]
+    },
+    {
+      "id": "hun_ran_tian_cheng",
+      "word": "浑然天成",
+      "pinyin": "hún rán tiān chéng",
+      "frequency": 5,
+      "coreMeaning": "形容诗文结构严密自然、艺术创作或自然景观完整协调，毫无人工斧凿痕迹。",
+      "morphemeHint": {
+        "keyChar": "天成",
+        "explanation": "自然融合宛如天生，强调“毫无刻意拼凑或雕琢的痕迹”。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "诗文艺术",
+        "园林建筑",
+        "天然景致"
+      ],
+      "collocations": [
+        "结合得浑然天成",
+        "艺术上浑然天成"
+      ],
+      "commonMistake": "语境误用：常与“精雕细琢”形成互补或对比；“浑然天成”重“自然无痕”，“精雕细琢”重“人工细腻打磨”。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "苏州古典园林善于借景远山与院墙花影，使人工亭台与自然山水交融得____，不露丝毫匠气。",
+          "highlightClues": [
+            "人工亭台与自然山水交融",
+            "不露丝毫匠气"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "鬼斧神工",
+        "天衣无缝"
+      ]
+    },
+    {
+      "id": "jiang_xin_du_yun",
+      "word": "匠心独运",
+      "pinyin": "jiàng xīn dú yùn",
+      "frequency": 5,
+      "coreMeaning": "独创性地运用精巧的心思，形容文学艺术作品或工艺设计构思非常巧妙独特。",
+      "morphemeHint": {
+        "keyChar": "独运",
+        "explanation": "主语侧重“创作者巧妙地运用构思”，可作谓语（他匠心独运地设计……），也可形容作品。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "艺术创作者",
+        "文创设计",
+        "建筑工艺"
+      ],
+      "collocations": [
+        "构思匠心独运",
+        "匠心独运的创作"
+      ],
+      "commonMistake": "对象误用：不能用来形容自然山水风光，因为“匠心”专指人工智慧与巧思。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "非遗铜雕大师在传统纹样中巧妙嵌入现代几何线条，令整件屏风显得____、古意新声。",
+          "highlightClues": [
+            "非遗铜雕大师",
+            "巧妙嵌入",
+            "古意新声"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "独具匠心",
+        "别出心裁"
+      ]
+    },
+    {
+      "id": "xu_xu_ru_sheng",
+      "word": "栩栩如生",
+      "pinyin": "xǔ xǔ rú shēng",
+      "frequency": 5,
+      "coreMeaning": "形容画作、雕塑或文字描摹的艺术形象非常生动逼真，就像活的一样。",
+      "morphemeHint": {
+        "keyChar": "如生",
+        "explanation": "“如生”即像活的一样，因此适用对象必须是原本“没有生命”的艺术品或造型。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "绘画雕塑",
+        "工艺造型",
+        "文学人物"
+      ],
+      "collocations": [
+        "刻画得栩栩如生",
+        "雕像栩栩如生"
+      ],
+      "commonMistake": "对象误用：不能用来形容本身就是活生生的真人或真动物（本体与喻体不能同为活物）。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "汉代画像砖上的车马出行图线条简练却张力十足，飞奔的骏马与侍从姿态____。",
+          "highlightClues": [
+            "汉代画像砖",
+            "飞奔的骏马与侍从姿态"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "惟妙惟肖",
+        "跃然纸上"
+      ]
+    },
+    {
+      "id": "wei_miao_wei_xiao",
+      "word": "惟妙惟肖",
+      "pinyin": "wéi miào wéi xiào",
+      "frequency": 5,
+      "coreMeaning": "形容描写、模仿或艺术塑造得极其逼真传神，与原型非常相像。",
+      "morphemeHint": {
+        "keyChar": "肖",
+        "explanation": "“肖”意为相像、相似（读 xiào）；侧重“模仿、扮演或刻画得极像原型”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "表演模仿",
+        "绘画雕塑",
+        "语言描写"
+      ],
+      "collocations": [
+        "模仿得惟妙惟肖",
+        "刻画得惟妙惟肖"
+      ],
+      "commonMistake": "近义辨析与读音：“肖”读 xiào 非 xiāo；“惟妙惟肖”强调“像原型”（可用于人模仿人/声音），“栩栩如生”强调“像活物”（不用于真人）。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这位口技传承人仅凭唇齿配合就能模拟百鸟啁啾与山涧溪流之声，令现场听众觉得____。",
+          "highlightClues": [
+            "口技传承人",
+            "模拟百鸟啁啾与山涧溪流"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "栩栩如生",
+        "呼之欲出"
+      ]
+    },
+    {
+      "id": "yue_ran_zhi_shang",
+      "word": "跃然纸上",
+      "pinyin": "yuè rán zhǐ shàng",
+      "frequency": 5,
+      "coreMeaning": "形容文学或绘画作品中的人物形象、情景描写极生动逼真。",
+      "morphemeHint": {
+        "keyChar": "纸上",
+        "explanation": "限于“文字、绘画等纸面艺术呈现”，不能用于舞台演出、影视画面或立体雕塑。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文学描写",
+        "书画作品",
+        "人物刻画"
+      ],
+      "collocations": [
+        "形象跃然纸上",
+        "场景跃然纸上"
+      ],
+      "commonMistake": "典型对象误用：不能用来形容电视剧演员的表演或街头的铜像，必须依托“纸上”文字或画作。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "《史记》仅用寥寥数句方言俗语与动作白描，便令一位草莽英雄的豪爽性情____。",
+          "highlightClues": [
+            "《史记》",
+            "方言俗语与动作白描",
+            "豪爽性情"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "呼之欲出",
+        "栩栩如生"
+      ]
+    },
+    {
+      "id": "hu_zhi_yu_chu",
+      "word": "呼之欲出",
+      "pinyin": "hū zhī yù chū",
+      "frequency": 5,
+      "coreMeaning": "指画像或文学描写中的人物极为传神，仿佛一叫他就会从画里或书中走出来。",
+      "morphemeHint": {
+        "keyChar": "呼",
+        "explanation": "原意指画作/文笔极传神；现代汉语也引申指“答案、真相或趋势即将显露”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "画像人物",
+        "文学形象",
+        "趋势真相"
+      ],
+      "collocations": [
+        "人物形象呼之欲出",
+        "真相呼之欲出"
+      ],
+      "commonMistake": "语境辨析：用本义时限于“画中或书中人物”；用引申义时可指“新法规、谜底即将出台揭晓”。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这组宋代人物肖像画连衣褶纹理与眉宇微蹙都细致入微，画中士大夫的神韵简直____。",
+          "highlightClues": [
+            "宋代人物肖像画",
+            "细致入微",
+            "神韵"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "跃然纸上",
+        "栩栩如生"
+      ]
+    },
+    {
+      "id": "wei_bian_san_jue",
+      "word": "韦编三绝",
+      "pinyin": "wéi biān sān jué",
+      "frequency": 5,
+      "coreMeaning": "连串竹简的皮绳多次磨断，形容读书极其勤奋刻苦、治学持之以恒。",
+      "morphemeHint": {
+        "keyChar": "韦编",
+        "explanation": "“韦”是熟牛皮，“编”指串竹简的皮绳，“三”表多次；专指“治学读书极刻苦”。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "治学读书",
+        "学者风范",
+        "刻苦钻研"
+      ],
+      "collocations": [
+        "韦编三绝的精神",
+        "以韦编三绝的态度治学"
+      ],
+      "commonMistake": "望文生义与对象误用：不是指“书籍粗制滥造容易散架”，而是赞美读书人反复研读、勤奋刻苦。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "老一辈语言学家在缺乏电子语料库的年代里翻检卡片、____，才筑起了汉语史研究的坚实大厦。",
+          "highlightClues": [
+            "缺乏电子语料库",
+            "翻检卡片",
+            "坚实大厦"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "焚膏继晷",
+        "囊萤映雪"
+      ]
+    },
+    {
+      "id": "fen_gao_ji_gui",
+      "word": "焚膏继晷",
+      "pinyin": "fén gāo jì guǐ",
+      "frequency": 4,
+      "coreMeaning": "点燃灯油来接续白天的日光，形容夜以继日地勤奋读书或努力工作。",
+      "morphemeHint": {
+        "keyChar": "膏晷",
+        "explanation": "“膏”是灯油，“晷”指日影（白天），专指治学或科研夜以继日地投入。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学者治学",
+        "科研攻关",
+        "创作笔耕"
+      ],
+      "collocations": [
+        "焚膏继晷地钻研",
+        "数载焚膏继晷"
+      ],
+      "commonMistake": "重复累赘与褒贬误用：词义已包含“夜以继日”，避免再加“通宵达旦地”；且不能用于通宵娱乐。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "重复累赘"
+      ],
+      "examples": [
+        {
+          "sentence": "我国射电望远镜工程团队在深山峡谷中____十余载，终于让“中国天眼”睁开洞察宇宙的明眸。",
+          "highlightClues": [
+            "工程团队",
+            "十余载",
+            "中国天眼"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "韦编三绝",
+        "孜孜以求"
+      ]
+    },
+    {
+      "id": "nang_ying_ying_xue",
+      "word": "囊萤映雪",
+      "pinyin": "náng yíng yìng xuě",
+      "frequency": 4,
+      "coreMeaning": "用袋装萤火虫、借雪地反光读书，形容家境清贫却极其刻苦勤奋地求学。",
+      "morphemeHint": {
+        "keyChar": "萤雪",
+        "explanation": "结合车胤囊萤与孙康映雪两个典故，强调在艰苦条件下依旧坚持苦读。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "寒门学子",
+        "艰苦求学",
+        "治学典故"
+      ],
+      "collocations": [
+        "囊萤映雪的苦读精神",
+        "发扬囊萤映雪之志"
+      ],
+      "commonMistake": "语境误用：重在“条件艰苦下的刻苦求学”，若现代物质条件优渥一般用“韦编三绝”或“孜孜以求”。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "在数字化图书馆与在线慕课触手可及的今天，青年学子依然不能丢掉前人____般的求知韧劲。",
+          "highlightClues": [
+            "青年学子",
+            "前人",
+            "求知韧劲"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "韦编三绝",
+        "焚膏继晷"
+      ]
+    },
+    {
+      "id": "zi_zi_yi_qiu",
+      "word": "孜孜以求",
+      "pinyin": "zī zī yǐ qiú",
+      "frequency": 5,
+      "coreMeaning": "形容不知疲倦、勤勉专注地去追求目标、真理或学问境界。",
+      "morphemeHint": {
+        "keyChar": "孜孜",
+        "explanation": "“孜孜”指勤勉不懈的样子，“以求”即以此追求，在政论与科研语境中极为高频。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学术探索",
+        "工匠追求",
+        "社会理想"
+      ],
+      "collocations": [
+        "孜孜以求的理想",
+        "一生孜孜以求"
+      ],
+      "commonMistake": "褒贬误用：只能用于追求真理、学问、技术突破或崇高理想，不能用于追逐私利或权谋。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "追求极致精度与可靠性，是一代代大国工匠在精密制造领域____的价值标尺。",
+          "highlightClues": [
+            "追求极致精度",
+            "大国工匠",
+            "价值标尺"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "焚膏继晷",
+        "精益求精"
+      ]
+    },
+    {
+      "id": "pang_zheng_bo_yin",
+      "word": "旁征博引",
+      "pinyin": "páng zhēng bó yǐn",
+      "frequency": 5,
+      "coreMeaning": "写文章或做演讲时广泛地援引各方面材料作为论据，使论证充分有力。",
+      "morphemeHint": {
+        "keyChar": "征引",
+        "explanation": "“征”是求证，“引”是引用；强调用料广博、论证充实（正面褒义，区别于“寻章摘句”）。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学术论文",
+        "演讲辩论",
+        "文史专著"
+      ],
+      "collocations": [
+        "旁征博引地论证",
+        "行文旁征博引"
+      ],
+      "commonMistake": "褒贬误用：本词为褒义（论据扎实广博）；若语境批评堆砌材料、缺乏己见，则应选“掉书袋”或“寻章摘句”。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这位教授在讲授丝绸之路文明交流史时____，从敦煌写本一直谈到中亚考古出土器物，令课堂生辉。",
+          "highlightClues": [
+            "从敦煌写本一直谈到中亚考古",
+            "令课堂生辉"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "寻章摘句",
+        "深入浅出"
+      ]
+    },
+    {
+      "id": "shen_ru_qian_chu",
+      "word": "深入浅出",
+      "pinyin": "shēn rù qiǎn chū",
+      "frequency": 5,
+      "coreMeaning": "指文章或讲话内容深刻透彻，但表达时却能用通俗易懂的语言让人明白。",
+      "morphemeHint": {
+        "keyChar": "浅出",
+        "explanation": "思想理解得深，表达输出得浅显平易，专指高水平的科普、教学与理论阐释。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "科普读物",
+        "名师授课",
+        "理论宣讲"
+      ],
+      "collocations": [
+        "深入浅出地讲解",
+        "一部深入浅出的佳作"
+      ],
+      "commonMistake": "望文生义：不是“思考得很浅薄”，而是“自身研究深入、表达形式浅显易懂”。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "优秀的科学传播者懂得把艰涩的量子力学原理转化为日常比喻，做到____、润物无声。",
+          "highlightClues": [
+            "科学传播者",
+            "艰涩的量子力学原理转化为日常比喻"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雅俗共赏",
+        "言简意赅"
+      ]
+    },
+    {
+      "id": "yan_jian_yi_gai",
+      "word": "言简意赅",
+      "pinyin": "yán jiǎn yì gāi",
+      "frequency": 5,
+      "coreMeaning": "言语简明扼要，却能把完整丰富的意思全面准确地表达出来。",
+      "morphemeHint": {
+        "keyChar": "赅",
+        "explanation": "“赅”意为完备、齐全；并非单纯字数少，而是“简短且意思完备无遗漏”。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "公文报告",
+        "文章语言",
+        "学术提炼"
+      ],
+      "collocations": [
+        "措辞言简意赅",
+        "写得言简意赅"
+      ],
+      "commonMistake": "重复累赘与书写误区：不能说“言简意赅地简单总结”（重复）；注意“赅”右旁为“亥”，非“该”。",
+      "tags": [
+        "国考高频",
+        "重复累赘",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "政务公开文件应摒弃空洞套话与繁琐铺陈，力求做到行文____、重点突出、群众一看就懂。",
+          "highlightClues": [
+            "摒弃空洞套话与繁琐铺陈",
+            "重点突出"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "微言大义",
+        "深入浅出"
+      ]
+    },
+    {
+      "id": "bian_pi_ru_li",
+      "word": "鞭辟入里",
+      "pinyin": "biān pì rù lǐ",
+      "frequency": 4,
+      "coreMeaning": "形容做学问切实深入，也常形容言论、文章说理极为深刻透彻、直击本质。",
+      "morphemeHint": {
+        "keyChar": "里",
+        "explanation": "原指治学督促自己深入内里，现多用于称赞评论、剖析问题直抵核心本质。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "时评文章",
+        "学术剖析",
+        "治学功夫"
+      ],
+      "collocations": [
+        "论述鞭辟入里",
+        "分析得鞭辟入里"
+      ],
+      "commonMistake": "易错字与近义辨析：是“鞭辟入里”而非“鞭僻入里”；与“入木三分”近义，前者重逻辑说理透彻，后者兼指笔力与刻画。",
+      "tags": [
+        "国考高频",
+        "易混淆",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这篇社会学随笔对青年职场焦虑背后的结构性成因剖析得____，读罢令人豁然开朗。",
+          "highlightClues": [
+            "结构性成因",
+            "剖析得",
+            "豁然开朗"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "入木三分",
+        "真知灼见"
+      ]
+    },
+    {
+      "id": "rong_hui_guan_tong",
+      "word": "融会贯通",
+      "pinyin": "róng huì guàn tōng",
+      "frequency": 5,
+      "coreMeaning": "把各方面的知识、学问或道理融合吸收，从而得到全面而透彻的理解。",
+      "morphemeHint": {
+        "keyChar": "会通",
+        "explanation": "将分散、跨界的知识融合贯串起来，强调“整合理解”而非单纯机械记忆。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "跨学科学习",
+        "文化融合",
+        "治学悟道"
+      ],
+      "collocations": [
+        "把中西理论融会贯通",
+        "做到融会贯通"
+      ],
+      "commonMistake": "错别字与辨析：是“融会”非“融汇”；强调把多方知识结合通透，“触类旁通”强调由一点推知他类。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "人工智能交叉学科人才不能局限于单一算法编程，还需将数理逻辑与行业领域知识____。",
+          "highlightClues": [
+            "交叉学科人才",
+            "数理逻辑与行业领域知识"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "触类旁通",
+        "厚积薄发"
+      ]
+    },
+    {
+      "id": "chu_lei_pang_tong",
+      "word": "触类旁通",
+      "pinyin": "chù lèi páng tōng",
+      "frequency": 4,
+      "coreMeaning": "掌握了某一类事物的规律之后，就能由此推知理解同类的其他事物。",
+      "morphemeHint": {
+        "keyChar": "旁通",
+        "explanation": "“触类”是接触某一类，“旁通”是向旁边迁移贯通，重在知识迁移能力。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "学习方法",
+        "举一反三",
+        "技能迁移"
+      ],
+      "collocations": [
+        "学会触类旁通",
+        "达到触类旁通的效果"
+      ],
+      "commonMistake": "近义辨析：与“融会贯通”不同，“触类旁通”重在“由点及面的类比迁移”，后者重在“多方汇集整合”。",
+      "tags": [
+        "省考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "教师在文言文教学中若能先讲透高频实词的本义引申脉络，学生阅读课外篇目时便能____。",
+          "highlightClues": [
+            "先讲透高频实词",
+            "阅读课外篇目时"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "融会贯通",
+        "举一反三"
+      ]
+    },
+    {
+      "id": "hou_ji_bo_fa",
+      "word": "厚积薄发",
+      "pinyin": "hòu jī bó fā",
+      "frequency": 5,
+      "coreMeaning": "指经过长期充分的积累与准备之后，再适度而有节制地释放展现出来。",
+      "morphemeHint": {
+        "keyChar": "薄发",
+        "explanation": "原义“大量积蓄、谨慎少量发放”（“薄”读 bó），现常引申为长期蓄力后的集中突破。"
+      },
+      "sentiment": "positive",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "学术积淀",
+        "科研突破",
+        "文艺成名"
+      ],
+      "collocations": [
+        "需要厚积薄发",
+        "多年沉淀后的厚积薄发"
+      ],
+      "commonMistake": "望文生义与读音：“薄”读 bó（非 báo）；强调先有漫长“厚积”，不可用来形容急功近利的短期暴发。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "我国载人航天工程从无到有、稳步跨越，正是数万名科研人员潜心攻关、____的必然结果。",
+          "highlightClues": [
+            "稳步跨越",
+            "数万名科研人员潜心攻关"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "水到渠成",
+        "融会贯通"
+      ]
+    },
+    {
+      "id": "jing_diao_xi_zhuo",
+      "word": "精雕细琢",
+      "pinyin": "jīng diāo xì zhuó",
+      "frequency": 5,
+      "coreMeaning": "精细雕刻打磨，比喻创作文艺作品或做事极为细致用心。",
+      "morphemeHint": {
+        "keyChar": "雕琢",
+        "explanation": "反复打磨加工，强调工匠精神与人工打磨过程（与“浑然天成”的天然无痕形成对比）。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文学打磨",
+        "工艺制作",
+        "城市精细治理"
+      ],
+      "collocations": [
+        "对作品精雕细琢",
+        "经过精雕细琢"
+      ],
+      "commonMistake": "语境辨析：在强调“自然质朴、不加修饰”的语境中不能用“精雕细琢”，而应选“浑然天成”。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这部历经十年剧本打磨与多轮实地采风的现实题材电影，每一处时代细节都经过了主创团队的____。",
+          "highlightClues": [
+            "十年剧本打磨",
+            "每一处时代细节"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "字斟句酌",
+        "精益求精"
+      ]
+    },
+    {
+      "id": "tui_chen_chu_xin",
+      "word": "推陈出新",
+      "pinyin": "tuī chén chū xīn",
+      "frequency": 5,
+      "coreMeaning": "去掉旧事物的糟粕、吸取精华，创造出具有时代生命力的新事物。",
+      "morphemeHint": {
+        "keyChar": "推陈",
+        "explanation": "“推”是淘汰摒弃，“陈”是陈旧糟粕；强调文化传承中的批判性继承与创造性转化。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "传统文化创新",
+        "戏曲改革",
+        "学术发展"
+      ],
+      "collocations": [
+        "在继承中推陈出新",
+        "不断推陈出新"
+      ],
+      "commonMistake": "对象与语境误用：重在“从旧中生出新”，不宜用于完全割裂传统的全盘西化或无根基的凭空捏造。",
+      "tags": [
+        "国考高频",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "非遗技艺不能只锁在博物馆展柜里静态保存，更要贴近现代生活场景，在守正中实现____。",
+          "highlightClues": [
+            "贴近现代生活场景",
+            "守正中实现"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "革故鼎新",
+        "吐故纳新"
+      ]
+    },
+    {
+      "id": "qu_gao_he_gua",
+      "word": "曲高和寡",
+      "pinyin": "qǔ gāo hè guǎ",
+      "frequency": 5,
+      "coreMeaning": "曲调高深少人唱和，比喻言论或文艺作品高深难懂、知音稀少。",
+      "morphemeHint": {
+        "keyChar": "和",
+        "explanation": "“和”读 hè（唱和、应和）；既可叹知音难觅，也可批评脱离群众、孤芳自赏。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "高雅艺术",
+        "深奥理论",
+        "小众作品"
+      ],
+      "collocations": [
+        "难免曲高和寡",
+        "陷入曲高和寡的困境"
+      ],
+      "commonMistake": "褒贬与读音误用：“和”读 hè（非 hé）；行测中多含遗憾或微贬义（缺乏受众共鸣），注意与纯赞美高雅的词区分。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "严肃文学在坚守精神深度的同时，也应注意提升叙事可读性，避免在大众传播时代陷入____的孤岛。",
+          "highlightClues": [
+            "坚守精神深度",
+            "提升叙事可读性",
+            "孤岛"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "雅俗共赏",
+        "孤芳自赏"
+      ]
+    },
+    {
+      "id": "yi_qu_tong_gong",
+      "word": "异曲同工",
+      "pinyin": "yì qǔ tóng gōng",
+      "frequency": 5,
+      "coreMeaning": "不同曲调同样美妙，比喻不同做法或风格取得同样精彩的效果。",
+      "morphemeHint": {
+        "keyChar": "同工",
+        "explanation": "“工”是精妙、精巧；强调“方法途径不同，但取得同样优秀的效果”（只用于好事）。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "艺术手法",
+        "治理方案",
+        "学术路径"
+      ],
+      "collocations": [
+        "有异曲同工之妙",
+        "两者异曲同工"
+      ],
+      "commonMistake": "褒贬误用与重复累赘：不能用于坏事（坏事相同应用“如出一辙/殊途同归”）；且只适用于不同主体间的比较。",
+      "tags": [
+        "国考高频",
+        "褒贬易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "中国古典山水画的“留白”哲学与西方极简主义雕塑对空间的克制处理，在审美意境上竟有____之妙。",
+          "highlightClues": [
+            "古典山水画",
+            "西方极简主义雕塑",
+            "之妙"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "殊途同归",
+        "如出一辙"
+      ]
+    },
+    {
+      "id": "bu_luo_ke_jiu",
+      "word": "不落窠臼",
+      "pinyin": "bù luò kē jiù",
+      "frequency": 5,
+      "coreMeaning": "不落入前人或世俗已有的陈旧框框套路，形容文章、艺术作品构思新颖独创。",
+      "morphemeHint": {
+        "keyChar": "窠臼",
+        "explanation": "“窠”指鸟巢，“臼”指舂米器具，引申为“陈旧固定的格式套路”；多用于文艺创作。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "文学创作",
+        "影视编剧",
+        "绘画构图"
+      ],
+      "collocations": [
+        "构思不落窠臼",
+        "行文不落窠臼"
+      ],
+      "commonMistake": "对象与读音误用：读音 kē jiù；专指文艺创作、构思突破旧套路，一般不用于日常行为举止。",
+      "tags": [
+        "国考高频",
+        "易望文生义",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "这部历史题材纪录片放弃了按编年史平铺直叙的常见拍法，转而以古画细节串联时代变迁，颇显____。",
+          "highlightClues": [
+            "放弃了",
+            "常见拍法",
+            "颇显"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "别出心裁",
+        "独辟蹊径"
+      ]
+    },
+    {
+      "id": "chun_feng_hua_yu",
+      "word": "春风化雨",
+      "pinyin": "chūn fēng huà yǔ",
+      "frequency": 5,
+      "coreMeaning": "适宜草木生长的春风与及时雨，比喻良好深刻的教育熏陶对人的感化与滋养。",
+      "morphemeHint": {
+        "keyChar": "化雨",
+        "explanation": "专指“教育、思想引导或文化对人的温和滋润”，不要误作纯粹描写春天自然天气。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "师德教化",
+        "思想教育",
+        "文化滋养"
+      ],
+      "collocations": [
+        "春风化雨般的教诲",
+        "春风化雨、润物无声"
+      ],
+      "commonMistake": "对象误用：在现代汉语语境中是教育与文化教化专用喻词，一般不用于描写真实的春季气象预报。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "这位思政课名师从不照本宣科，而是用鲜活的历史细节与当代故事为学生带来____般的思想启迪。",
+          "highlightClues": [
+            "思政课名师",
+            "思想启迪"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "潜移默化",
+        "润物无声"
+      ]
+    },
+    {
+      "id": "yi_hui_er_jiu",
+      "word": "一挥而就",
+      "pinyin": "yī huī ér jiù",
+      "frequency": 4,
+      "coreMeaning": "一动笔就立刻写好或画成，形容文思极其敏捷、才气横溢或书画技艺十分纯熟。",
+      "morphemeHint": {
+        "keyChar": "挥",
+        "explanation": "“挥”指挥笔，“就”是完成；对象仅限“文章、诗词、书法、绘画”，不可用于工程建设。"
+      },
+      "sentiment": "positive",
+      "intensity": "medium",
+      "applicableObjects": [
+        "诗文写作",
+        "书法绘画",
+        "才思敏捷"
+      ],
+      "collocations": [
+        "文章一挥而就",
+        "挥毫泼墨一挥而就"
+      ],
+      "commonMistake": "对象误用与近义辨析：不能用于“改革任务一挥而就”或“大楼一挥而就”（那应用“一蹴而就”）。",
+      "tags": [
+        "国考高频",
+        "对象易错",
+        "易混淆"
+      ],
+      "examples": [
+        {
+          "sentence": "看似____的传世名篇，背后往往凝聚着作者经年累月的观察积累与无数次心底腹稿的锤炼。",
+          "highlightClues": [
+            "传世名篇",
+            "腹稿的锤炼"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "一蹴而就",
+        "妙笔生花"
+      ]
+    },
+    {
+      "id": "bu_yi_wei_ran",
+      "word": "不以为然",
+      "pinyin": "bù yǐ wéi rán",
+      "frequency": 5,
+      "coreMeaning": "不认为是对的，表示不同意或持反对态度，多含轻视之意。",
+      "morphemeHint": {
+        "keyChar": "然",
+        "explanation": "“然”指“对的、正确的”，重在否定他人观点或做法的对错，而非不在乎。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "观点",
+        "意见",
+        "提议",
+        "做法"
+      ],
+      "collocations": [
+        "对此不以为然",
+        "对他的建议不以为然",
+        "颇不以为然"
+      ],
+      "commonMistake": "常与“不以为意”混淆；“不以为然”是不赞同对错，“不以为意”是不放在心上。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "面对专家提出的生态承载力预警，部分地方管理者起初____，仍坚持盲目扩建园区。",
+          "highlightClues": [
+            "生态承载力预警",
+            "起初",
+            "仍坚持盲目扩建"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不以为意",
+        "不屑一顾"
+      ]
+    },
+    {
+      "id": "bu_yi_wei_yi",
+      "word": "不以为意",
+      "pinyin": "bù yǐ wéi yì",
+      "frequency": 5,
+      "coreMeaning": "不把它放在心上，表示对人对事毫不在意、态度轻慢。",
+      "morphemeHint": {
+        "keyChar": "意",
+        "explanation": "“意”指“心意、在意”，强调思想上不重视、不当回事，不强调争辩对错。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "警告",
+        "隐患",
+        "批评",
+        "细节"
+      ],
+      "collocations": [
+        "对此不以为意",
+        "丝毫不以为意",
+        "仍旧不以为意"
+      ],
+      "commonMistake": "常误用于“反对他人学术观点”的语境；表达不同意看法时应选“不以为然”。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "系统日志早已多次提示存在数据泄露风险，运维团队却____，最终酿成重大安全事故。",
+          "highlightClues": [
+            "多次提示存在数据泄露风险",
+            "却",
+            "最终酿成重大安全事故"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不以为然",
+        "掉以轻心",
+        "漠不关心"
+      ]
+    },
+    {
+      "id": "bu_xie_yi_gu",
+      "word": "不屑一顾",
+      "pinyin": "bù xiè yī gù",
+      "frequency": 5,
+      "coreMeaning": "认为不值得一看，形容对某事物极端轻蔑、鄙视的态度。",
+      "morphemeHint": {
+        "keyChar": "屑",
+        "explanation": "“屑”指“值得、放在眼里”，“一顾”是看一眼，连看一眼都觉得不值得。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "人",
+        "观点",
+        "利益",
+        "作品"
+      ],
+      "collocations": [
+        "对此不屑一顾",
+        "对名利不屑一顾"
+      ],
+      "commonMistake": "语义较重，带有明显的轻蔑鄙视色彩；若只是“不赞同”或“不重视”，应选“不以为然”或“不以为意”。",
+      "tags": [
+        "国考高频",
+        "语义轻重",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "早期不少人对微短剧这一新兴内容形态____，认为它难登大雅之堂，如今却不得不正视其传播力。",
+          "highlightClues": [
+            "早期",
+            "难登大雅之堂",
+            "如今却不得不正视"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "不以为然",
+        "不以为意",
+        "等闲视之"
+      ]
+    },
+    {
+      "id": "mo_bu_guan_xin",
+      "word": "漠不关心",
+      "pinyin": "mò bù guān xīn",
+      "frequency": 4,
+      "coreMeaning": "态度冷淡，对人对事毫不放在心上，缺乏基本的情感与关注。",
+      "morphemeHint": {
+        "keyChar": "漠",
+        "explanation": "“漠”指“冷淡、疏远”，强调对他人或公共事务冷漠无情、毫不过问。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "群众疾苦",
+        "公共事务",
+        "社会问题",
+        "他人"
+      ],
+      "collocations": [
+        "对群众利益漠不关心",
+        "显得漠不关心"
+      ],
+      "commonMistake": "“漠不关心”后面不能直接带宾语，须用“对……漠不关心”；且多指缺乏同情或责任感，不用于具体操作层面。",
+      "tags": [
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "基层治理最忌讳对群众的急难愁盼问题____，只有把民生小事当作头等大事，才能赢得百姓信任。",
+          "highlightClues": [
+            "最忌讳",
+            "群众的急难愁盼问题",
+            "当作头等大事"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "置之不理",
+        "熟视无睹",
+        "不以为意"
+      ]
+    },
+    {
+      "id": "zhi_ruo_wang_wen",
+      "word": "置若罔闻",
+      "pinyin": "zhì ruò wǎng wén",
+      "frequency": 5,
+      "coreMeaning": "放在一边好像没有听见一样，指对劝告、批评或诉求毫不理睬。",
+      "morphemeHint": {
+        "keyChar": "罔",
+        "explanation": "“罔”即“没有”，“闻”指听见；重在“听而不理”，针对声音、警告或意见。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "劝告",
+        "警告",
+        "禁令",
+        "群众呼声"
+      ],
+      "collocations": [
+        "对警告置若罔闻",
+        "对法律法规置若罔闻"
+      ],
+      "commonMistake": "常与“视而不见”“熟视无睹”混淆；“置若罔闻”侧重听觉上的劝告、呼声，“熟视无睹”侧重视觉上的现象、问题。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "对象易错"
+      ],
+      "examples": [
+        {
+          "sentence": "部分平台对监管部门的整改约谈____，依旧我行我素地违规推送诱导性弹窗广告。",
+          "highlightClues": [
+            "监管部门的整改约谈",
+            "依旧我行我素"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "充耳不闻",
+        "置之不理",
+        "熟视无睹"
+      ]
+    },
+    {
+      "id": "chong_er_bu_wen",
+      "word": "充耳不闻",
+      "pinyin": "chōng ěr bù wén",
+      "frequency": 5,
+      "coreMeaning": "塞住耳朵不去听，形容有意不听取别人的意见、劝告或呼声。",
+      "morphemeHint": {
+        "keyChar": "充",
+        "explanation": "“充”指“堵塞”，“充耳”即堵住耳朵，突出故意拒绝倾听的主观抗拒姿态。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "意见",
+        "忠言",
+        "批评",
+        "民意"
+      ],
+      "collocations": [
+        "对批评充耳不闻",
+        "对劝阻充耳不闻"
+      ],
+      "commonMistake": "与“掩耳盗铃”不同，“充耳不闻”是不愿听他人意见；“掩耳盗铃”是自己欺骗自己。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "易望文生义"
+      ],
+      "examples": [
+        {
+          "sentence": "如果决策者对来自基层的真知灼见____，只爱听顺耳的赞歌，就很容易陷入信息茧房。",
+          "highlightClues": [
+            "来自基层的真知灼见",
+            "只爱听顺耳的赞歌"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "置若罔闻",
+        "掩耳盗铃",
+        "刚愎自用"
+      ]
+    },
+    {
+      "id": "shi_er_bu_jian",
+      "word": "视而不见",
+      "pinyin": "shì ér bù jiàn",
+      "frequency": 4,
+      "coreMeaning": "尽管睁着眼睛看却像没看见一样，指不重视或不愿正视眼前的事物。",
+      "morphemeHint": {
+        "keyChar": "视",
+        "explanation": "“视”是看，“不见”是没看见；可用于精力不集中没注意，也常指刻意回避。"
+      },
+      "sentiment": "negative",
+      "intensity": "medium",
+      "applicableObjects": [
+        "问题",
+        "现象",
+        "隐患",
+        "成绩"
+      ],
+      "collocations": [
+        "对问题视而不见",
+        "不能视而不见"
+      ],
+      "commonMistake": "与“熟视无睹”相比，“视而不见”语义略轻，不一定强调“经常看”，而“熟视无睹”强调“看惯了却不在意”。",
+      "tags": [
+        "国考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "在人工智能伦理治理中，对于算法偏见带来的隐性歧视绝不能____，必须建立前置审查机制。",
+          "highlightClues": [
+            "算法偏见带来的隐性歧视",
+            "绝不能",
+            "必须建立前置审查机制"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "熟视无睹",
+        "置若罔闻",
+        "置之不理"
+      ]
+    },
+    {
+      "id": "shu_shi_wu_du",
+      "word": "熟视无睹",
+      "pinyin": "shú shì wú dǔ",
+      "frequency": 5,
+      "coreMeaning": "看惯了却像没有看见一样，形容对常见的问题或现象麻木、不关心。",
+      "morphemeHint": {
+        "keyChar": "熟",
+        "explanation": "“熟”指“经常看、习惯了”，“无睹”是视作不见；核心在于因常见而麻木不仁。"
+      },
+      "sentiment": "negative",
+      "intensity": "heavy",
+      "applicableObjects": [
+        "乱象",
+        "隐患",
+        "不良风气",
+        "生活细节"
+      ],
+      "collocations": [
+        "对乱象熟视无睹",
+        "长期熟视无睹"
+      ],
+      "commonMistake": "语境中通常隐含“长期存在、反复出现”的线索；若是首次遇到的问题，用“视而不见”更恰当。",
+      "tags": [
+        "国考高频",
+        "省考高频",
+        "语义轻重"
+      ],
+      "examples": [
+        {
+          "sentence": "长期生活在城市霓虹灯下的居民对光污染往往____，直到天文观测与生态调查给出数据才意识到问题的严重性。",
+          "highlightClues": [
+            "长期生活在",
+            "直到",
+            "才意识到问题的严重性"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "视而不见",
+        "司空见惯",
+        "习以为常"
+      ]
+    },
+    {
+      "id": "si_kong_jian_guan",
+      "word": "司空见惯",
+      "pinyin": "sī kōng jiàn guàn",
+      "frequency": 5,
+      "coreMeaning": "指某事常见，已经不足为奇，多用于形容某种现象在日常生活中十分普遍。",
+      "morphemeHint": {
+        "keyChar": "惯",
+        "explanation": "“见惯”指看得多了习以为常；原指官名“司空”看惯歌舞，现为中性描述现象常见。"
+      },
+      "sentiment": "neutral",
+      "intensity": "medium",
+      "applicableObjects": [
+        "现象",
+        "事物",
+        "场景",
+        "做法"
+      ],
+      "collocations": [
+        "已是司空见惯",
+        "对这种现象司空见惯",
+        "司空见惯的事情"
+      ],
+      "commonMistake": "与“熟视无睹”不同，“司空见惯”是中性词，只说现象常见，不含“麻木不作为”的贬义批判。",
+      "tags": [
+        "国考高频",
+        "褒贬易错"
+      ],
+      "examples": [
+        {
+          "sentence": "过去需要往返多个部门盖章的政务事项，如今通过“一网通办”秒批秒办，这在各地早已____。",
+          "highlightClues": [
+            "过去需要",
+            "如今",
+            "早已"
+          ]
+        }
+      ],
+      "confusableWith": [
+        "习以为常",
+        "见怪不怪",
+        "熟视无睹"
+      ]
+    }
+  ]
+}
