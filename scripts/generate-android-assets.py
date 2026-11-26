@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Build launcher and startup assets from the original cover using Pillow."""
 
-from math import floor, sqrt
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageOps
@@ -17,7 +16,7 @@ DENSITIES = {
     "xxhdpi": (144, 324, (960, 1600)),
     "xxxhdpi": (192, 432, (1280, 1920)),
 }
-ADAPTIVE_SAFE_DIAMETER = 66 / 108
+ADAPTIVE_VIEWPORT = 72 / 108
 
 
 def centered(image: Image.Image, size: tuple[int, int], artwork_width: int) -> Image.Image:
@@ -26,13 +25,6 @@ def centered(image: Image.Image, size: tuple[int, int], artwork_width: int) -> I
     offset = ((size[0] - artwork.width) // 2, (size[1] - artwork.height) // 2)
     canvas.paste(artwork, offset)
     return canvas
-
-
-def inset_for_mask(image: Image.Image, fraction: float, diameter: float) -> Image.Image:
-    # Fit the full square's diagonal, including the source's edge artwork.
-    # The extra inset leaves room for raster rounding on the smallest icon.
-    inset_width = floor(image.width * min(1, (diameter - 0.03) / (sqrt(2) * fraction)))
-    return centered(image, image.size, inset_width)
 
 
 def round_canvas(image: Image.Image) -> Image.Image:
@@ -60,13 +52,11 @@ def main() -> None:
     for side in (192, 512):
         save(centered(cover, (side, side), side), ROOT / "public" / f"icon-{side}.png")
 
-    adaptive = inset_for_mask(cover, 0.69, ADAPTIVE_SAFE_DIAMETER)
-    legacy_round = inset_for_mask(cover, 0.78, 1.0)
     for density, (legacy, foreground, portrait) in DENSITIES.items():
         mipmap = RES / f"mipmap-{density}"
-        save(centered(adaptive, (foreground, foreground), round(foreground * 0.69)), mipmap / "ic_launcher_foreground.png")
-        save(centered(cover, (legacy, legacy), round(legacy * 0.88)), mipmap / "ic_launcher.png")
-        save(round_canvas(centered(legacy_round, (legacy, legacy), round(legacy * 0.78))), mipmap / "ic_launcher_round.png")
+        save(centered(cover, (foreground, foreground), round(foreground * ADAPTIVE_VIEWPORT)), mipmap / "ic_launcher_foreground.png")
+        save(centered(cover, (legacy, legacy), legacy), mipmap / "ic_launcher.png")
+        save(round_canvas(centered(cover, (legacy, legacy), legacy)), mipmap / "ic_launcher_round.png")
 
         landscape = portrait[::-1]
         save(centered(cover, portrait, round(portrait[0] * 0.62)), RES / f"drawable-port-{density}" / "splash.png")
@@ -74,8 +64,7 @@ def main() -> None:
 
     portrait = DENSITIES["xxxhdpi"][2]
     save(centered(cover, portrait, round(portrait[0] * 0.62)), RES / "drawable" / "splash.png")
-    launch_icon = inset_for_mask(cover, 0.69, 2 / 3)
-    save(centered(launch_icon, (576, 576), round(576 * 0.69)), RES / "drawable-nodpi" / "splash_icon.png")
+    save(centered(cover, (576, 576), round(576 * 0.62)), RES / "drawable-nodpi" / "splash_icon.png")
     print("已生成 2 个 Web 图标、5 套桌面图标、11 张启动封面和 Android 12+ 启动图标。")
 
 

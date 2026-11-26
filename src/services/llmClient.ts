@@ -69,12 +69,7 @@ async function waitForNative<T>(request: Promise<T>, signal?: AbortSignal): Prom
 
 type Message = { role: 'system' | 'user'; content: string };
 
-async function chat(config: LlmConfig, messages: Message[], maxTokens: number, temperature: number, signal?: AbortSignal) {
-  throwIfAborted(signal);
-  validateLlmConfig(config);
-  const url = completionUrl(config.url);
-  const headers = { 'Content-Type': 'application/json', Authorization: 'Bearer ' + config.key.trim() };
-  const payload = { model: config.model.trim(), messages, max_tokens: maxTokens, temperature, stream: false };
+async function postChat(url: string, headers: Record<string, string>, payload: Record<string, unknown>, signal?: AbortSignal) {
   let status: number;
   let data: unknown;
   if (Capacitor.isNativePlatform()) {
@@ -96,6 +91,22 @@ async function chat(config: LlmConfig, messages: Message[], maxTokens: number, t
   throwIfAborted(signal);
   if (typeof data === 'string') {
     try { data = JSON.parse(data); } catch { /* Some gateways return a non-JSON error page. */ }
+  }
+  return { status, data };
+}
+
+async function chat(config: LlmConfig, messages: Message[], maxTokens: number, temperature: number, signal?: AbortSignal, jsonMode = false) {
+  throwIfAborted(signal);
+  validateLlmConfig(config);
+  const url = completionUrl(config.url);
+  const headers = { 'Content-Type': 'application/json', Authorization: 'Bearer ' + config.key.trim() };
+  const basePayload: Record<string, unknown> = {
+    model: config.model.trim(), messages, max_tokens: maxTokens, temperature, stream: false,
+  };
+  const payload = jsonMode ? { ...basePayload, response_format: { type: 'json_object' } } : basePayload;
+  let { status, data } = await postChat(url, headers, payload, signal);
+  if (jsonMode && (status === 400 || status === 422)) {
+    ({ status, data } = await postChat(url, headers, basePayload, signal));
   }
   const envelope = asRecord(data);
   if (status < 200 || status >= 300 || envelope?.error) {
@@ -164,7 +175,7 @@ export async function testLlmConnection(config: LlmConfig, signal?: AbortSignal)
 }
 
 export function normalizeStem(text: string) {
-  return text.trim().replace(/[_＿]{3,}|（\s*）|\(\s*\)/gu, '____');
+  return text.trim().replace(/[_＿]{2,}|（\s*）|\(\s*\)|【\s*】/gu, '____');
 }
 
 export function questionTextKey(text: string) {
@@ -177,24 +188,53 @@ function strings(value: unknown): string[] {
     : [];
 }
 
+function normalizeChoiceMap(value: unknown): Partial<Record<AnswerOption, string>> | undefined {
+  if (Array.isArray(value) && value.length === answerOptions.length) {
+    const mapped: Partial<Record<AnswerOption, string>> = {};
+    for (let i = 0; i < answerOptions.length; i += 1) {
+      const item = value[i];
+      if (typeof item === 'string') mapped[answerOptions[i]!] = item;
+    }
+    return mapped;
+  }
+  const record = asRecord(value);
+  if (!record) return undefined;
+  const mapped: Partial<Record<AnswerOption, string>> = {};
+  for (const letter of answerOptions) {
+    const item = record[letter] ?? record[letter.toLowerCase()];
+    if (typeof item === 'string') mapped[letter] = item;
+  }
+  return mapped;
+}
+
+function normalizeAnswer(value: unknown): AnswerOption | undefined {
+  if (typeof value !== 'string') return undefined;
+  const match = value.trim().toUpperCase().match(/^([A-D])/);
+  return match ? match[1] as AnswerOption : undefined;
+}
+
+function stripOptionPrefix(text: string): string {
+  return text.trim().replace(/^[A-Da-d]\s*[.、:：)）]\s*/u, '');
+}
+
 function parseQuestion(value: unknown, idioms: LlmIdiom[]): QuestionItem | undefined {
   const entry = asRecord(value);
-  const choices = asRecord(entry?.options);
-  const answer = entry?.answer;
-  if (!entry || typeof entry.stem !== 'string' || !choices || !answerOptions.includes(answer as AnswerOption)) return;
+  const choices = normalizeChoiceMap(entry?.options);
+  const answer = normalizeAnswer(entry?.answer);
+  if (!entry || typeof entry.stem !== 'string' || !choices || !answer) return;
   const stem = normalizeStem(entry.stem);
   const blanks = stem.match(/____/g)?.length ?? 0;
   if (blanks < 1 || blanks > 3) return;
 
   const options = {} as QuestionItem['options'];
   const optionAnalyses = {} as QuestionItem['optionAnalyses'];
-  const analyses = asRecord(entry.optionAnalyses);
+  const analyses = normalizeChoiceMap(entry.optionAnalyses);
   const overallAnalysis = typeof entry.overallAnalysis === 'string' ? entry.overallAnalysis.trim() : '';
   for (const letter of answerOptions) {
-    const option = choices[letter];
-    if (typeof option !== 'string') return;
-    const words = option.split(/[、，,]/u).map((word) => word.trim());
-    if (words.length !== blanks || words.some((word) => !word)) return;
+    const rawOption = choices[letter];
+    if (typeof rawOption !== 'string') return;
+    const words = stripOptionPrefix(rawOption).split(/[、，,/／\s]+/u).map((word) => word.trim()).filter(Boolean);
+    if (words.length !== blanks) return;
     options[letter] = words.join('、');
     const analysis = analyses?.[letter];
     optionAnalyses[letter] = typeof analysis === 'string' && analysis.trim()
@@ -207,7 +247,7 @@ function parseQuestion(value: unknown, idioms: LlmIdiom[]): QuestionItem | undef
   if (known.length === 0) return;
   const relatedIdioms = [...new Set([...strings(entry.relatedIdioms).filter((word) => optionWords.has(word) || targetWords.includes(word)), ...known])];
   return {
-    id: makeId('ai'), source: 'ai', stem, options, answer: answer as AnswerOption,
+    id: makeId('ai'), source: 'ai', stem, options, answer,
     contextClues: strings(entry.contextClues), overallAnalysis, optionAnalyses, relatedIdioms, createdAt: Date.now(),
   };
 }
@@ -231,6 +271,13 @@ interface GenerateOptions {
   avoidStems?: string[];
 }
 
+function splitBatches(count: number, maxBatch = 5): number[] {
+  const batchCount = Math.ceil(count / maxBatch);
+  const base = Math.floor(count / batchCount);
+  const extra = count % batchCount;
+  return Array.from({ length: batchCount }, (_, i) => base + (i < extra ? 1 : 0));
+}
+
 export async function generateLogicClozeQuestions({ config, idioms, count, signal, onProgress, avoidStems = [] }: GenerateOptions) {
   throwIfAborted(signal);
   if (!Number.isInteger(count) || count < 0 || count > 20) throw new Error('出题数量应为 0 至 20 的整数');
@@ -239,18 +286,34 @@ export async function generateLogicClozeQuestions({ config, idioms, count, signa
 
   const questions: QuestionItem[] = [];
   const seen = new Set(avoidStems.map(questionTextKey));
-  const sizes = count > 10 ? [Math.ceil(count / 2), Math.floor(count / 2)] : [count];
+  const sizes = splitBatches(count);
+  let cursor = 0;
   for (const size of sizes) {
     const batch: QuestionItem[] = [];
+    const windowSize = Math.min(idioms.length, Math.max(size + 3, 8));
+    const batchIdioms = Array.from({ length: windowSize }, (_, i) => idioms[(cursor + i) % idioms.length]!);
+    cursor += size;
     let issue = '接口返回的试题数量不足或格式有误';
-    for (let attempt = 0; attempt < 2 && batch.length < size; attempt += 1) {
+    let lastHadDuplicate = false;
+    for (let attempt = 0; attempt < 3 && batch.length < size; attempt += 1) {
       throwIfAborted(signal);
       const need = size - batch.length;
-      const avoid = [...avoidStems, ...questions.map((q) => q.stem), ...batch.map((q) => q.stem)].map((stem) => stem.slice(0, 100));
+      const forbidden = [...avoidStems, ...questions.map((q) => q.stem), ...batch.map((q) => q.stem)].map((stem) => stem.slice(0, 24));
+      const temperature = attempt === 0 ? 0.7 : lastHadDuplicate ? 0.85 : 0.4;
       const { text, truncated } = await chat(config, [
-        { role: 'system', content: `你是行测逻辑填空命题人。风格：${styles[config.prompt]} 每题围绕指定成语及其易混词命制，适时轮换考点；设置唯一最佳答案，逐项解释正误，用原文短语给出语境线索。只输出纯 JSON 对象 {"questions":[...]}，不要输出 Markdown 或其他内容。每题必须有 stem（每个空统一写 ____）、options（A/B/C/D 四个非空字符串）、answer（A/B/C/D）、contextClues（字符串数组）、overallAnalysis（字符串）、optionAnalyses（A/B/C/D 的简短解析）、relatedIdioms（成语名数组）。每个选项与空缺数一致，多空选项用顿号、分隔，一空一个词；各题题干和四项搭配均须不同。控制每题解析长度，确保完整闭合 JSON。` },
-        { role: 'user', content: JSON.stringify({ count: need, idioms, avoidStemKeywords: avoid, retry: attempt > 0 }) },
-      ], Math.min(8_192, 1_024 + need * 720), attempt === 0 ? 0.65 : 0.35, signal);
+        {
+          role: 'system',
+          content: `你是行测逻辑填空命题人。风格：${styles[config.prompt]} 每题优先围绕给定 idioms 列表中的成语及其易混词轮换命制（选项中至少出现一个给定成语或其易混词）；设置唯一最佳答案，逐项解释正误，用原文短语给出语境线索。
+严格只输出纯 JSON 对象，不要输出 Markdown 代码块或任何多余文字，格式必须如下：
+{"questions":[{"stem":"题干第一空____，第二空____。","options":{"A":"词1、词2","B":"词3、词4","C":"词5、词6","D":"词7、词8"},"answer":"C","contextClues":["原文线索"],"overallAnalysis":"整体解析","optionAnalyses":{"A":"解析","B":"解析","C":"解析","D":"解析"},"relatedIdioms":["词1"]}]}
+硬性校验规则（缺一不可）：
+1. options 和 optionAnalyses 必须是包含 A、B、C、D 四个键的对象（不要用数组）；
+2. stem 中每个空必须写成 ____（4个下划线），且 stem 中 ____ 的个数（1至3个）必须与每个选项中用顿号“、”分隔的词语个数完全一致（1空=1词，2空=2词，3空=3词），生成每题后务必自查空数与词数是否相等；
+3. 各题题干和四个选项搭配均须互不相同，严格禁止复写或改写 user 消息中 forbiddenStems 里已出现的题干，必须构思全新场景；正确答案在 A、B、C、D 中随机均衡分布；控制每题解析精炼，确保完整闭合 JSON。`,
+        },
+        { role: 'user', content: JSON.stringify({ count: need, idioms: batchIdioms, forbiddenStems: forbidden, retry: attempt > 0 }) },
+      ], Math.min(8_192, 1_024 + need * 800), temperature, signal, true);
+      lastHadDuplicate = false;
       for (const candidate of jsonCandidates(text)) {
         const wrapped = asRecord(candidate)?.questions;
         const entries = Array.isArray(candidate) ? candidate : Array.isArray(wrapped) ? wrapped : [candidate];
@@ -258,7 +321,10 @@ export async function generateLogicClozeQuestions({ config, idioms, count, signa
           const question = parseQuestion(entry, idioms);
           if (!question) continue;
           const key = questionTextKey(question.stem);
-          if (seen.has(key)) continue;
+          if (seen.has(key)) {
+            lastHadDuplicate = true;
+            continue;
+          }
           seen.add(key);
           batch.push(question);
           if (batch.length === size) break;
